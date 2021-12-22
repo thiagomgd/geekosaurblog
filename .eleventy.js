@@ -7,11 +7,17 @@ const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const filters = require('./src/_11ty/filters');
 
+// TODO: remove
+const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
+
 module.exports = function(eleventyConfig) {
   // Add plugins
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
+
+  // TODO: remove
+  eleventyConfig.addPlugin(UpgradeHelper);
 
   // Add filters
   Object.keys(filters).forEach(filterName => {
