@@ -18,3 +18,6 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 {% myembed {author: 'some guy', title:'that book', year:2000, image:'https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621523851i/57310655.jpg'} %}
 asd
 {% endmyembed %}
+
+{% reddit 'https://www.reddit.com/r/geekosaur/comments/rmek9w/geekosaur_news_20_games_blog_migration_and_nerd/' %}
+

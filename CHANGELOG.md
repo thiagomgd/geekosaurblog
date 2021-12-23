@@ -5,7 +5,7 @@
   * Card
   * Series
   * ~~MyEmbed (GR, etc)~~
-  * Reddit
+  * ~~Reddit~~
   * Spoiler
   * Summary (is it used still?)
   * Synopsis
@@ -18,6 +18,7 @@
     * Possibly save to _data_ instead of generating the MD file
   * Foreign language TV and Movies
   * Changelog
+* IMPORT POSTS
 * DEV
   * Add outdent and prettier
 
@@ -30,6 +31,7 @@
 * CHANGELOG.md
 * Shortcodes
   * MyEmbed
+  * Reddit
   * Youtube shortcode css
 
 ## Dec. 22, 2021
