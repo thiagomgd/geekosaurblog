@@ -7,6 +7,7 @@ const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const filters = require('./src/_11ty/filters');
 const shortcodes = require('./src/_11ty/shortcodes');
+const pairedShortcodes = require('./src/_11ty/pairedShortcodes');
 
 // TODO: remove
 const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
@@ -28,6 +29,11 @@ module.exports = function(eleventyConfig) {
   // Add shortcodes
   Object.keys(shortcodes).forEach(codeName => {
     eleventyConfig.addShortcode(codeName, shortcodes[codeName])
+  })
+
+  // Add shortcodes
+  Object.keys(pairedShortcodes).forEach(codeName => {
+    eleventyConfig.addPairedShortcode(codeName, pairedShortcodes[codeName])
   })
 
   // This function is reused in this config, so declaring the filter here instead:

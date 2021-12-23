@@ -275,3 +275,239 @@ footer {
     font-size: 112.5%;
   } /*18px*/
 }
+
+
+
+
+
+
+div.blog-card {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem auto;
+  box-shadow: 0 3px 7px -1px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1.6%;
+  background: #fff;
+  line-height: 1.4;
+  font-family: sans-serif;
+  border-radius: 5px;
+  overflow: hidden;
+  z-index: 0;
+}
+div.blog-card a {
+  color: inherit;
+}
+div.blog-card a:hover {
+  color: #5ad67d;
+}
+div.blog-card:hover .photo {
+  transform: scale(1.3) rotate(3deg);
+}
+div.blog-card .meta {
+  position: relative;
+  z-index: 0;
+  height: 200px;
+}
+div.blog-card .photo {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-size: cover;
+  background-position: center;
+  transition: transform 0.2s;
+}
+div.blog-card ul.details,
+div.blog-card .details ul {
+  margin: auto;
+  padding: 0;
+  list-style: none;
+}
+div.blog-card ul.details {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: -100%;
+  margin: auto;
+  transition: left 0.2s;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  padding: 10px;
+  width: 100%;
+  font-size: 0.9rem;
+}
+div.blog-card ul.details li {
+  font-size: 16px;
+}
+div.blog-card ul.details a {
+  -webkit-text-decoration: dotted underline;
+          text-decoration: dotted underline;
+}
+div.blog-card ul.details ul li {
+  display: inline-block;
+}
+div.blog-card ul.details .author:before {
+  margin-right: 10px;
+  content: "🤖";
+}
+div.blog-card ul.details .date:before {
+  margin-right: 10px;
+  content: "🗓️";
+}
+div.blog-card ul.details .tags ul:before {
+  content: "🏷️";
+  margin-right: 10px;
+}
+div.blog-card ul.details .tags li {
+  margin-right: 2px;
+}
+div.blog-card ul.details .tags li:first-child {
+  margin-left: -4px;
+}
+div.blog-card div.description {
+  padding: 1rem;
+  background: #fff;
+  position: relative;
+  z-index: 1;
+}
+div.blog-card div.description > h4,
+div.blog-card div.description h5 {
+  font-family: Poppins, sans-serif;
+}
+div.blog-card div.description > h4.myEmbed {
+  line-height: 1;
+  margin: 0;
+  font-size: 1.17rem;
+}
+div.blog-card div.description > h5.myEmbed {
+  line-height: 22.4px;
+  font-size: 1rem;
+  font-weight: 300;
+  color: #a2a2a2;
+  margin-top: 5px;
+  margin-bottom: 7px;
+}
+div.blog-card div.description .read-more {
+  text-align: right;
+}
+div.blog-card div.description .read-more a {
+  color: #5ad67d;
+  display: inline-block;
+  position: relative;
+}
+div.blog-card div.description .read-more a:after {
+  content: "";
+  font-family: FontAwesome;
+  margin-left: -10px;
+  opacity: 0;
+  vertical-align: middle;
+  transition: margin 0.3s, opacity 0.3s;
+}
+div.blog-card div.description .read-more a:hover:after {
+  margin-left: 5px;
+  opacity: 1;
+}
+div.blog-card hr {
+  background-color: #5ad67d;
+  height: 5px;
+  border: 1px solid #5ad67d;
+  border-radius: 3px;
+  width: 35px;
+  text-align: left;
+  margin-left: 0;
+}
+div.blog-card p {
+  position: relative;
+  margin: 1rem 0 0;
+}
+div.blog-card p:first-of-type {
+  margin-top: 1.25rem;
+}
+div.blog-card:hover .details {
+  left: 0%;
+}
+@media (min-width: 640px) {
+  div.blog-card {
+    flex-direction: row;
+    max-width: 700px;
+  }
+  div.blog-card .meta {
+    flex-basis: 40%;
+    height: auto;
+  }
+  div.blog-card .description {
+    flex-basis: 60%;
+  }
+  div.blog-card .description:before {
+    transform: skewX(-3deg);
+    content: "";
+    background: #fff;
+    width: 30px;
+    position: absolute;
+    left: -10px;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+  }
+  div.blog-card.alt {
+    flex-direction: row-reverse;
+  }
+  div.blog-card.alt .description:before {
+    left: inherit;
+    right: -10px;
+    transform: skew(3deg);
+  }
+  div.blog-card.alt .details {
+    padding-left: 25px;
+  }
+}
+
+
+div.blurDiv {
+  position: relative;
+  text-align: center;
+}
+
+.blurred img {
+	filter: blur(15px);
+  -webkit-filter: blur(15px);
+  cursor: pointer;
+} 
+
+.blurred > figure::after { 
+  content: "NSFW \A Click to reveal";
+  position: absolute;
+   top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  white-space: pre;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+/* .blurred > div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
+
+div.video-wrapper {
+  overflow: hidden;
+  position: relative;
+  width:100%;
+}
+div.video-wrapper::after {
+  padding-top: 56.25%;
+  display: block;
+  content: '';
+}
+div.video-wrapper > iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
