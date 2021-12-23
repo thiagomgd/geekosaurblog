@@ -6,8 +6,7 @@ const youtube = (id) =>  {
 frameborder="0" 
 allowfullscreen>
 </iframe>
-</div>
-<br/>`
+</div>`
 }
 
 const reddit = (url) =>  { 

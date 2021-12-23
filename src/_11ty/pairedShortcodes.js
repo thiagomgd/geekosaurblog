@@ -43,8 +43,7 @@ ${authorSection}
 ${content}
 ${readMoreSection}
 </div>
-</div>
-<br>`
+</div>`
 }
 
 module.exports = {
