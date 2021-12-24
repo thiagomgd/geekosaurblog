@@ -1,10 +1,14 @@
+const outdent = require("outdent")({ newline: " " });
+
 const EMPTY = ``;
 
-const myembed = (content, props={}) => {
-    // TODO: default image?
-    const {title, image, url, author, siteName, year, date, tags} = props;
+const myembed = (content, props = {}) => {
+  // TODO: default image?
+  const { title, image, url, author, siteName, year, date, tags } = props;
 
-    const metaDataInner = date || tags ? `<ul class="details">
+  const metaDataInner =
+    date || tags
+      ? `<ul class="details">
 {{ with .Get "author"}}
 <li class="author">{{ . }}</li>
 {{ end }}
@@ -21,16 +25,22 @@ const myembed = (content, props={}) => {
 </ul>
 </li>
 {{ end }}
-</ul>` : EMPTY;
+</ul>`
+      : EMPTY;
 
-    const siteNameSection = siteName && `<h5 class="myEmbed">${siteName}</h5>`
-    const yearText = year && ` (${year})`
-    const authorSection = author && `<h5 class="myEmbed">${author}${yearText}</h5>`
-    const readMoreSection = url && `<p class="read-more">
+  const siteNameSection = siteName ? `<h5 class="myEmbed">${siteName}</h5>` : EMPTY;
+  const yearText = year ? ` (${year})` : EMPTY;
+
+  const authorSection = author
+    ? `<h5 class="myEmbed">${author}${yearText}</h5>`
+    : EMPTY;
+  const readMoreSection = url
+    ? `<p class="read-more">
 <a href='${url}'>Go To Link</a>
 </p>`
+    : EMPTY;
 
-    return `<div class="blog-card">
+  return `<div class="blog-card">
 <div class="meta">
 <div class="photo" style='background-image: url(${image})'></div>
 ${metaDataInner}
@@ -43,9 +53,9 @@ ${authorSection}
 ${content}
 ${readMoreSection}
 </div>
-</div>`
-}
+</div>`;
+};
 
 module.exports = {
-    myembed
-}
+  myembed,
+};

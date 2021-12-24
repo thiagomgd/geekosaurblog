@@ -1,14 +1,11 @@
 # TODO
 
 * Shortcodes
-  * Blur
+  * ~~Blur~~
   * Card
-  * Series
+  * Series - https://shivjm.blog/colophon/how-i-create-an-article-series-in-eleventy/
   * ~~MyEmbed (GR, etc)~~
   * ~~Reddit~~
-  * Spoiler
-  * Summary (is it used still?)
-  * Synopsis
   * ~~Youtube~~
 * Layouts
   * Webmention (add to end of post)
@@ -32,6 +29,7 @@
 * Shortcodes
   * MyEmbed
   * Reddit
+  * Blur
   * Youtube shortcode css
 
 ## Dec. 22, 2021

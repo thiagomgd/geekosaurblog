@@ -279,8 +279,6 @@ footer {
 
 
 
-
-
 div.blog-card {
   display: flex;
   flex-direction: column;
@@ -510,4 +508,48 @@ div.video-wrapper > iframe {
   width: 100%;
   height: 100%;
   border: 0;
+}
+
+span.spoilers {
+	cursor: pointer;
+}
+
+span.spoiler-alert {
+	color: red;
+}
+
+span.spoiler-text {
+	background-color: black;
+}
+
+span.spoiler-text.spoiler-show {
+	background-color: white;
+}
+
+
+
+
+div.blurDiv {
+  position: relative;
+  text-align: center;
+}
+
+div.blurDiv > figure {
+  cursor: pointer;
+}
+
+.blurred img {
+	filter: blur(15px);
+  -webkit-filter: blur(15px);
+} 
+
+.blurred > figure::after { 
+  content: "NSFW \A Click to reveal";
+  position: absolute;
+   top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  white-space: pre;
+  font-weight: bold;
+  font-size: 30px;
 }
