@@ -13,6 +13,9 @@ const pairedShortcodes = require('./src/_11ty/pairedShortcodes');
 const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
 const { process } = require("clean-css");
 
+const now = new Date();
+const livePosts = p => p.date <= now && !p.data.draft;
+
 module.exports = function(eleventyConfig) {
   // Add plugins
   eleventyConfig.addPlugin(pluginRss);
@@ -69,12 +72,10 @@ module.exports = function(eleventyConfig) {
 	 * If "false" or NULL it will be published in PRODUCTION.
 	 * Every Post will ALWAYS be published in DEVELOPMENT so you can preview locally.
 	 */
-	// eleventyConfig.addCollection('post', (collection) => {
-	// 	if (process.env.LOCAL === 'true')
-  //     return [...collection.getFilteredByGlob('./src/post/*.md')].filter((post) => !post.data.draft)
-	// 	else
-  //     return [...collection.getFilteredByGlob('./src/post/*.md')]
-	// })
+  eleventyConfig.addCollection('posts', collection => {
+    return collection.getSortedByDate()
+      .filter(livePosts);
+  });
 
   // https://shivjm.blog/colophon/how-i-create-an-article-series-in-eleventy/
   eleventyConfig.addCollection("series", (collection) => {
