@@ -7,7 +7,9 @@
   * ~~MyEmbed (GR, etc)~~
   * ~~Reddit~~
   * ~~Youtube~~
+  * ~~Figure~~
 * Layouts
+  * TOC
   * Webmention (add to end of post)
   * Webmention Comment
 * Pages
@@ -16,12 +18,22 @@
   * Foreign language TV and Movies
   * Changelog
 * IMPORT POSTS
+  * ~~foreign language~~
+* ~~Permalinks: change /posts/slug to /post/slug~~
 * DEV
   * Add outdent and prettier
 
 # Changelog
 
+## Dec. 25, 2021
+
+* Fixed permalinks
+* Added folders for categories (news, book notes, etc)
+* Imported Foreign Language posts
+
 ## Dec. 23, 2021
+
+Changed **posts** collection to **post** along with url
 
 ### Added
 

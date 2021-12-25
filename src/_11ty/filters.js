@@ -58,7 +58,7 @@ module.exports = {
     return DateTime.fromISO(dateStr).toFormat(formatStr);
   },
   similarItems: (itemPath, tags, collections) => {
-    const topicTags = tags.filter((tag) => !["posts", "Popular"].includes(tag));
+    const topicTags = tags.filter((tag) => !["post", "Popular"].includes(tag));
 
     let matches = [];
     topicTags.forEach((tag) => {

@@ -11,6 +11,7 @@ const pairedShortcodes = require('./src/_11ty/pairedShortcodes');
 
 // TODO: remove
 const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
+const { process } = require("clean-css");
 
 module.exports = function(eleventyConfig) {
   // Add plugins
@@ -56,6 +57,78 @@ module.exports = function(eleventyConfig) {
     });
 
     return filterTagList([...tagSet]);
+  });
+
+  // https://11ta.netlify.app/2020/09/20/v110-brings-draft-posts/
+  /**
+	 * Collections
+	 * ============================
+	 *
+	 * POST Collection set so we can check status of "draft:" frontmatter.
+	 * If set "true" then post will NOT be processed in PRODUCTION env.
+	 * If "false" or NULL it will be published in PRODUCTION.
+	 * Every Post will ALWAYS be published in DEVELOPMENT so you can preview locally.
+	 */
+	// eleventyConfig.addCollection('post', (collection) => {
+	// 	if (process.env.LOCAL === 'true')
+  //     return [...collection.getFilteredByGlob('./src/post/*.md')].filter((post) => !post.data.draft)
+	// 	else
+  //     return [...collection.getFilteredByGlob('./src/post/*.md')]
+	// })
+
+  // https://shivjm.blog/colophon/how-i-create-an-article-series-in-eleventy/
+  eleventyConfig.addCollection("series", (collection) => {
+    // get all posts in chronological order
+    const posts = collection.getSortedByDate();
+  
+    // this will store the mapping from series to lists of posts; it can be a
+    // regular object if you prefer
+    const mapping = new Map();
+  
+    // loop over the posts
+    for (const post of posts) {
+      // get any series data for the current post, and store the date for later
+      const { series, seriesDescription, date } = post.data;
+  
+      // ignore anything with no series data
+      if (series === undefined) {
+        continue;
+      }
+  
+      // if we haven’t seen this series before, create a new entry in the mapping
+      // (i.e. take the description from the first post we encounter)
+      if (!mapping.has(series)) {
+        mapping.set(series, {
+          posts: [],
+          description: seriesDescription,
+          date,
+        });
+      }
+  
+      // get the entry for this series
+      const existing = mapping.get(series);
+  
+      // add the current post to the list
+      existing.posts.push(post.url);
+  
+      // update the date so we always have the date from the latest post
+      existing.date = date;
+    }
+  
+    // now to collect series containing more than one post as an array that
+    // Eleventy can paginate
+    const normalized = [];
+  
+    // loop over the mapping (`k` is the series title)
+    for (const [k, { posts, description, date }] of mapping.entries()) {
+      // if (posts.length > 1) {
+        // add any series with multiple posts to the new array
+        normalized.push({ title: k, posts, description, date });
+      // }
+    }
+  
+    // return the array
+    return normalized;
   });
 
   // Copy the `img` and `css` folders to the output

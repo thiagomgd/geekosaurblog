@@ -1,5 +1,7 @@
 {
+  "layout": "layouts/post.njk",
   "tags": [
     "posts"
-  ]
+  ],
+  "permalink": "post/{% if mySlug %}{{ mySlug }}{% else %}{{ page.fileSlug }}{% endif %}/"
 }
