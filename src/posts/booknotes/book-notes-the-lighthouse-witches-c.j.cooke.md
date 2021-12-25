@@ -10,11 +10,11 @@ reddit: ''
 series: ''
 slug: the-lighthouse-witches-book-notes
 tags:
-  - Book Notes
 thumbnail: /uploads/the-lighthouse-witches.jpeg
 title: 'Book Notes: The Lighthouse Witches (C. J. Cooke)'
 toc: false
 tweet: ''
+
 ---
 
 My notes and thoughts on The Lighthouse Witches by C. J. Cooke.

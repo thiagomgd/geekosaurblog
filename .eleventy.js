@@ -72,10 +72,10 @@ module.exports = function(eleventyConfig) {
 	 * If "false" or NULL it will be published in PRODUCTION.
 	 * Every Post will ALWAYS be published in DEVELOPMENT so you can preview locally.
 	 */
-  eleventyConfig.addCollection('posts', collection => {
-    return collection.getSortedByDate()
-      .filter(livePosts);
-  });
+  // eleventyConfig.addCollection('posts', collection => {
+  //   return collection.getSortedByDate()
+  //     .filter(livePosts);
+  // });
 
   // https://shivjm.blog/colophon/how-i-create-an-article-series-in-eleventy/
   eleventyConfig.addCollection("series", (collection) => {
