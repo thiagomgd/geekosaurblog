@@ -28,7 +28,7 @@ There were a few things I didn't like so much, but overall, it was a strong seas
 
 On a small note: I absolutely love the cast, and I think they are perfect for each role. With that being said, I stumbled upon this comment on Reddit:
 
-{{< reddit "https://www.reddit.com/r/TheMarvelousMrsMaisel/comments/it5p6k/hi_anyone_have_any_similar_shows_to_the_marvelous/" >}}
+{% reddit "https://www.reddit.com/r/TheMarvelousMrsMaisel/comments/it5p6k/hi_anyone_have_any_similar_shows_to_the_marvelous/" %}
 
 I absolutely agree that Alison Brie would also be awesome as Mrs. Maisel. And I ask: there's any other actors you think could also have been great in this show? For which character?
 
@@ -50,4 +50,4 @@ Midget's standup and being fired: WHOA. Yeah, the moment Reggie told her to talk
 
 Regarding the last scene, I'll leave this Reddit comment here
 
-{{< reddit "https://www.reddit.com/r/TheMarvelousMrsMaisel/comments/e6r9wv/episode_discussion_s03e08_a_jewish_girl_walks/" >}}
+{% reddit "https://www.reddit.com/r/TheMarvelousMrsMaisel/comments/e6r9wv/episode_discussion_s03e08_a_jewish_girl_walks/" %}

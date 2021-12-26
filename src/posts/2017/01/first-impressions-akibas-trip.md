@@ -40,7 +40,7 @@ Instead of trying to be smart, it uses some of the weirder aspects of the otaku 
 and it succeeds in doing it. The plot is bizarre, but no so much that'll make it painfully crazy or unwatchable. 
 The setting (Akihabara) makes it even more interesting to watch. 
 
-{{< youtube Oov26OFUjFE >}}
+{% youtube "Oov26OFUjFE" %}
 
 The art is colorful and, while not outstanding, it's good enough so you enjoy seeing it. 
 I liked the character designs, which in many cases, constitutes of costumes or some more 'otaku-style' wear. Of course, it's Akihabara after all.

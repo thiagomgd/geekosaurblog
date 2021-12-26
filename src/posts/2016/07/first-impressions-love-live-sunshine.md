@@ -21,7 +21,7 @@ Yes. This season I'll be watching Love Live Sunshine. I never watched Love Live 
 
 <!--more-->
 
-{{< youtube Sbz9EeyUOIs >}}
+{% youtube "Sbz9EeyUOIs" %}
 
 > Uranohoshi Girls' High School, a private school in the seaside neighborhood of 
 Uchiura at Numazu city, Shizuoka prefecture.

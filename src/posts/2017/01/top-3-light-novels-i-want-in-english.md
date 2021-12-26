@@ -59,7 +59,7 @@ Seems that I'm not alone, wanting a translation for this one: it ranked 4th in a
 asking about future projects. 
 
 Basically, Hatoko is the best girl, and I want more of her! Watch the scene below to see if you don't agree with me :)
-{{< youtube nHd3xfDzTg8 >}}
+{% youtube "nHd3xfDzTg8" %}
 
 ![](http://i.imgur.com/4OJUGxc.jpg)
 

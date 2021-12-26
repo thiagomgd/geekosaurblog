@@ -59,3 +59,23 @@ ${readMoreSection}
 module.exports = {
   myembed,
 };
+
+
+// GR EMBED CODE - bookmarklet
+// const jsonData = document.querySelector('script[type="application/ld+json"]');
+// const data = JSON.parse(jsonData.text);
+
+// const title = data['name'];
+// const image = data['image'];
+// const author = data['author'][0]['name'];
+
+// const url = document.querySelector('link[rel="canonical"]').href;
+
+// const descriptionSelector = document.querySelector('div[data-testid="description"] > div > div > div > span');
+
+// const description = descriptionSelector.innerText;
+
+// const embedCode = `{% myembed {title:"${title}", author:"${author}", url:"${url}", image:"${image}"} %}
+// ${description}
+// {% endmyembed %}`; 
+// navigator.clipboard.writeText(embedCode);

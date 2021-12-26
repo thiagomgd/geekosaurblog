@@ -26,7 +26,7 @@ They're a starting point and not everything that defines an anime or manga.
 
 <!--more-->
 
-{{< youtube D5fYOnwYkj4 >}}
+{% youtube "D5fYOnwYkj4" %}
 
 Boku no Hero have all the main things we want in a shounen, but what makes it great is how it's executed. 
 The show has a nice mix of battles, heartfelt moments, and important themes like bullying. It's the story of a 

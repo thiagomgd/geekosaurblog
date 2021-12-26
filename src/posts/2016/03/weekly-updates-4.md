@@ -25,7 +25,7 @@ I've watched Ginger & Rosa this Saturday with my girlfriend and we both liked it
 I personally have a soft spot for movies with Elle Fanning, and the photography of this movie is really great. 
 The colors they used for each scene, everything seems to be carefully chosen. Recommended!
 
-{{< youtube tFYeYKAGVek >}}
+{% youtube "tFYeYKAGVek" %}
 
 ## TV Shows
 
@@ -34,7 +34,7 @@ and to finish some TV shows I've left aside.
 It's GREAT and unfortunately I can't say much why without spoiling everything, 
 but if you like a dark mystery set on a small and isolated community, it's for you. You won't be disappointed, I promise.
 
-{{< youtube egy3n-7DQAU >}}  
+{% youtube "egy3n-7DQAU" %}  
 Also, I watched And Then There Were None, a mini-series based on Agatha Christie's homonymous book. 
 It's also dark and violent, and if you haven't read the book, it also surprises you at the end!
 

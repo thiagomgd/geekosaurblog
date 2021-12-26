@@ -32,7 +32,7 @@ Below you can check the anime that I'm sure to watch, and also the ones that I h
 I really loved Shokugeki no Soma, and I was avid to watch more of it. If you didn't watch it, DO IT! 
 The first few episodes have a lot of fanservice, but it fades along the series.
 
-{{< youtube O_tsnSmpM-k >}}
+{% youtube "O_tsnSmpM-k" %}
 
 ### Nanatsu no Taizai: Seisen no Shirushi
 
@@ -46,17 +46,17 @@ It's been a log time since I watched a sports anime.
 Plus, I wanted to watch Diamond no Ace, or any other baseball anime, but they're too long. 
 This one seems good, and not focused on giving 'fangirl moments' with episodes filled with ships. THANK YOU ZEUS!
 
-{{< youtube Qnkbf906Utw >}}
+{% youtube "Qnkbf906Utw" %}
 
 ### Love Live! Sunshine!!
 
 I was planning on FINALLY watching Love Live. My concern was the sheer amount of episodes. 
 Seems like this one is a brand new series.
 
-{{< youtube Sbz9EeyUOIs >}}
+{% youtube "Sbz9EeyUOIs" %}
 
 ### Amaama to Inazuma
 
 I'm always in need of another cute and cozy slice-of-life anime. This one seems to do the job :)
 
-{{< youtube pRhWDcKv2WE >}}
+{% youtube "pRhWDcKv2WE" %}

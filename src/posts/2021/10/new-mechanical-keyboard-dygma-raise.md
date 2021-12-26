@@ -32,4 +32,4 @@ I got it with the Kailh Silent Brown switches - tactile 45g switches. I also ord
 
 So far so good, my pain really diminished, and it's also really nice to be able to configure the keys and have multiple functions in each one.
 
-{{< figure alt="Dygma Raise Keiboard" src="https://i.imgur.com/rVVfEr8.jpg" class="vertical">}}
+{% figure "https://i.imgur.com/rVVfEr8.jpg", "Dygma Raise Keiboard", "vertical" %}

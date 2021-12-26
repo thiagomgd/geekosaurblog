@@ -24,7 +24,7 @@ killings carried out in the country. And of course, there's a lot happening arou
 
 <!--more-->
 
-{{< youtube qGd5EyxrP7w >}}
+{% youtube "qGd5EyxrP7w" %}
 
 Featuring Mark Williams (yes, Arthur Weasley) as Father Brown, this is your standard Mystery of The Week show. 
 But here, instead of presenting us with a high-tech professional team of detectives, 

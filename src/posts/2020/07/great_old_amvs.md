@@ -31,34 +31,34 @@ This! Even though I never played any of these FF games, the AMV is SO GOOD, that
 
 I know, it's a long video, but it's worth. The music and the lyrics are amazing, and the creator did a wonderful job matching the song to video. Listening to it now, I still remember the lyrics. 15 years later. That shows how much I listened to this song, and read the lyrics.
 
-{{< youtube sgrbVvM-G6M >}}
+{% youtube "sgrbVvM-G6M" %}
 
 ## Ranma 1/2 - Baka Song
 
 After something with a feeling, how about a funny AMV? This one is just plain fun. Fun fact: in a convention I went, there was a girl that sang this song on the stage.
 
-{{< youtube DY8qPDrZH40 >}}
+{% youtube "DY8qPDrZH40" %}
 
 ## Tenchi Muyo - Don't speak (No Doubt)
 
 Tenchi Muyo is so cool. Go watch it if you didn't yet!
 
-{{< youtube P_EPQcI3D18 >}}
+{% youtube "P_EPQcI3D18" %}
 
 ## Ah My Goddess - Iris (Goo Goo Dolls)
 
 This is one of the Ah! My Goddess AMVs that I like. But unfortunately I wasn't able to find my favorite, which if from the movie. Maybe someday
 
-{{< youtube Mjfz_5JFWXA >}}
+{% youtube "Mjfz_5JFWXA" %}
 
 ## Final Fantasy 9 - We Will Rock You/We Are the Champions (Queen)
 
 Just to end with something epic!
 
-{{< youtube Aa6TTWYfo2k >}}
+{% youtube "Aa6TTWYfo2k" %}
 
 ## BONUS: AMV hell series
 
 That's a series of anime edits, like the original version on Vine/TikTok compilations we have today.
 
-{{< youtube cCI1owQ7CXI >}}
+{% youtube "cCI1owQ7CXI" %}

@@ -20,7 +20,7 @@ A couple weeks ago I got stuck in the last battle, and after dying many times I 
 
 <!--more-->
 
-{{< youtube HfwV3PKLFJ0 >}}  
+{% youtube "HfwV3PKLFJ0" %}  
 
 So, I added auto-aim, immortality and 1 shot kill, finished the last battle - which is nothing special anyway - and finished the game. Now I can finally play the othe side missions, and then at some point get the 2 DLCs :)
 

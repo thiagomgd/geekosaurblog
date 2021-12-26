@@ -28,7 +28,7 @@ I finished reading My Youth Romantic Comedy Is Wrong as I Expected Vol. 1 (read 
 but  unfortunately, it's not available for Kindle, only in print, so I'm going to wait more to continue this series. 
 But today [The Empty Box and Zeroth Maria Vol. 1](http://amzn.to/2ygJXI5) was released, and as I already pre-ordered it, I'm ready to start.
 
-{{< figure src="https://i.imgur.com/rE0nQxc.png" alt="The Empty Box and Zeroth Maria Vol. 1" link="http://amzn.to/2ygJXI5" class="medium">}}
+{% figure "https://i.imgur.com/rE0nQxc.png", "", "vertical", "The Empty Box and Zeroth Maria Vol. 1" %}
 
 _Synopsis: Kazuki Hoshino treasures nothing more than his ordinary life, and March 2 should have been an ordinary day. The arrival of a transfer student, the mysterious Aya Otonashi, shouldn't have shattered the world he knows. He's never seen this girl before in his life, but she says she's met him thousands of times--and declares war on him for a crime he can't even remember... As the truth begins to unravel, nothing is as it seems, and at the heart of it all is a wish powerful enough to change everything..._
 
@@ -61,4 +61,4 @@ I'm also finishing Gabriel Dropout, and I don't know what I'll watch next. From 
 
 Just watch this wonderful Taeyeon's video. :D
 
-{{< youtube gzJDUlCc2bU >}}
+{% youtube "gzJDUlCc2bU" %}

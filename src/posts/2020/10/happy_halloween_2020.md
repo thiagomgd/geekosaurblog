@@ -22,7 +22,6 @@ It's been a while since I posted last here, and I didn't have time to prepare an
 
 Enjoy the festivities, a pumpkin spiced latte, watch some Dark Shadows (the original soap opera) and listen to the Penny Dreadful OST!
 
-{{< youtube s9KNYOfj-3w >}}  
-{{< iframe "https://open.spotify.com/embed/album/578R6rkHNqpyfEfrIluGLS" >}}
+{% youtube "s9KNYOfj-3w" %}
 
-<!--more-->
+Listen to it on [Spotify](https://open.spotify.com/album/578R6rkHNqpyfEfrIluGLS)

@@ -21,7 +21,7 @@ Recently I've attended Aniventure, an anime convention I always enjoy going to, 
 My wife did take a few: some of us, another with two youtubers (just her and some friends, I was taking the pic) and, of course, the cosplay contest. 
 I'm not usually into taking pictures, and this got me wondering why did I take just that one.
 
-{{< figure caption="Smile for the camera" src="http://i.imgur.com/TVZMzd1.jpg" >}}
+{% figure "http://i.imgur.com/TVZMzd1.jpg", "Smile for the camera" %}
 
 <!--more-->
 
@@ -38,7 +38,7 @@ But one thing is what we like to see on the internet when looking at professiona
 Another is what we (or I, at least) like to see at conventions, where we (hopefully) end up meeting more people just like us: 
 fans who use their free time to enjoy anime, manga, Japanese music and that like to share their passion and recommend content that they love to everybody they know.
 
-{{< figure caption="Sharing is caring" src="http://i.imgur.com/s2gyYuq.png" >}}
+{% figure "http://i.imgur.com/s2gyYuq.png", "Sharing is caring" %}
 
 So in the end, I took a photo of the only Kobayashi-san's Dragon Maid cosplay there. It was well done, a character that I like, from an anime that I really enjoyed watching each week. 
 It's not near the difficulty of a League of Legends cosplay, and also not a closet cosplay. 

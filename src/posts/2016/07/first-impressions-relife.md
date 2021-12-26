@@ -24,7 +24,7 @@ watch the trailer. But I was wrong, apparently.
 
 <!--more-->
 
-{{< youtube fZCgXuxMAZY >}}
+{% youtube "fZCgXuxMAZY" %}
 
 > The story follows Kaizaki Arata, a 27-year-old jobless man, who fails at every job interview he had after quitting 
 his last company. His life changes after he met Yoake Ryou of the ReLife Research Institute, who offered him a drug 

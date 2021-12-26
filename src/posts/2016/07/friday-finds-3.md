@@ -31,7 +31,7 @@ A book with dragons, pirates and magic. I'm in! The only problem is that it's lo
 
 Because I don't have absolutely anything to watch, so I need a new show. Not really, but this one seems pretty interesting. Check it on Trakt.tv.
 
-{{< youtube 1qjYHpF_D0k >}}
+{% youtube "1qjYHpF_D0k" %}
 
 > Dr Lucien Blake left Ballarat as a young man. 
 But now he finds himself returning, to take over not only his dead father's medical practice, 
@@ -59,4 +59,4 @@ I really love French music, so here it is!
 
 ## Check my Weekly Updates VLOG
 
-{{< youtube p7mzXm3xDuk >}}
+{% youtube "p7mzXm3xDuk" %}

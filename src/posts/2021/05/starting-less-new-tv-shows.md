@@ -23,7 +23,7 @@ tweet: 1392714210224656388
 
 It's a common scenario for me: start a new TV show, watch it over a week or two, and then wait a whole year for the next season. But then when the next season arrives, you are already watching so many other new TV shows that you end up leaving it for later, but never go back to it.
 
-{{< figure src=/images/notion-tv-board-may2021.png caption="52 paused, 120 abandoned. That's a lot!">}}
+![52 paused, 120 abandoned. That's a lot!](/images/notion-tv-board-may2021.png)
 
 <!--more-->
 
@@ -35,7 +35,7 @@ So many shows seemed interesting, but weren't renewed for a second (or third) se
 
 Kyle XY is the earliest example of this that I can remember: It literally ended with a guy saying *I'm your father* to the main character. Why did you do this to me? It was a fun show nonetheless, and it had Jamie Alexander in it, so I'm not completely complaining. But it's frustrating, of course.
 
-{{< figure src="https://i.imgur.com/MQTZlfM.gif" caption="How I feel not knowing what happens next!">}}
+![How I feel not knowing what happens next!](https://i.imgur.com/MQTZlfM.gif)
 
 So, I guess I'll try to balance more new shows vs ones I've already stated, trying not to leave way too many shows on hold. And as for new shows, I'll give a preference to the ones that I could watch the first season alone, without having to worry if a second doesn't come - or it's too bad I don't wanna watch.
 

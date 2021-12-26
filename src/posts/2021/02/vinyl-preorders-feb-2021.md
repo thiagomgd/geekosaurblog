@@ -21,7 +21,7 @@ tweet: 1361407987588337665
 
 This year I decided to invest a bit ore in my record collection and gradually expand it. I've been spending less on Uber Eats, and directing some of that saved money on music. Still, this is not a big list, as I don't pre-order much. Maybe I should? Considering the price usually goes up after release, it's actually a good idea.
 
-{{< figure src="https://i.imgur.com/N0fIh0o.jpg" class="vertical" >}}
+{% figure "https://i.imgur.com/N0fIh0o.jpg", "", "vertical" %}
 
 <!--more-->
 
@@ -31,22 +31,22 @@ I've been listening to Dua Lipa recently and when I saw that there was this new,
 
 Dua Lipa was featured in the [first edition of Geekosaur Weekly](https://geekosaur.com/post/geekosaur_weekly_1/)!
 
-{{< figure src="https://i.imgur.com/p7thLyG.jpg" class="vertical" >}}
+{% figure "https://i.imgur.com/p7thLyG.jpg", "", "vertical" %}
 
 ### May 21: London Grammar - Californian Soil ([amazon link](https://amzn.to/2LSj1q6))
 
 I admit I haven't been listening to her a lot, but with a good deal on the pre-order, I had to get it. Her voice and her songs are cool to sit down, and listen on a vinyl record. She was featured in [the second issue of Geekosaur Weekly](https://geekosaur.com/post/geekosaur-weekly-2/) (am I seeing a trend here?).
 
-{{< figure src="https://i.imgur.com/ebb5wrg.jpg" class="vertical" >}}
+{% figure "https://i.imgur.com/ebb5wrg.jpg", "", "vertical" %}
 
 ### June 11: Evangelion Final ([amazon link](https://amzn.to/37fvBqM))
 
 Now THIS is something I had to get. Fifteen-year-old would never imagine I would have this someday. If you are an anime fan and older than 30, I'm sure you heard *Zankoku na Tenshi no Teeze* on every anime karaoke at every con. The cover and the discs are gorgeous, and it's a great soundtrack to enjoy. And the running time is almost 1h:20min.
 
-{{< figure src="https://i.imgur.com/JqrL6RC.jpg" class="vertical" >}}
+{% figure "https://i.imgur.com/JqrL6RC.jpg", "", "vertical" %}
 
-{{< youtube SQBkphmGtgY >}}
+{% youtube "SQBkphmGtgY" %}
 
 The video below talks about all 6 variants of the release. The one I've got is the regular pink with black splash.
 
-{{< youtube xa0CXulTxiE >}}
+{% youtube "xa0CXulTxiE" %}

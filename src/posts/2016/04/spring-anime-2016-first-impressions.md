@@ -36,7 +36,7 @@ A beautiful and cozy slice-of-life anime, featuring a lovely witch as the main c
 She doesn't have any sense of direction, is kind of clueless sometimes, but has a big heart and good intentions. 
 It's nice watching her interactions with the other characters. If you want to just sit back and relax, watch it!
 
-{{< youtube hnlVcyUvUD8 >}}
+{% youtube "hnlVcyUvUD8" %}
 
 ## Koutetsujou no Kabaneri / Kabaneri of the Iron Fortress (1/??)
 
@@ -44,7 +44,7 @@ I never watched Shingeki no Kyojin/Attack on Titan, but Kabaneri seems to be the
 But it has a steampunk setting (which I love) and great colors. 
 Watch if you like people running for their lives, fleeing from monsters.
 
-{{< youtube NljBw9RtOx4 >}}
+{% youtube "NljBw9RtOx4" %}
 
 ## Netoge no Yome wa Onnanoko ja Nai to Omotta? /  And you thought there is never a girl online? (2/12)
 

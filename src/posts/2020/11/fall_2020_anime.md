@@ -34,4 +34,4 @@ Regarding Moriarty I've to admit I'm still behind, so for now my fears around th
 
 I need to add that Jujutsu's ED is so cool and I LOVE IT!!!!!
 
-{{< youtube AWEm4tA2hMc >}} 
+{% youtube "AWEm4tA2hMc" %} 

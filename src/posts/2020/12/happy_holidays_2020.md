@@ -25,7 +25,7 @@ Unfortunately I wasn't able to be very active here this year, specially this mon
 
 On Christmas eve my wife and I enjoyed a nice bottle of wine, and watched Happiest Season on Prime Video. It's a lot of fun, with many cool actors. Great for a post-Christmas-dinner chill.
 
-{{< youtube h58HkQV1gHY >}} 
+{% youtube "h58HkQV1gHY" %} 
 
 > A young woman's plans to propose to her girlfriend while at her family's annual holiday party are upended when she discovers her partner hasn't yet come out to her conservative parents.
 

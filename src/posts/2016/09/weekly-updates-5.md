@@ -44,7 +44,7 @@ If you didn't read this duology, do it! It has dragons, half-dragons, music and 
 Two books from bookdepository arrived this week: A Cast-Off Coven and Hexes and Hemlines (A Witchcraft Mystery #2 and #3). 
 The first one was great (You can read my review [here](http://www.generalfalcon.com/2015/07/book-review-secondhand-spirits-by.html)). 
 
-{{< youtube xUuM4IMOccQ >}}
+{% youtube "xUuM4IMOccQ" %}
 
 ## TV shows
 

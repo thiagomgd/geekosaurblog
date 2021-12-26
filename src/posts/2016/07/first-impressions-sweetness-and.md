@@ -22,7 +22,7 @@ Sweetness and Lightning (Amaama to Inazuma). IT'S SO FLUFFY I'M GONNA DIE!
 
 <!--more-->
 
-{{< youtube pRhWDcKv2WE >}}
+{% youtube "pRhWDcKv2WE" %}
 
 > Kouhei Inuzuka is a teacher who has been caring for his little daughter on his own since his wife's death.
 He's no good at cooking, so he and his daughter Tsumugi have been eating packaged meals from the convenience store.

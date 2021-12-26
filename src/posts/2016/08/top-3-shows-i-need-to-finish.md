@@ -30,7 +30,7 @@ Community will be the next one, and I'll watch until I finish. Or at least, that
 
 ![She's so cute](http://i.imgur.com/1s6th0z.gif)
 
-```nohightlight
+```
 Next episode to watch: G.I. Jeff (s05e11)
 Episodes remaining: 16
 ```
@@ -41,7 +41,7 @@ Ok, don't attack me, please. I was watching it like crazy with my parents.
 But then, some weekend, I went to my girlfriend's house and they decided to watch the remaining 4 episodes alone.
 And then I just forgot about it. I mean, I wanted (and still want) to finish it, but there are so many other TV series to watch.
 
-```nohightlight
+```
 Next episode to watch: To'hajiilee (s05e13)
 Episodes remaining: 4
 ```
@@ -59,7 +59,7 @@ and I really cared about their (yeah, fictional) relationship.
 
 <img src="http://i.imgur.com/17XyDd3.gif" class="img-medium" alt="The most beautiful smile"/>
 
-```nohightlight
+```
 Next episode to watch: Chuck Versus the Baby (s05e08)
 Episodes Remaining: 6
 ```

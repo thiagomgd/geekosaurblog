@@ -33,14 +33,14 @@ We started with Diva and Mott, then added Kitt, Prince and Wendy. And for the K.
 Here are a few screenshots and pictures I've shared on Twitter since I started playing.
 
 Nice 'cute victorian' vibe here
-{{< tweet 1311896328926945280 >}}
+<!-- tweet 1311896328926945280 -->
 
 Random wife's char pic. LOOK AT THAT FACE
-{{< tweet 1297638269643980800 >}}
+<!-- tweet 1297638269643980800 -->
 
 It's very convenient that I don't need to go to my bedroom to get changed. But WTF?
-{{< tweet 1307451229488865280 >}}
+<!-- tweet 1307451229488865280 -->
 
 Just having a nice virtual walk around. That's her house on the last pic.
-{{< tweet 1310115699252051968 >}}
+<!-- tweet 1310115699252051968 -->
 

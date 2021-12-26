@@ -40,7 +40,7 @@ I'm still reading A Cast-Off Coven (A Witchcraft Mystery #2) by Juliet Blackwell
 first three books in Keeper of the Lost Cities series, by Shannon Messenger. I'm truly excited to start reading the 1st 
 as soon as I finish A Cast-Off Coven. You can check my unboxing below.
 
-{{< youtube 1vOREuHHPYY >}}
+{% youtube "1vOREuHHPYY" %}
 
 I also bought a hardcover copy of [A Chain of Thunder by Jeff Shaara](http://www.bookdepository.com/search/advanced?seriesId=260351&a_aid=thiagomgd). 
 It's the second book in his Western Theater series, about the American civil war, following A Blaze of Glory. 
@@ -87,10 +87,10 @@ season as it airs. Also, Shokugeki is really great, and it's a shame that this s
 This week I have two videos to show you. First, Angela Lansbury singing The Beauty and The Beast theme, after 25 of her 
 original recording. Beautiful and touching, to say the least.
 
-{{< youtube JOy7eVjz-2I >}}
+{% youtube "JOy7eVjz-2I" %}
 
 Second, the Stranger Things kids singing Uptown Funk at the Emmys.
 
-{{< youtube dj6icFSWB4k >}}
+{% youtube "dj6icFSWB4k" %}
 
 A good weekend to you all!

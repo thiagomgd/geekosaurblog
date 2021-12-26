@@ -47,7 +47,7 @@ After we slain them, Golleros took one of their bows and gave it to me.
 We were them introduced to Kaalia, the Tiefling Ranger, and Malkor, the Dragonborn Rogue. 
 And after setting camp for a night, we all proceeded to our destiny.
 
-{{< tweet 719894720508518401 >}}
+<!-- tweet 719894720508518401 -->
 
 ## Highlights
 

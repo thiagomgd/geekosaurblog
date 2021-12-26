@@ -1,3 +1,5 @@
+const markdownIt = require("markdown-it");
+
 const outdent = require("outdent")({ newline: " " });
 
 const EMPTY = ``;
@@ -36,7 +38,7 @@ class="spoiler-alert">(spoilers)</span>
 }
 
 const blur = (props = {}) => {
-  const { src, caption, link, alt = "", className = "" } = props;
+  const { src, caption, alt = "", className = "" } = props;
   const uuid = uuidv4();
 
   const figureClass = className ? `class="${className}"` : EMPTY;
@@ -58,11 +60,10 @@ const blur = (props = {}) => {
 
   // TODO: style/width/height?
   const imgTag = `<img src="${src}" alt="${alt}"/>`;
-  const finalImgTag = link ? `<a href="${link}">${imgTag}</a>` : imgTag;
 
   return outdent`<div class="blurDiv blurred" id="${uuid}" >
 <figure ${figureClass} onclick="document.getElementById('${uuid}').className = 'blurDiv';">
-    ${finalImgTag}
+    ${imgTag}
     ${captionTag}    
 </figure>
 </div>`;
@@ -72,12 +73,11 @@ module.exports = {
   youtube,
   reddit,
   blur,
-  figure: (image, caption, className) => {
+  figure: (image, caption, className, alt="") => {
+    const mdCaption = markdownIt().renderInline(caption);
     const classMarkup = className ? ` class="${className}"` : '';
-    const captionMarkup = caption ? `<figcaption>${caption}</figcaption>` : '';
-    return `<figure${classMarkup}><img src="${image}" />${captionMarkup}</figure>`;
-    // the line below does all this in one line, but is more confusing:
-    // return `<figure${className ? ` class="${className}"` : ''}><img src="/img/${image}" />${caption ? `<figcaption>${caption}</figcaption>` : ''}</figure>`;
+    const captionMarkup = caption ? `<figcaption>${mdCaption}</figcaption>` : '';
+    return `<figure${classMarkup}><img src="${image}" alt="${alt}" />${captionMarkup}</figure>`;
   }
 };
 

@@ -56,6 +56,6 @@ the lively and willing Walt Disney, and the cranky and whiny P. L. Travers.
 My recommendation is that you watch this movie and then rewatch (or watch for the first time) Mary Poppins. 
 It's a classic that everyone should watch and revisit sometime.
 
-{{< youtube a5kYmrjongg >}}
+{% youtube "a5kYmrjongg" %}
 
 _Note: after the movie's ending, they show some records of the author's meetings with the studios. Be sure to watch it too!_

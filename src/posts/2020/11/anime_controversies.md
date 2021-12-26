@@ -46,7 +46,7 @@ I'm not sure if this is an anime community controversy, as I really believe that
 
 I will not go deeper into that as I think this deserves its own post, but I'll leave below an extremely offensive image of an adult woman wearing a *sugoi-dekai* shirt.
 
-{{< blur src="https://i.imgur.com/XneKzo9.jpg" caption="How dare you not have the same body type as me?" >}}
+{% blur {src:"https://i.imgur.com/XneKzo9.jpg", caption:"How dare you not have the same body type as me?"} %}
 
 ## My take on controversies
 
@@ -57,7 +57,7 @@ In Brazil we have a saying when referring to people focusing on useless discussi
 - Learn skills useful to get a promotion/better job/a job. Earn more money to buy those expensive figures you were planning on getting after selling a kidney on the black market. You get to keep your organs!
 - Transform all that accumulated hate energy in sweat, burnt fat, muscle mass as you exercise, lose a few pounds, improve your health and self-image. The not enough time + lack of energy + not liking to exercise is strong, I know. But 10 minutes of stretching + planking will do wonders for your body and mind, and also help prevent hand/wrist/elbow pain as you get older and have too much computer time. Trust me!
 
-{{< figure src="https://imgs.xkcd.com/comics/duty_calls.png" caption="of course ([source](https://xkcd.com/386/))" >}}
+{% figure "https://imgs.xkcd.com/comics/duty_calls.png", "of course ([source](https://xkcd.com/386/))" %}
 
 If you still think an issue is important - issue, not controversy - get out of twitter and devote some time into actually researching it. Do you think playing GTA is making people violent, anime lewds lead to child abuse? Go look into research and see if your thoughts are correct. Many, many times, our assumptions, suppositions, intuitions and hunches are actually wrong. 
 

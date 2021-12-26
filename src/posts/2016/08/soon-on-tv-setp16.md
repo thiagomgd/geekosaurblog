@@ -37,7 +37,7 @@ it's clear that they were inspired by them.
 
 I do have high hopes for this one, and I expect it to be quite an enjoyable ride.
 
-{{< youtube Iw6wKHvnY5g >}}
+{% youtube "Iw6wKHvnY5g" %}
 
 > Vanessa Helsing, distant relative of famous vampire hunter Abraham Van Helsing, 
 is resurrected only to find that vampires have taken over the world. 
@@ -49,7 +49,7 @@ Ok, this one can rock or be a total failure. But I'll take a chance and hope tha
 After all, I need some 'cartoon' to replace Archer while the next season doesn't start. 
 It's not entirely a cartoon, but that'll have to do, and plus, a barbarian puts some D&D feel to it.
 
-{{< youtube kPnlQTi8heM >}}
+{% youtube "kPnlQTi8heM" %}
 
 > Zorn, the animated warrior, returns to Orange County, CA, to win back his live-action ex-wife Edie and teenage son, Alan.
 
@@ -58,7 +58,7 @@ It's not entirely a cartoon, but that'll have to do, and plus, a barbarian puts 
 I'm not usually in the mood for this kind of comedy, lately. But Ted Danson did a damn fine job at Bored to Death, 
 and Kristen Bell is a nice benefit. I'll see how it goes.
 
-{{< youtube 2AWeLR-EKAg >}}
+{% youtube "2AWeLR-EKAg" %}
 
 > Eleanor Shellstrop is an ordinary woman who, through an extraordinary string of events, 
 enters the afterlife where she comes to realize that she hasn't been a very good person. 
@@ -69,7 +69,7 @@ she's determined to shed her old way of living and discover the awesome (or at l
 
 I'm truly afraid that this one will be awful. But still, I didn't watch the original, so I can give this one a chance.
 
-{{< youtube Gt8E6X6-744 >}}
+{% youtube "Gt8E6X6-744" %}
 
 > 20-something Angus MacGyver creates a clandestine organization where he uses his knack for solving problems 
 in unconventional ways to help prevent disasters from happening.
@@ -78,7 +78,7 @@ in unconventional ways to help prevent disasters from happening.
 
 No comments on this one. I'll have to wait a bit a read some reviews of the first episodes. But it'll be nice if this one is good.
 
-{{< youtube R9N8K9UMYcQ >}}
+{% youtube "R9N8K9UMYcQ" %}
 
 > The Copelands battle for survival after civilization comes to an apocalyptic end - 
 and they are faced not only with plague – but the rise of supernatural creatures.
