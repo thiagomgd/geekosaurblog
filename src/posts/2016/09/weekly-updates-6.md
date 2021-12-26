@@ -26,7 +26,6 @@ reviewsameas: []
 slug: weekly-updates-6
 tags:
 - Blog Memes
-- geekosaur news
 title: 'Weekly Updates #6'
 ---
 

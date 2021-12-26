@@ -7,7 +7,7 @@ images:
 - http://i.imgur.com/sejtrzh.gif
 - http://i.imgur.com/0YylfK0.gif
 tags:
-- TV shows
+- TV Shows
 - FX
 - The Doctor Recommends
 title: 'Recommendation: The Americans'

@@ -13,7 +13,7 @@ images:
 menu: ""
 tags:
 - Anime
-- First impressions
+- First Impressions
 title: Spring Anime 2016 - First Impressions
 url: 2016/04/spring-anime-2016-first-impressions.html
 ---

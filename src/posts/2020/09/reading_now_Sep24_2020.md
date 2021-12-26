@@ -14,7 +14,7 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/iz2ion/books_im_reading_now_sept_24_2020/
 tags:
 - Books
-- reading
+- Reading
 title: Books I'm Reading Now [Sept. 24, 2020]
 tweet: 1309199184160010240
 ---

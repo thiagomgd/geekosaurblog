@@ -11,7 +11,7 @@ images:
 menu: ""
 tags:
 - Review
-- TV shows
+- TV Shows
 - SyFy
 title: Killjoys Season 1 Review
 url: 2016/07/killjoys-season-1-review.html

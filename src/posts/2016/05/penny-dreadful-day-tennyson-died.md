@@ -13,7 +13,7 @@ images:
 - http://i.imgur.com/jmvYUz0.gif
 menu: ""
 tags:
-- TV shows
+- TV Shows
 title: 'Penny Dreadful: The Day Tennyson Died'
 url: 2016/05/penny-dreadful-day-tennyson-died.html
 ---
