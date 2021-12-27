@@ -6,7 +6,7 @@ images: []
 lead: ""
 reddit: ""
 series: ""
-slug: the-americans-review
+mySlug: the-americans-review
 tags: []
 thumbnail: ""
 title: the-americans-review

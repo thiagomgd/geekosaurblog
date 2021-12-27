@@ -11,7 +11,7 @@ images:
 - https://i.imgur.com/fSWOWrb.jpg
 - https://i.imgur.com/dNDIcVG.png
 reddit: https://www.reddit.com/r/geekosaur/comments/n4gfht/books_of_2021_so_far_april_2021/
-slug: books-read-until-2021-april
+mySlug: books-read-until-2021-april
 tags:
 - Reading
 thumbnail: https://i.imgur.com/fSWOWrb.jpg

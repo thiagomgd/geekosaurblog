@@ -9,7 +9,7 @@ images:
 lead: ""
 reddit: ""
 series: ""
-slug: ""
+mySlug: ""
 tags:
 - Anime
 - Recommendations

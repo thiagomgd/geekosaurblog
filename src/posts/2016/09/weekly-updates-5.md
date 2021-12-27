@@ -20,7 +20,7 @@ reviewitemname: ""
 reviewitemtype: ""
 reviewrating: ""
 reviewsameas: []
-slug: weekly-updates-5
+mySlug: weekly-updates-5
 tags:
 - Blog Memes
 title: 'Weekly Updates #5'

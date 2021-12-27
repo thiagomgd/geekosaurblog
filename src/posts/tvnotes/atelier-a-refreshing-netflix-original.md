@@ -8,7 +8,7 @@ images:
 lead: ""
 reddit: ""
 series: ""
-slug: atelier-refreshing-netflix-original
+mySlug: atelier-refreshing-netflix-original
 tags:
 - TV Review
 - J-Drama

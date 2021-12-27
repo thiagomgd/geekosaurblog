@@ -7,7 +7,7 @@ images:
 - /uploads/244743271_840397100007577_364151050713337246_n.jpg
 reddit: ""
 series: ""
-slug: sam-smith-live-music-monday
+mySlug: sam-smith-live-music-monday
 tags:
 thumbnail: /uploads/244743271_840397100007577_364151050713337246_n.jpg
 title: 'Music Monday: Sam Smith live at Abbey Road Studios'

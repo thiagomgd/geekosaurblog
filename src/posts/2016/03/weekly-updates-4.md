@@ -8,7 +8,7 @@ draft: false
 images:
 - http://i.imgur.com/uticdbO.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/hiygky/weekly_updates_4/
-slug: weekly-updates-4
+mySlug: weekly-updates-4
 tags:
 - Blog Memes
 title: 'Weekly Updates #4'

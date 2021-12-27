@@ -9,7 +9,7 @@ draft: true
 images:
 - http://i.imgur.com/sMLfTY9.jpg
 menu: ""
-slug: soon-on-tv-aug2016
+mySlug: soon-on-tv-aug2016
 tags:
 - TV Shows
 title: 'Soon on TV #1 - Aug. 2016'

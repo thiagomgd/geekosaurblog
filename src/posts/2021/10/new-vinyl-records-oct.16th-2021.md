@@ -9,7 +9,7 @@ images:
 lead: ""
 reddit: ""
 series: ""
-slug: new-vinyl-records-2021-10-16
+mySlug: new-vinyl-records-2021-10-16
 tags:
 - My Record Collection
 - Music

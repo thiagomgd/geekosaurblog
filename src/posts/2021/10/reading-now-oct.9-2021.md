@@ -9,7 +9,7 @@ images:
 lead: ""
 reddit: ""
 series: ""
-slug: reading-now-20211009
+mySlug: reading-now-20211009
 tags:
 - Books
 - Reading

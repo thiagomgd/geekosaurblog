@@ -1,6 +1,6 @@
 ---
 title: "Which Foreign Language Shows And Movies Do You Like?"
-slug: "nonenglish-shows-movies"
+mySlug: "nonenglish-shows-movies"
 description: "Starting a series of posts dedicated to foreign language films and TV shows."
 date: 2020-12-13T21:04:57-08:00
 draft: false

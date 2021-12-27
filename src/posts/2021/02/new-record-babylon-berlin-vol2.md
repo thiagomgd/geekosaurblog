@@ -9,7 +9,7 @@ draft: false
 images:
 - https://i.imgur.com/BYvu8p7.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/ln6nx8/new_record_babylon_berlin_vol_2_season_3_ost/
-slug: new-record-babylon-berlin-vol2
+mySlug: new-record-babylon-berlin-vol2
 tags:
 - My Record Collection
 title: 'New Record: Babylon Berlin Vol. 2 (Season 3 OST)'

@@ -16,7 +16,7 @@ images: []
 lead: ''
 reddit: ''
 series: ''
-slug: the-institute-stephen-king
+mySlug: the-institute-stephen-king
 tags: []
 thumbnail: ''
 title: the-institute-stephen-king

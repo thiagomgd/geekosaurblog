@@ -1,7 +1,7 @@
 ---
 title: "Book Review: The Word Is Murder by Anthony Horowitz"
 description: "After that excellent first impression on an exceptional mystery novel, of course I was going to get another Horowitz novel. So I got The Word Is Murder, the first book on the Detective Daniel Hawthorne series, published in 2017."
-slug: "the_word_is_murder_book_review"
+mySlug: "the_word_is_murder_book_review"
 date: 2021-01-02T20:10:48-08:00
 draft: false
 tags: ["Fiction", "Review"]

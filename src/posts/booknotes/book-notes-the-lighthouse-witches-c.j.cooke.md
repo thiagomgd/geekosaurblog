@@ -8,7 +8,7 @@ images:
 lead: A great novel about witches and mystery that is told in 1998 and 2021.
 reddit: ''
 series: ''
-slug: the-lighthouse-witches-book-notes
+mySlug: the-lighthouse-witches-book-notes
 tags:
 thumbnail: /uploads/the-lighthouse-witches.jpeg
 title: 'Book Notes: The Lighthouse Witches (C. J. Cooke)'

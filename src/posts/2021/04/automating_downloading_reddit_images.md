@@ -16,7 +16,7 @@ images:
 - https://i.imgur.com/xtFxVuQ.png
 - https://i.imgur.com/tBhj7cK.png
 reddit: https://www.reddit.com/r/geekosaur/comments/mogcv2/automating_things_downloading_reddit_media/
-slug: automating-downloading-reddit-images
+mySlug: automating-downloading-reddit-images
 tags:
 - Automating
 title: 'Automating Things: Downloading Reddit Media'

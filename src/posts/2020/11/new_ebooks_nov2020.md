@@ -13,7 +13,7 @@ images:
 - https://i.imgur.com/CQoSeqX.jpg
 - https://m.media-amazon.com/images/I/51FIj4YAurL.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/jnqmel/new_fiction_books_i_got_recently_nov_2020/
-slug: new_ebooks_nov2020
+mySlug: new_ebooks_nov2020
 tags:
 - Books
 - Fiction

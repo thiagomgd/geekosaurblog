@@ -10,7 +10,7 @@ images:
 lead: ""
 reddit: ""
 series: ""
-slug: new-books-dec-2021
+mySlug: new-books-dec-2021
 summary: ""
 tags:
 - Books

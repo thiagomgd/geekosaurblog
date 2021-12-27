@@ -19,7 +19,7 @@ reviewitemname: ""
 reviewitemtype: ""
 reviewrating: ""
 reviewsameas: []
-slug: the-doctor-recommends-saving-mr-banks
+mySlug: the-doctor-recommends-saving-mr-banks
 tags:
 - Movies
 - The Doctor Recommends

@@ -8,7 +8,7 @@ images:
 lead: ''
 reddit: ''
 series: ''
-slug: hard-magic-larry-correia
+mySlug: hard-magic-larry-correia
 tags:
   - Fiction
   - Review

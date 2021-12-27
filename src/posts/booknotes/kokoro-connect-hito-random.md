@@ -16,7 +16,7 @@ images: []
 lead: ''
 reddit: ''
 series: ''
-slug: kokoro-connect-hito-random
+mySlug: kokoro-connect-hito-random
 tags: []
 thumbnail: ''
 title: kokoro-connect-hito-random

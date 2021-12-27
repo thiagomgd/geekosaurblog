@@ -7,7 +7,7 @@ images:
 - /uploads/lee-suhyun-alien.jpeg
 reddit: ""
 series: ""
-slug: music-monday-lee-suhyun
+mySlug: music-monday-lee-suhyun
 tags:
 thumbnail: /uploads/lee-suhyun-alien.jpeg
 title: 'Music Monday: Lee Suhyun'

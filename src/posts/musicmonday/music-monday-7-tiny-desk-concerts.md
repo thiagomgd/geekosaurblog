@@ -7,7 +7,7 @@ images:
 - /uploads/nicki-nicole-tiny-desk.jpeg
 reddit: ""
 series: ""
-slug: music-monday-7-tiny-desk-concerts
+mySlug: music-monday-7-tiny-desk-concerts
 tags:
 thumbnail: /uploads/nicki-nicole-tiny-desk.jpeg
 title: 'Music Monday #7: Tiny Desk Concerts'

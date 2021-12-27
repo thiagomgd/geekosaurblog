@@ -16,7 +16,7 @@ images: []
 lead: ""
 reddit: ""
 series: ""
-slug: music-monday-9
+mySlug: music-monday-9
 tags: []
 thumbnail: ""
 title: music-monday-9

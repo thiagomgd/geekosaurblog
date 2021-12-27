@@ -11,7 +11,7 @@ images:
 - /images/tumblr-list.png
 - https://i.imgur.com/gLoMtU7.gif
 reddit: https://www.reddit.com/r/geekosaur/comments/nk4h97/my_old_blogs_names_part_1/
-slug: my-old-blogs-names-part-1
+mySlug: my-old-blogs-names-part-1
 tags:
 - Blogging
 - Personal

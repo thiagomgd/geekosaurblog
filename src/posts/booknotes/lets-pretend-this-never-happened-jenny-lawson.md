@@ -16,7 +16,7 @@ images: []
 lead: ''
 reddit: ''
 series: ''
-slug: lets-pretend-this-never-happened-jenny-lawson
+mySlug: lets-pretend-this-never-happened-jenny-lawson
 tags: []
 thumbnail: ''
 title: lets-pretend-this-never-happened-jenny-lawson

@@ -7,7 +7,7 @@ draft: false
 images:
 - https://i.imgur.com/OXuy768.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/gzaouy/music_monday_jun_8_2020/
-slug: music-monday-jun-8-2020
+mySlug: music-monday-jun-8-2020
 tags:
 thumbnail: https://i.imgur.com/OXuy768.jpg
 title: 'Music Monday: Kero Kero Bonito [Jun 8, 2020]'

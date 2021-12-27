@@ -10,7 +10,7 @@ images:
 - http://i.imgur.com/x41XmIH.jpg
 - http://i.imgur.com/ekkXWkO.png
 - http://i.imgur.com/4OJUGxc.jpg
-slug: top3-light-novels-i-want-english-2017
+mySlug: top3-light-novels-i-want-english-2017
 tags:
 - Anime
 - Books

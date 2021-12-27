@@ -1,7 +1,7 @@
 ---
 title: "Review: Salvage Trouble"
 description: "This is a short science fiction book that also has a bit of fantasy. It's the first in a series, but can be read as a standalone story."
-slug: "salvage_trouble_review"
+mySlug: "salvage_trouble_review"
 date: 2020-05-30T17:48:25-03:00
 draft: false
 tags: ["Books", "Review"]

@@ -11,7 +11,7 @@ images:
 - https://i.imgur.com/ebb5wrg.jpg
 - https://i.imgur.com/JqrL6RC.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/lklzs7/vinyl_record_preorders_feb_15_2020/
-slug: vinyl-preorders-feb-2021
+mySlug: vinyl-preorders-feb-2021
 tags:
 - Music
 - My Record Collection

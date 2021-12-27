@@ -9,7 +9,7 @@ draft: false
 images:
 - https://i.imgur.com/GzOwAAP.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/kmwtup/happy_new_year_and_late_merry_christmas_geekosaur/
-slug: happy_holidays_2020
+mySlug: happy_holidays_2020
 tags:
 - Holidays
 - Movies

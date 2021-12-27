@@ -16,7 +16,7 @@ images: []
 lead: ''
 reddit: ''
 series: ''
-slug: black-water-sister-zen-cho
+mySlug: black-water-sister-zen-cho
 tags: []
 thumbnail: ''
 title: Black Water Sister

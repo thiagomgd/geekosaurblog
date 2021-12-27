@@ -9,7 +9,7 @@ draft: false
 images:
 - https://i.imgur.com/9u3PBtG.png
 reddit: https://www.reddit.com/r/geekosaur/comments/n06zhy/automating_things_downloading_reddit_media_part_2/
-slug: automating-downloading-reddit-images-part2
+mySlug: automating-downloading-reddit-images-part2
 tags:
 - Automating
 title: 'Automating Things: Downloading Reddit Media Part #2'

@@ -8,7 +8,7 @@ images:
 lead: ""
 reddit: ""
 series: ""
-slug: watched-recently-oct-17-2021
+mySlug: watched-recently-oct-17-2021
 tags:
 - Watching
 - Movies

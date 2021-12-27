@@ -9,7 +9,7 @@ draft: false
 images:
 - https://i.imgur.com/1Vu7FKA.png
 reddit: https://www.reddit.com/r/geekosaur/comments/jq07bv/anime_controversies_controversed/
-slug: anime-controversies-controversed
+mySlug: anime-controversies-controversed
 tags:
 - Opinion
 title: Anime Controversies [#Controversed]

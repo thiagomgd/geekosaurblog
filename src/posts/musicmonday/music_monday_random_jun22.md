@@ -7,7 +7,7 @@ draft: false
 images:
 - https://images.pexels.com/photos/1626481/pexels-photo-1626481.jpeg
 reddit: https://www.reddit.com/r/geekosaur/comments/he2ykt/random_music_music_monday_jun_22/
-slug: random-music-jun-22
+mySlug: random-music-jun-22
 tags:
 thumbnail: https://images.pexels.com/photos/1626481/pexels-photo-1626481.jpeg
 title: Random Music [Music Monday, Jun 22]

@@ -16,7 +16,7 @@ images: []
 lead: ''
 reddit: ''
 series: ''
-slug: what-if-randall-munroe
+mySlug: what-if-randall-munroe
 tags: []
 thumbnail: ''
 title: what-if-randall-munroe

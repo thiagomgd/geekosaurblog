@@ -10,7 +10,7 @@ images:
 - http://i.imgur.com/c2xY6kZ.gif
 - http://thumbs.gfycat.com/SardonicFineBaleenwhale-size_restricted.gif
 - http://i.giphy.com/R2vQ5QDS13x6g.gif
-slug: k-pop-dump-2
+mySlug: k-pop-dump-2
 tags:
 - Kpop
 - Personal
