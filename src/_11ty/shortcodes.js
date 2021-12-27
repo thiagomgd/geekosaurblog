@@ -91,8 +91,8 @@ module.exports = {
   reddit,
   blur,
   card,
-  figure: (image, caption, className, alt="") => {
-    const mdCaption = markdownIt().renderInline(caption);
+  figure: (image, caption="", className="", alt="") => {
+    const mdCaption = caption ? markdownIt().renderInline(caption) : EMPTY;
     const classMarkup = className ? ` class="${className}"` : '';
     const captionMarkup = caption ? `<figcaption>${mdCaption}</figcaption>` : '';
     return `<figure${classMarkup}><img src="${image}" alt="${alt}" />${captionMarkup}</figure>`;

@@ -5,7 +5,7 @@ categories:
 - Coding
 - Etc
 - Games
-- Geekosaur Weekly
+
 - Movies & TV
 - Music
 - Pesonal
