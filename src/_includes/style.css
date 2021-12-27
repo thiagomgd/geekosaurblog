@@ -553,3 +553,71 @@ div.blurDiv > figure {
   font-weight: bold;
   font-size: 30px;
 }
+
+
+div.card {
+	/* background: white; */
+  background-color: #f5f5f5;
+	margin-bottom: 1em;	
+  position: relative;
+}
+
+div.card-badge {
+  font-weight: bold;
+  font-size: 100%;
+  background: #fff700;
+  width: 30px; 
+  height: 30px;
+  border-radius: 50%;
+  display: flex; /* or inline-flex */
+  align-items: center; 
+  justify-content: center;
+  position: absolute;
+  top: -6px;
+  right: -6px;
+  z-index: 5;
+}
+
+div.card-content {
+	padding: 0.4em;
+}
+
+div.card > div.card-image-div {
+  overflow: hidden;
+  max-height: 260px;
+  /* vertical-align:middle */
+}
+
+div.cards {
+    display: flex;
+    flex-wrap: wrap;
+ }
+
+ div.card {
+    flex: 1 0 500px;
+    box-sizing: border-box;
+    margin: 1rem .25em;
+}
+
+@media screen and (min-width: 40em) {
+  div.card {
+       max-width: calc(50% -  1em);
+    }
+}
+
+@media screen and (min-width: 60em) {
+  div.card {
+        max-width: calc(25% - 1em);
+    }
+}
+
+.centered {
+    margin: 0 auto;
+    padding: 0 1em;
+}
+
+@media screen and (min-width: 52em) {
+    .centered {
+        max-width: 52em;
+    }
+}

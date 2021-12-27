@@ -69,10 +69,28 @@ const blur = (props = {}) => {
 </div>`;
 };
 
+function card(title, img, rating, review_link) {
+
+  const badge = rating ? `<div class="card-badge">${rating}</div>` : EMPTY;
+  const imgTag = img ? `<div class="card-image-div"><img src="${img}"/></div>` : EMPTY;
+  const reviewTag = review_link ? `<p><a href="${review_link}">Review</a></p>` : EMPTY;
+  // const contentDiv = content ? `<div class="card-content"> ${markdownIt.render(content)} </div>` : EMPTY;
+
+  return `<div class="card">
+${badge}  
+${imgTag}
+<div class="card-content">
+<p class="card-title">${title}</p>
+${reviewTag}
+</div>
+</div>`;
+}
+
 module.exports = {
   youtube,
   reddit,
   blur,
+  card,
   figure: (image, caption, className, alt="") => {
     const mdCaption = markdownIt().renderInline(caption);
     const classMarkup = className ? ` class="${className}"` : '';

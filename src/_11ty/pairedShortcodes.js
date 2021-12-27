@@ -1,4 +1,7 @@
 const outdent = require("outdent")({ newline: " " });
+const markdownIt = require("markdown-it")();
+
+// const shortcodes = require("./shortcodes.js");
 
 const EMPTY = ``;
 
@@ -57,7 +60,7 @@ ${readMoreSection}
 };
 
 module.exports = {
-  myembed,
+  myembed
 };
 
 

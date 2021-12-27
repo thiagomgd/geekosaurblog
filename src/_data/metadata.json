@@ -2,9 +2,9 @@
   "title": "Geekosaur",
   "url": "https://geekosaur.com/",
   "language": "en",
-  "description": "Blog about books, TV, movies, anime ad music.",
+  "description": "Blog about books, TV, movies, anime and music.",
   "feed": {
-    "subtitle": "Blog about books, TV, movies, anime ad music.",
+    "subtitle": "Blog about books, TV, movies, anime and music.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://geekosaur.com/"
