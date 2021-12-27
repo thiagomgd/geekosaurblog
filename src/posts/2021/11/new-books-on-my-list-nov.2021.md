@@ -6,7 +6,7 @@ description: Being interested in so many different things and genres is not easy
   Paired with some good FOMO, and my to-read/watch lists just keep growing more and
   more.
 images:
-- /uploads/last-night-at-the-telegraph-club.jpeg
+- /img/last-night-at-the-telegraph-club.jpeg
 lead: ""
 reddit: ""
 series: ""

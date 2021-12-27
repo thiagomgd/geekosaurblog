@@ -4,12 +4,12 @@ date: "2021-11-01T16:00:00Z"
 description: This weekend my wife and I were listening to some k-pop again, including
   Lee Suhyun.
 images:
-- /uploads/lee-suhyun-alien.jpeg
+- /img/lee-suhyun-alien.jpeg
 reddit: ""
 series: ""
 mySlug: music-monday-lee-suhyun
 tags:
-thumbnail: /uploads/lee-suhyun-alien.jpeg
+thumbnail: /img/lee-suhyun-alien.jpeg
 title: 'Music Monday: Lee Suhyun'
 toc: false
 tweet: ""

@@ -4,7 +4,7 @@ description: This time, I went for a Netflix original j-drama, developed by Fuji
   called Atelier. Although I've watched Japanese and Chinese movies when I was younger,
   this was my first Asian TV show.
 images:
-- /uploads/atelier.jpeg
+- /img/atelier.jpeg
 lead: ""
 reddit: ""
 series: ""
@@ -12,7 +12,7 @@ mySlug: atelier-refreshing-netflix-original
 tags:
 - TV Review
 - J-Drama
-thumbnail: /uploads/atelier.jpeg
+thumbnail: /img/atelier.jpeg
 title: 'Atelier: A Refreshing Netflix Original'
 toc: false
 tweet: ""
@@ -21,7 +21,7 @@ This time, I went for a Netflix original j-drama, developed by Fuji Television, 
 
 <!--more-->
 
-![](/uploads/atelier.jpeg)
+![](/img/atelier.jpeg)
 
 > Mayuko finds a job with a high-class lingerie manufacturer in Ginza. It is the story of a woman experiencing confusion, struggle and growth in a world with a new set of values different from any she has ever known, and seizing the Japanese dream. Atelier is a workplace-based coming-of-age novel drama, written to present the story of a working woman, with the setting of a glamorous world of lingerie manufacturer.
 

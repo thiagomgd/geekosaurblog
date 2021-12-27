@@ -6,7 +6,7 @@ description: As every book lover, I always fail when I think about not buying mo
   books. But at least seems like I have it in some kind of control, having got those
   mostly on huge sales on Kindle.
 images:
-- /uploads/brandi-redd-3vz3v6judt0-unsplash.jpg
+- /img/brandi-redd-3vz3v6judt0-unsplash.jpg
 lead: ""
 reddit: ""
 series: ""
@@ -14,7 +14,7 @@ mySlug: new-books-dec-2021
 summary: ""
 tags:
 - Books
-thumbnail: /uploads/brandi-redd-3vz3v6judt0-unsplash.jpg
+thumbnail: /img/brandi-redd-3vz3v6judt0-unsplash.jpg
 title: December 2021 Book Haul
 toc: false
 tweet: ""

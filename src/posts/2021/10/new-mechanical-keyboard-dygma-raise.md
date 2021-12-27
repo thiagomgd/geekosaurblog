@@ -5,13 +5,13 @@ date: "2021-10-23T17:00:00Z"
 description: I've got a new keyboard and it's fantastic! Let's check my Dygma Raise
   split mechanical keyboard.
 images:
-- /uploads/dygmaraise.jpeg
+- /img/dygmaraise.jpeg
 lead: ""
 reddit: ""
 series: ""
 mySlug: ""
 tags: []
-thumbnail: /uploads/dygmaraise.jpeg
+thumbnail: /img/dygmaraise.jpeg
 title: 'New mechanical keyboard: Dygma Raise'
 toc: false
 tweet: ""

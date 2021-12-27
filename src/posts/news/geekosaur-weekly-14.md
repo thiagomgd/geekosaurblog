@@ -6,7 +6,7 @@ description: 'These past couple weeks have been busy, but I hope things are goin
   to fall back into schedule soon. '
 draft: false
 images:
-- /images/mieruko-chan-vol2.jpg
+- /img/mieruko-chan-vol2.jpg
 - https://i.imgur.com/H0RpY1H.png
 reddit: https://www.reddit.com/r/geekosaur/comments/nj0bzo/geekosaur_weekly_14_sad_manga_news_the_mangaanime/
 slug: geekosaur-weekly-14
@@ -56,7 +56,7 @@ I'm still slowly watching Snowpiercer Season 2 on Netflix, and I started watchin
 
 I read vol. 2 of Mieruko-chan, which was fun and hinted that the manga might be starting to get a bit more into it's horror side, and also focus more on a plot instead of self-contained chapters. Hope vol. 3 is great!
 
-{% figure "/images/mieruko-chan-vol2.jpg", "Nothing to see here", "vertical" %}
+{% figure "/img/mieruko-chan-vol2.jpg", "Nothing to see here", "vertical" %}
 
 Not reading anything ATM, but THIS is some cool news. Loved reading the original Perry Rhodan series years ago, and I highly recommend everyone to try NEO!
 

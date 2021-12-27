@@ -7,8 +7,8 @@ description: I realized I also never talked about this title blog's domain, my p
   with it.
 draft: false
 images:
-- /images/tumblr-adventuresingoodtaste.png
-- /images/tumblr-list.png
+- /img/tumblr-adventuresingoodtaste.png
+- /img/tumblr-list.png
 - https://i.imgur.com/gLoMtU7.gif
 reddit: https://www.reddit.com/r/geekosaur/comments/nk4h97/my_old_blogs_names_part_1/
 mySlug: my-old-blogs-names-part-1
@@ -25,7 +25,7 @@ In the [latest Otakusphere](https://searchofno9.wordpress.com/2021/05/23/the-ota
 
 But I realized I also never talked about this title blog's domain, my previous ones, and my complete incompetency at coming up with a ~~great~~ decent name and sticking with it. So let's chat a bit about my blogging adventures through the decades.
 
-{% figure "/images/tumblr-adventuresingoodtaste.png", "", "medium" %}
+{% figure "/img/tumblr-adventuresingoodtaste.png", "", "medium" %}
 
 <!--more-->
 
@@ -39,7 +39,7 @@ I remember I also had Xanga and Posterous at some point, but only for a short wh
 
 On Tumblr, it was too easy to have numerous 'blogs', and most being actually only used for 're-tumblr-ing' (?). I changed names occasionally, but what I had at the end for my main was **Mais Ou Menos Util** (**More Or Less Useful**). Apparently - according to my emails - one of my tumblr names was **Mundane Utility**, based on another with the same name, but in Portuguese. Which I think was also mine. Also had one that was **Sharing Randomness.** 
 
-{% figure "/images/tumblr-list.png", "", "vertical" %}
+{% figure "/img/tumblr-list.png", "", "vertical" %}
 
 Then, **My Life Rhapsody** was one that I used for personal stuff, and locked behind a password, used mostly for dumping pics and notes on whatever I was doing. And at some point I started **Adventures In Good Taste** to try to write a bit in English and practice. There were also some other small things that were short-lived there, only to share some things
 

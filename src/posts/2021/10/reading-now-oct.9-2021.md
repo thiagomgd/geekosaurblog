@@ -4,8 +4,8 @@ categories:
 date: "2021-10-10T01:00:00Z"
 description: ""
 images:
-- /uploads/244464316_1210475762776332_6027649036626848770_n.jpg
-- /uploads/244627543_1213333155836129_2079068633666561123_n-1.jpg
+- /img/244464316_1210475762776332_6027649036626848770_n.jpg
+- /img/244627543_1213333155836129_2079068633666561123_n-1.jpg
 lead: ""
 reddit: ""
 series: ""
@@ -13,7 +13,7 @@ mySlug: reading-now-20211009
 tags:
 - Books
 - Reading
-thumbnail: /uploads/244464316_1210475762776332_6027649036626848770_n.jpg
+thumbnail: /img/244464316_1210475762776332_6027649036626848770_n.jpg
 title: Reading Now (Oct 9, 2021)
 toc: false
 tweet: "1447022678360035329"
@@ -28,7 +28,7 @@ Then I've started **The Meaning of It All: Thoughts of a Citizen-Scientist**, wh
 
 I was thinking about what to start next for my fiction reading, and like my mind was being read, I've got an email from Indigo with the new releases and staff picks, which included The Lighthouse Witches, a book that just released and OMG, it looks so beautiful and interesting.
 
-{% figure "/uploads/244627543_1213333155836129_2079068633666561123_n-1.jpg", "", "vertical" %}
+{% figure "/img/244627543_1213333155836129_2079068633666561123_n-1.jpg", "", "vertical" %}
 
 {% myembed {title:"The Lighthouse Witches", author:"C.J.  Cooke", url:"https://www.goodreads.com/book/show/57310655-the-lighthouse-witches", image:"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621523851i/57310655.jpg"} %}
 Two sisters go missing on a remote Scottish island. Twenty years later, one is found--but she's still the same age as when she disappeared. The secrets of witches have reached across the centuries in this chilling Gothic thriller from the author of the acclaimed The Nesting.

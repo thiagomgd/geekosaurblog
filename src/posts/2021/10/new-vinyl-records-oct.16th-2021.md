@@ -4,8 +4,8 @@ categories:
 date: "2021-10-16T23:30:00Z"
 description: Recently I've got a few more records. Let's check them!
 images:
-- /uploads/morphine.jpeg
-- /uploads/halsey-wallows.jpeg
+- /img/morphine.jpeg
+- /img/halsey-wallows.jpeg
 lead: ""
 reddit: ""
 series: ""
@@ -13,7 +13,7 @@ mySlug: new-vinyl-records-2021-10-16
 tags:
 - My Record Collection
 - Music
-thumbnail: /uploads/morphine.jpeg
+thumbnail: /img/morphine.jpeg
 title: 'New vinyl records: Oct. 16th 2021'
 toc: false
 tweet: "1449519152532627457"
@@ -22,9 +22,9 @@ Recently I've got a few more records. Let's check them!
 
 <!--more-->
 
-{% figure "/uploads/halsey-wallows.jpeg", "", "vertical", "Vinyl records: Halsey and Wallows" %}
+{% figure "/img/halsey-wallows.jpeg", "", "vertical", "Vinyl records: Halsey and Wallows" %}
 
-{% figure "/uploads/morphine.jpeg", "", "vertical", "Vinyl record: Morphine, Cure for Pain" %}
+{% figure "/img/morphine.jpeg", "", "vertical", "Vinyl record: Morphine, Cure for Pain" %}
 
 I ended up deciding to get _Halsey - If I Can't Have Love, I Want Power_. I never paid too much attention to Halsey before, but was curious, and after listening to her new album, I got hooked. It's great, so I ended up getting it.
 

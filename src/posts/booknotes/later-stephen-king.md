@@ -6,7 +6,7 @@ description: >-
   My second Stephen King book, Later has a nice blend of mystery, crime, and the
   occult.
 images:
-  - /uploads/later-stephen-king.jpeg
+  - /img/later-stephen-king.jpeg
 lead: >-
   My second Stephen King book, Later has a nice blend of mystery, crime, and the
   occult.
@@ -17,7 +17,7 @@ tags:
   - Books
   - Review
   - Fiction
-thumbnail: /uploads/later-stephen-king.jpeg
+thumbnail: /img/later-stephen-king.jpeg
 title: 'Book Review: Later by Stephen King'
 toc: false
 tweet: ''

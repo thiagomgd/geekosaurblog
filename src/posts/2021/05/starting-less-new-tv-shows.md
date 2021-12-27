@@ -23,7 +23,7 @@ tweet: 1392714210224656388
 
 It's a common scenario for me: start a new TV show, watch it over a week or two, and then wait a whole year for the next season. But then when the next season arrives, you are already watching so many other new TV shows that you end up leaving it for later, but never go back to it.
 
-![52 paused, 120 abandoned. That's a lot!](/images/notion-tv-board-may2021.png)
+![52 paused, 120 abandoned. That's a lot!](/img/notion-tv-board-may2021.png)
 
 <!--more-->
 

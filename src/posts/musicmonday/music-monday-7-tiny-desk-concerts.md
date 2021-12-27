@@ -4,12 +4,12 @@ date: "2021-11-08T17:00:42Z"
 description: Another week, another Music Monday, this time with some Tiny Desk concerts,
   which I love.
 images:
-- /uploads/nicki-nicole-tiny-desk.jpeg
+- /img/nicki-nicole-tiny-desk.jpeg
 reddit: ""
 series: ""
 mySlug: music-monday-7-tiny-desk-concerts
 tags:
-thumbnail: /uploads/nicki-nicole-tiny-desk.jpeg
+thumbnail: /img/nicki-nicole-tiny-desk.jpeg
 title: 'Music Monday #7: Tiny Desk Concerts'
 toc: false
 tweet: ""

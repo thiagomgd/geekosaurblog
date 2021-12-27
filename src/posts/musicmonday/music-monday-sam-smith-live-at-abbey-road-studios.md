@@ -4,12 +4,12 @@ date: "2021-10-11T17:00:00Z"
 description: 'Recently I got a new record: Sam Smith live at Abbey Road Studios. I
   like Sam Smith, but absolutely loved this album.'
 images:
-- /uploads/244743271_840397100007577_364151050713337246_n.jpg
+- /img/244743271_840397100007577_364151050713337246_n.jpg
 reddit: ""
 series: ""
 mySlug: sam-smith-live-music-monday
 tags:
-thumbnail: /uploads/244743271_840397100007577_364151050713337246_n.jpg
+thumbnail: /img/244743271_840397100007577_364151050713337246_n.jpg
 title: 'Music Monday: Sam Smith live at Abbey Road Studios'
 toc: false
 tweet: ""

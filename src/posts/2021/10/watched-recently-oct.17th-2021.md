@@ -4,7 +4,7 @@ categories:
 date: "2021-10-17T17:30:00Z"
 description: Let's talk a bit about what I've been watching!
 images:
-- /uploads/groundhogday.jpeg
+- /img/groundhogday.jpeg
 lead: ""
 reddit: ""
 series: ""
@@ -13,7 +13,7 @@ tags:
 - Watching
 - Movies
 - TV
-thumbnail: /uploads/groundhogday.jpeg
+thumbnail: /img/groundhogday.jpeg
 title: 'Watched Recently: Oct. 17th 2021'
 toc: false
 tweet: ""

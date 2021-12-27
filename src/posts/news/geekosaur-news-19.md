@@ -5,7 +5,7 @@ date: "2021-12-14T14:29:42Z"
 description: Very busy end of year, but at least I got time for some quick updates
   and thoughts!
 images:
-- /uploads/estee-janssens-aqfhbxailcs-unsplash.jpg
+- /img/estee-janssens-aqfhbxailcs-unsplash.jpg
 lead: ""
 reddit: ""
 series: ""
@@ -13,7 +13,7 @@ slug: geekosaur-news-19
 summary: ""
 tags:
 
-thumbnail: /uploads/estee-janssens-aqfhbxailcs-unsplash.jpg
+thumbnail: /img/estee-janssens-aqfhbxailcs-unsplash.jpg
 title: 'Geekosaur News #19'
 toc: false
 tweet: ""
