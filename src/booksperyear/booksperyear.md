@@ -2,6 +2,7 @@
 layout: layouts/post.njk
 # date: "2021-04-20"
 title: "Books Per Year"
+toc: true
 templateClass: tmpl-post
 permalink: /books-per-year/
 tweet: 1393699018597797893

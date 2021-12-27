@@ -12,6 +12,12 @@ templateClass: tmpl-post
     <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
   {%- endfor %}
 
+  {% if toc %}
+  <aside>
+    {{ content | toc | safe }}
+  </aside>
+  {% endif %}
+
   <div class="e-content flow">
     {{ content | safe }}
   </div>
