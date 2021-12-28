@@ -17,7 +17,7 @@ toc: false
 tweet: ''
 
 ---
-Time for another Geekosaur Weekly, were I share some news, thoughts and random links.!!!
+Time for another Geekosaur Weekly, were I share some news, thoughts and random links.
 
 <!--more-->
 
