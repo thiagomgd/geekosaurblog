@@ -11,7 +11,7 @@ menu: ""
 tags:
 - Dungeons and Dragons
 title: 'Dungeons and Dragons: Our second session'
-url: 2016/04/dungeons-and-dragons-our-second-session.html
+slug: dungeons-and-dragons-our-second-session
 ---
 
 ## In the last session
@@ -47,7 +47,7 @@ After we slain them, Golleros took one of their bows and gave it to me.
 We were them introduced to Kaalia, the Tiefling Ranger, and Malkor, the Dragonborn Rogue. 
 And after setting camp for a night, we all proceeded to our destiny.
 
-<!-- tweet 719894720508518401 -->
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I did this dice tower AFTER the session, I swear <a href="https://twitter.com/hashtag/dnd?src=hash&amp;ref_src=twsrc%5Etfw">#dnd</a> <a href="https://twitter.com/hashtag/DungeonsAndDragons?src=hash&amp;ref_src=twsrc%5Etfw">#DungeonsAndDragons</a> <a href="https://t.co/RcBjIzwIv3">pic.twitter.com/RcBjIzwIv3</a></p>&mdash; Falcon | Geekosaur 🍥 (@FalconSensei) <a href="https://twitter.com/FalconSensei/status/719894720508518401?ref_src=twsrc%5Etfw">April 12, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Highlights
 

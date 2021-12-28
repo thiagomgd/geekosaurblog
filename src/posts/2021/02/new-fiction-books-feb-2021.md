@@ -46,11 +46,13 @@ This is this month's free audible book
 
 ### The Queen's Gambit (Walter Tevis)
 
+-->
+
 ## Physical
 
 I want to go back to reading more physical books, and those two were a step in that direction: I bought them online at Indigo. My intention was to also buy in other stores (not Amazon) but unfortunately, while we are staying at home, that's not so easy. Amazon is just easier to browse, and my copy of _Gods of Jade and Shadow_ arrived with some marks like someone was writing on top of it. That never happened with Amazon, and all my physical books always arrived in good condition.
 
-<!-- tweet 1361448953565175808 -->
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Seems that someone at <a href="https://twitter.com/chaptersindigo?ref_src=twsrc%5Etfw">@chaptersindigo</a> was writing over my book before shipping it <a href="https://t.co/ztCFsvkPgb">pic.twitter.com/ztCFsvkPgb</a></p>&mdash; Falcon | Geekosaur 🍥 (@FalconSensei) <a href="https://twitter.com/FalconSensei/status/1361448953565175808?ref_src=twsrc%5Etfw">February 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### The Institute (Stephen King) ([Amazon](https://amzn.to/2NzfXQb))
 

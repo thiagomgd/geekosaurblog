@@ -33,14 +33,17 @@ We started with Diva and Mott, then added Kitt, Prince and Wendy. And for the K.
 Here are a few screenshots and pictures I've shared on Twitter since I started playing.
 
 Nice 'cute victorian' vibe here
-<!-- tweet 1311896328926945280 -->
+
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/AnimalCrossing?src=hash&amp;ref_src=twsrc%5Etfw">#AnimalCrossing</a> <a href="https://twitter.com/hashtag/ACNH?src=hash&amp;ref_src=twsrc%5Etfw">#ACNH</a> <a href="https://twitter.com/hashtag/NintendoSwitch?src=hash&amp;ref_src=twsrc%5Etfw">#NintendoSwitch</a> <a href="https://t.co/bOeVY5aOBC">pic.twitter.com/bOeVY5aOBC</a></p>&mdash; Falcon | Geekosaur 🍥 (@FalconSensei) <a href="https://twitter.com/FalconSensei/status/1311896328926945280?ref_src=twsrc%5Etfw">October 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Random wife's char pic. LOOK AT THAT FACE
-<!-- tweet 1297638269643980800 -->
+
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/AnimalCrossing?src=hash&amp;ref_src=twsrc%5Etfw">#AnimalCrossing</a> <a href="https://twitter.com/hashtag/ACNH?src=hash&amp;ref_src=twsrc%5Etfw">#ACNH</a> <a href="https://twitter.com/hashtag/NintendoSwitch?src=hash&amp;ref_src=twsrc%5Etfw">#NintendoSwitch</a> <a href="https://t.co/bOeVY5aOBC">pic.twitter.com/bOeVY5aOBC</a></p>&mdash; Falcon | Geekosaur 🍥 (@FalconSensei) <a href="https://twitter.com/FalconSensei/status/1311896328926945280?ref_src=twsrc%5Etfw">October 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 It's very convenient that I don't need to go to my bedroom to get changed. But WTF?
-<!-- tweet 1307451229488865280 -->
+
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr">????????? <a href="https://twitter.com/hashtag/AnimalCrossing?src=hash&amp;ref_src=twsrc%5Etfw">#AnimalCrossing</a> <a href="https://twitter.com/hashtag/ACNH?src=hash&amp;ref_src=twsrc%5Etfw">#ACNH</a> <a href="https://twitter.com/hashtag/NintendoSwitch?src=hash&amp;ref_src=twsrc%5Etfw">#NintendoSwitch</a> <a href="https://t.co/boUB198BcT">pic.twitter.com/boUB198BcT</a></p>&mdash; Falcon | Geekosaur 🍥 (@FalconSensei) <a href="https://twitter.com/FalconSensei/status/1307451229488865280?ref_src=twsrc%5Etfw">September 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Just having a nice virtual walk around. That's her house on the last pic.
-<!-- tweet 1310115699252051968 -->
 
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/AnimalCrossing?src=hash&amp;ref_src=twsrc%5Etfw">#AnimalCrossing</a> <a href="https://twitter.com/hashtag/ACNH?src=hash&amp;ref_src=twsrc%5Etfw">#ACNH</a> <a href="https://twitter.com/hashtag/NintendoSwitch?src=hash&amp;ref_src=twsrc%5Etfw">#NintendoSwitch</a> <a href="https://t.co/LMlEjklW9s">pic.twitter.com/LMlEjklW9s</a></p>&mdash; Falcon | Geekosaur 🍥 (@FalconSensei) <a href="https://twitter.com/FalconSensei/status/1310115699252051968?ref_src=twsrc%5Etfw">September 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

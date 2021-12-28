@@ -70,6 +70,6 @@ I discovered [Hypnogram](https://hypnogram.xyz/), a site where you type what you
 
 {% figure "https://i.imgur.com/hjOHORJ.jpg", "Fear And Loathing in Las Vegas", "vertical", "Hypnogram image for Fear and Loathing in Las Vegas" %}
 
-<!-- ## Random
+## Random
 
-tweet 1437652764813926408" %} -->
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/BRy84I10j9">pic.twitter.com/BRy84I10j9</a></p>&mdash; Rinvi Norway (@Rinvi11) <a href="https://twitter.com/Rinvi11/status/1437652764813926408?ref_src=twsrc%5Etfw">September 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
