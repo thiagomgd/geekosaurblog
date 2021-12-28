@@ -1,0 +1,40 @@
+---
+label: Blog post
+hide_body: false
+fields:
+- type: text
+  name: categories
+  label: categories
+- type: datetime
+  name: date
+  label: date
+- type: textarea
+  name: description
+  label: description
+- type: image_gallery
+  name: images
+  label: images
+- type: text
+  name: reddit
+  label: reddit
+- type: text
+  name: series
+  label: series
+- type: text
+  name: slug
+  label: slug
+- type: text
+  name: tags
+  label: tags
+- type: file
+  name: thumbnail
+  label: thumbnail
+- type: text
+  name: title
+  label: title
+- type: boolean
+  name: toc
+  label: toc
+- type: text
+  name: tweet
+  label: tweet
