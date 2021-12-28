@@ -2,6 +2,10 @@
 label: Blog post
 hide_body: false
 fields:
+- name: draft
+  type: boolean
+  label: draft
+  default: true
 - type: text
   name: title
   label: title
