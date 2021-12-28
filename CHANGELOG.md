@@ -1,27 +1,11 @@
 # TODO
 
-* Shortcodes
-  * ~~Blur~~
-  * Card
-  * Series - https://shivjm.blog/colophon/how-i-create-an-article-series-in-eleventy/
-  * ~~MyEmbed (GR, etc)~~
-  * ~~Reddit~~
-  * ~~Youtube~~
-  * ~~Figure~~
 * Layouts
   * TOC
-  * Webmention (add to end of post)
+  * Webmention (add to end of post) - https://github.com/siakaramalegos/sia.codes-eleventy/commit/d7318565917b1342b38d6b3bff4e3e548276afca
   * Webmention Comment
-* Pages
-  * Books per year
-    * Possibly save to _data_ instead of generating the MD file
-  * Foreign language TV and Movies
-  * Changelog
-* IMPORT POSTS
-  * ~~foreign language~~
-* ~~Permalinks: change /posts/slug to /post/slug~~
 * DEV
-  * Add outdent and prettier
+  * Add prettier
 
 # Changelog
 
