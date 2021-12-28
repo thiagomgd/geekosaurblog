@@ -1,29 +1,30 @@
 ---
 categories:
 - Books
-date: "2021-12-17T12:45:57Z"
+date: 2021-12-17T12:45:57Z
 description: As every book lover, I always fail when I think about not buying more
   books. But at least seems like I have it in some kind of control, having got those
   mostly on huge sales on Kindle.
 images:
-- /img/brandi-redd-3vz3v6judt0-unsplash.jpg
-lead: ""
-reddit: ""
-series: ""
+- "/img/brandi-redd-3vz3v6judt0-unsplash.jpg"
+lead: ''
+reddit: ''
+series: ''
 slug: new-books-dec-2021
-summary: ""
+summary: ''
 tags:
 - Books
-thumbnail: /img/brandi-redd-3vz3v6judt0-unsplash.jpg
+thumbnail: "/img/brandi-redd-3vz3v6judt0-unsplash.jpg"
 title: December 2021 Book Haul
 toc: false
-tweet: ""
+tweet: ''
+
 ---
 As every book lover, I always fail when I think about not buying more books. But at least seems like I have it in some kind of control, having got those mostly on huge sales on Kindle.
 
 <!--more-->
 
-Dragonflight and Taranished and Torn I go on paper to read during my trip to (and my stay in) Brazil. I already have Dragonflight on Kindle, but since I was not bringing it here, I decided to get it on paper. Ultimately I decided to bring my Kindle with me, so I'll give it to my mother, but it's alright. Tarnished and Torn is the 5th book in a cozy mystery series, and it'll be a great read for winter time when I'm back home.
+Dragonflight and Tarnished and Torn I go on paper to read during my trip to (and my stay in) Brazil. I already have Dragonflight on Kindle, but since I was not bringing it here, I decided to get it on paper. Ultimately I decided to bring my Kindle with me, so I'll give it to my mother, but it's alright. Tarnished and Torn is the 5th book in a cozy mystery series, and it'll be a great read for winter time when I'm back home.
 
 {% myembed {title:"Tarnished and Torn (A Witchcraft Mystery, #5)", author:"Juliet Blackwell", url:"https://www.goodreads.com/book/show/15815762-tarnished-and-torn", image:"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1426139323i/15815762.jpg"} %}As the owner of a popular vintage clothing store, Lily Ivory can enjoy a day of antique jewelry shopping and still call it work. But as one of San Francisco’s resident witches, searching for hidden treasures can sometimes lead to dangerous discoveries...{% endmyembed %}
 
