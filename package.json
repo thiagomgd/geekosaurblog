@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "description": "An Eleventy blog starter forked from eleventy-base-blog but with Sia's opinions",
   "scripts": {
-    "build": "npx eleventy",
-    "start": "npx eleventy --serve",
-    "debug": "DEBUG=* npx eleventy"
+    "build": "npx @11ty/eleventy",
+    "start": "npx @11ty/eleventy --serve",
+    "debug": "DEBUG=* npx @11ty/eleventy"
   },
   "repository": {
     "type": "git",
