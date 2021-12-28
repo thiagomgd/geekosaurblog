@@ -1,6 +1,4 @@
 ---
-categories:
-
 date: "2021-01-30T12:00:49-08:00"
 description: 'For a while, I was thinking about returning with the weekly updates.
   And this week, after seeing that Twitter acquired a newsletter service (Revue),
@@ -11,7 +9,6 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/l8v7ew/geekosaur_weekly_1_geekosaur/
 slug: geekosaur_weekly_1
 tags:
-
 title: 'Geekosaur News #1'
 tweet: 1355618093209329665
 ---
@@ -67,7 +64,7 @@ I also bought 3 books at Indigo, which should be arriving next week:
 
 For today, I have this Dua Lipa tiny desk concert. I'm not a huge fan of the album version, but this is just great! _Levitating_ is very groovy and awesome to start the good vibes mood, specially in this striped-down version. Sounds more funnk/groove, while the original is a bit more dance-y. It also looses the (for me) weird and unnecessary rap at the middle.
 
-_Preety Please_ follows the groove vibe, but starting to get more cozy and relaxing, being a great bridge to _Love Again_. The 4th and last song is _Don't Start Now_, which takes us back to a more uplifting funk/groove. Damn, I would buy the vinyl record if those were the official versions.
+_Pretty Please_ follows the groove vibe, but starting to get more cozy and relaxing, being a great bridge to _Love Again_. The 4th and last song is _Don't Start Now_, which takes us back to a more uplifting funk/groove. Damn, I would buy the vinyl record if those were the official versions.
 
 {% youtube "F4neLJQC1_E" %}  
 

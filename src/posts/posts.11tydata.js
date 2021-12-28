@@ -38,7 +38,6 @@ module.exports = function() {
         tags: [
           "posts"
         ],
-        permalink: "post/{% if slug %}{{ slug }}{% else %}{{ page.fileSlug }}{% endif %}/",
-		thumbnail: "/img/estee-janssens-aqfhbxailcs-unsplash.jpg"
+        permalink: "post/{% if slug %}{{ slug }}{% else %}{{ page.fileSlug }}{% endif %}/"		
 	}
 }

@@ -46,7 +46,7 @@ I'm not sure if this is an anime community controversy, as I really believe that
 
 I will not go deeper into that as I think this deserves its own post, but I'll leave below an extremely offensive image of an adult woman wearing a *sugoi-dekai* shirt.
 
-{% blur {src:"https://i.imgur.com/XneKzo9.jpg", caption:"How dare you not have the same body type as me?"} %}
+{% blur "https://i.imgur.com/XneKzo9.jpg", "How dare you not have the same body type as me?" %}
 
 ## My take on controversies
 

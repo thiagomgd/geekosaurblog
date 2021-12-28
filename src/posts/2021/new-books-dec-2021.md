@@ -5,8 +5,7 @@ date: 2021-12-17T12:45:57Z
 description: As every book lover, I always fail when I think about not buying more
   books. But at least seems like I have it in some kind of control, having got those
   mostly on huge sales on Kindle.
-images:
-- "/img/brandi-redd-3vz3v6judt0-unsplash.jpg"
+
 lead: ''
 reddit: ''
 series: ''
@@ -14,7 +13,7 @@ slug: new-books-dec-2021
 summary: ''
 tags:
 - Books
-thumbnail: "/img/brandi-redd-3vz3v6judt0-unsplash.jpg"
+thumbnail: img/brandi-redd-3vz3v6judt0-unsplash.jpg
 title: December 2021 Book Haul
 toc: false
 tweet: ''

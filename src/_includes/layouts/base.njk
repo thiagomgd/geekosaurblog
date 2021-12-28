@@ -20,6 +20,24 @@
 
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
+
+    {%- set absolutePostUrl %}{{ page.url | url | absoluteUrl(metadata.url) }}{% endset -%}
+    {% if thumbnail %}
+    {%- set thumbnailUrl %}{{ thumbnail | url | absoluteUrl(metadata.url) }}{% endset -%}
+    {% endif %}
+
+    {% metagen
+        title=title or metadata.title,
+        desc=desc or lead or metadata.desc,
+        url=absolutePostUrl,
+        img=thumbnailUrl,
+        twitter_card_type="summary_large_image",
+        twitter_handle="FalconSensei",
+        name="Falcon | Geekosaur",
+        generator="eleventy",
+        comments=true
+    %}
+
   </head>
   <body>
     <header>

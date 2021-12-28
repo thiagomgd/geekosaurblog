@@ -37,8 +37,8 @@ class="spoiler-alert">(spoilers)</span>
 <span id="${uuid}" class="spoiler-text">${text}</span></span>`;
 }
 
-const blur = (props = {}) => {
-  const { src, caption, alt = "", className = "" } = props;
+const blur = (src, caption, className="", alt="") => {
+
   const uuid = uuidv4();
 
   const figureClass = className ? `class="${className}"` : EMPTY;
