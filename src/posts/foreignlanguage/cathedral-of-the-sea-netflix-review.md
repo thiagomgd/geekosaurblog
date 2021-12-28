@@ -1,6 +1,6 @@
 ---
 title: "Cathedral of the Sea Netflix Review"
-mySlug: 'cathedral-of-the-sea-netflix-review'
+slug: 'cathedral-of-the-sea-netflix-review'
 description: "Cathedral of The Sea (La Catedral Del Mal) is a 2018 Spanish show that has 8 episodes and is based on a book by Ildefonso Falcones from 2006. It's a rag-to-riches story set in a tumultuous era: plague, inquisition and anarchy."
 date: 2021-04-25T15:18:17-07:00
 toc: true

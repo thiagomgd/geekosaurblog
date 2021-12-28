@@ -7,7 +7,7 @@ images: []
 lead: ""
 reddit: ""
 series: ""
-mySlug: music-monday-8
+slug: music-monday-8
 tags: []
 thumbnail: ""
 title: 'Music Monday #8: Folk Tiny Desk Concerts'

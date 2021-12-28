@@ -16,7 +16,7 @@ images: []
 lead: ''
 reddit: ''
 series: ''
-mySlug: mexican-gothic-silvia-moreno-garcia
+slug: mexican-gothic-silvia-moreno-garcia
 tags: []
 thumbnail: ''
 title: mexican-gothic-silvia-moreno-garcia

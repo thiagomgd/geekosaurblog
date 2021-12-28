@@ -39,7 +39,7 @@ module.exports = function() {
         tags: [
           "posts"
         ],
-        permalink: "post/{% if mySlug %}{{ mySlug }}{% else %}{{ page.fileSlug }}{% endif %}/"
+        permalink: "post/{% if slug %}{{ slug }}{% else %}{{ page.fileSlug }}{% endif %}/"
       
 	}
 }

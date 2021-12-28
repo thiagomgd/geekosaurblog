@@ -7,7 +7,7 @@ description: "This is a duology that is not that famous, but definitely worth re
 images: ["http://i.imgur.com/DIuHP4G.jpg", "http://i.imgur.com/zWLQqq6.gif", "http://i.imgur.com/zezw1Tn.jpg"]
 tags: ["Books", "Review"]
 title: "Review: The Assassin's Curse Duology"
-mySlug: "review-assassins-curse-duology"
+slug: "review-assassins-curse-duology"
 reddit: https://www.reddit.com/r/geekosaur/comments/hiyg24/review_the_assassins_curse_duology/
 tweet: 1370915986468052992
 ---

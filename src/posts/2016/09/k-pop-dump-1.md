@@ -9,7 +9,7 @@ draft: false
 images:
 - http://i.imgur.com/IN980Q9.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/hiyfmy/kpop_dump_1/
-mySlug: k-pop-dump-1
+slug: k-pop-dump-1
 tags:
 - Personal
 - Music

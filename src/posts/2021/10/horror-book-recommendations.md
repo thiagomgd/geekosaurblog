@@ -9,7 +9,7 @@ images:
 lead: ""
 reddit: ""
 series: ""
-mySlug: ""
+slug: ""
 tags:
 - Horror
 - Lists

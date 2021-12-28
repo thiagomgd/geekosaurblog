@@ -19,7 +19,7 @@ reviewitemname: ""
 reviewitemtype: ""
 reviewrating: ""
 reviewsameas: []
-mySlug: soon-on-tv-sept2016
+slug: soon-on-tv-sept2016
 tags:
 - TV Shows
 title: 'Soon on TV #2 - Sept. 2016'

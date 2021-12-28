@@ -16,7 +16,7 @@ images: []
 lead: ""
 reddit: ""
 series: ""
-mySlug: watched-march-2015
+slug: watched-march-2015
 tags: []
 thumbnail: ""
 title: Movies watched on March

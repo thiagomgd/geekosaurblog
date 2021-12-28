@@ -16,7 +16,7 @@ images: []
 lead: ''
 reddit: ''
 series: ''
-mySlug: magpie-murders-anthony-horowitz
+slug: magpie-murders-anthony-horowitz
 tags: []
 thumbnail: ''
 title: magpie-murders-anthony-horowitz

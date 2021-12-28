@@ -16,7 +16,7 @@ images: []
 lead: ''
 reddit: ''
 series: ''
-mySlug: gods-of-jade-and-shadow-silva-moreno-garcia
+slug: gods-of-jade-and-shadow-silva-moreno-garcia
 tags: []
 thumbnail: ''
 title: gods-of-jade-and-shadow-silva-moreno-garcia

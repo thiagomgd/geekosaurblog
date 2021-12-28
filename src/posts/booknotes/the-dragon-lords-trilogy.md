@@ -1,6 +1,6 @@
 ---
 title: "Finished the Dragon Lords Books"
-mySlug: 'finished-the-dragon-lords-books'
+slug: 'finished-the-dragon-lords-books'
 description: "This weekend I've finished the last book in The Dragon Lords trilogy, by Jon Hollins. I think the best way to introduce it: The Hobbit meets Guardians of The Galaxy. "
 date: 2021-04-05T21:54:21-07:00
 draft: false

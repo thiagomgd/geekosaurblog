@@ -12,7 +12,7 @@ lead: >-
   occult.
 reddit: ''
 series: ''
-mySlug: later-stephen-king
+slug: later-stephen-king
 tags:
   - Books
   - Review

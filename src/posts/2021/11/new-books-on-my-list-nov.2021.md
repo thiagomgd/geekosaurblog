@@ -10,7 +10,7 @@ images:
 lead: ""
 reddit: ""
 series: ""
-mySlug: new-books-on-tbr-2021
+slug: new-books-on-tbr-2021
 tags:
 - Books
 thumbnail: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593457992i/35224992.jpg

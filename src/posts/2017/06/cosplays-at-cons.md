@@ -9,7 +9,7 @@ images:
 - http://i.imgur.com/TVZMzd1.jpg
 - http://i.imgur.com/s2gyYuq.png
 reddit: https://www.reddit.com/r/geekosaur/comments/hi537z/what_cosplays_do_you_like_to_see_at_conventions/
-mySlug: cosplays-at-conventions-taking-pictures
+slug: cosplays-at-conventions-taking-pictures
 tags:
 - Personal
 - Anime

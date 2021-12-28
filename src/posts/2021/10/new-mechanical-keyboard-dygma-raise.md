@@ -9,7 +9,7 @@ images:
 lead: ""
 reddit: ""
 series: ""
-mySlug: ""
+slug: ""
 tags: []
 thumbnail: /img/dygmaraise.jpeg
 title: 'New mechanical keyboard: Dygma Raise'

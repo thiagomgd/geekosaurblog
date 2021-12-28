@@ -21,7 +21,7 @@ reviewrating: "4.25"
 reviewsameas:
 - https://www.goodreads.com/book/show/26252859-the-hidden-oracle
 - http://rickriordan.com/book/the-hidden-oracle/
-mySlug: review-the-hidden-oracle-the-trials-of-apollo
+slug: review-the-hidden-oracle-the-trials-of-apollo
 tags:
 - Rick Riordan
 - Review

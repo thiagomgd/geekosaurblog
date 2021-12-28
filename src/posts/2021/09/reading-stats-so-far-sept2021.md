@@ -8,7 +8,7 @@ description: I've been traking how much I'm reading, and below are my hourly tot
 draft: false
 images: []
 reddit: null
-mySlug: reading-stats-so-far-sept2021
+slug: reading-stats-so-far-sept2021
 tags:
 - Reading
 title: 'Reading Stats So Far: September 2021'

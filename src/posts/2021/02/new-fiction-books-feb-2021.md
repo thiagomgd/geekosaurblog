@@ -11,7 +11,7 @@ images:
 - https://i.imgur.com/7OcwWqZ.jpg
 - https://i.imgur.com/xX5OSE3.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/lmaf62/new_fiction_books_feb_2021/
-mySlug: new-fiction-books-feb-2021
+slug: new-fiction-books-feb-2021
 tags:
 - Books
 - Fiction
