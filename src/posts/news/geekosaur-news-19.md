@@ -1,6 +1,4 @@
 ---
-categories:
-
 date: "2021-12-14T14:29:42Z"
 description: Very busy end of year, but at least I got time for some quick updates
   and thoughts!
@@ -12,11 +10,10 @@ series: ""
 slug: geekosaur-news-19
 summary: ""
 tags:
-
 thumbnail: /img/estee-janssens-aqfhbxailcs-unsplash.jpg
 title: 'Geekosaur News #19'
 toc: false
-tweet: ""
+
 ---
 Very busy end of year, but at least I got time for some quick updates and thoughts!
 

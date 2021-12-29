@@ -1,6 +1,4 @@
 ---
-categories:
-
 date: "2021-11-07T17:30:45Z"
 description: It's been a while since we had any Geekosaur News, so let's see some
   updates and cool things.
@@ -10,11 +8,10 @@ reddit: ""
 series: ""
 slug: geekosaur-news-17
 tags:
-
 thumbnail: https://media4.giphy.com/media/qCn8beSdurE92BS6xL/giphy.gif
 title: 'Geekosaur News #17: Dickinson is back, I''m lazy, and also some cool things'
 toc: true
-tweet: ""
+
 ---
 It's been a while since we had any Geekosaur News, so let's see some updates and cool things.
 

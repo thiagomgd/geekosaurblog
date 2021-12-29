@@ -13,7 +13,7 @@ reddit: https://www.reddit.com/r/geekosaur/comments/j0xze6/watched_the_marvelous
 tags:
 - TV
 title: 'Watched: The Marvelous Mrs. Maisel Season 3'
-tweet: 1310316577397657605
+tweetId: "1310316577397657605"
 ---
 
 When I started this show, the first 2 season were out already. AND I BINGED BOTH SO QUICKLY. It became of of those series I absolutely love (almost) everything about: the actors, story, setting, music, costumes, comedy. I even bought the first 2 seasons' OSTs in vinyl.

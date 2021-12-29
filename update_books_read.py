@@ -100,7 +100,7 @@ with open('src/_data/booksRead.json', mode="w") as jsonfile:
 # title: "Books Per Year"
 # templateClass: tmpl-post
 # permalink: /books-per-year/
-# tweet: 1393699018597797893
+# tweetId: 1393699018597797893
 # reddit: https://www.reddit.com/r/geekosaur/comments/ndaaoc/books_per_year/
 # eleventyNavigation:
 #   key: Books Per Year

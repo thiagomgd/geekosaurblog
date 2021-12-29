@@ -6,13 +6,18 @@ templateClass: tmpl-post
 <div class="h-entry content-780 flow">
   <h1 class="p-name">{{ title }}</h1>
 
+  {%if lead %}
+  <p class="post-lead">{{ lead }}</p>
+  {% endif %}
+
+
   <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
   {%- for tag in tags | filterTagList -%}
     {%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset -%}
     <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
   {%- endfor %}
 
-  {% if toc %}
+  {% if tocccc %}
   <aside>
     {{ content | toc | safe }}
   </aside>
@@ -22,9 +27,22 @@ templateClass: tmpl-post
     {{ content | safe }}
   </div>
 
+  <hr />
+  <p>
+    {% if tweetId %}
+    <a href="https://twitter.com/intent/tweet?in_reply_to={{ tweetId }}">Join the conversation</a> on Twitter. Or, if
+    you liked this article and think others should read it, please <a
+      href="https://twitter.com/intent/retweet?tweet_id={{ tweetId }}" target="_blank" rel="noopener">retweet it</a>.
+    {% else %}
+    If you liked this article and think others should read it, please <a
+      href="{{ page.url | generateShareLink(description) }}" target="_blank" rel="noopener">share it</a>. Or, <a
+      href="{{ page.url | generateDiscussionLink }}">find the conversation</a> on Twitter.
+    {% endif %}
+  </p>
+  
   {% if series %}
-     <hr />
-    <div>
+  <hr />
+    <div id="series-footer">
       <p>This is a post in the <b>{{ series }}</b> series.</p>
     </div>    
   {% endif %}

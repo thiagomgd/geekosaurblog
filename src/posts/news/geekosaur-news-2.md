@@ -1,6 +1,4 @@
 ---
-categories:
-
 date: "2021-02-06T13:42:28-08:00"
 description: Another week, another Geekosaur Weekly. This weeks, let's talk about
   spending money, and taking naps. Also some music to enjoy over the weekend.
@@ -10,9 +8,8 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/lea7v4/geekosaur_2_buy_what_you_want_not_whats_cheap/
 slug: geekosaur-weekly-2
 tags:
-
 title: 'Geekosaur News #2: Buy What You Want, Not What''s Cheap'
-tweet: 1358201842790928385
+tweetId: "1358201842790928385"
 ---
 
 Another week, another Geekosaur Weekly. This weeks, let's talk about spending money, and taking naps. Also some music to enjoy over the weekend.

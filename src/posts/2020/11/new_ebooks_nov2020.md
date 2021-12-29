@@ -19,7 +19,7 @@ tags:
 - Fiction
 title: New Fiction Books I Got Recently [Nov. 2020]
 toc: true
-tweet: 1323853421502435328
+tweetId: "1323853421502435328"
 ---
 
 On the past few months I've got some sweet new eBooks on my Kindle, further increasing the size of my ever-growing TBR list. But, who can resist a sweet deal, right?

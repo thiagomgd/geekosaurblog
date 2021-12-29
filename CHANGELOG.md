@@ -2,7 +2,9 @@
 
 * Layouts
   * TOC
-  * Webmention (add to end of post) - https://github.com/siakaramalegos/sia.codes-eleventy/commit/d7318565917b1342b38d6b3bff4e3e548276afca
+  * Webmention (add to end of post) 
+  - https://github.com/siakaramalegos/sia.codes-eleventy/commit/d7318565917b1342b38d6b3bff4e3e548276afca
+  - https://sia.codes/posts/webmentions-eleventy-in-depth/
   * Webmention Comment
 * DEV
   * Add prettier

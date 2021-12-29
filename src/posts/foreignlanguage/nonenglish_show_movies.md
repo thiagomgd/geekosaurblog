@@ -9,7 +9,7 @@ categories: ["Movies & TV"]
 series: ["Foreign Language"]
 images: ["https://i.imgur.com/MzfQL2Y.jpg"]
 reddit: https://www.reddit.com/r/geekosaur/comments/kcrjpo/which_foreign_language_shows_and_movies_do_you/
-tweet: 1338355311472623620
+tweetId: "1338355311472623620"
 ---
 
 I've always liked to consume different types of content. Not only different medias and genres, but also different origins. Recently I have been watching some great non-English (and non-Asian) TV shows and movies. Because of that, I decided to start a series of posts sharing some great recommendations, most of those from Europe.

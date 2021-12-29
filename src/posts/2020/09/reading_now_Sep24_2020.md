@@ -16,7 +16,7 @@ tags:
 - Books
 - Reading
 title: Books I'm Reading Now [Sept. 24, 2020]
-tweet: 1309199184160010240
+tweetId: "1309199184160010240"
 ---
 
 Time to talk about book I'm reading. On thing that I'm trying to do is have a few 'active' books, so I can have a change. Also, I'm trying to split my reads in 3 categories: fiction, non-fiction, and learning. The list below is a good example of that.

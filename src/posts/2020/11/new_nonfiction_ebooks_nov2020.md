@@ -13,7 +13,7 @@ tags:
 - Non-fiction
 title: New Nonfiction eBooks I Got Recently [Nov. 2020]
 toc: true
-tweet: 1324118309042835456
+tweetId: "1324118309042835456"
 ---
 
 Yesterday I posted about [fiction ebooks that I got recently](/post/new_ebooks_nov2020). This time I'm sharing some non-fiction titles that I added to my Kindle collection!

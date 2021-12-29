@@ -11,7 +11,7 @@ tags:
 - Games
 - Nintendo Switch
 title: I'm Playing Animal Crossing
-tweet: 1316824554363334657
+tweetId: "1316824554363334657"
 ---
 
 Over a month ago, me and my wife got a Nintendo Switch to play Animal Crossing: New Horizons. So far we are having a good time!

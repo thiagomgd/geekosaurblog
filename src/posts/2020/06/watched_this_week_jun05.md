@@ -12,7 +12,7 @@ tags:
 - Movies
 - TV
 title: Watched This Week [Jun 5, 2020]
-tweet: 1269034531123847168
+tweetId: "1269034531123847168"
 ---
 
 As I mentioned in the last post, my parents and I decided to watch more movies before starting a new series. Here are the movies I've watched with them, along with a couple series we watched.

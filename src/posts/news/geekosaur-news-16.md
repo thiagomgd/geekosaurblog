@@ -1,6 +1,4 @@
 ---
-categories:
-
 date: "2021-07-26T20:53:03-07:00"
 description: Trying to get back on track with Geekosaur Weekly, and also learn more
   things!
@@ -10,10 +8,9 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/osgapt/geekosaur_weekly_16_dropping_duolingo_studying/
 slug: geekosaur-weekly-16
 tags:
-
 title: 'Geekosaur News #16: Dropping Duolingo, Studying Poetry, And More'
 toc: true
-tweet: 1419884291429855234
+tweetId: "1419884291429855234"
 ---
 
 So, I took quite a break from the blog and this newsletter. There are a lot of reasons, but an important one is that it was low priority and I didn't have much desire or ideas to write. And I guess my Jamstack for the blog doesn't help, as it not as easy as using wordpress or blogger to write and publish. Not that it's hard, but a couple extra steps.

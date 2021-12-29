@@ -12,7 +12,7 @@ tags:
 thumbnail: /img/244743271_840397100007577_364151050713337246_n.jpg
 title: 'Music Monday: Sam Smith live at Abbey Road Studios'
 toc: false
-tweet: ""
+
 ---
 Recently I got a new record: Sam Smith live at Abbey Road Studios. I like Sam Smith, but absolutely loved this album. Those versions are cleaner - for lack of a better word - and delightful to listen to. Then I discovered that it's also available on Netflix for everyone to watch, so I say: go there and check it out!
 

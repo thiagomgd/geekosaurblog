@@ -11,7 +11,7 @@ reddit: https://www.reddit.com/r/geekosaur/comments/iljn9a/finished_control_game
 tags:
 - Games
 title: Finished Control Game
-tweet: 1301317325841465344
+tweetId: "1301317325841465344"
 ---
 
 After so many months without playing it, and then some time trying to beat it, I finally completed Control's main story.

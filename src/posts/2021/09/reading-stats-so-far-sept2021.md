@@ -13,7 +13,7 @@ tags:
 - Reading
 title: 'Reading Stats So Far: September 2021'
 toc: false
-tweet: 1439709855971831809
+tweetId: "1439709855971831809"
 ---
 
 I've been traking how much I'm reading, and below are my hourly totals for each month. So far it's been a rollercoaster, but I hope those last few months of 2021 are going to be better.

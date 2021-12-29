@@ -14,7 +14,7 @@ tags: []
 thumbnail: /img/dygmaraise.jpeg
 title: 'New mechanical keyboard: Dygma Raise'
 toc: false
-tweet: ""
+
 ---
 I've got a new keyboard and it's fantastic! Let's check my Dygma Raise split mechanical keyboard.
 

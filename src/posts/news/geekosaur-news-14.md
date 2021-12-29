@@ -1,6 +1,4 @@
 ---
-categories:
-
 date: "2021-05-22T21:34:35-07:00"
 description: 'These past couple weeks have been busy, but I hope things are going
   to fall back into schedule soon. '
@@ -11,11 +9,10 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/nj0bzo/geekosaur_weekly_14_sad_manga_news_the_mangaanime/
 slug: geekosaur-weekly-14
 tags:
-
 title: 'Geekosaur News #14: Sad Manga News, The Manga/Anime Takeover, And What I''m
   Up To'
 toc: true
-tweet: 1396327854648946691
+tweetId: "1396327854648946691"
 ---
 
 These past couple weeks have been busy, but I hope things are going to fall back into schedule soon. 

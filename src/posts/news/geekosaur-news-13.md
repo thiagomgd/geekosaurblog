@@ -1,6 +1,4 @@
 ---
-categories:
-
 date: "2021-05-09T20:25:09-07:00"
 description: Busy week didn't let me check much online content this week, but at least
   I kept reading and managed to finish a book today!
@@ -10,10 +8,9 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/n8uvql/geekosaur_weekly_13_busy_week_and_books/
 slug: geekosaur-weekly-13
 tags:
-
 title: 'Geekosaur News #13: Busy Week And Books'
 toc: true
-tweet: 1391596674464714753
+tweetId: "1391596674464714753"
 ---
 
 Busy week didn't let me check much online content this week, but at least I kept reading and managed to finish a book today!

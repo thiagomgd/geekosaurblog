@@ -10,7 +10,7 @@ reddit: https://www.reddit.com/r/geekosaur/comments/l8v7ew/geekosaur_weekly_1_ge
 slug: geekosaur_weekly_1
 tags:
 title: 'Geekosaur News #1'
-tweet: 1355618093209329665
+tweetId: "1355618093209329665"
 ---
 
 For a while, I was thinking about returning with the weekly updates. And this week, after seeing that Twitter acquired a newsletter service (Revue), I decided to do it. 

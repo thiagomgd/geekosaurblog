@@ -21,6 +21,6 @@ tags: []
 thumbnail: ''
 title: the-institute-stephen-king
 toc: false
-tweet: ''
+tweetId: ''
 
 ---

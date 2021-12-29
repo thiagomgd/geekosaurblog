@@ -16,7 +16,7 @@ tags:
 - Books
 - Fiction
 title: New Fiction Books [Feb. 2021]
-tweet: 1362213607061168128
+tweetId: "1362213607061168128"
 ---
 
 I haven't been buying so many books recently, which I see as a positive: I already have more books than I would need for this year, so there's no point in spending money just to expand my library. Although it's nice to do that, it adds some level of stress overall, as I see that huge (mostly virtual) pile of books I want to read and are there, just waiting for me. I recently wrote about 'backlog vs collection' in [the most recent Geekosaur Weekly issue](https://geekosaur.com/post/geekosaur-weekly-3-collection-not-backlog/).

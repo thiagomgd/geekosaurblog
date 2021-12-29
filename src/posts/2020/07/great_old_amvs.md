@@ -14,7 +14,7 @@ tags:
 - Games
 - Lists
 title: Good Old AMVs
-tweet: 1330971191608176640
+tweetId: "1330971191608176640"
 ---
 
 I remember many years ago (like, 2 decades) when I used to go to anime conventions and actually watch anime and AMVs. The 2000s were when the otaku culture was still beginning in Brazil, and internet and subbed anime was not common at all.

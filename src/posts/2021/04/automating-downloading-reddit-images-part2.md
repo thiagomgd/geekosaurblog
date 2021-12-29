@@ -14,7 +14,7 @@ tags:
 - Automating
 title: 'Automating Things: Downloading Reddit Media Part #2'
 toc: false
-tweet: 1387263984001191936
+tweetId: "1387263984001191936"
 ---
 
 Recently I shared a post on how to automate [downloading images and videos from Reddit comments](/posts/automating-downloading-reddit-images/), as well as saving links present in those comments. Today I'm adding one extra step, and making it also find the correct posts for me. That way I can download screenshots and videos for a whole show!

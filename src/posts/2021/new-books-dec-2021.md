@@ -16,7 +16,7 @@ tags:
 thumbnail: img/brandi-redd-3vz3v6judt0-unsplash.jpg
 title: December 2021 Book Haul
 toc: false
-tweet: ''
+tweetId: ''
 
 ---
 As every book lover, I always fail when I think about not buying more books. But at least seems like I have it in some kind of control, having got those mostly on huge sales on Kindle.

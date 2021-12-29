@@ -12,7 +12,7 @@ tags:
 thumbnail: /img/lee-suhyun-alien.jpeg
 title: 'Music Monday: Lee Suhyun'
 toc: false
-tweet: ""
+
 ---
 This weekend my wife and I were listening to some k-pop again, including Lee Suhyun. I was familiar with her work as AKMU (Akdong Musician), but somewhat recently we watched Mad For Each Other and she had a role there - and yes, she sings there. Also, she recorded a Lala Land cover with Lee Dongwook (Goblin, Strangers From Hell), and it's really nice.
 

@@ -1,6 +1,4 @@
 ---
-categories:
-
 date: "2021-03-20T18:19:09-07:00"
 description: his is a shorter edition, due to a very busy week, and some elbow and
   wrist pain today. But there's still good things to check here, so keep reading!
@@ -10,10 +8,9 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/m9l78b/geekosaur_weekly_8_model_trains_and_bluegrass/
 slug: geekosaur-weekly-8-model-trains
 tags:
-
 title: 'Geekosaur News #8: Model Trains and Bluegrass'
 toc: true
-tweet: 1373445980666753025
+tweetId: "1373445980666753025"
 ---
 
 I'm here again with another Geekosaur Weekly! This is a shorter edition, due to a very busy week, and some elbow and wrist pain today. But there's still good things to check here, so keep reading!

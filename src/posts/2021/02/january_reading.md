@@ -12,7 +12,7 @@ reddit: https://www.reddit.com/r/geekosaur/comments/lbg2jg/what_i_read_in_januar
 tags:
 - Monthly Reading
 title: What I Read in January, 2021
-tweet: 1356829987135922179
+tweetId: "1356829987135922179"
 ---
 
 This year I have decided to focus a bit more on reading. My previous attempts on 2019 and 2020 ranged from just mildly successful to barely nothing. To help I've decided to keep track on my reading time. First on Notion, which I used during most of January, to them using a timer on the phone, which is way easier for me.

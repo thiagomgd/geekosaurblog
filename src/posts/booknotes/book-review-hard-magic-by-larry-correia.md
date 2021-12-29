@@ -15,7 +15,7 @@ tags:
 thumbnail: /img/hard-magic.jpeg
 title: 'Book Review: Hard Magic by Larry Correia'
 toc: false
-tweet: ''
+tweetId: ''
 ---
 
 Despite always being interested in the Urban Fantasy genre, I don't remember having read any recently. Not for lack of options, but mainly because YA and _regular_ fantasy have a massive presence on blogs and YouTube channels, so there's always a new great book _that everyone should be reading_ coming out. Another reason is because the genre is even less popular here in Brazil, resulting in an impressive lack of options in Portuguese. But now that I'm reading mainly in English and I have a Kindle, it's waaaay easier for me to finally give it a try to some great Urban Fantasy books.

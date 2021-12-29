@@ -13,7 +13,7 @@ tags:
 - Fall 2020
 - Seasonal Anime
 title: Fall 2020 Anime - What I'm Watching
-tweet: 1323453185986613248
+tweetId: "1323453185986613248"
 ---
 
 A bit late to the party, but let's talk seasonal anime. This is going to be a slow season for me, as I both behind in some titles, and reading/watching other non-anime stuff (and playing Animal Crossing).

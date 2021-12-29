@@ -17,7 +17,7 @@ tags:
 thumbnail: https://i.imgur.com/fSWOWrb.jpg
 title: Books of 2021 So Far (April 2021)
 toc: false
-tweet: 1389444886223495171
+tweetId: "1389444886223495171"
 ---
 
 One of my goals for this year is to read more: books, manga, articles, poetry, anything. This is part of something that gets more and more important to me every year as I get older, which is spending time on things that are worth my time. 

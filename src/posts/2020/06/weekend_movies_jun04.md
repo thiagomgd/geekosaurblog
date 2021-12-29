@@ -11,7 +11,7 @@ tags:
 - Movies
 - Watching
 title: Weekend Movies [Jun 4, 2020]
-tweet: 1268663826632847367
+tweetId: "1268663826632847367"
 ---
 
 My parents and I decided to watch some movies, instead of starting a new TV show, so we can enjoy the last few days of Telecine's free trial. Check below what we watched this weekend!

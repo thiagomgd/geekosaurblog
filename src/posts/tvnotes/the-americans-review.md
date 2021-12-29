@@ -11,7 +11,7 @@ tags: []
 thumbnail: ""
 title: the-americans-review
 toc: false
-tweet: ""
+
 ---
 Now premiering its 4th season, The Americans is always proving itself as a great, insightful and thought-provoking show. After a long time without any major spy shows (that I remember, at least), The Americans is good and strong enough to, hopefully, star a new wave of TV spy dramas.
 

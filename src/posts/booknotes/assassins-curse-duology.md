@@ -9,7 +9,7 @@ tags: ["Books", "Review"]
 title: "Review: The Assassin's Curse Duology"
 slug: "review-assassins-curse-duology"
 reddit: https://www.reddit.com/r/geekosaur/comments/hiyg24/review_the_assassins_curse_duology/
-tweet: 1370915986468052992
+tweetId: "1370915986468052992"
 ---
 
 This is a book series (duology) that is not that famous (I think) but worth reading.

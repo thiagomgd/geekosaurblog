@@ -1,6 +1,4 @@
 ---
-categories:
-
 date: "2021-11-13T17:11:52Z"
 description: Another week, another round of news, thoughts and random stuff!
 images:
@@ -10,11 +8,10 @@ reddit: ""
 series: ""
 slug: geekosaur-news-18
 tags:
-
 thumbnail: /img/estee-janssens-aqfhbxailcs-unsplash.jpg
 title: 'Geekosaur News #18: Microsoft''s Notion Clone, Twitter Blue And More!'
 toc: true
-tweet: ""
+
 ---
 Another week, another round of news, thoughts and random stuff!
 

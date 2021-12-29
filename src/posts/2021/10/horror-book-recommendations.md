@@ -16,7 +16,7 @@ tags:
 thumbnail: /img/horror-books-1.jpeg
 title: Horror Book Recommendations
 toc: true
-tweet: ""
+
 ---
 October is almost done, and I just realized I never recommended any horror book here. Now, let's do it, in no particular order!
 

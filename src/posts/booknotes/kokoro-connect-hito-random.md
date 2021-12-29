@@ -21,5 +21,5 @@ tags: []
 thumbnail: ''
 title: kokoro-connect-hito-random
 toc: false
-tweet: ''
+tweetId: ''
 ---

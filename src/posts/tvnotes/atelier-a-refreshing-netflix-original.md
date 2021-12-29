@@ -15,7 +15,7 @@ tags:
 thumbnail: /img/atelier.jpeg
 title: 'Atelier: A Refreshing Netflix Original'
 toc: false
-tweet: ""
+
 ---
 This time, I went for a Netflix original j-drama, developed by Fuji Television, called Atelier. Although I've watched Japanese and Chinese movies when I was younger, this was my first Asian TV show.
 

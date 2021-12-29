@@ -16,7 +16,7 @@ tags:
 thumbnail: /img/morphine.jpeg
 title: 'New vinyl records: Oct. 16th 2021'
 toc: false
-tweet: "1449519152532627457"
+tweetId: "1449519152532627457"
 ---
 Recently I've got a few more records. Let's check them!
 

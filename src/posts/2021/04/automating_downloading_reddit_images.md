@@ -20,7 +20,7 @@ slug: automating-downloading-reddit-images
 tags:
 - Automating
 title: 'Automating Things: Downloading Reddit Media'
-tweet: 1381038734229991425
+tweetId: "1381038734229991425"
 ---
 
 This week, Crow published an interesting [post about automating blog tasks](https://www.crowsworldofanime.com/posts/automating-blog-tasks-blog-shop-talk/). That reminded me of a few things I have done but never shared here (or on one of my previous blogs), and I think it's time to post them here.

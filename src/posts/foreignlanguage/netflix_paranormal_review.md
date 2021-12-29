@@ -8,7 +8,7 @@ categories: ["Movies & TV"]
 series: ["Foreign Language"]
 images: ["https://i.imgur.com/desgj4S.jpg"]
 reddit: https://www.reddit.com/r/geekosaur/comments/kg252x/paranormal_supernatural_mystery_from_egypt/
-tweet: 1340169407851446274
+tweetId: "1340169407851446274"
 ---
 
 As I mentioned in the last post, this year I've watched some great foreign language movies and TV shows. For this series of posts I'm going to start with the most recent that I finished: Paranormal. 

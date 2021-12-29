@@ -5,7 +5,7 @@ title: Foreign Language Movies & TV
 templateClass: tmpl-post
 permalink: /foreign-language-movies-tv/
 reddit: https://www.reddit.com/r/geekosaur/comments/mujrkk/foreing_language_movies_shows/
-tweet: 1384383047475228675
+tweetId: "1384383047475228675"
 eleventyNavigation:
   key: Foreign Language Movies & TV
   order: 3

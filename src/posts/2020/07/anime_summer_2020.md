@@ -15,7 +15,7 @@ tags:
 - Anime
 - Watching
 title: Anime I'm Watching This Season
-tweet: 1289252748832182273
+tweetId: "1289252748832182273"
 ---
 
 We are a few weeks into summer 2020 season, and it's time to talk about which anime I'm watching this time. Let's see!

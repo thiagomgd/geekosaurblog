@@ -1,6 +1,4 @@
 ---
-categories:
-
 date: "2021-05-30T16:08:42-07:00"
 description: 'Another busy week at work, but now things will settle down for a while.
   And while I wasn''t much online this week - being away from the computer when not
@@ -11,10 +9,9 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/non83n/geekosaur_weekly_15_tv_shows_and_games/
 slug: geekosaur-weekly-15
 tags:
-
 title: 'Geekosaur News #15: TV Shows And Games'
 toc: true
-tweet: 1399144287724478468
+tweetId: "1399144287724478468"
 ---
 
 Another busy week at work, but now things will settle down for a while. And while I wasn't much online this week - being away from the computer when not working - I did enjoy some great TV shows on stream. 

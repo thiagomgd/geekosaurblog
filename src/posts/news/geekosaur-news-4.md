@@ -1,6 +1,4 @@
 ---
-categories:
-
 date: "2021-02-20T12:30:02-08:00"
 description: Another weekly updates, thoughts, music and internet things!
 draft: false
@@ -10,10 +8,9 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/logcnz/geekosaur_weekly_4_whats_regret_anime_bingos/
 slug: geekosaur-weekly-4
 tags:
-
 title: 'Geekosaur News #4: What''s regret? Anime bingos, ditching RSS for emails,
   and more'
-tweet: 1363228938978222080
+tweetId: "1363228938978222080"
 ---
 
 Another weekly updates, thoughts, music and internet things!

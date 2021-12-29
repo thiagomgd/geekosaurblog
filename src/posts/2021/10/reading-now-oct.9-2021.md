@@ -16,7 +16,7 @@ tags:
 thumbnail: /img/244464316_1210475762776332_6027649036626848770_n.jpg
 title: Reading Now (Oct 9, 2021)
 toc: false
-tweet: "1447022678360035329"
+tweetId: "1447022678360035329"
 ---
 Recently I've been reading a bit more again. I've got a few books in the past couple months, and had a great time with the ones I've read so far.
 

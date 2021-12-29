@@ -12,7 +12,7 @@ tags:
 thumbnail: /img/nicki-nicole-tiny-desk.jpeg
 title: 'Music Monday #7: Tiny Desk Concerts'
 toc: false
-tweet: ""
+
 ---
 Another week, another Music Monday, this time with some Tiny Desk concerts, which I love.
 

@@ -14,7 +14,7 @@ tags:
 - Music
 - Lists
 title: My 2020 Spotify Wrapped
-tweet: 1335724672562982912
+tweetId: "1335724672562982912"
 ---
 
 The year is coming to an end, and Spotify released my 2020 rewind - or 2020 wrapped. Let's have a look on what I listened to this year. I saved the best for last, of course!

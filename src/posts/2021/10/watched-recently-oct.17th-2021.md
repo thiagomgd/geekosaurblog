@@ -16,7 +16,7 @@ tags:
 thumbnail: /img/groundhogday.jpeg
 title: 'Watched Recently: Oct. 17th 2021'
 toc: false
-tweet: ""
+
 ---
 Let's talk a bit about what I've been watching!
 

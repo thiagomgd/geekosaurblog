@@ -13,7 +13,7 @@ tags:
 thumbnail: /img/the-lighthouse-witches.jpeg
 title: 'Book Notes: The Lighthouse Witches (C. J. Cooke)'
 toc: false
-tweet: ''
+tweetId: '1459030993436827667'
 
 ---
 

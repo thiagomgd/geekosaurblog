@@ -9,7 +9,7 @@ categories: ["Books"]
 images: ["https://i.imgur.com/5vePw9f.jpeg"]
 thumbnail: "https://i.imgur.com/5vePw9f.jpeg"
 reddit: https://www.reddit.com/r/geekosaur/comments/kpdo4c/book_review_the_word_is_murder_by_anthony/
-tweet: 1345588526922883072
+tweetId: "1345588526922883072"
 ---
 
 

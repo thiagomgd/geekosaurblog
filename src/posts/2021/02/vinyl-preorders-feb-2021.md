@@ -16,7 +16,7 @@ tags:
 - Music
 - My Record Collection
 title: Vinyl Record Pre-Orders [Feb. 15 2020]
-tweet: 1361407987588337665
+tweetId: "1361407987588337665"
 ---
 
 This year I decided to invest a bit ore in my record collection and gradually expand it. I've been spending less on Uber Eats, and directing some of that saved money on music. Still, this is not a big list, as I don't pre-order much. Maybe I should? Considering the price usually goes up after release, it's actually a good idea.

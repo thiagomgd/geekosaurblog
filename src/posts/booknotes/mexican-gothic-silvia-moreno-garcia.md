@@ -21,6 +21,6 @@ tags: []
 thumbnail: ''
 title: mexican-gothic-silvia-moreno-garcia
 toc: false
-tweet: ''
+tweetId: ''
 
 ---

@@ -1,6 +1,4 @@
 ---
-categories:
-
 date: "2021-02-13T10:45:14-08:00"
 description: Welcome to the 3rd issue of Geekosaur Weekly, wishing everyone a great
   lunar new year!
@@ -10,9 +8,8 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/lj6wgo/geekosaur_weekly_3_its_not_a_backlog_its_a/
 slug: geekosaur-weekly-3-collection-not-backlog
 tags:
-
 title: 'Geekosaur News 3: It''s not a backlog, it''s a collection'
-tweet: 1360667185799000065
+tweetId: "1360667185799000065"
 ---
 
 Welcome to the 3rd issue of Geekosaur Weekly, wishing everyone a great lunar new year!

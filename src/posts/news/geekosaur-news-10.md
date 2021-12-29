@@ -1,6 +1,4 @@
 ---
-categories:
-
 date: "2021-04-17T10:53:12-07:00"
 description: After a couple weeks off, I'm back with another Geekosaur Weekly!
 draft: false
@@ -9,12 +7,11 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/msvozd/geekosaur_weekly_10/
 slug: geekosaur-weekly-10
 tags:
-
 - Light Novels
 - Anime
 title: 'Geekosaur News #10'
 toc: true
-tweet: 1383481302964342785
+tweetId: "1383481302964342785"
 ---
 
 After a couple weeks off, I'm back with another Geekosaur Weekly! This time focused only on updates - no thoughts to share 😕.

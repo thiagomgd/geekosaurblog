@@ -14,7 +14,7 @@ tags:
 thumbnail: "/img/estee-janssens-aqfhbxailcs-unsplash.jpg"
 title: 'Geekosaur News #20: Games, Blog Migration and Nerd Comedy Standup'
 toc: false
-tweet: ''
+tweetId: "1473765711902302218"
 
 ---
 Time for another Geekosaur Weekly, were I share some news, thoughts and random links.

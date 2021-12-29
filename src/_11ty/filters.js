@@ -29,7 +29,7 @@ module.exports = {
     )}`;
   },
   generateShareLink: (url, text) => {
-    const shareText = `${text} by @FalconSensei`;
+    const shareText = `${text}`; // by @FalconSensei`;
     const shareUrl = `${rootUrl}${url}`;
     return `https://twitter.com/intent/tweet/?text=${encodeURI(
       shareText

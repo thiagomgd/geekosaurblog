@@ -14,7 +14,7 @@ tags:
 - TV
 - Watching
 title: What I'm Watching [Oct. 4, 2020]
-tweet: 1313215829757091840
+tweetId: "1313215829757091840"
 ---
 
 So, after a post on what I'm reading, let's talk a bit about TV!

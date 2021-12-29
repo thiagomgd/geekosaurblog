@@ -9,7 +9,7 @@ date:
 thumbnail: ''
 toc: false
 series: ''
-tweet: ''
+tweetId: ''
 reddit: ''
 images: []
 

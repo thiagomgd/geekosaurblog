@@ -16,7 +16,7 @@ tags:
 thumbnail: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593457992i/35224992.jpg
 title: New books on my  list (Nov. 2021)
 toc: false
-tweet: ""
+
 ---
 Being interested in so many different things and genres is not easy. Paired with some good FOMO, and my to-read/watch lists just keep growing more and more. Still, let's see some books I recently got interested into!
 

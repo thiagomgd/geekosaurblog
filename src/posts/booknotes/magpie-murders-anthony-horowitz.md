@@ -21,6 +21,6 @@ tags: []
 thumbnail: ''
 title: magpie-murders-anthony-horowitz
 toc: false
-tweet: ''
+tweetId: ''
 
 ---

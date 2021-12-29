@@ -10,7 +10,7 @@ reddit: https://www.reddit.com/r/geekosaur/comments/iojb0l/music_monday_katy_per
 tags:
 thumbnail: https://i.imgur.com/N7CUNPf.jpg
 title: 'Music Monday: Katy Perry - Smile'
-tweet: 1303129280587739138
+tweetId: "1303129280587739138"
 ---
 
 This past week I've listened a few times to the new Katy Perry's album: Smile. Below I added a few MVs, and also the spotify album.

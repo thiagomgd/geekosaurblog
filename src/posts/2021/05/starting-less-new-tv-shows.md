@@ -16,7 +16,7 @@ tags:
 - FOMO
 title: Starting Less New TV Shows For Now
 toc: false
-tweet: 1392714210224656388
+tweetId: "1392714210224656388"
 ---
 
 *Too many cool TV shows, too little time to watch all of them. Who else has this problem?*
