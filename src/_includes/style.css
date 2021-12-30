@@ -581,6 +581,7 @@ div.card {
   background-color: #f5f5f5;
 	margin-bottom: 1em;	
   position: relative;
+  max-width: fit-content;
 }
 
 div.card-badge {
