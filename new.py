@@ -14,11 +14,6 @@ def print_menu(options):
     print(30 * '-')
 
 def get_slug(folder, path):
-    if folder in ["2022","draft","foreignlanguage","tvmovienotes"]:
-        # todo: slugify title (or just space->'-', remove special chars, and and lower case? )
-        slug = input("slug: ")
-        return slug, slug
-
     if folder == "booknotes":
         # todo: slugify title (or just space->'-', remove special chars, and and lower case? )
         title_slug = input('title-slug:')
@@ -35,14 +30,15 @@ def get_slug(folder, path):
 
         return p_slug.format(fileNumber+1), t_slug.format(fileNumber+1)
 
+    # todo: slugify title (or just space->'-', remove special chars, and and lower case? )
+    slug = input("slug: ")
+    return slug, slug
 
-    return "", ""
 
-
-folders = ["2022","draft","booknotes","foreignlanguage","musicmonday","news","tvmovienotes"]
+folders = ["2022","drafts","booknotes","foreignlanguage","musicmonday","news","tvmovienotes"]
 
 metadata = """---
-date: '{}'
+date: '{}T16:00:00Z'
 description: ''
 lead: ''
 draft: true
@@ -54,6 +50,17 @@ title: '{}'
 # tweetId: ''
 ---
 
+{% figure "src","caption","vertical","alt" %}
+
+{% blur "src","caption","vertical","alt" %}
+
+{% youtube '' %}
+
+{% reddit '' %}
+
+<div class="cards">
+{% card "title","cover","rating","review","goodreads" %}
+</div>
 """
 
 print_menu(folders)

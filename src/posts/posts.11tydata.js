@@ -1,8 +1,6 @@
-// require('dotenv').config();
+// const { process } = require("clean-css");
 
-const { process } = require("clean-css");
-
-const isDevEnv = false; //process.env.ELEVENTY_ENV === 'development';
+const isDevEnv = process.env.ELEVENTY_ENV === 'development';
 const todaysDate = new Date();
 
 function showDraft(data) {

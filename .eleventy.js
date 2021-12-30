@@ -15,9 +15,6 @@ const pairedShortcodes = require('./src/_11ty/pairedShortcodes');
 const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
 const { process } = require("clean-css");
 
-const now = new Date();
-const livePosts = p => p.date <= now && !p.data.draft;
-
 module.exports = function(eleventyConfig) {
   // Add plugins
   eleventyConfig.addPlugin(pluginRss);
