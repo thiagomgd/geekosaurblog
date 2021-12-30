@@ -10,7 +10,7 @@ series: ""
 slug: music-monday-lee-suhyun
 tags:
 thumbnail: /img/lee-suhyun-alien.jpeg
-title: 'Music Monday: Lee Suhyun'
+title: 'Music Monday #6: Lee Suhyun'
 toc: false
 
 ---

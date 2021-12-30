@@ -5,7 +5,8 @@
   "scripts": {
     "build": "npx @11ty/eleventy",
     "start": "npx @11ty/eleventy --serve",
-    "debug": "DEBUG=* npx @11ty/eleventy"
+    "debug": "DEBUG=* npx @11ty/eleventy",
+    "new": "node newPost.js"
   },
   "repository": {
     "type": "git",

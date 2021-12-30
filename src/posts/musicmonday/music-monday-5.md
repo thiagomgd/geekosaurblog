@@ -10,7 +10,7 @@ series: ""
 slug: sam-smith-live-music-monday
 tags:
 thumbnail: /img/244743271_840397100007577_364151050713337246_n.jpg
-title: 'Music Monday: Sam Smith live at Abbey Road Studios'
+title: 'Music Monday #5: Sam Smith live at Abbey Road Studios'
 toc: false
 
 ---

@@ -7,7 +7,7 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/h9gunx/some_jpop_music_monday_jun_14/
 tags:
 thumbnail: https://i.imgur.com/vsvu8zA.jpg
-title: 'Some J-Pop [Music Monday: Jun 14]'
+title: 'Music Monday #2: Some J-Pop'
 ---
 
 Another Monday, another #MusicMonday for you! Today, featuring some J-Pop: LELLE, Necry Talkie and Mirei Touyama.

@@ -10,7 +10,7 @@ reddit: https://www.reddit.com/r/geekosaur/comments/he2ykt/random_music_music_mo
 slug: random-music-jun-22
 tags:
 thumbnail: https://images.pexels.com/photos/1626481/pexels-photo-1626481.jpeg
-title: Random Music [Music Monday, Jun 22]
+title: "Music Monday #3: Random Music"
 ---
 
 Last week I started checking some random music on Youtube, and went down the rabbit hole (as always).

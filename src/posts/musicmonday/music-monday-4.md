@@ -9,7 +9,7 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/iojb0l/music_monday_katy_perry_smile/
 tags:
 thumbnail: https://i.imgur.com/N7CUNPf.jpg
-title: 'Music Monday: Katy Perry - Smile'
+title: 'Music Monday #4: Katy Perry - Smile'
 tweetId: "1303129280587739138"
 ---
 
