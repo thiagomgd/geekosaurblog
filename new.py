@@ -39,27 +39,27 @@ folders = ["2022","drafts","booknotes","foreignlanguage","musicmonday","news","t
 
 metadata = """---
 date: '{}T16:00:00Z'
-description: ''
-lead: ''
+title: "{}"
+description: ""
+lead: ""
 draft: true
 # thumbnail: /img/
 slug: '{}'
 tags:
-title: '{}'
 # reddit: 
 # tweetId: ''
 ---
 
-{% figure "src","caption","vertical","alt" %}
+{{% figure "src","caption","vertical","alt" %}}
 
-{% blur "src","caption","vertical","alt" %}
+{{% blur "src","caption","vertical","alt" %}}
 
-{% youtube '' %}
+{{% youtube '' %}}
 
-{% reddit '' %}
+{{% reddit '' %}}
 
 <div class="cards">
-{% card "title","cover","rating","review","goodreads" %}
+{{% card "title","cover","rating","review","goodreads" %}}
 </div>
 """
 

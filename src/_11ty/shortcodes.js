@@ -69,20 +69,21 @@ const blur = (src, caption, className="", alt="") => {
 </div>`;
 };
 
-function card(title, img, rating, review_link,goodreads) {
+function card(title, img, rating, review_link, goodreads) {
 
   const badge = rating ? `<div class="card-badge">${rating}</div>` : EMPTY;
   const imgTag = img ? `<div class="card-image-div"><img src="${img}"/></div>` : EMPTY;
   const reviewTag = review_link ? `<p><a href="${review_link}">Review</a></p>` : EMPTY;
-  const goodreadsTag = goodreads ? `<p><a href="${goodreads}">Goodreads</a></p>` : EMPTY;
-  // const contentDiv = content ? `<div class="card-content"> ${markdownIt.render(content)} </div>` : EMPTY;
+  // todo: extract domain and use as link text
+  const goodreadsTag = goodreads ? `<p><a href="${goodreads}" target="_blank" rel="noopener noreferrer">Goodreads</a></p>` : EMPTY;
 
   return `<div class="card">
 ${badge}  
 ${imgTag}
 <div class="card-content">
 <p class="card-title">${title}</p>
-${reviewTag} ${goodreads}
+${reviewTag} 
+${goodreadsTag}
 </div>
 </div>`;
 }
