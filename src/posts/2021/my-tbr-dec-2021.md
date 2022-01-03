@@ -7,6 +7,7 @@ draft: false
 thumbnail: /img/brandi-redd-3vz3v6judt0-unsplash.jpg
 slug: 'my-tbr-dec-2021'
 tags:
+- Books
 # reddit: 
 tweetId: '1476679978507026434'
 ---

@@ -9,8 +9,8 @@ slug: 'changing-reading-tracking'
 tags:
 - Books
 - Reading Stats
-# reddit: 
-# tweetId: ''
+reddit: https://www.reddit.com/r/geekosaur/comments/rvfhw4/changing_how_i_track_my_reading/
+tweetId: '1478148896119566337'
 ---
 
 Last year, I started logging how much time I was reading every day, separated in Fiction, Nonfiction, Learning and Manga ([Like I posted here](/post/reading-stats-so-far-sept2021/)). During December, I gave up and stopped doing that, even though it was kind of a nice data to keep track of. 
