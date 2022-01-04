@@ -22,3 +22,5 @@ tags:
 <div class="cards">
 {% card "title","cover","rating","review","goodreads" %}
 </div>
+
+As time passes and our TBR grows, it's easy to lose track of books we really want to read

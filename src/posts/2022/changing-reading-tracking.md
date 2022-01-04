@@ -26,3 +26,5 @@ What I also like about this, is that this can be an incentive for me to journal 
 {% figure "/img/notion_weekly_journal.png","Main view: week number + data","vertical" %}
 
 {% figure "/img/notion_journal_pages_read.png","And this is inside the page for each week, along with personal notes/journal","vertical" %}
+
+**Update**: One thing I didn't mention is that for manga, I'll be tracking chapters read, since comparing pages read fom a book to a comic book is going to mess with it. That's one of the reasons I had the tracking by time before. But I think that's going to work well :)
