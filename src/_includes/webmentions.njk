@@ -34,7 +34,7 @@
 
 {% if repostsSize > 0 %}
 <div class="webmentions__facepile flow">
-  <h3 style="margin-bottom:1em" {% if repostsSize > 11 or likesSize > 11 %} class="webmentions__facepile__squish" {% endif %}>{{ repostsSize }} Retweet{% if repostsSize != 1 %}s{% endif %}</h3>
+  <h3 style="margin-bottom:1em" {% if repostsSize > 11 or likesSize > 11 %} class="webmentions__facepile__squish" {% endif %}>{{ repostsSize }} Share{% if repostsSize != 1 %}s{% endif %}</h3>
 
     {% for webmention in reposts %}
       {% if webmention.url != "" %}
