@@ -10,7 +10,7 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/jo6925/new_nonfiction_ebooks_i_got_recently_nov_2020/
 tags:
 - Books
-- Non-fiction
+- Non-Fiction
 title: New Nonfiction eBooks I Got Recently [Nov. 2020]
 toc: true
 tweetId: "1324118309042835456"
