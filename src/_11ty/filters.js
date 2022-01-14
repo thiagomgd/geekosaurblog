@@ -88,4 +88,36 @@ module.exports = {
     const size = 3;
     return matchesByRelevance.slice(0, size);
   },
+  getWebmentionsForUrl: (webmentions, url) => {
+    
+    return webmentions.children.filter(entry => entry['wm-target'] === url)
+  },
+  isOwnWebmention: (webmention) => {
+    const urls = [
+      'https://sia.codes',
+      'https://twitter.com/thegreengreek'
+    ]
+    const authorUrl = webmention.author ? webmention.author.url : false
+    // check if a given URL is part of this site.
+    return authorUrl && urls.includes(authorUrl)
+  },
+  sortWebmentions: (mentions) => {
+    return mentions.sort((a, b) => {
+      if (a["published"] < b["published"]) {
+        return -1;
+      }
+      if (a["published"] > b["published"]) {
+        return 1;
+      }
+      // a must be equal to b
+      return 0;
+    })
+  },
+  webmentionsByType: (mentions, mentionType) => {
+    return mentions.filter(entry => !!entry[mentionType])
+  },
+  truncate: text => text.length > 300 ? `${text.substring(0, 300)}...` : text,
+  size: (mentions) => {
+    return !mentions ? 0 : mentions.length
+  },
 };
