@@ -10,8 +10,8 @@ tags:
 - Books
 - Lists
 - Non-Fiction
-# reddit: 
-# tweetId: ''
+reddit: https://www.reddit.com/r/geekosaur/comments/s41pqv/my_nonfiction_must_read_for_2022/
+tweetId: '1482085612677177344'
 ---
 
 As time passes and our TBR grows, it's easy to lose track of books we really want to read. I get easily distracted, lazy, and then the year ends and I didn't do much of what I hoped to.
