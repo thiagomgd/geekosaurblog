@@ -705,7 +705,8 @@ div.cards {
 .webmentions h3 {margin-top: 40px;}
 .webmentions__facepile a {
   border: none;
-  box-shadow: none;}
+  box-shadow: none;
+  text-decoration: none;}
 .webmentions__facepile a:hover {background: none;}
 .webmentions a:hover img { filter: drop-shadow(3px 5px 10px var(--pink-20));}
 .webmention-replies img {
