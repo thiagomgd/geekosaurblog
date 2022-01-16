@@ -53,7 +53,7 @@ ${metaDataInner}
 ${siteNameSection}
 ${authorSection}
 <hr>
-${content}
+<p>${content}</p>
 ${readMoreSection}
 </div>
 </div>`;
