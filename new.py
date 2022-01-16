@@ -17,7 +17,7 @@ def get_slug(folder, path):
     if folder == "booknotes":
         # todo: slugify title (or just space->'-', remove special chars, and and lower case? )
         title_slug = input('title-slug:')
-        return "book-notes-{}".format(title_slug), "Book Notes: {}".format(title_slug)
+        return "book-notes-{}".format(title_slug), "Book Notes: {}".format(title_slug), title_slug
 
     if folder in ["musicmonday","news"]:
         fileNumber = len([name for name in os.listdir(path) if name.endswith('.md')])   #os.path.isfile(os.path.join(path, name))]))
@@ -32,7 +32,7 @@ def get_slug(folder, path):
 
     # todo: slugify title (or just space->'-', remove special chars, and and lower case? )
     slug = input("slug: ")
-    return slug, slug
+    return slug, slug, slug
 
 
 folders = ["2022","drafts","booknotes","foreignlanguage","musicmonday","news","tvmovienotes"]
@@ -70,14 +70,15 @@ folder = folders[int(choice)]
 
 path = "src/posts/{}".format(folder)
 
-slug, title = get_slug(folder, path)
+slug, title, filename = get_slug(folder, path)
 
-print(slug, title)
+filename = filename if (filename != None and filename != "") else slug
+print(filename, slug, title)
 
 
 fileText = metadata.format(datetime.today().strftime('%Y-%m-%d'), title, slug)
 print(fileText)
 
-with open('{}/{}.md'.format(path, slug), mode='w') as mdfile:
+with open('{}/{}.md'.format(path, filename), mode='w') as mdfile:
     mdfile.write(fileText)
     

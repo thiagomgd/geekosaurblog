@@ -12,7 +12,6 @@ reddit: https://www.reddit.com/r/geekosaur/comments/kpdo4c/book_review_the_word_
 tweetId: "1345588526922883072"
 ---
 
-
 Since I was very young, I've always been a big fan of good mysteries. I still remember when I first got The Hound Of The Baskervilles, by Arthur Conan Doyle. It was a delight!
 
 Then, fast forward to a year or so ago, and I was reading The Magpie Murders, my first Anthony Horowitz novel. I loved it so much, and I still need to write at least a short review here.
