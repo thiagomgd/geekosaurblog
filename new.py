@@ -75,7 +75,7 @@ slug, title = get_slug(folder, path)
 print(slug, title)
 
 
-fileText = metadata.format(datetime.today().strftime('%Y-%m-%d'), slug, title)
+fileText = metadata.format(datetime.today().strftime('%Y-%m-%d'), title, slug)
 print(fileText)
 
 with open('{}/{}.md'.format(path, slug), mode='w') as mdfile:
