@@ -20,15 +20,15 @@ Second, this book is divided in 5 parts, and originally, it was only a novelette
 
 ![](/img/books/wool.jpeg)
 
-So, what's it about? Trying to avoid spoilers, it's a book about people in the future living in a self-sufficient silo underground after some apocalyptic scenario happened. They live there and can never leave, and the simple mention on wanting out causes them to be sent to _cleaning_, which is basically beind thrown out, and they are supposed to clean the cameras that allow for the people inside to see the outside world.
+So, what's it about? Trying to avoid spoilers, it's a book about people in the future living in a self-sufficient silo underground after some apocalyptic scenario happened. They live there and can never leave, and the simple mention on wanting out causes them to be sent to _cleaning_, which is basically being thrown out, and they are supposed to clean the cameras that allow for the people inside to see the outside world.
 
 It's a great blend of character driven story and mystery. After every discovery, every twist, there's more to be intrigued by, to wonder, to be amazed at. It's also very human, as many times with science fiction, so we can at the same time think "_why the heck did they do that?_" while also totally see it happening in the real world. Bad thing happen, but it doesn't feel gratuitious.
 
 The book is divided in 5 parts, but there's mostly 3 bigger parts: the first with sheriff Holston - the original part - which is very character focused and leaves too many questions on your mind, and you will want to know more.
 
-Then there's the part with mayor Jahns and deputy Marnes, which gives a little bit more of an overview of the silo and its residents. A better glimpse of that post-apocalyptic world, while still very character driven.
+Then there's the part with mayor Jahns and deputy Marnes, which gives a bit more of an overview of the silo and its residents. A better glimpse of that post-apocalyptic world, while still very character driven.
 
-After that, the book focuses on Juliette and gives us so much more on the silo, the world, the power structure, the rules. It has more adventure, more things at stake, and it's just so damn good. Not that the previous parts were not, they were great. It's just that as you discover more about that world, you want to know even more, to keep discovering things.
+After that, the book focuses on Juliette, people in the mechanical section, and things that unravel after the second part's happenings. It gives us so much more on the silo, the world, the power structure, the rules. It has more adventure, more things at stake, and it's just so damn good. Not that the previous parts were not, they were great. It's just that as you discover more about that world, you want to know even more, to keep discovering things.
 
 The cleaning, so important for these characters and the silo, an integral part of the rules and the life there, is intriguing and Hugh Howey makes great use of it - the impact on the ones that leave, and the ones left behind - to dig deeper in human nature and psyche.
 
