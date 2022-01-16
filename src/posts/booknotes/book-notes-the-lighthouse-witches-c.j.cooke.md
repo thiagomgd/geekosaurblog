@@ -31,4 +31,8 @@ In the end, I picked up this book because it was beautiful and the plot sounded 
 
 > Forgiveness is a kind of time travel, only better. Because it sutures the wounds of the past with the wisdom of the present, at the same moment as it promises a better future.
 
+Most of the time reading this book, I was listening to The Serpent soundtrack, which I leave the first track below!
+
+{% youtube 'ZgJeWP_vw8M' %}
+
 {% myembed {title:"The Lighthouse Witches", author:"C.J.  Cooke", url:"https://www.goodreads.com/book/show/57310655-the-lighthouse-witches", image:"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621523851i/57310655.jpg", year:2021} %}Two sisters go missing on a remote Scottish island. Twenty years later, one is found--but she's still the same age as when she disappeared. The secrets of witches have reached across the centuries in this chilling Gothic thriller from the author of the acclaimed The Nesting.{% endmyembed %}
