@@ -21,14 +21,17 @@ def get_slug(folder, path):
 
     if folder in ["musicmonday","news"]:
         fileNumber = len([name for name in os.listdir(path) if name.endswith('.md')])   #os.path.isfile(os.path.join(path, name))]))
+        
         if folder == "musicmonday":
             p_slug = 'music-monday-{}'
             t_slug = 'Music Monday #{}:' 
+            filename = 'mm-{}'
         else:
             p_slug = "geekosaur-news-{}"
             t_slug = 'Geekosaur Weekly #{}:' 
+            filename = 'gn-{}'
 
-        return p_slug.format(fileNumber+1), t_slug.format(fileNumber+1)
+        return p_slug.format(fileNumber+1), t_slug.format(fileNumber+1), filename.format(fileNumber+1)
 
     # todo: slugify title (or just space->'-', remove special chars, and and lower case? )
     slug = input("slug: ")

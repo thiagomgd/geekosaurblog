@@ -1,15 +1,11 @@
 ---
-categories:
-date: "2021-11-15T21:03:59Z"
-description: ""
-draft: true
-images: []
-lead: ""
+date: "2022-01-24T21:03:59Z"
+description: "For something chill and different, Sara Watkins, Sarah Jarosz and Steve Martin and the Steep Canyon Rangers!"
+draft: false
 reddit: ""
-series: ""
 slug: music-monday-8
 tags: []
-thumbnail: ""
+thumbnail: /img/steve-martin-npr-tiny-desk.jpeg
 title: 'Music Monday #8: Folk Tiny Desk Concerts'
 toc: false
 
