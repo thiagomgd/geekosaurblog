@@ -4,7 +4,7 @@ const domain = require("./metadata.json").domain;
 const { readFromCache, writeToCache } = require("../_11ty/helpers");
 
 // Define Cache Location and API Endpoint
-const CACHE_FILE_PATH = "_cache/webmentions.json";
+const CACHE_FILE_PATH = "src/_cache/webmentions.json";
 const API = "https://webmention.io/api";
 const TOKEN = "gbdqcZXnxQEW6viIwKa_1Q"; //process.env.WEBMENTION_IO_TOKEN
 
