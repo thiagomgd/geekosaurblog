@@ -12,6 +12,4 @@ eleventyComputed:
 permalink: "note/{{ note.id }}/"
 ---
 
-{{ note.title }} {{ note.created_time | readableDate }}
-
 {{ note.content }}
