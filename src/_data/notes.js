@@ -91,6 +91,8 @@ async function fetchNotes(since) {
       const noteContent = await fetchPage(note.id)
       const newNote = {
         ...getMetadata(note),
+        // TODO: GET TEXT CONTENT
+        // or maybve use https://11ty.rocks/eleventyjs/content/#excerpt-filter for twitter text
         content: noteContent,
         title: getTitle(note),
         tags: getTags(note),

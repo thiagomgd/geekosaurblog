@@ -9,7 +9,7 @@ eleventyNavigation:
 <section class="content-780">
 <h1>Notes</h1>
 
-{% for note in notes -%}
+{% for note in notes | reverse -%}
 
 [{{ note.title }}](/note/{{ note.id }}/) - {{ note.created_time | readableDate }}
 
