@@ -15,7 +15,14 @@ function unique(array) {
 }
 
 function readableDate(dateObj) {
-  return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("dd LLL yyyy");
+  return new Date(dateObj).toLocaleDateString(
+    'en-us',
+    {
+      year: 'numeric',
+      month: 'short',
+      day: 'numeric'
+    }
+  );
 }
 
 module.exports = {

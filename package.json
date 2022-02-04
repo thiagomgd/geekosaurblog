@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "description": "An Eleventy blog starter forked from eleventy-base-blog but with Sia's opinions",
   "scripts": {
-    "start": "ELEVENTY_ENV=development npx @11ty/eleventy --serve",
-    "build:local": "ELEVENTY_ENV=devbuild npx @11ty/eleventy",
-    "build": "npx @11ty/eleventy",
+    "start": "ELEVENTY_ENV=development NOTION_API_KEY=$ENV_NOTION_TOKEN npx @11ty/eleventy --serve",
+    "build:local": "ELEVENTY_ENV=devbuild NOTION_API_KEY=$ENV_NOTION_TOKEN npx @11ty/eleventy",
+    "build": "NOTION_API_KEY=$ENV_NOTION_TOKEN npx @11ty/eleventy",
     "debug": "DEBUG=* npx @11ty/eleventy"
   },
   "repository": {
@@ -36,6 +36,7 @@
     "markdown-it": "^12.3.2",
     "markdown-it-anchor": "^8.4.1",
     "node-fetch": "^2.6.7",
+    "notion-to-md": "^2.3.0",
     "outdent": "^0.8.0",
     "prettier": "^2.5.1"
   }

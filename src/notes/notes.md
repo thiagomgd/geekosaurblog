@@ -1,0 +1,21 @@
+---
+layout: layouts/home.njk
+permalink: /notes/
+eleventyNavigation:
+  key: Notes
+  order: 2
+---
+
+<section class="content-780">
+<h1>Notes</h1>
+
+{% for note in notes -%}
+
+[{{ note.title }}](/note/{{ note.id }}/) - {{ note.created_time | readableDate }}
+
+{{ note.content }}
+
+<hr/>
+
+{% endfor -%}
+</section>
