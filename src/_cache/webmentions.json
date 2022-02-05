@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-02-04T03:46:35.585Z",
+  "lastFetched": "2022-02-05T22:52:17.519Z",
   "children": [
     {
       "type": "entry",
@@ -1342,6 +1342,42 @@
       "wm-source": "https://brid.gy/like/mastodon/@falcon@mastodon.social/107622682317746394/107393214666172443",
       "wm-target": "https://geekosaur.com/post/non-fiction-must-read-2022/",
       "like-of": "https://geekosaur.com/post/non-fiction-must-read-2022/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "k.c.",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/0d3e069d7c44d88bfd7bb58bf687506c7733ef7be8f226139efe03838112c217.jpg",
+        "url": "https://mastodon.social/@starbuck"
+      },
+      "url": "https://mastodon.social/@falcon/107742113695637817#favorited-by-258336",
+      "published": null,
+      "wm-received": "2022-02-05T14:23:04Z",
+      "wm-id": 1346816,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mastodon.social/107742113695637817/258336",
+      "wm-target": "https://geekosaur.com/note/84daed7f-3d86-49c2-ba2e-41b21654ab99/",
+      "like-of": "https://geekosaur.com/note/84daed7f-3d86-49c2-ba2e-41b21654ab99/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon | Geekosaur 🍥",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/4fdf89bdb49cb794637398e9a5354b828729d641ab119fb0857afaa3e808b425.jpg",
+        "url": "https://twitter.com/FalconSensei"
+      },
+      "url": "https://twitter.com/FalconSensei/status/1489475923074162689#favorited-by-1835848723",
+      "published": null,
+      "wm-received": "2022-02-04T05:49:36Z",
+      "wm-id": 1346055,
+      "wm-source": "https://brid.gy/like/twitter/FalconSensei/1489475923074162689/1835848723",
+      "wm-target": "https://geekosaur.com/note/96a049dc-2184-4c66-9fb2-aac00b6b0c02/",
+      "like-of": "https://geekosaur.com/note/96a049dc-2184-4c66-9fb2-aac00b6b0c02/",
       "wm-property": "like-of",
       "wm-private": false
     }

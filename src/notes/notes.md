@@ -15,6 +15,12 @@ eleventyNavigation:
 
 {{ note.content }}
 
+{% for image in note.images %}
+
+{% figure image, "", "vertical" %}
+
+{% endfor %}
+
 <hr/>
 
 {% endfor -%}

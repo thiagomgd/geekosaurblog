@@ -1,5 +1,6 @@
 const fetch = require("node-fetch");
 const unionBy = require("lodash/unionBy");
+const fs = require("fs");
 const domain = require("./metadata.json").domain;
 const { readFromCache, writeToCache } = require("../_11ty/helpers");
 
@@ -11,6 +12,7 @@ const { NotionToMarkdown } = require("notion-to-md");
 const CACHE_FILE_PATH = "src/_cache/notes.json";
 const DATABASE_ID = "66ebf4c34b694d0a94763b3936d9cd9b";
 const TOKEN = process.env.NOTION_API_KEY
+const imageFolder = "/img/notes/"
 
 const notion = new Client({ auth: TOKEN });
 const n2m = new NotionToMarkdown({ notionClient: notion });
@@ -35,14 +37,34 @@ const getTags = (note) => {
 }
 
 const getImages = (note) => {
-  // const notionTags = note.properties.Tags.multi_select
-  // return notionTags.map(tag => tag.name);
-  return [];
+  const imagesNotion = note.properties.Images.files;
+  const images = []
+  for (const img of imagesNotion) {
+    const fileName = `${note.id.substr(0, note.id.indexOf("-"))}-${img.name}`;
+    const path = `./src${imageFolder}${fileName}`;
+    const imagePath = `${imageFolder}${fileName}`;
+
+    if (img.file.url.includes("secure.notion-static.com") && !process.env.ELEVENTY_ENV === "devbuild") break;
+
+    if (!process.env.ELEVENTY_ENV === "devbuild") {
+      images.push(img.file.url);
+      break;
+    }
+
+    if (!fs.existsSync(path)) {
+      fetch(img.file.url)
+        .then(res =>
+          res.body.pipe(fs.createWriteStream(path))
+        )
+    }
+    images.push(imagePath);
+  }
+
+  return images;
 }
 
 const getFormat = (note) => {
-  const format = note.properties.Format.select.name
-  return format ? format : 'text';
+  return note.properties.Format.select ? note.properties.Format.select.name : 'text';
 }
 
 async function fetchPage(pageId) {
@@ -69,10 +91,10 @@ async function fetchNotes(since) {
   // only brings first page (100 items) but we should't have more than not not in cache
   const response = await notion.databases.query({
     database_id: DATABASE_ID,
-    // filter: {
-    //   property: 'created_time',
-    //   created_time: {after: since},
-    // },
+    filter: {
+      property: 'Created',
+      date: {after: since},
+    },
     sorts: [
       {
         timestamp: 'created_time',
@@ -92,7 +114,7 @@ async function fetchNotes(since) {
       const newNote = {
         ...getMetadata(note),
         // TODO: GET TEXT CONTENT
-        // or maybve use https://11ty.rocks/eleventyjs/content/#excerpt-filter for twitter text
+        // or maybe use https://11ty.rocks/eleventyjs/content/#excerpt-filter for twitter text
         content: noteContent,
         title: getTitle(note),
         tags: getTags(note),
@@ -107,15 +129,15 @@ async function fetchNotes(since) {
   return null;
 }
 
-// Merge fresh webmentions with cached entries, unique per id
-function mergeWebmentions(a, b) {
+// Merge fresh notes with cached entries, unique per id
+function mergeNotes(a, b) {
   // console.log("a", a);
   // console.log("a", b);
   // // return unionBy(a.children, b.children, "wm-id");
 
   // TODO: for now, force returning all from Notion - cache is useless
-  // return a.notes.concat(b)
-  return b
+  return a.notes.concat(b)
+  // return b
 }
 
 module.exports = async function () {
@@ -127,7 +149,7 @@ module.exports = async function () {
   }
 
   // Only fetch new mentions in production
-  if (process.env.ELEVENTY_ENV === "development") return cache.notes;
+  // if (process.env.ELEVENTY_ENV === "development") return cache.notes;
 
   console.log(">>> Checking for new notes...");
   const newNotes = await fetchNotes(cache.lastFetched);
@@ -135,7 +157,7 @@ module.exports = async function () {
   if (newNotes) {
     const notes = {
       lastFetched: new Date().toISOString(),
-      notes: mergeWebmentions(cache, newNotes),
+      notes: mergeNotes(cache, newNotes),
     };
 
     if (process.env.ELEVENTY_ENV === "devbuild") {

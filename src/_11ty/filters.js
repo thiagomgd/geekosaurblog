@@ -1,6 +1,10 @@
 const { DateTime } = require("luxon");
 const CleanCSS = require("clean-css");
 const rootUrl = require("../_data/metadata.json").url;
+const MarkdownIt = require('markdown-it');
+const plainText = require('markdown-it-plain-text');
+
+const md = new MarkdownIt();
 
 function getRelevance(postTags, matchingPost) {
   const commonTopics = matchingPost.data.tags.filter((element) =>
@@ -112,8 +116,7 @@ module.exports = {
     return mentions.sort((a, b) => {
       if (a["published"] < b["published"]) {
         return -1;
-      }
-      if (a["published"] > b["published"]) {
+      } else if (a["published"] > b["published"]) {
         return 1;
       }
       // a must be equal to b
@@ -124,6 +127,16 @@ module.exports = {
     return mentions.filter(entry => !!entry[mentionType])
   },
   truncate: text => text.length > 300 ? `${text.substring(0, 300)}...` : text,
+  twitterExerpt: (text) => {
+  const maxLength = 245;
+  md.use(plainText);
+  md.render(text)
+  const content = md.plainText;
+  if (content.length <= maxLength) {
+    return content;
+  }
+  return content.substr(0, content.lastIndexOf(" ", maxLength)) + "...";
+  },
   size: (mentions) => {
     return !mentions ? 0 : mentions.length
   },
