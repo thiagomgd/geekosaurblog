@@ -5,8 +5,8 @@ title: "Comics/Manga Read"
 toc: true
 templateClass: tmpl-post
 permalink: /comics-manga-read/
-tweetId: "1393699018597797893"
-# reddit: https://www.reddit.com/r/geekosaur/comments/ndaaoc/books_per_year/
+tweetId: "1490141415648620545"
+reddit: https://www.reddit.com/r/geekosaur/comments/slmyne/comicsmanga_read/
 eleventyNavigation:
   key: Comics/Manga Read
   order: 5
