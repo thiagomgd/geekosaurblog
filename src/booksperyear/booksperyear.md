@@ -1,14 +1,14 @@
 ---
 layout: layouts/post.njk
 # date: "2021-04-20"
-title: "Books Per Year"
+title: "Books Read"
 toc: true
 templateClass: tmpl-post
 permalink: /books-per-year/
 tweetId: "1393699018597797893"
 reddit: https://www.reddit.com/r/geekosaur/comments/ndaaoc/books_per_year/
 eleventyNavigation:
-  key: Books Per Year
+  key: Books Read
   order: 4
 ---
 

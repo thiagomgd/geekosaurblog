@@ -23,8 +23,25 @@ def format_item(book):
 
     return f.format(**book)
 
+def organize_for_json(things):
+    years = sorted(things.keys(), reverse=True)
+    formatted = []
+
+    for year in years:
+        year_books = things[year]
+    #     # pprint(year_books[0])
+        l = sorted(year_books, key=lambda i: (
+            i.get('My Rating'), i.get('Date Read')), reverse=True)
+
+        l =[dict(title=k1["Title"],cover=k1["Cover"],rating=k1.get("My Rating"),review=k1.get("Review")) for k1 in l]
+
+        formatted.append({"year": year, "books":l})
+
+    return formatted
 
 organized = {}
+comics_manga = {}
+
 p = {
         "filter": {
             "property": "Status",
@@ -39,15 +56,8 @@ print("TOTAL", len(books))
 
 for book in books:
     b = notion.get_props_data(book)
-
-    if b.get('Type') in ['manga', 'comic']:
-        continue
-
     
     year = b["Date Read"].year if b.get("Date Read") else 0
-
-    if year not in organized:
-        organized[year] = []
 
     b_data = {
         "Title": b.get("Title"),
@@ -56,40 +66,26 @@ for book in books:
         "Review": b.get("Review")
     }
 
-    organized[year].append(b)
+    if b.get('Type') in ['manga', 'comic']:
+        if year not in comics_manga:
+            comics_manga[year] = []
+        comics_manga[year].append(b)
+    else:
+        if year not in organized:
+            organized[year] = []
+        organized[year].append(b)
 
-years = sorted(organized.keys(), reverse=True)
 
 # pprint(years)
 
-
-# text = ""
-
-books_for_json = []
-
-for year in years:
-    year_books = organized[year]
-#     # pprint(year_books[0])
-    l = sorted(year_books, key=lambda i: (
-        i.get('My Rating'), i.get('Date Read')), reverse=True)
-
-    l =[dict(title=k1["Title"],cover=k1["Cover"],rating=k1.get("My Rating"),review=k1.get("Review")) for k1 in l]
-    books_for_json.append({"year": year, "books":l})
-#     text += """### {} 
-  
-#   <div class="cards">
-#   """.format(year)
-
-#     for b in l:
-#         text += format_item(b)
-
-#     text += """
-#   </div>
-
-#   """
+books_for_json = organize_for_json(organized)
+comics_manga_json = organize_for_json(comics_manga)
 
 with open('src/_data/booksRead.json', mode="w") as jsonfile:
     json.dump(books_for_json, jsonfile)
+
+with open('src/_data/mangaRead.json', mode="w") as jsonfile:
+    json.dump(comics_manga_json, jsonfile)
 
 
 # TODO: change to DATA js file, update md to be njk and read data
