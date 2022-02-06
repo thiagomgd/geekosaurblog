@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-02-05T22:52:17.519Z",
+  "lastFetched": "2022-02-06T23:33:40.364Z",
   "children": [
     {
       "type": "entry",
@@ -1378,6 +1378,24 @@
       "wm-source": "https://brid.gy/like/twitter/FalconSensei/1489475923074162689/1835848723",
       "wm-target": "https://geekosaur.com/note/96a049dc-2184-4c66-9fb2-aac00b6b0c02/",
       "like-of": "https://geekosaur.com/note/96a049dc-2184-4c66-9fb2-aac00b6b0c02/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Umaru Chan",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/68196154abe8654e9c014e337085694a247132381224eb18c00a41b85912f345.jpg",
+        "url": "https://twitter.com/TheHimoutolife"
+      },
+      "url": "https://twitter.com/FalconSensei/status/1490141415648620545#favorited-by-1351730488260628484",
+      "published": null,
+      "wm-received": "2022-02-06T18:04:16Z",
+      "wm-id": 1347445,
+      "wm-source": "https://brid.gy/like/twitter/FalconSensei/1490141415648620545/1351730488260628484",
+      "wm-target": "https://geekosaur.com/comics-manga-read/",
+      "like-of": "https://geekosaur.com/comics-manga-read/",
       "wm-property": "like-of",
       "wm-private": false
     }
