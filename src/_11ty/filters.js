@@ -140,4 +140,12 @@ module.exports = {
   size: (mentions) => {
     return !mentions ? 0 : mentions.length
   },
+  getNoteThumbnail: (note) => {
+    console.log("note.images");
+    if (note.images && note.images.length > 0) {
+      console.log(note.images[0])
+      return note.images[0];
+    }
+    return null;
+  }
 };
