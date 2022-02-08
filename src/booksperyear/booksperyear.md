@@ -12,11 +12,13 @@ eleventyNavigation:
   order: 4
 ---
 
-{% for booksYear in booksRead -%}
-### {{ booksYear.year }}
+{%- for year, bookList in books | dictsort | reverse -%}
+
+### {{ year }}
 
 <div class="cards">
-{% for book in booksYear.books -%}
+<!-- TODO: sort by rating and date -->
+{% for book in bookList -%}
 {% card book.title,book.cover,book.rating,book.review %}
 {% endfor -%}
 </div>

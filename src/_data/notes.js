@@ -131,10 +131,6 @@ async function fetchNotes(since) {
 
 // Merge fresh notes with cached entries, unique per id
 function mergeNotes(a, b) {
-  // console.log("a", a);
-  // console.log("a", b);
-  // // return unionBy(a.children, b.children, "wm-id");
-
   // TODO: for now, force returning all from Notion - cache is useless
   return a.notes.concat(b)
   // return b
