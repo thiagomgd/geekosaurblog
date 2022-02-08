@@ -12,12 +12,14 @@ eleventyNavigation:
   order: 5
 ---
 
-{% for mangaYear in mangaRead -%}
-### {{ mangaYear.year }}
+{%- for year, bookList in manga | dictsort | reverse -%}
+
+### {{ year }} ({{ bookList | length }} read)
 
 <div class="cards">
-{% for manga in mangaYear.books -%}
-{% card manga.title,manga.cover,manga.rating,manga.review %}
+<!-- TODO: sort by rating and date -->
+{% for book in bookList -%}
+{% card book.title,book.cover,book.rating,book.review %}
 {% endfor -%}
 </div>
 

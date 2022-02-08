@@ -14,7 +14,7 @@ eleventyNavigation:
 
 {%- for year, bookList in books | dictsort | reverse -%}
 
-### {{ year }}
+### {{ year }} ({{ bookList | length }} read)
 
 <div class="cards">
 <!-- TODO: sort by rating and date -->
