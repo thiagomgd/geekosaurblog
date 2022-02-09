@@ -61,10 +61,20 @@ async function fetchBooks() {
         },
       },
       {
-        property: "Type",
-        select: {
-          equals: "book",
-        },
+        or: [
+          {
+            property: "Type",
+            select: {
+              equals: "book",
+            },
+          },
+          {
+            property: "Type",
+            select: {
+              equals: "light novel",
+            },
+          },
+        ],
       },
     ],
   };

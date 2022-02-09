@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-02-08T21:19:30.500Z",
+  "lastFetched": "2022-02-09T03:31:57.831Z",
   "notes": [
     {
       "id": "96a049dc-2184-4c66-9fb2-aac00b6b0c02",
@@ -26,6 +26,22 @@
       "tags": [
         "Memories",
         "Sports"
+      ],
+      "images": [],
+      "format": "text"
+    },
+    {
+      "id": "5346c10b-2d52-415e-93eb-a03e2f7b54b9",
+      "created_time": "2022-02-08T23:48:00.000Z",
+      "last_edited_time": "2022-02-08T23:54:00.000Z",
+      "cover": null,
+      "icon": null,
+      "content": "\nThis Saturday night I was listening to some songs that reminded me of my bands back in Brazil. Since I don’t use Spotify anymore and have migrated to Youtube Music, I decided to recreate my playlists there.\n\nI never finished those playlists on Spotify, so I’ll see if someday I find the setlists so I can have complete playlists there. I also want to create setlist for other bands I’ve played with, and also my big band. But that’s for another time. They are both below:\n\n- [Trivial](https://music.youtube.com/playlist?list=PLZIaVOUaxLAOpQvzJCeugpYgRpPlnA8m2&feature=share)\n\n- [The Mad Mavericks](https://music.youtube.com/playlist?list=PLZIaVOUaxLAP7EK8JjXvc3FpWoM-LUVlI&feature=share)\n",
+      "title": "My Band Playlists",
+      "tags": [
+        "Personal",
+        "Music",
+        "Memories"
       ],
       "images": [],
       "format": "text"

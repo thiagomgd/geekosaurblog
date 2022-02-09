@@ -435,6 +435,13 @@
       "year_read": 0
     },
     {
+      "title": "My Youth Romantic Comedy Is Wrong, As I Expected, Vol. 1 (Yahari Ore no Seishun Love Comedy wa Machigatteiru. Light Novels, #1)",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473347850l/27415418._SY475_.jpg",
+      "rating": 4,
+      "review": "https://geekosaur.com/post/review-my-youth-romantic-comedy-is-wrong-as-i-expected-vol.-1/",
+      "year_read": 0
+    },
+    {
       "title": "A Fuga de Thora (Perry Rhodan - P-022)",
       "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438536199l/11459422._SY475_.jpg",
       "rating": 0,
@@ -1074,6 +1081,14 @@
   ],
   "2016": [
     {
+      "title": "Spice & Wolf, Vol. 01",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340904653l/6483360.jpg",
+      "rating": 5,
+      "review": null,
+      "date_read": "2016-01-12T00:00:00.000Z",
+      "year_read": 2016
+    },
+    {
       "title": "The Body in the Library (Miss Marple, #2)",
       "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389733809l/16319.jpg",
       "rating": 4,
@@ -1244,11 +1259,27 @@
       "year_read": 2017
     },
     {
+      "title": "Spice & Wolf, Vol. 02",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340904731l/6775682.jpg",
+      "rating": 4,
+      "review": null,
+      "date_read": "2017-07-16T00:00:00.000Z",
+      "year_read": 2017
+    },
+    {
       "title": "A Profecia das Sombras (As Provações de Apolo, #2)",
       "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492705368l/34910489._SX318_.jpg",
       "rating": 3,
       "review": null,
       "date_read": "2017-12-08T00:00:00.000Z",
+      "year_read": 2017
+    },
+    {
+      "title": "The Devil is a Part-Timer Light Novel, Vol. 3 (The Devil is a Part-Timer Light Novel, #3)",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443473815l/25318853.jpg",
+      "rating": 3,
+      "review": null,
+      "date_read": "2017-03-14T00:00:00.000Z",
       "year_read": 2017
     },
     {
@@ -1302,6 +1333,14 @@
       "year_read": 2018
     },
     {
+      "title": "Toradora! (Light Novel) Vol. 1",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521833409l/39356502._SX318_.jpg",
+      "rating": 4,
+      "review": null,
+      "date_read": "2018-09-12T00:00:00.000Z",
+      "year_read": 2018
+    },
+    {
       "title": "Tails, You Lose (Witch City Mystery #2)",
       "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441475165l/24366398._SY475_.jpg",
       "rating": 4,
@@ -1326,6 +1365,22 @@
       "year_read": 2018
     },
     {
+      "title": "Amagi Brilliant Park: Volume 1",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532068199l/40880076.jpg",
+      "rating": 4,
+      "review": null,
+      "date_read": "2018-11-28T00:00:00.000Z",
+      "year_read": 2018
+    },
+    {
+      "title": "Occultic;Nine: Volume 1",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478364240l/32877317._SX318_.jpg",
+      "rating": 4,
+      "review": null,
+      "date_read": "2018-12-12T00:00:00.000Z",
+      "year_read": 2018
+    },
+    {
       "title": "Neverseen (Keeper of the Lost Cities, #4)",
       "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428163717l/25103379.jpg",
       "rating": 3,
@@ -1344,6 +1399,46 @@
   ],
   "2019": [
     {
+      "title": "Occultic;Nine: Volume 3",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519176110l/38668326._SX318_.jpg",
+      "rating": 4,
+      "review": null,
+      "date_read": "2019-02-02T00:00:00.000Z",
+      "year_read": 2019
+    },
+    {
+      "title": "Kokoro Connect Volume 1: Hito Random",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532411278l/40934172._SX318_.jpg",
+      "rating": 5,
+      "review": null,
+      "date_read": "2019-05-04T00:00:00.000Z",
+      "year_read": 2019
+    },
+    {
+      "title": "Mushoku Tensei: Jobless Reincarnation (Light Novel) Vol. 2",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551760712l/44279081._SX318_.jpg",
+      "rating": 4,
+      "review": null,
+      "date_read": "2019-10-09T00:00:00.000Z",
+      "year_read": 2019
+    },
+    {
+      "title": "Bottom-Tier Character Tomozaki, Vol. 1 (light novel)",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560949178l/50125881._SX318_SY475_.jpg",
+      "rating": 5,
+      "review": null,
+      "date_read": "2019-09-12T00:00:00.000Z",
+      "year_read": 2019
+    },
+    {
+      "title": "Toradora! 2 (とらドラ!, #2)",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534804087l/36518795._SX318_.jpg",
+      "rating": 3,
+      "review": null,
+      "date_read": "2020-01-01T00:00:00.000Z",
+      "year_read": 2019
+    },
+    {
       "title": "In a Witch's Wardrobe (A Witchcraft Mystery, #4)",
       "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327115595l/12608168.jpg",
       "rating": 3,
@@ -1352,11 +1447,27 @@
       "year_read": 2019
     },
     {
+      "title": "Mushoku Tensei: Jobless Reincarnation (Light Novel) Vol. 1",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544927994l/43244242._SX318_.jpg",
+      "rating": 4,
+      "review": null,
+      "date_read": "2019-04-12T00:00:00.000Z",
+      "year_read": 2019
+    },
+    {
       "title": "Lodestar (Keeper of the Lost Cities, #5)",
       "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478112810l/29370227._SY475_.jpg",
       "rating": 4,
       "review": null,
       "date_read": "2019-03-18T00:00:00.000Z",
+      "year_read": 2019
+    },
+    {
+      "title": "Occultic;Nine: Volume 2",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487999019l/34390698._SX318_.jpg",
+      "rating": 4,
+      "review": null,
+      "date_read": "2019-01-20T00:00:00.000Z",
       "year_read": 2019
     }
   ],
@@ -1370,6 +1481,14 @@
       "year_read": 2020
     },
     {
+      "title": "Bottom-Tier Character Tomozaki, Vol. 2 (light novel)",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567515610l/50138533._SX318_SY475_.jpg",
+      "rating": 4,
+      "review": null,
+      "date_read": "2020-03-08T00:00:00.000Z",
+      "year_read": 2020
+    },
+    {
       "title": "Let's Pretend This Never Happened: A Mostly True Memoir",
       "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333295721l/13054379.jpg",
       "rating": 5,
@@ -1378,11 +1497,27 @@
       "year_read": 2020
     },
     {
+      "title": "What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394861535l/21463939.jpg",
+      "rating": 5,
+      "review": null,
+      "date_read": "2020-10-28T00:00:00.000Z",
+      "year_read": 2020
+    },
+    {
       "title": "Mexican Gothic",
       "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1592299428l/52873094._SY475_.jpg",
       "rating": 5,
       "review": null,
       "date_read": "2020-11-17T00:00:00.000Z",
+      "year_read": 2020
+    },
+    {
+      "title": "Bottom-Tier Character Tomozaki, Vol. 3 (light novel)",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585750563l/49004474._SY475_.jpg",
+      "rating": 4,
+      "review": null,
+      "date_read": "2020-04-29T00:00:00.000Z",
       "year_read": 2020
     }
   ],

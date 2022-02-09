@@ -190,13 +190,6 @@
       "year_read": 0
     },
     {
-      "title": "My Youth Romantic Comedy Is Wrong, As I Expected, Vol. 1 (Yahari Ore no Seishun Love Comedy wa Machigatteiru. Light Novels, #1)",
-      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473347850l/27415418._SY475_.jpg",
-      "rating": 4,
-      "review": "https://geekosaur.com/post/review-my-youth-romantic-comedy-is-wrong-as-i-expected-vol.-1/",
-      "year_read": 0
-    },
-    {
       "title": "Delicious in Dungeon, Vol. 2",
       "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504326129l/34050718._SX318_.jpg",
       "rating": 4,
@@ -655,24 +648,6 @@
       "year_read": 2016
     }
   ],
-  "2017": [
-    {
-      "title": "Spice & Wolf, Vol. 02",
-      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340904731l/6775682.jpg",
-      "rating": 4,
-      "review": null,
-      "date_read": "2017-07-16T00:00:00.000Z",
-      "year_read": 2017
-    },
-    {
-      "title": "The Devil is a Part-Timer Light Novel, Vol. 3 (The Devil is a Part-Timer Light Novel, #3)",
-      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443473815l/25318853.jpg",
-      "rating": 3,
-      "review": null,
-      "date_read": "2017-03-14T00:00:00.000Z",
-      "year_read": 2017
-    }
-  ],
   "2018": [
     {
       "title": "The Empty Box and Zeroth Maria, Vol. 1 (The Empty Box and Zeroth Maria, #1)",
@@ -699,27 +674,11 @@
       "year_read": 2018
     },
     {
-      "title": "Toradora! (Light Novel) Vol. 1",
-      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521833409l/39356502._SX318_.jpg",
-      "rating": 4,
-      "review": null,
-      "date_read": "2018-09-12T00:00:00.000Z",
-      "year_read": 2018
-    },
-    {
       "title": "Delicious in Dungeon, Vol. 5",
       "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522169048l/36504691.jpg",
       "rating": 4,
       "review": null,
       "date_read": "2018-10-23T00:00:00.000Z",
-      "year_read": 2018
-    },
-    {
-      "title": "Amagi Brilliant Park: Volume 1",
-      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532068199l/40880076.jpg",
-      "rating": 4,
-      "review": null,
-      "date_read": "2018-11-28T00:00:00.000Z",
       "year_read": 2018
     },
     {
@@ -752,30 +711,6 @@
       "title": "Miss Kobayashi's Dragon Maid, Vol. 2",
       "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487478379l/30139711._SX318_.jpg",
       "rating": 0,
-      "review": null,
-      "date_read": "2020-01-01T00:00:00.000Z",
-      "year_read": 2019
-    },
-    {
-      "title": "Mushoku Tensei: Jobless Reincarnation (Light Novel) Vol. 2",
-      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551760712l/44279081._SX318_.jpg",
-      "rating": 4,
-      "review": null,
-      "date_read": "2019-10-09T00:00:00.000Z",
-      "year_read": 2019
-    },
-    {
-      "title": "Bottom-Tier Character Tomozaki, Vol. 1 (light novel)",
-      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560949178l/50125881._SX318_SY475_.jpg",
-      "rating": 5,
-      "review": null,
-      "date_read": "2019-09-12T00:00:00.000Z",
-      "year_read": 2019
-    },
-    {
-      "title": "Toradora! 2 (とらドラ!, #2)",
-      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534804087l/36518795._SX318_.jpg",
-      "rating": 3,
       "review": null,
       "date_read": "2020-01-01T00:00:00.000Z",
       "year_read": 2019
@@ -836,14 +771,6 @@
       "rating": 0,
       "review": null,
       "date_read": "2021-01-01T00:00:00.000Z",
-      "year_read": 2020
-    },
-    {
-      "title": "What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
-      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394861535l/21463939.jpg",
-      "rating": 5,
-      "review": null,
-      "date_read": "2020-10-28T00:00:00.000Z",
       "year_read": 2020
     },
     {
