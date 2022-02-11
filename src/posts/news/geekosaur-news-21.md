@@ -11,15 +11,5 @@ tags:
 # tweetId: ''
 ---
 
-{% figure "src","caption","vertical","alt" %}
-
-{% blur "src","caption","vertical","alt" %}
-
-{% youtube '' %}
-
-{% reddit '' %}
-
-<div class="cards">
-{% card "title","cover","rating","review","goodreads" %}
-</div>
+{% unfurl "https://wretchedanddivine.wordpress.com/2021/02/28/8-years-blogiversary/" %}
 

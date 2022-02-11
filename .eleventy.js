@@ -20,7 +20,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   // eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
-  eleventyConfig.addPlugin(pluginTOC)
+  eleventyConfig.addPlugin(pluginTOC, {
+    flat: false,
+    ul: true,
+    wrapper: 'nav'
+  })
   eleventyConfig.addPlugin(metagen);
 
   // TODO: remove
