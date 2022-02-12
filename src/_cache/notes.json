@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-02-10T22:24:56.721Z",
+  "lastFetched": "2022-02-12T05:31:12.998Z",
   "notes": [
     {
       "id": "96a049dc-2184-4c66-9fb2-aac00b6b0c02",
@@ -56,6 +56,22 @@
       "title": "How to use Twitter",
       "tags": [],
       "images": [],
+      "format": "text"
+    },
+    {
+      "id": "cd6f98b1-1814-411e-8399-ede231748153",
+      "created_time": "2022-02-12T02:57:00.000Z",
+      "last_edited_time": "2022-02-12T02:58:00.000Z",
+      "cover": null,
+      "icon": null,
+      "content": "\nFinally got to 300 words on Speakly and moved to Beginner II level. I’m really enjoying this app, as it gives you words based on the most used words in real life scenarios, instead of giving a dozen words from a different category each time.\n\nThe phrases are also more meaningful and realistic, so I’m probably keep using it to slowly build vocabulary, since I don’t have a lot of time and energy for more focused study and longer sessions.\n",
+      "title": "Studying German",
+      "tags": [
+        "Personal"
+      ],
+      "images": [
+        "/img/notes/cd6f98b1-EFF2AAFF-1503-4D2B-9705-0A60B4CBD95B.jpeg"
+      ],
       "format": "text"
     }
   ]

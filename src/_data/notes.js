@@ -44,12 +44,12 @@ const getImages = (note) => {
     const path = `./src${imageFolder}${fileName}`;
     const imagePath = `${imageFolder}${fileName}`;
 
-    if (img.file.url.includes("secure.notion-static.com") && !process.env.ELEVENTY_ENV === "devbuild") break;
+    // if (img.file.url.includes("secure.notion-static.com") && !process.env.ELEVENTY_ENV === "devbuild") break;
 
-    if (!process.env.ELEVENTY_ENV === "devbuild") {
-      images.push(img.file.url);
-      break;
-    }
+    // if (!process.env.ELEVENTY_ENV === "devbuild") {
+    //   images.push(img.file.url);
+    //   break;
+    // }
 
     if (!fs.existsSync(path)) {
       fetch(img.file.url)
