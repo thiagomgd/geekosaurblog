@@ -10,6 +10,3 @@ tags:
 # reddit: 
 # tweetId: ''
 ---
-
-{% unfurl "https://wretchedanddivine.wordpress.com/2021/02/28/8-years-blogiversary/" %}
-
