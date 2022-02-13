@@ -30,7 +30,6 @@ module.exports = function() {
 				}
 			},
 			thumbnail: function(data) {
-				console.log("THUMBNAIL", data.slug, data.thumbnail);
 				return getLocalImageLink(data.thumbnail);
 			}
 		},
@@ -39,7 +38,6 @@ module.exports = function() {
         tags: [
           "posts"
         ],
-		// thumbnail: "{% post.thumbnail | getLocalImgUrl %}",
         permalink: "post/{% if slug %}{{ slug }}{% else %}{{ page.fileSlug }}{% endif %}/"		
 	}
 }

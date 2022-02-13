@@ -15,6 +15,8 @@ eleventyNavigation:
 
 {{ note.content }}
 
+{% anyEmbed note.embed %}
+
 {% for image in note.images %}
 
 {% figure image, "", "vertical" %}
@@ -24,4 +26,6 @@ eleventyNavigation:
 <hr/>
 
 {% endfor -%}
+
+
 </section>

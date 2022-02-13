@@ -55,6 +55,10 @@ const getImages = (note) => {
   return images;
 }
 
+const getEmbed = (note) => {
+  return note.properties.Embed.url;
+}
+
 const getFormat = (note) => {
   return note.properties.Format.select ? note.properties.Format.select.name : 'text';
 }
@@ -111,7 +115,8 @@ async function fetchNotes(since) {
         title: getTitle(note),
         tags: getTags(note),
         images: getImages(note),
-        format: getFormat(note)
+        format: getFormat(note),
+        embed: getEmbed(note)
       }
       newNotes.push(newNote);
     }
