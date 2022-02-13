@@ -20,6 +20,9 @@ function readFromCache(cacheFilePath) {
 
 // save combined webmentions in cache file
 function writeToCache(data, cacheFilePath, descriptor) {
+  // Don't actually write to cache on dev or cloudflare
+  if (process.env.ELEVENTY_ENV !== "devbuild") return;
+
   const dir = "src/_cache";
   const fileContent = JSON.stringify(data, null, 2);
   // create cache folder if it doesnt exist already
