@@ -1,6 +1,7 @@
 const markdownIt = require("markdown-it");
-
 const outdent = require("outdent")({ newline: " " });
+
+const { getLocalImageLink } = require("../_11ty/helpers");
 
 const EMPTY = ``;
 
@@ -38,7 +39,7 @@ class="spoiler-alert">(spoilers)</span>
 }
 
 const blur = (src, caption, className="", alt="") => {
-
+  const localSrc = getLocalImageLink(src);
   const uuid = uuidv4();
 
   const figureClass = className ? `class="${className}"` : EMPTY;
@@ -59,7 +60,7 @@ const blur = (src, caption, className="", alt="") => {
   const captionTag = caption ? `<figcaption>${caption}</figcaption>` : EMPTY;
 
   // TODO: style/width/height?
-  const imgTag = `<img src="${src}" alt="${alt}"/>`;
+  const imgTag = `<img src="${localSrc}" alt="${alt}"/>`;
 
   return outdent`<div class="blurDiv blurred" id="${uuid}" >
 <figure ${figureClass} onclick="document.getElementById('${uuid}').className = 'blurDiv';">
@@ -70,9 +71,10 @@ const blur = (src, caption, className="", alt="") => {
 };
 
 function card(title, img, rating, review_link, goodreads) {
+  const localImg = getLocalImageLink(img);
 
   const badge = rating ? `<div class="card-badge">${rating}</div>` : EMPTY;
-  const imgTag = img ? `<div class="card-image-div"><img src="${img}"/></div>` : EMPTY;
+  const imgTag = localImg ? `<div class="card-image-div"><img src="${localImg}"/></div>` : EMPTY;
   const reviewTag = review_link ? `<p><a href="${review_link}">Review</a></p>` : EMPTY;
   // todo: extract domain and use as link text
   const goodreadsTag = goodreads ? `<p><a href="${goodreads}" target="_blank" rel="noopener noreferrer">Goodreads</a></p>` : EMPTY;
@@ -94,10 +96,12 @@ module.exports = {
   blur,
   card,
   figure: (image, caption="", className="", alt="") => {
+    const localSrc = getLocalImageLink(image);
+
     const mdCaption = caption ? markdownIt().renderInline(caption) : EMPTY;
     const classMarkup = className ? ` class="${className}"` : '';
     const captionMarkup = caption ? `<figcaption>${mdCaption}</figcaption>` : '';
-    return `<figure${classMarkup}><img src="${image}" alt="${alt}" />${captionMarkup}</figure>`;
+    return `<figure${classMarkup}><img src="${localSrc}" alt="${alt}" />${captionMarkup}</figure>`;
   }
 };
 
