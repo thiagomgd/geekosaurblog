@@ -3,8 +3,7 @@ date: "2021-03-06T16:59:15-08:00"
 description: February is now ended, and March is here. Definitely looking forward
   to a better weather, warmer and with more sunlight!
 draft: false
-images:
-- https://i.imgur.com/0QZnA5N.jpg
+thumbnail: https://i.imgur.com/0QZnA5N.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/lzfwl9/geekosaur_weekly_6_dont_overthink_just_do_it/
 slug: geekosaur-weekly-6
 tags:
@@ -53,7 +52,7 @@ This week I continued reading Mythos, by Stephen Fry. I read around 3 hours, and
 
 Last Sunday I put on a couple shelves on my home office, to display some books and Funkos. There's also a cool Inuyasha poster. What do you think about it? Looks good?
 
-![](https://i.imgur.com/0QZnA5N.jpg)
+{% figure "https://i.imgur.com/0QZnA5N.jpg" %}
 
 The Einstein Funko is new, along with Rei and a Dalek. Check the twitter thread below to see me unboxing them!
 

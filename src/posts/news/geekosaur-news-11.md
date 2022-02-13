@@ -3,8 +3,7 @@ date: "2021-04-24T12:00:16-07:00"
 description: This week I have a few blog posts to recommend, besides the usual music
   and what I've been watching and reading!
 draft: false
-images:
-- https://i.imgur.com/Wl9zDCx.jpg
+thumbnail: https://i.imgur.com/Wl9zDCx.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/mxqn9d/geekosaur_weekly_11_cool_posts_and_what_ive_been/
 slug: geekosaur-weekly-11
 tags:
@@ -14,7 +13,7 @@ tweetId: "1386036659297214471"
 
 This week I have a few blog posts to recommend, besides the usual music and what I've been watching and reading!
 
-![https://i.imgur.com/Wl9zDCx.jpg](https://i.imgur.com/Wl9zDCx.jpg)
+{% figure "https://i.imgur.com/Wl9zDCx.jpg" %}
 
 <!--more-->
 

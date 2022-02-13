@@ -5,8 +5,7 @@ description: Sometimes I like to joke doing literal translations of band names a
   the lyrics in English, thinking about then in Portuguese makes everything sound
   weird, dumb, or just odd.
 draft: false
-images:
-- https://i.imgur.com/7W4NOvX.jpg
+thumbnail: https://i.imgur.com/7W4NOvX.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/m4ikep/geekosaur_weekly_7_band_names_and_song_lyrics_in/
 slug: geekosaur-weekly-7
 tags:
@@ -49,7 +48,7 @@ Last weekend I watched the first episode of Vincenzo on Netflix. It was really c
 
 Me and my wife finished rewatching Brooklyn 99 on Netflix, and after a couple episodes of Family Guy, decided to get Disney+ so we can watch Futurama and some other stuff, including Simpsons. Me particularly: Star vs the Forces of Evil. I stopped on season 4 a couple years ago and never finished the show. Now it's my opportunity. It's a GREAT cartoon, and I highly recommend it!
 
-![](https://i.imgur.com/7W4NOvX.jpg)
+{% figure "https://i.imgur.com/7W4NOvX.jpg" %}
 
 I also started watching Great Pretender on Netflix, after 4 episodes I'm enjoying it a lot. But I'm probably going to pause it for a bit so I can finish Star. I also rewatched a couple of the first episodes of Community on Netflix. I LOVE that show, and it's still very fun on a rewatch.
 

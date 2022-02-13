@@ -3,8 +3,7 @@ date: "2021-02-28T14:40:09-08:00"
 description: 'Better late than never: Geekosaur Weekly is a day late, but still here
   with some thoughts, music and quick personal updates.'
 draft: false
-images:
-- https://i.imgur.com/in1LHZx.jpg
+thumbnail: https://i.imgur.com/in1LHZx.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/lusv3n/geekosaur_weekly_5_ditch_yearly_resolutions_use/
 slug: geekosaur-weekly-5
 tags:
@@ -43,7 +42,7 @@ Anything goes, and I ave to say this is kinda working for me: some weeks I reall
 
 I started reading [Mythos: The Greek Myths Reimagined](https://www.goodreads.com/book/show/46228086-mythos) by Stephen Fry. It's the first in a serie of mythology books, and I already have the second volume on my Kindle: *Heroes: Mortals and Monsters, Quests and Adventures.* I started to read it now partly inspired by Blood of Zeus, which I resumed watching recently on Netflix. I'm at 20% at the moment.
 
-![https://i.imgur.com/zZF2VeG.jpg](https://i.imgur.com/zZF2VeG.jpg)
+{% figure "https://i.imgur.com/zZF2VeG.jpg" %}
 
 ## Watching
 

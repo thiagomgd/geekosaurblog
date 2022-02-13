@@ -12,6 +12,7 @@ description: Going back in time, about 6 years ago (I'm getting old....), and ma
   scroll to see whatever I liked and grab it. But this is not optimal, and being a
   developer, I started thinking of something more practical.
 draft: false
+thumbnail: https://i.imgur.com/xtFxVuQ.png
 images:
 - https://i.imgur.com/xtFxVuQ.png
 - https://i.imgur.com/tBhj7cK.png
@@ -27,7 +28,7 @@ This week, Crow published an interesting [post about automating blog tasks](http
 
 Going back in time, about 6 years ago (I'm getting old....), and maybe 3 or 4 different blogs/domains, I was writing anime reviews as a way to practice my English writing skills. And part of doing anime reviews is getting images and gifs, right? At the beginning, I would go to reddit.com/r/anime, open the episode's discussion post, expand all images (with the help of RES - reddit enhancement suite), scroll to see whatever I liked and grab it. But this is not optimal, and being a developer, I started thinking of something more practical.
 
-![](https://i.imgur.com/tBhj7cK.png)
+{% figure "https://i.imgur.com/tBhj7cK.png" %}
 
 <!--more-->
 
@@ -191,7 +192,7 @@ And that's it!! 330 lines of code on the full script.
 
 Let's try that: `python3 gist_reddit_downloader.py 'mo8289'` on the command-line.
 
-![](https://i.imgur.com/xtFxVuQ.png)
+{% figure "https://i.imgur.com/xtFxVuQ.png" %}
 
 It's beautiful!!!! Those subfolders are imgur albums, which are conveniently saved that way. Also, the filenames contain the title on the comment followed by imgur or gfycat's id. So, if you just want to link to the original url, you can use that. As an exercise, you can change the script to just save all links as embeds in an html file, so you can have you own local gallery.
 

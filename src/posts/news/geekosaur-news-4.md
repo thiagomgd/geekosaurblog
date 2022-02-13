@@ -5,6 +5,7 @@ draft: false
 images:
 - https://i.imgur.com/mhmo7Be.jpg
 - https://i.imgur.com/ZAUfGo4.jpg
+thumbnail: https://i.imgur.com/mhmo7Be.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/logcnz/geekosaur_weekly_4_whats_regret_anime_bingos/
 slug: geekosaur-weekly-4
 tags:
@@ -15,7 +16,7 @@ tweetId: "1363228938978222080"
 
 Another weekly updates, thoughts, music and internet things!
 
-![](https://i.imgur.com/mhmo7Be.jpg)
+{% figure "https://i.imgur.com/mhmo7Be.jpg" %}
 
 <!--more-->
 
@@ -33,7 +34,7 @@ My wife started watching Start-Up, a Korean drama that ended recently, and it's 
 
 I'm not watching it yet, but Sisyphus: The Myth premiered on Netflix, with weekly episodes (2 per week). Im going to wait a bit, as I don't do that well with ongoing shows. The drama has Park Shin-hye in it (The Call, Memories of Alhambra, Pinocchio), so of course I'm going to give it a try.
 
-![https://i.imgur.com/ZAUfGo4.jpg](https://i.imgur.com/ZAUfGo4.jpg)
+{% figure "https://i.imgur.com/ZAUfGo4.jpg" %}
 
 ### Reading
 

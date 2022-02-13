@@ -65,8 +65,12 @@ const getFormat = (note) => {
 
 async function fetchPage(pageId) {
   const mdblocks = await n2m.pageToMarkdown(pageId);
+  // console.debug(`---------------`);
+  // console.debug(mdblocks);
   const mdString = n2m.toMarkdownString(mdblocks);
-
+  // console.debug(`---------------`);
+  // console.debug(mdString);
+  // console.debug(`---------------`);
   return mdString
 }
 

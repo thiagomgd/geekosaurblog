@@ -1177,5 +1177,56 @@
   },
   "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/73c8146f-504e-49bf-acc8-72f141bb9f1e/EB5BBC65-7C5F-4252-B5BF-76087532CC4B.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220213%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220213T062330Z&X-Amz-Expires=3600&X-Amz-Signature=5621478a0e563437e14deba67c7784822398748f67d8f81dcaf69327bc8f6f29&X-Amz-SignedHeaders=host&x-id=GetObject": {
     "url": "/img/notes/0a9d42b3-EB5BBC65-7C5F-4252-B5BF-76087532CC4B.jpeg"
+  },
+  "https://i.imgur.com/xtFxVuQ.png": {
+    "url": "/img/ext/8553397-xtFxVuQ.png"
+  },
+  "https://i.imgur.com/BJIc6sd.jpg": {
+    "url": "/img/ext/6588263-BJIc6sd.jpg"
+  },
+  "https://i.imgur.com/hbePdeJ.jpg": {
+    "url": "/img/ext/2175210-hbePdeJ.jpg"
+  },
+  "http://i.imgur.com/CK7DA3F.jpg": {
+    "url": "/img/ext/4257420-CK7DA3F.jpg"
+  },
+  "https://i.imgur.com/desgj4S.jpg": {
+    "url": "/img/ext/1456069-desgj4S.jpg"
+  },
+  "https://i.imgur.com/xhtfSxG.jpg": {
+    "url": "/img/ext/3895863-xhtfSxG.jpg"
+  },
+  "https://i.imgur.com/Wl9zDCx.jpg": {
+    "url": "/img/ext/4050018-Wl9zDCx.jpg"
+  },
+  "https://i.imgur.com/mhmo7Be.jpg": {
+    "url": "/img/ext/3857254-mhmo7Be.jpg"
+  },
+  "https://i.imgur.com/in1LHZx.jpg": {
+    "url": "/img/ext/3051081-in1LHZx.jpg"
+  },
+  "https://i.imgur.com/0QZnA5N.jpg": {
+    "url": "/img/ext/5251037-0QZnA5N.jpg"
+  },
+  "https://i.imgur.com/7W4NOvX.jpg": {
+    "url": "/img/ext/5844924-7W4NOvX.jpg"
+  },
+  "https://i.imgur.com/tBhj7cK.png": {
+    "url": "/img/ext/1516113-tBhj7cK.png"
+  },
+  "https://i.imgur.com/QdYSaai.jpg": {
+    "url": "/img/ext/1964381-QdYSaai.jpg"
+  },
+  "https://i.imgur.com/phQIAIT.jpg": {
+    "url": "/img/ext/3595125-phQIAIT.jpg"
+  },
+  "https://i.imgur.com/jM44MSM.png": {
+    "url": "/img/ext/3501023-jM44MSM.png"
+  },
+  "https://i.imgur.com/ZAUfGo4.jpg": {
+    "url": "/img/ext/1272829-ZAUfGo4.jpg"
+  },
+  "https://i.imgur.com/zZF2VeG.jpg": {
+    "url": "/img/ext/3692939-zZF2VeG.jpg"
   }
 }

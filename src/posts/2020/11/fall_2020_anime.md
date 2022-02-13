@@ -5,8 +5,7 @@ date: "2020-11-02T18:02:36-08:00"
 description: A bit late to the party, but let's talk seasonal anime. This is going
   to be a slow season for me!
 draft: false
-images:
-- https://i.imgur.com/BJIc6sd.jpg
+thumbnail: https://i.imgur.com/BJIc6sd.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/jn2qrz/fall_2020_anime_what_im_watching/
 tags:
 - Anime
@@ -20,7 +19,7 @@ A bit late to the party, but let's talk seasonal anime. This is going to be a sl
 
 I guess I can start with the things I'm behind, which is mainly 2: Re:Zero and Is It Wrong to Try to Pick Up Girls in a Dungeon?. For obvious reasons, I can't start Danmachi's 3rd season, even though I'm not sure I'm in the mood for it right now, and Re:Zero is something that interests me more/has a higher priority than most seasonal anime for fall 2020. I should also add that I have all Sound! Euphonium movies in my backlog. whew
 
-![](https://i.imgur.com/BJIc6sd.jpg)
+{% figure "https://i.imgur.com/BJIc6sd.jpg" %}
 
 <!--more-->
 

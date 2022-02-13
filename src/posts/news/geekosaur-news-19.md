@@ -34,6 +34,6 @@ I saw some recommendations for the Silo series by Hugh Howey, so I decided to gi
 
 As for watching, I was watching Everybody Loves Raymond a lot with my wife. But now that I'm in Brazil for the Holidays, I started a couple anime: Tawawa on Monday and Mother of the Goddess’ Dormitory. Yeah, only ecchi for now
 
-![](https://i.imgur.com/jM44MSM.png)
+{% figure "https://i.imgur.com/jM44MSM.png" %}
 
 {% blur "https://i.imgur.com/4e6E2VY.png" %}

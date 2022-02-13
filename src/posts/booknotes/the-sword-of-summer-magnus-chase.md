@@ -7,6 +7,7 @@ date: '2016-08-25T09:37:33-03:00'
 description: >-
   The Sword of Summer is a great start of one of Rick Riordan's new book series,
   Magnus Chase and the Gods of Asgard.
+thumbnail: http://i.imgur.com/CK7DA3F.jpg
 images:
   - 'http://i.imgur.com/CK7DA3F.jpg'
   - /post_images/SwordOfSummerQuote.jpg
@@ -78,7 +79,7 @@ We got to see a lot of the gods and a bunch of interesting details about the Nor
 But this isn't just a trivia book. A lot of _facts_ are complete and totally invented and put there just to make us laugh. 
 Which takes me to the next point!
 
-![Myths are simply stories about truths we've forgotten](/post_images/SwordOfSummerQuote.jpg)
+{% figure "/post_images/SwordOfSummerQuote.jpg", "Myths are simply stories about truths we've forgotten" %}
 
 ### Sense of humor
 
