@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-02-12T05:31:12.998Z",
+  "lastFetched": "2022-02-13T05:44:36.995Z",
   "notes": [
     {
       "id": "96a049dc-2184-4c66-9fb2-aac00b6b0c02",
@@ -18,10 +18,10 @@
     {
       "id": "84daed7f-3d86-49c2-ba2e-41b21654ab99",
       "created_time": "2022-02-04T06:27:00.000Z",
-      "last_edited_time": "2022-02-04T06:30:00.000Z",
+      "last_edited_time": "2022-02-05T23:17:00.000Z",
       "cover": null,
       "icon": null,
-      "content": "\nIt’s kinda crazy how I got totally sucked in watching figure skating for the first time 12 years ago in Brazil, during Vancouver Olympics. And now here I am in Vancouver, watching the 2022 figure skating\n",
+      "content": "\nIt’s kinda crazy how I got totally sucked in watching figure skating for the first time 12 years ago in Brazil, during Vancouver Olympics. And now here I am in Vancouver, watching the 2022 figure skating.\n",
       "title": "Figure Skating 2022",
       "tags": [
         "Memories",
@@ -71,6 +71,25 @@
       ],
       "images": [
         "/img/notes/cd6f98b1-EFF2AAFF-1503-4D2B-9705-0A60B4CBD95B.jpeg"
+      ],
+      "format": "text"
+    },
+    {
+      "id": "0a9d42b3-a9e2-43b9-bb00-497769b21a2f",
+      "created_time": "2022-02-13T04:09:00.000Z",
+      "last_edited_time": "2022-02-13T04:52:00.000Z",
+      "cover": null,
+      "icon": null,
+      "content": "\nYesterday I received the OST for The Serpent, a show I enjoyed a lot and that has a great soundtrack. My wife and I binged the show, and I listened to the soundtrack during most of the time I was reading [The Lighthouse Witches](https://geekosaur.com/post/the-lighthouse-witches-book-notes/).\n\nI pre-ordered it a long time ago and the release was postponed so many times I though I was not going to get it anymore. But I’m happy it’s here now. And it looks BEAUTIFUL!\n\nYou can see the trailer [here](https://www.youtube.com/watch?v=TgB7rMuxY-s) and listen to the soundtrack [here](https://www.youtube.com/watch?v=ZgJeWP_vw8M&list=PLuF78wm0RiGZlDiRBcCa06LCQLBC4T938).\n",
+      "title": "The Serpent OST Record",
+      "tags": [
+        "Personal",
+        "New Things"
+      ],
+      "images": [
+        "/img/notes/0a9d42b3-13B83BA8-DF03-4E5D-8B71-62A551D1B512.jpeg",
+        "/img/notes/0a9d42b3-BF835A3B-A14D-46DA-8786-4C959D9958F3.jpeg",
+        "/img/notes/0a9d42b3-EB5BBC65-7C5F-4252-B5BF-76087532CC4B.jpeg"
       ],
       "format": "text"
     }

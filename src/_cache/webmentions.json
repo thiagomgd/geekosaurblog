@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-02-12T05:31:13.190Z",
+  "lastFetched": "2022-02-13T05:44:37.232Z",
   "children": [
     {
       "type": "entry",
@@ -1396,6 +1396,24 @@
       "wm-source": "https://brid.gy/like/twitter/FalconSensei/1490141415648620545/1351730488260628484",
       "wm-target": "https://geekosaur.com/comics-manga-read/",
       "like-of": "https://geekosaur.com/comics-manga-read/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Manuel",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/2689924594af67744884c492e6544a7dca42ee75323cd1c1158c619ad4b58433.jpg",
+        "url": "https://chaos.social/@manuel"
+      },
+      "url": "https://mastodon.social/@falcon/107783631155917381#favorited-by-1343420",
+      "published": null,
+      "wm-received": "2022-02-12T12:52:22Z",
+      "wm-id": 1350822,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mastodon.social/107783631155917381/1343420",
+      "wm-target": "https://geekosaur.com/note/cd6f98b1-1814-411e-8399-ede231748153/",
+      "like-of": "https://geekosaur.com/note/cd6f98b1-1814-411e-8399-ede231748153/",
       "wm-property": "like-of",
       "wm-private": false
     }

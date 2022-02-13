@@ -4,7 +4,7 @@ title: "Geekosaur Weekly #21:"
 description: ""
 lead: ""
 draft: true
-# thumbnail: /img/
+thumbnail: "https://i.imgur.com/YrAXp97.png"
 slug: 'geekosaur-news-21'
 tags:
 # reddit: 

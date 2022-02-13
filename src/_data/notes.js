@@ -2,7 +2,7 @@ const fetch = require("node-fetch");
 const unionBy = require("lodash/unionBy");
 const fs = require("fs");
 const domain = require("./metadata.json").domain;
-const { readFromCache, writeToCache } = require("../_11ty/helpers");
+const { readFromCache, writeToCache, getLocalImageLink } = require("../_11ty/helpers");
 
 const { Client } = require('@notionhq/client');
 // https://github.com/souvikinator/notion-to-md
@@ -12,7 +12,6 @@ const { NotionToMarkdown } = require("notion-to-md");
 const CACHE_FILE_PATH = "src/_cache/notes.json";
 const DATABASE_ID = "66ebf4c34b694d0a94763b3936d9cd9b";
 const TOKEN = process.env.NOTION_API_KEY
-const imageFolder = "/img/notes/"
 
 const notion = new Client({ auth: TOKEN });
 const n2m = new NotionToMarkdown({ notionClient: notion });
@@ -41,22 +40,15 @@ const getImages = (note) => {
   const images = []
   for (const img of imagesNotion) {
     const fileName = `${note.id.substr(0, note.id.indexOf("-"))}-${img.name}`;
-    const path = `./src${imageFolder}${fileName}`;
-    const imagePath = `${imageFolder}${fileName}`;
-
+  
     // if (img.file.url.includes("secure.notion-static.com") && !process.env.ELEVENTY_ENV === "devbuild") break;
 
     // if (!process.env.ELEVENTY_ENV === "devbuild") {
     //   images.push(img.file.url);
     //   break;
     // }
-
-    if (!fs.existsSync(path)) {
-      fetch(img.file.url)
-        .then(res =>
-          res.body.pipe(fs.createWriteStream(path))
-        )
-    }
+    const imagePath = getLocalImageLink(img.file.url, fileName, 'notes')
+    
     images.push(imagePath);
   }
 

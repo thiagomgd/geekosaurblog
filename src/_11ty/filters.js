@@ -4,6 +4,8 @@ const rootUrl = require("../_data/metadata.json").url;
 const MarkdownIt = require('markdown-it');
 const plainText = require('markdown-it-plain-text');
 
+const { getLocalImageLink } = require("../_11ty/helpers");
+
 const md = new MarkdownIt();
 
 function getRelevance(postTags, matchingPost) {
@@ -145,5 +147,8 @@ module.exports = {
       return note.images[0];
     }
     return null;
+  },
+  getLocalImgUrl: (url) => {
+    return getLocalImageLink(url);
   }
 };

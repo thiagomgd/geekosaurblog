@@ -1,35 +1,94 @@
-const fs = require('fs')
+const fs = require("fs");
+const fetch = require("node-fetch");
+
+const IMG_CACHE_FILE_PATH = "src/_cache/images.json";
+const external = /https?:\/\/((?:[\w\d-]+\.)+[\w\d]{2,})/i;
 
 // get cache contents from json file
 function readFromCache(cacheFilePath) {
   if (fs.existsSync(cacheFilePath)) {
-    const cacheFile = fs.readFileSync(cacheFilePath)
-    return JSON.parse(cacheFile)
+    const cacheFile = fs.readFileSync(cacheFilePath);
+    return JSON.parse(cacheFile);
   }
 
   // no cache found.
   return {
     lastFetched: null,
-    children: []
-  }
+    children: [],
+  };
 }
 
 // save combined webmentions in cache file
 function writeToCache(data, cacheFilePath, descriptor) {
-  const dir = 'src/_cache'
-  const fileContent = JSON.stringify(data, null, 2)
+  const dir = "src/_cache";
+  const fileContent = JSON.stringify(data, null, 2);
   // create cache folder if it doesnt exist already
   if (!fs.existsSync(dir)) {
-    fs.mkdirSync(dir)
+    fs.mkdirSync(dir);
   }
   // write data to cache json file
-  fs.writeFile(cacheFilePath, fileContent, err => {
-    if (err) throw err
-    console.log(`>>> ${descriptor} cached to ${cacheFilePath}`)
-  })
+  fs.writeFileSync(cacheFilePath, fileContent, (err) => {
+    if (err) throw err;
+    console.log(`>>> ${descriptor} cached to ${cacheFilePath}`);
+  });
+}
+
+function hash(text) {
+  "use strict";
+
+  var hash = 5381,
+    index = text.length;
+
+  while (index) {
+    hash = (hash * 33) ^ text.charCodeAt(--index);
+  }
+
+  const hashNumber = hash >>> 0;
+  return hashNumber.toString();
+}
+
+function shortHash(text) {
+  return hash(text).substring(0, 7);
+}
+
+function getFileName(url) {
+  // get the filename from the path
+  const pathComponents = url.split("/");
+
+  // break off cache busting string if there is one
+  let filename = pathComponents[pathComponents.length - 1].split("?");
+  return `${shortHash(url)}-${filename[0]}`;
+}
+
+function getLocalImageLink(imgUrl, fileName = "", folder = "ext") {
+  if (!imgUrl) return "";
+
+  if (!external.test(imgUrl) || process.env.ELEVENTY_ENV === "development") {
+    return imgUrl;
+  }
+
+  const cache = readFromCache(IMG_CACHE_FILE_PATH);
+  if (cache[imgUrl]) {
+    return cache[imgUrl].url;
+  }
+
+  const fn = fileName || getFileName(imgUrl);
+  const imagePath = `/img/${folder}/${fn}`;
+  const path = `./src${imagePath}`;
+
+  if (!fs.existsSync(path)) {
+    fetch(imgUrl).then((res) => res.body.pipe(fs.createWriteStream(path)));
+    cache[imgUrl] = { url: imagePath };
+    writeToCache(cache, IMG_CACHE_FILE_PATH, "images");
+  } else {
+    console.error("> collision downloading image");
+  }
+
+  return imagePath;
 }
 
 module.exports = {
   readFromCache,
   writeToCache,
-}
+  getLocalImageLink,
+};
