@@ -7,6 +7,7 @@ const pluginTOC = require('eleventy-plugin-toc')
 const metagen = require('eleventy-plugin-metagen');
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const markdownItFootnote = require("markdown-it-footnote");
 const filters = require('./src/_11ty/filters');
 const shortcodes = require('./src/_11ty/shortcodes');
 const pairedShortcodes = require('./src/_11ty/pairedShortcodes');
@@ -141,7 +142,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/img");
 
   // Customize Markdown library and settings:
-  let markdownLibrary = markdownIt({
+  const markdownLibrary = markdownIt({
     html: true,
     breaks: true,
     linkify: true
@@ -153,7 +154,8 @@ module.exports = function(eleventyConfig) {
       level: [1,2,3,4],
     }),
     slugify: eleventyConfig.getFilter("slugify")
-  });
+  }).use(markdownItFootnote);
+
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Override Browsersync defaults (used only with --serve)
