@@ -9,6 +9,7 @@ images:
 - https://i.imgur.com/ZsMJ8Tk.jpg
 - https://i.imgur.com/7NY5v3d.png
 - https://i.imgur.com/YISrc8a.png
+thumbnail: https://i.imgur.com/ZsMJ8Tk.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/i1bd82/anime_im_watching_this_season/
 slug: anime_summer_2020
 tags:
@@ -20,7 +21,7 @@ tweetId: "1289252748832182273"
 
 We are a few weeks into summer 2020 season, and it's time to talk about which anime I'm watching this time. Let's see!
 
-!["This is the true ship!"](https://i.imgur.com/ZsMJ8Tk.jpg)
+{% figure "https://i.imgur.com/ZsMJ8Tk.jpg", "This is the true ship!" %}
 
 <!--more-->
 
@@ -30,13 +31,13 @@ We are a few weeks into summer 2020 season, and it's time to talk about which an
 
 This anime is so fun! Great to relax and watch the main character's relationship (?) evolve as Uzaki starts hanging out more with Sakurai. Just plain fun and nothing to complain here.
 
-![Snarky Uzaki](https://i.imgur.com/7NY5v3d.png)
+{% figure "https://i.imgur.com/7NY5v3d.png", "Snarky Uzaki" %}
 
 ### Rent-a-Girlfriend
 
 I like the premise a lot, and the first episode was GREAT. But Kazuya is dumb and a bit annoying occasionally, and his ex-girlfriend is just mean and I hate her. Still watching because I like the plot, and it has Ichinose!
 
-![](https://i.imgur.com/YISrc8a.png)
+{% figure "https://i.imgur.com/YISrc8a.png" %}
 
 ## Starting Soon
 

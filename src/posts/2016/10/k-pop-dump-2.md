@@ -5,6 +5,7 @@ categories:
 date: "2016-10-04T09:58:28-03:00"
 description: More K-Pop music (and some gifs) for you!
 draft: true
+thumbnail: banners/KpopDump2.jpg
 images:
 - banners/KpopDump2.jpg
 - http://i.imgur.com/c2xY6kZ.gif
@@ -50,8 +51,8 @@ More K-Pop music (and some gifs) for you!
 
 ## Pics and Gifs
 
-![Dia - Mr. Potter](http://i.imgur.com/c2xY6kZ.gif)
+{% figure "http://i.imgur.com/c2xY6kZ.gif", "Dia - Mr. Potter" %}
 
-![MRW I notice a camera](http://thumbs.gfycat.com/SardonicFineBaleenwhale-size_restricted.gif)
+{% figure "http://thumbs.gfycat.com/SardonicFineBaleenwhale-size_restricted.gif", "MRW I notice a camera" %}
 
-<img src="http://i.giphy.com/R2vQ5QDS13x6g.gif" alt="Miss A - Jia Fei" class="img-medium"></a>
+{% figure "http://i.giphy.com/R2vQ5QDS13x6g.gif", "Miss A - Jia Fei", "vertical" %}
