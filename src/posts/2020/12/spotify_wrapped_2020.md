@@ -9,6 +9,7 @@ draft: false
 images:
 - https://i.imgur.com/2mdG4Zw.jpg
 - https://i.imgur.com/nF6NQyN.jpg?1
+thumbnail: https://i.imgur.com/2mdG4Zw.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/k84ead/my_2020_spotify_wrapped/
 tags:
 - Music
@@ -19,7 +20,7 @@ tweetId: "1335724672562982912"
 
 The year is coming to an end, and Spotify released my 2020 rewind - or 2020 wrapped. Let's have a look on what I listened to this year. I saved the best for last, of course!
 
-![](https://i.imgur.com/2mdG4Zw.jpg)
+{% figure "https://i.imgur.com/2mdG4Zw.jpg" %}
 
 <!--more-->
 

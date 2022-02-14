@@ -6,8 +6,7 @@ description: After showing how to automate downloading images and videos from Re
   comments, I'm adding one extra step and making it also find the correct posts for
   me.
 draft: false
-images:
-- https://i.imgur.com/9u3PBtG.png
+thumbnail: https://i.imgur.com/9u3PBtG.png
 reddit: https://www.reddit.com/r/geekosaur/comments/n06zhy/automating_things_downloading_reddit_media_part_2/
 slug: automating-downloading-reddit-images-part2
 tags:
@@ -19,7 +18,7 @@ tweetId: "1387263984001191936"
 
 Recently I shared a post on how to automate [downloading images and videos from Reddit comments](/posts/automating-downloading-reddit-images/), as well as saving links present in those comments. Today I'm adding one extra step, and making it also find the correct posts for me. That way I can download screenshots and videos for a whole show!
 
-![](https://i.imgur.com/9u3PBtG.png)  
+{% figure "https://i.imgur.com/9u3PBtG.png" %}
 
 <!--more-->
 
