@@ -10,8 +10,8 @@ tags:
 - Automating
 - Eleventy
 toc: true
-# reddit: 
-# tweetId: ''
+reddit: https://www.reddit.com/r/geekosaur/comments/stfhy0/notes_section_from_notion_to_eleventy/
+tweetId: '1493678663723720705'
 ---
 
 Recently I added a notes section here. The idea is that it's easier for me to post short thoughts and updates, and also it's something easier to search, organize and reference in the future. This is because if I post directly on Twitter, it's kind of gone forever.
