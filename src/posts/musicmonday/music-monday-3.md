@@ -5,11 +5,10 @@ description: Last week I started checking some random music on Youtube, and went
   the rabbit hole (as always). Here's some of the things I checked, enjoy!
 draft: false
 images:
-- https://images.pexels.com/photos/1626481/pexels-photo-1626481.jpeg
 reddit: https://www.reddit.com/r/geekosaur/comments/he2ykt/random_music_music_monday_jun_22/
 slug: random-music-jun-22
 tags:
-thumbnail: https://images.pexels.com/photos/1626481/pexels-photo-1626481.jpeg
+thumbnail: 
 title: "Music Monday #3: Random Music"
 ---
 
