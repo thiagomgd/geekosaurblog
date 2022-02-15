@@ -9,7 +9,6 @@ slug: 'eleventy-notion-notes-section'
 tags:
 - Automating
 - Eleventy
-- Blog
 toc: true
 # reddit: 
 # tweetId: ''
