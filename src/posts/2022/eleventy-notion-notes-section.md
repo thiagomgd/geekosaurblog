@@ -1,12 +1,15 @@
 ---
 date: '2022-02-15T16:00:00Z'
-title: "eleventy-notion-notes-section"
-description: ""
+title: "Notes Section: From Notion To Eleventy"
+description: "How to write notes on Notion and publish with Eleventy"
 lead: ""
-draft: true
+draft: false
 # thumbnail: /img/
 slug: 'eleventy-notion-notes-section'
 tags:
+- Automating
+- Eleventy
+- Blog
 toc: true
 # reddit: 
 # tweetId: ''
@@ -14,7 +17,7 @@ toc: true
 
 Recently I added a notes section here. The idea is that it's easier for me to post short thoughts and updates, and also it's something easier to search, organize and reference in the future. This is because if I post directly on Twitter, it's kind of gone forever.
 
-So, I decided to make a way for me to write my thoughts directly on [Notion](notion.so), and have it automagically rendered on the blog as part of a *notes* section. I'm not 100% finished, as there's a few more things that I want to add, like *tags* for example, but what I have now is complete enough for the to use comfortably.
+So, I decided to make a way for me to write my thoughts directly on Notion (notion.so), and have it automagically rendered on the blog as part of a *notes* section. I'm not 100% finished, as there's a few more things that I want to add, like *tags* for example, but what I have now is complete enough for the to use comfortably.
 
 ## Part 1 - Create Notion Database
 
