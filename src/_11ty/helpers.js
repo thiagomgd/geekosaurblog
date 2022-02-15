@@ -84,7 +84,7 @@ function getLocalImageLink(imgUrl, fileName = "", folder = "ext") {
     cache[imgUrl] = { url: imagePath };
     writeToCache(cache, IMG_CACHE_FILE_PATH, "images");
   } else {
-    console.error("> collision downloading image");
+    console.error("> collision downloading image", imgUrl);
   }
 
   return imagePath;

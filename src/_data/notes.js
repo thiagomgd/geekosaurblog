@@ -75,20 +75,14 @@ async function fetchPage(pageId) {
 }
 
 async function fetchNotes(since) {
-  // If we dont have a domain name or token, abort
   if (!DATABASE_ID || !TOKEN) {
     console.warn(">>> unable to fetch notes: missing token or db id");
     return null;
   }
 
   const newNotes = []
-  // let url = `${API}/mentions.jf2?domain=${domain}&token=${TOKEN}&per-page=${perPage}`;
-  // if (since) url += `&since=${since}`; // only fetch new mentions
-
-  // const response = await fetch(url);
-
-  //  instead was `undefined`. body.filter.date should be defined, instead was `undefined`. body.filter.people should be defined, instead was `undefined`. body.filter.files should be defined, instead was `undefined`. body.filter.url should be defined, instead was `undefined`. body.filter.email should be defined, instead was `undefined`. body.filter.phone should be defined, instead was `undefined`. body.filter.phone_number should be defined, instead was `undefined`. body.filter.relation should be defined, instead was `undefined`. body.filter.created_by should be defined, instead was `undefined`. body.filter.property should be defined, instead was `undefined`. body.filter.last_edited_by should be defined, instead was `undefined`. body.filter.last_edited_time should be defined, instead was `undefined`. body.
-  // only brings first page (100 items) but we should't have more than not not in cache
+  // only brings first page (100 items) but we should't have more than not in cache
+  // TODO: update to use fetch method on books.js
   const response = await notion.databases.query({
     database_id: DATABASE_ID,
     filter: {
@@ -104,17 +98,14 @@ async function fetchNotes(since) {
   });
 
   if (response.results) {
-    const feed = response; //await response.json();
     console.log(
-      `>>> ${feed.results.length} new notes fetched`
+      `>>> ${response.results.length} new notes fetched`
     );
 
-    for (const note of feed.results) {
+    for (const note of response.results) {
       const noteContent = await fetchPage(note.id)
       const newNote = {
         ...getMetadata(note),
-        // TODO: GET TEXT CONTENT
-        // or maybe use https://11ty.rocks/eleventyjs/content/#excerpt-filter for twitter text
         content: noteContent,
         title: getTitle(note),
         tags: getTags(note),
@@ -130,11 +121,9 @@ async function fetchNotes(since) {
   return null;
 }
 
-// Merge fresh notes with cached entries, unique per id
+// Append fresh notes to cached entries
 function mergeNotes(a, b) {
-  // TODO: for now, force returning all from Notion - cache is useless
   return a.notes.concat(b)
-  // return b
 }
 
 module.exports = async function () {
@@ -146,7 +135,7 @@ module.exports = async function () {
   }
 
   // Only fetch new mentions in production
-  // if (process.env.ELEVENTY_ENV === "development") return cache.notes;
+  if (process.env.ELEVENTY_ENV === "development") return cache.notes;
 
   console.log(">>> Checking for new notes...");
   const newNotes = await fetchNotes(cache.lastFetched);

@@ -17,6 +17,8 @@ permalink: "note/{{ note.id }}/"
 
 {{ note.content }}
 
+{% anyEmbed note.embed %}
+
 {% for image in note.images %}
 
 {% figure image, "", "vertical" %}
