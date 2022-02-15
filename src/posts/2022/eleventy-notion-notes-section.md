@@ -28,7 +28,9 @@ As columns you have Title (renamed from Name), Tags, Images, Embed, Format and C
 
 One thing I absolutely love on Eleventy is how I can have anything as source data. A folder with markdown files, a single json file, a javascript that will load a json and import more things and then create the collection. On *_data*, my Eleventy data folder, I created *notes.js*, which loads the notes from Notion, does some processing, and then saves it on a cache in *_cache/notes.json*.
 
-To load data from Notion, I used the [official npm package from Notion](https://www.npmjs.com/package/@notionhq/client), and then to get all formatted to markdown, I used [notion-to-md](https://www.npmjs.com/package/notion-to-md). The core of it is below, and was based on the webmentions code I have that I got from [sia.codes](https://github.com/siakaramalegos/sia.codes-eleventy/commit/d7318565917b1342b38d6b3bff4e3e548276afca):
+### The Data File
+
+To load data from Notion, I used the official npm package from Notion[^notionclient], and then to get all formatted to markdown, I used notion-to-md[^notionmd]. The core of it is below, and was based on the webmentions code I have that I got from sia.codes[^siacodes]:
 
 ```javascript
 module.exports = async function () {
@@ -60,7 +62,7 @@ module.exports = async function () {
 };
 ```
 
-I have helper functions to read and write to/from cache. You can see my helper file here: [helper.js](https://github.com/thiagomgd/geekosaurblog/blob/main/src/_11ty/helpers.js). Note that I have a *devbuild* process because I only want to save cache when running *npm run build:local*. And *development* will not fetch any new thing (notes, webmentions, etc) and only use cached data. My package.json has:
+I have helper functions to read and write to/from cache, which you can see my helper file[^helper]. Note that I have a *devbuild* process because I only want to save cache when running *npm run build:local*. And *development* will not fetch any new thing (notes, webmentions, etc) and only use cached data. My package.json has:
 
 ```
 "scripts": {
@@ -70,6 +72,8 @@ I have helper functions to read and write to/from cache. You can see my helper f
     "debug": "DEBUG=* npx @11ty/eleventy"
   },
 ```
+
+### Fetch From Notion
 
 ```javascript
 async function fetchNotes(since) {
@@ -120,9 +124,11 @@ async function fetchNotes(since) {
 }
 ```
 
-Notion's API only returns 100 notes each time, but that's ok since at least once a week I do a *npm run build:local* and update the cache. Anyway, I solved this in another data source (books.js[^books]) that uses my notion helpers code[^notion]. But ~~I'm lazy to fix here~~ I wanted to show you the basic on fetching that data :)
+Notion's API only returns 100 notes each time, but that's ok since at least once a week I do a *npm run build:local* and update the cache. Anyway, I solved this in another data source (books.js[^books]) that uses my notion helpers code[^notion]. But ~~I'm lazy~~ I wanted to show you the basic on fetching that data :)
 
-Those *getXYZ* methods are done on the helper too in a general way (except for images), but let see:
+### Proccess Notion Data And Download Images
+
+Those `getXYZ` methods are done on the helper too in a general way (except for images), but let see:
 
 ```javascript
 const getMetadata = (note) => {
@@ -166,7 +172,7 @@ const getImages = (note) => {
 }
 ```
 
-All pretty straightforward, except for *getImages*, which has to download images. That's because Notion returns image urls that expire, so it's a no-go. I extracted the download method into a helper function, so I can download all external images that I use via the figure shortcode, and serve it locally. Please refer to helper.js[^helper] for all helper functions, but the main code is below:
+All pretty straightforward, except for `getImages`, which has to download images. That's because Notion returns image urls that expire, so it's a no-go. I extracted the download method into a helper function, so I can download all external images that I use via the figure shortcode, and serve it locally. Please refer to `helper.js`[^helper] for all helper functions, but the main code is below:
 
 ```javascript
 function getLocalImageLink(imgUrl, fileName = "", folder = "ext") {
@@ -197,19 +203,19 @@ function getLocalImageLink(imgUrl, fileName = "", folder = "ext") {
 }
 ```
 
-The logic is simple: skip if no url (for my thumbnails), skip if it's a local image or is development mode. Otherwise, try to see if it's already cached, and return that local url. If not, download and save the local url on cache. The reason I'm caching *cache[imgUrl].url* is because I want to at some point optimize images and keep the original, so I would also have *cache[imgUrl].optimizedUrl*.
+The logic is simple: skip if no url (for my thumbnails), skip if it's a local image or is development mode. Otherwise, try to see if it's already cached, and return that local url. If not, download and save the local url on cache. The reason I'm caching `cache[imgUrl].url` is because I want to at some point optimize images and keep the original, so I would also have `cache[imgUrl].optimizedUrl`.
 
 ## Part 3 - Adding The Section And Individual Pages
 
 I created a `notes` folder with 2 files: `notes.md` and `note.md`. One for the whole list, and another for individual items. As I mentioned, it's still incomplete, but it's all you need to see the notes on your blog.
 
-For the notes.md[^notes] file, this is how I show everything:
+For the `notes.md`[^notes] file, this is how I show everything:
 
 {% figure "https://i.imgur.com/m9DZZoh.png" %}
 
-*AnyEmbed* [^shortcodes] is my shortcode to embed "anything". Basically, it checks the url, and then call the correct shortcode. For now it's only Youtube and Reddit, but I'll add Twitter, and also a basic *unfurl* that render a card/preview if it's a link I don't have an embed to.
+`anyEmbed` [^shortcodes] is my shortcode to embed "anything". Basically, it checks the url, and then call the correct shortcode. For now it's only Youtube and Reddit, but I'll add Twitter, and also a basic *unfurl* that render a card/preview if it's a link I don't have an embed to.
 
-The only difference to the individual note.md on that, is that I don't cycle through all notes. This is the frontmatter for the individual pages, to enable it being generated on for all notes, with the correct thumbnails and everything:
+The only difference to the individual `note.md` on that, is that I don't cycle through all notes. This is the frontmatter for the individual pages, to enable it being generated on for all notes, with the correct thumbnails and everything:
 
 {% figure "https://i.imgur.com/6nw0vl8.png", "Frontmatter (for some reason, embedding frontmatter code breaks the post" %}
 
@@ -219,7 +225,7 @@ You can see my filters file[^filters] for those filters, but what they do is bas
 
 That's it! You should have it working like mine!
 
-## Part 5: BONUS for iOS users
+## Part 5: Bonus for iOS users
 
 Now, I can write the notes on my phone, but I still need to trigger a build. My blog only rebuilds automatically once a day, and I don't want to go to the computer to call the webhook. Since I use Cloudflare Pages, I have a webhook that I can POST to to trigger a rebuild. With iOS shortcuts, I can call it from my phone. See below for example:
 
@@ -238,3 +244,9 @@ I cut off the first step, which is just defining the URL for the webhook (copied
 [^notes]: https://github.com/thiagomgd/geekosaurblog/blob/main/src/notes/notes.md
 
 [^books]: https://github.com/thiagomgd/geekosaurblog/blob/main/src/_data/books.js
+
+[^notionclient]: https://www.npmjs.com/package/@notionhq/client
+
+[^siacodes]: https://github.com/siakaramalegos/sia.codes-eleventy/commit/d7318565917b1342b38d6b3bff4e3e548276afca
+
+[^notionmd]: https://www.npmjs.com/package/notion-to-md
