@@ -79,7 +79,7 @@ We got to see a lot of the gods and a bunch of interesting details about the Nor
 But this isn't just a trivia book. A lot of _facts_ are complete and totally invented and put there just to make us laugh. 
 Which takes me to the next point!
 
-{% figure "/post_images/SwordOfSummerQuote.jpg", "Myths are simply stories about truths we've forgotten" %}
+<!-- "/post_images/SwordOfSummerQuote.jpg", "Myths are simply stories about truths we've forgotten" -->
 
 ### Sense of humor
 

@@ -11,6 +11,7 @@ const markdownItFootnote = require("markdown-it-footnote");
 const filters = require('./src/_11ty/filters');
 const shortcodes = require('./src/_11ty/shortcodes');
 const pairedShortcodes = require('./src/_11ty/pairedShortcodes');
+const asyncShortcodes = require('./src/_11ty/asyncShortcodes');
 
 // TODO: remove
 const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
@@ -44,6 +45,11 @@ module.exports = function(eleventyConfig) {
   // Add shortcodes
   Object.keys(pairedShortcodes).forEach(codeName => {
     eleventyConfig.addPairedShortcode(codeName, pairedShortcodes[codeName])
+  })
+
+  // Add shortcodes
+  Object.keys(asyncShortcodes).forEach(codeName => {
+    eleventyConfig.addNunjucksAsyncShortcode(codeName, asyncShortcodes[codeName])
   })
 
   // This function is reused in this config, so declaring the filter here instead:

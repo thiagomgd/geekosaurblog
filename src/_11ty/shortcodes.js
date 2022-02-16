@@ -120,16 +120,16 @@ function anyEmbed(url) {
 module.exports = {
   youtube,
   reddit,
-  blur,
-  card,
-  anyEmbed,
-  figure: (image, caption="", className="", alt="") => {
-    const localSrc = getLocalImageLink(image);
+  // blur,
+  // card,
+  anyEmbed
+  // figure: (image, caption="", className="", alt="") => {
+  //   const localSrc = getLocalImageLink(image);
 
-    const mdCaption = caption ? markdownIt().renderInline(caption) : EMPTY;
-    const classMarkup = className ? ` class="${className}"` : '';
-    const captionMarkup = caption ? `<figcaption>${mdCaption}</figcaption>` : '';
-    return `<figure${classMarkup}><img src="${localSrc}" alt="${alt}" />${captionMarkup}</figure>`;
-  }
+  //   const mdCaption = caption ? markdownIt().renderInline(caption) : EMPTY;
+  //   const classMarkup = className ? ` class="${className}"` : '';
+  //   const captionMarkup = caption ? `<figcaption>${mdCaption}</figcaption>` : '';
+  //   return `<figure${classMarkup}><img src="${localSrc}" alt="${alt}" />${captionMarkup}</figure>`;
+  // }
 };
 
