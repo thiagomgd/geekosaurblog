@@ -1619,6 +1619,14 @@
       "review": null,
       "date_read": "2022-01-23T00:00:00.000Z",
       "year_read": 2022
+    },
+    {
+      "title": "Broken (in the best possible way)",
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1599828431l/53533469._SY475_.jpg",
+      "rating": 5,
+      "review": null,
+      "date_read": "2022-02-15T00:00:00.000Z",
+      "year_read": 2022
     }
   ]
 }

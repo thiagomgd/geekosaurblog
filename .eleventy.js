@@ -13,10 +13,6 @@ const shortcodes = require('./src/_11ty/shortcodes');
 const pairedShortcodes = require('./src/_11ty/pairedShortcodes');
 const asyncShortcodes = require('./src/_11ty/asyncShortcodes');
 
-// TODO: remove
-const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
-const { process } = require("clean-css");
-
 module.exports = function(eleventyConfig) {
   // Add plugins
   eleventyConfig.addPlugin(pluginRss);
@@ -28,9 +24,6 @@ module.exports = function(eleventyConfig) {
     wrapper: 'nav'
   })
   eleventyConfig.addPlugin(metagen);
-
-  // TODO: remove
-  eleventyConfig.addPlugin(UpgradeHelper);
 
   // Add filters
   Object.keys(filters).forEach(filterName => {
