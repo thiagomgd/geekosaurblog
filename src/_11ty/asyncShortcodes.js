@@ -3,6 +3,7 @@ const Cache = require("@11ty/eleventy-cache-assets");
 const outdent = require("outdent")({ newline: " " });
 
 const { getLocalImageLink } = require("../_11ty/helpers");
+const { youtube, youtube_parser, reddit } = require("./shortcodes");
 
 const EMPTY = ``;
 
@@ -22,7 +23,9 @@ async function imageShortcode(src, alt) {
   });
 
   let data = metadata.jpeg[metadata.jpeg.length - 1];
-  return `<img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" loading="lazy" decoding="async">`;
+  // square counts as vertical
+  const isVerticalClassname = data.height >= data.width ? 'class="vertical"' : '';
+  return `<img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" ${isVerticalClassname} loading="lazy" decoding="async">`;
 }
 
 function uuidv4() {
@@ -134,16 +137,30 @@ ${publisher ? publisherEl : ""}
 // https://github.com/daviddarnes/eleventy-plugin-unfurl
 const unfurl = async(url) => {
   const metadata = await Cache(`https://api.microlink.io/?url=${url}`, {
-      duration: "1m",
+      duration: "1w",
       type: "json",
     });
 
     return template(metadata.data);
 }
 
+async function anyEmbed(url) {
+  if (!url) return ``;
+
+  if (url.startsWith('https://www.youtube.com/') || url.startsWith('https://youtu.be/')) {
+    const id = youtube_parser(url);
+    return youtube(id);
+  }
+
+  if (url.startsWith('https://www.reddit.com/')) return reddit(url);
+
+  return await unfurl(url);
+}
+
 module.exports = {
   blur,
   card,
+  anyEmbed,
   unfurl,
   figure: async (image, caption="", className="", alt="") => {
     const localSrc = getLocalImageLink(image);

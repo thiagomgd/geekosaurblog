@@ -122,7 +122,6 @@ module.exports = {
   reddit,
   // blur,
   // card,
-  anyEmbed
   // figure: (image, caption="", className="", alt="") => {
   //   const localSrc = getLocalImageLink(image);
 

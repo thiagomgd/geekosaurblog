@@ -21,6 +21,6 @@ permalink: "note/{{ note.id }}/"
 
 {% for image in note.images %}
 
-{% figure image, "", "vertical" %}
+{% figure image %}
 
 {% endfor %}

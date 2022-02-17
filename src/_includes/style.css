@@ -883,7 +883,7 @@ footer .form input, footer .form button {
   footer .footer-social-links a { margin: 16px; }
 }
 
-figure.vertical {
+figure.vertical, img.vertical {
   max-width: 50%;
 }
 

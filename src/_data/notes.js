@@ -39,6 +39,7 @@ const getImages = (note) => {
   const imagesNotion = note.properties.Images.files;
   const images = []
   for (const img of imagesNotion) {
+    const imageUrl = img.type === 'external' ? img.external.url : img.file.url ;
     const fileName = `${note.id.substr(0, note.id.indexOf("-"))}-${img.name}`;
   
     // if (img.file.url.includes("secure.notion-static.com") && !process.env.ELEVENTY_ENV === "devbuild") break;
@@ -47,7 +48,7 @@ const getImages = (note) => {
     //   images.push(img.file.url);
     //   break;
     // }
-    const imagePath = getLocalImageLink(img.file.url, fileName, 'notes')
+    const imagePath = getLocalImageLink(imageUrl, fileName, 'notes')
     
     images.push(imagePath);
   }
@@ -135,7 +136,7 @@ module.exports = async function () {
   }
 
   // Only fetch new mentions in production
-  if (process.env.ELEVENTY_ENV === "development") return cache.notes;
+  // if (process.env.ELEVENTY_ENV === "development") return cache.notes;
 
   console.log(">>> Checking for new notes...");
   const newNotes = await fetchNotes(cache.lastFetched);
