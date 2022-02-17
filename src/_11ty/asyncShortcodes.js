@@ -16,7 +16,7 @@ async function imageShortcode(src, alt) {
   const fileSource = src.startsWith('/img') ? `./src${src}` : src;
 
   let metadata = await Image(fileSource, {
-    widths: [800],
+    widths: [1200],
     outputDir: '_site/img',
   });
 
