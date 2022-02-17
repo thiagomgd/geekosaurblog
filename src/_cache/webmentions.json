@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-02-16T19:51:35.876Z",
+  "lastFetched": "2022-02-17T06:02:00.425Z",
   "children": [
     {
       "type": "entry",
@@ -1791,6 +1791,24 @@
       "wm-received": "2022-02-15T23:03:57Z",
       "wm-id": 1352152,
       "wm-source": "https://brid.gy/like/twitter/FalconSensei/1493678663723720705/458808076",
+      "wm-target": "https://geekosaur.com/post/eleventy-notion-notes-section/",
+      "like-of": "https://geekosaur.com/post/eleventy-notion-notes-section/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Eduardo Uribe",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/0a291ea9afff0430dd801bceaf71eb5db28fa001c93d57745696a20cfbc17b94.jpg",
+        "url": "https://twitter.com/Eduardo__Uribe"
+      },
+      "url": "https://twitter.com/FalconSensei/status/1493678663723720705#favorited-by-3165967183",
+      "published": null,
+      "wm-received": "2022-02-16T22:50:55Z",
+      "wm-id": 1352453,
+      "wm-source": "https://brid.gy/like/twitter/FalconSensei/1493678663723720705/3165967183",
       "wm-target": "https://geekosaur.com/post/eleventy-notion-notes-section/",
       "like-of": "https://geekosaur.com/post/eleventy-notion-notes-section/",
       "wm-property": "like-of",
