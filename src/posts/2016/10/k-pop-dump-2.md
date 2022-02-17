@@ -1,13 +1,13 @@
 ---
-banner: banners/KpopDump2.jpg
+banner: /img/KpopDump2.jpg
 categories:
 - Music
 date: "2016-10-04T09:58:28-03:00"
 description: More K-Pop music (and some gifs) for you!
 draft: true
-thumbnail: banners/KpopDump2.jpg
+thumbnail: /img/KpopDump2.jpg
 images:
-- banners/KpopDump2.jpg
+- /img/KpopDump2.jpg
 - http://i.imgur.com/c2xY6kZ.gif
 - http://thumbs.gfycat.com/SardonicFineBaleenwhale-size_restricted.gif
 - http://i.giphy.com/R2vQ5QDS13x6g.gif

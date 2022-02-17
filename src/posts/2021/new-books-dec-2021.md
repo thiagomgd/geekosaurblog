@@ -13,7 +13,7 @@ slug: new-books-dec-2021
 summary: ''
 tags:
 - Books
-thumbnail: img/brandi-redd-3vz3v6judt0-unsplash.jpg
+thumbnail: /img/brandi-redd-3vz3v6judt0-unsplash.jpg
 title: December 2021 Book Haul
 toc: false
 tweetId: ''

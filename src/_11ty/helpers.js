@@ -1,5 +1,6 @@
 const fs = require("fs");
 const fetch = require("node-fetch");
+const Image = require("@11ty/eleventy-img");
 
 const IMG_CACHE_FILE_PATH = "src/_cache/images.json";
 const external = /https?:\/\/((?:[\w\d-]+\.)+[\w\d]{2,})/i;
@@ -90,8 +91,26 @@ function getLocalImageLink(imgUrl, fileName = "", folder = "ext") {
   return imagePath;
 }
 
+async function optimizeImage(src) {
+  if(!src) {
+    return src;
+  }
+
+  const fileSource = src.startsWith('/img') ? `./src${src}` : src;
+
+  let metadata = await Image(fileSource, {
+    widths: [800],
+    outputDir: '_site/img',
+  });
+
+  let data = metadata.jpeg[metadata.jpeg.length - 1];
+  return data.url;
+}
+
+
 module.exports = {
   readFromCache,
   writeToCache,
   getLocalImageLink,
+  optimizeImage
 };
