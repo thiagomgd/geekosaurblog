@@ -215,7 +215,9 @@ For the `notes.md`[^notes] file, this is how I show everything:
 
 {% figure "https://i.imgur.com/m9DZZoh.png" %}
 
-`anyEmbed` [^shortcodes] is my shortcode to embed "anything". Basically, it checks the url, and then call the correct shortcode. For now it's only Youtube and Reddit, but I'll add Twitter, and also a basic *unfurl* that render a card/preview if it's a link I don't have an embed to.
+`anyEmbed` [^shortcodes] is my shortcode to embed "anything". Basically, it checks the url, and then call the correct shortcode. For now it's only Youtube and Reddit, but I'll add Twitter, and also a basic *unfurl* that render a card/preview if it's a link I don't have an embed to. _Edit: I added unfurl and moved anyEmbed to asyncShortcodes_.
+
+_Another thing I didn't mention originally: I use the **embed** field in notion for that, but notion-to-md will give me `[embed](link)` and `[bookmark](link)`, so I could just update markdown-it's config so all links named like that are rendered as anyEmbed. That would allow me to actually use Notion for regular posts, which could contain more embeds. But I would still need to update how I fetch and update my Notion cache, so I could update posts after they are created. But that should be trivial. Feel free to reach out [@FalconSensei](https://twitter.com/FalconSensei) if you want some ideas_
 
 The only difference to the individual `note.md` on that, is that I don't cycle through all notes. This is the frontmatter for the individual pages, to enable it being generated on for all notes, with the correct thumbnails and everything:
 
@@ -241,7 +243,7 @@ I cut off the first step, which is just defining the URL for the webhook (copied
 
 [^filters]: https://github.com/thiagomgd/geekosaurblog/blob/main/src/_11ty/filters.js
 
-[^shortcodes]: https://github.com/thiagomgd/geekosaurblog/blob/main/src/_11ty/shortcodes.js 
+[^shortcodes]: https://github.com/thiagomgd/geekosaurblog/blob/main/src/_11ty/asyncShortcodes.js
 
 [^notes]: https://github.com/thiagomgd/geekosaurblog/blob/main/src/notes/notes.md
 
