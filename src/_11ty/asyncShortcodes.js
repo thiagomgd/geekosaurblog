@@ -36,36 +36,21 @@ function uuidv4() {
   });
 }
 
-const blur = async (src, caption, className="", alt="") => {
-  const localSrc = getLocalImageLink(src);
+async function figure(image, caption="", className="", alt="") {
+  const localSrc = getLocalImageLink(image);
+
+  const mdCaption = caption ? markdownIt().renderInline(caption) : EMPTY;
+  const classMarkup = className ? ` class="${className}"` : '';
+  const captionMarkup = caption ? `<figcaption>${mdCaption}</figcaption>` : '';
+  const imgTag = await imageShortcode(localSrc, alt);
+  return `<figure${classMarkup}>${imgTag}${captionMarkup}</figure>`;
+}
+
+async function blur(src, caption, className="", alt="") {
   const uuid = uuidv4();
 
-  const figureClass = className ? `class="${className}"` : EMPTY;
-  // const altVal = alt ? `alt=${alt}` : EMPTY;
-
-  // TODO: markdownify
-  // {{ with (.Get "title") -}}
-  // <h4>{{ . }}</h4>
-  // {{- end -}}
-  // {{- if or (.Get "caption") (.Get "attr") -}}<p>
-  //     {{- .Get "caption" | markdownify -}}
-  //     {{- with .Get "attrlink" }}
-  //     <a href="{{ . }}">
-  //         {{- end -}}
-  //         {{- .Get "attr" | markdownify -}}
-  //         {{- if .Get "attrlink" }}</a>{{ end }}</p>
-  // {{- end }}
-  const captionTag = caption ? `<figcaption>${caption}</figcaption>` : EMPTY;
-
-  // TODO: style/width/height?
-  const imgTag = await imageShortcode(localSrc, alt); // `<img src="${localSrc}" alt="${alt}"/>`;
-
-  return outdent`<div class="blurDiv blurred" id="${uuid}" >
-<figure ${figureClass} onclick="document.getElementById('${uuid}').className = 'blurDiv';">
-    ${imgTag}
-    ${captionTag}    
-</figure>
-</div>`;
+  const figureTag = await figure(src, caption, className, alt);
+  return `<div class="blurDiv blurred" id="${uuid}" onclick="document.getElementById('${uuid}').className = 'blurDiv';" >${figureTag}</div>`;
 };
 
 async function card(title, img, rating, review_link, goodreads) {
@@ -158,18 +143,10 @@ async function anyEmbed(url) {
 }
 
 module.exports = {
+  figure,
   blur,
   card,
   anyEmbed,
   unfurl,
-  figure: async (image, caption="", className="", alt="") => {
-    const localSrc = getLocalImageLink(image);
-
-    const mdCaption = caption ? markdownIt().renderInline(caption) : EMPTY;
-    const classMarkup = className ? ` class="${className}"` : '';
-    const captionMarkup = caption ? `<figcaption>${mdCaption}</figcaption>` : '';
-    const imgTag = await imageShortcode(localSrc, alt);
-    return `<figure${classMarkup}>${imgTag}${captionMarkup}</figure>`;
-  }
 };
 
