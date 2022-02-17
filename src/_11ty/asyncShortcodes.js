@@ -1,4 +1,5 @@
 const markdownIt = require("markdown-it");
+const Cache = require("@11ty/eleventy-cache-assets");
 const outdent = require("outdent")({ newline: " " });
 
 const { getLocalImageLink } = require("../_11ty/helpers");
@@ -84,9 +85,66 @@ ${goodreadsTag}
 </div>`;
 }
 
+const template = ({
+  image,
+  title,
+  url,
+  publisher,
+  description,
+  logo,
+  author,
+  date,
+}) => {
+  const imageEl = image ? `<img
+class="unfurl__image"
+src="${image.url}"
+width="${image.width}"
+height="${image.height}"
+alt=""
+/>` : '';
+
+  const titleEl = `<h4 class="unfurl__heading"><a class="unfurl__link" href="${url}">${title}</a></h4>`;
+
+  const descriptionEl = `<p class="unfurl__description">${description}</p>`;
+  const logoEl = logo ? outdent`<img
+class="unfurl__logo"
+src="${logo.url}"
+width="${logo.width}"
+height="${logo.height}"
+alt=""
+/>` : '';
+  // const dateEl = `
+  //     <time class="unfurl__date" datetime="${date}">
+  //       Posted ${formatDate(date)}
+  //     </time>
+  //   `;
+  const publisherEl = `<span class="unfurl__publisher">${publisher}</span>`;
+
+  return `<div class="unfurl">
+${titleEl}
+${image ? imageEl : ""}
+${description ? descriptionEl : ""}
+<small class="unfurl__meta">
+${logo ? logoEl : ""}
+${publisher ? publisherEl : ""}
+</small>
+</div>`;
+};
+
+// https://github.com/daviddarnes/eleventy-plugin-unfurl
+const unfurl = async(url) => {
+  const metadata = await Cache(`https://api.microlink.io/?url=${url}`, {
+      duration: "1m",
+      type: "json",
+    });
+
+    return template(metadata.data);
+}
+
 module.exports = {
   blur,
   card,
+  unfurl,
   figure: async (image, caption="", className="", alt="") => {
     const localSrc = getLocalImageLink(image);
 

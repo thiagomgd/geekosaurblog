@@ -886,3 +886,60 @@ footer .form input, footer .form button {
 figure.vertical {
   max-width: 50%;
 }
+
+
+
+
+/* UNFURL */
+
+.unfurl {
+  display: grid;
+  grid-gap: .3rem 1rem;
+  align-content: start;
+  max-width: 35rem;
+  font-family: -apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica neue,helvetica,Ubuntu,roboto,noto,segoe ui,arial,sans-serif;
+  color: #2c2d30;
+}
+.unfurl::before {
+  content: "";
+  grid-column: 1 / 2;
+  grid-row: 1 / 4;
+  width: .25rem;
+  height: 100%;
+  background: #e3e4e6;
+  border-radius: .2rem;
+}
+.unfurl > * {
+  grid-column: 2 / 3;
+}
+.unfurl__heading,
+.unfurl__description {
+  margin: 0;
+}
+.unfurl__link {
+  text-decoration: none;
+  color: #3081b7;
+}
+.unfurl__image {
+  grid-column: 3 / 4;
+  grid-row: 1 / 4;
+  align-self: center;
+  max-width: 8rem;
+  height: auto;
+  border-radius: .25rem;
+}
+.unfurl__logo {
+  max-width: 1rem;
+  height: auto;
+}
+.unfurl__meta {
+  grid-row: 1 / auto;
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  grid-gap: .25rem;
+  color: #a1a1a8;
+  font-weight: bold;
+}
+.unfurl + .unfurl {
+  margin-block-start: 2rem;
+}
