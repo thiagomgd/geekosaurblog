@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-02-17T06:02:00.425Z",
+  "lastFetched": "2022-02-19T01:38:14.168Z",
   "children": [
     {
       "type": "entry",
@@ -1811,6 +1811,46 @@
       "wm-source": "https://brid.gy/like/twitter/FalconSensei/1493678663723720705/3165967183",
       "wm-target": "https://geekosaur.com/post/eleventy-notion-notes-section/",
       "like-of": "https://geekosaur.com/post/eleventy-notion-notes-section/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon | Geekosaur 🍥",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/4fdf89bdb49cb794637398e9a5354b828729d641ab119fb0857afaa3e808b425.jpg",
+        "url": "https://twitter.com/FalconSensei"
+      },
+      "url": "https://twitter.com/FalconSensei/status/1494358075280556033",
+      "published": "2022-02-17T17:08:23+00:00",
+      "wm-received": "2022-02-18T18:05:49Z",
+      "wm-id": 1353153,
+      "wm-source": "https://brid.gy/comment/twitter/FalconSensei/1494256000613900293/1494358075280556033",
+      "wm-target": "https://geekosaur.com/post/eleventy-notion-notes-section/",
+      "content": {
+        "html": "Thanks for sharing. Nice seeing the shortcodes idea - maybe will use that at some point if I wanna include custom shortcodes on my Notion posts.\n(That would require me to improve how I fetch articles, so they can be updated in the cache, but should be trivial)\n<a class=\"u-mention\" href=\"https://geekosaur.com/post/eleventy-notion-notes-section/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/fubits\"></a>",
+        "text": "Thanks for sharing. Nice seeing the shortcodes idea - maybe will use that at some point if I wanna include custom shortcodes on my Notion posts.\n(That would require me to improve how I fetch articles, so they can be updated in the cache, but should be trivial)"
+      },
+      "in-reply-to": "https://geekosaur.com/post/eleventy-notion-notes-section/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Manuel",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/2689924594af67744884c492e6544a7dca42ee75323cd1c1158c619ad4b58433.jpg",
+        "url": "https://chaos.social/@manuel"
+      },
+      "url": "https://mastodon.social/@falcon/107811842264401668#favorited-by-1343420",
+      "published": null,
+      "wm-received": "2022-02-17T11:07:45Z",
+      "wm-id": 1352621,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mastodon.social/107811842264401668/1343420",
+      "wm-target": "https://geekosaur.com/note/1eb0e85b-e557-41e3-84ff-7a372e21c4d5/",
+      "like-of": "https://geekosaur.com/note/1eb0e85b-e557-41e3-84ff-7a372e21c4d5/",
       "wm-property": "like-of",
       "wm-private": false
     }

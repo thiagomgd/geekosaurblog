@@ -1288,5 +1288,8 @@
   },
   "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b6c28a99-84e3-4ab5-8db2-002c17111adc/Screen_Shot_2022-02-16_at_10.00.49_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220217%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220217T060200Z&X-Amz-Expires=3600&X-Amz-Signature=7452c6fd7b3cd9bc5d4a7fb6150b2bd69c079699a711a3a014233bf8658b287d&X-Amz-SignedHeaders=host&x-id=GetObject": {
     "url": "/img/notes/1eb0e85b-Screen Shot 2022-02-16 at 10.00.49 PM.png"
+  },
+  "https://m.media-amazon.com/images/I/41Jm4kBSD-L._SY346_.jpg": {
+    "url": "/img/ext/1173026-41Jm4kBSD-L._SY346_.jpg"
   }
 }
