@@ -1,6 +1,6 @@
 ---
 date: '2022-02-18T16:00:00Z'
-title: "Book Notes: shift-hugh-howey"
+title: "Book Notes: Shift by Hugh Howey (Silo #2)"
 description: "Great follow up to Wool, a prequel that tell us about how that world came to be!"
 lead: "A book that teaches us a lot about ourselves, our society, and makes us think about were we are headed!"
 draft: false
