@@ -41,6 +41,5 @@
     "notion-to-md": "^2.3.0",
     "outdent": "^0.8.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }

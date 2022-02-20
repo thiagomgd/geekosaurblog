@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-02-19T01:38:14.168Z",
+  "lastFetched": "2022-02-20T06:09:21.388Z",
   "children": [
     {
       "type": "entry",
@@ -1852,6 +1852,28 @@
       "wm-target": "https://geekosaur.com/note/1eb0e85b-e557-41e3-84ff-7a372e21c4d5/",
       "like-of": "https://geekosaur.com/note/1eb0e85b-e557-41e3-84ff-7a372e21c4d5/",
       "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "FalconSensei",
+        "photo": "https://webmention.io/avatar/styles.redditmedia.com/90bca8241b7b8810b42a26a4ab4264f3245b8570e2fef5d2edacbf0344ad3622.png",
+        "url": "https://reddit.com/user/FalconSensei/"
+      },
+      "url": "https://reddit.com/r/Notion/comments/svoxs1/notes_section_from_notion_to_eleventy/hxh7x5p/",
+      "published": "2022-02-18T18:32:33",
+      "wm-received": "2022-02-19T13:06:57Z",
+      "wm-id": 1353465,
+      "wm-source": "https://brid.gy/comment/reddit/FalconSensei/svoxs1/hxh7x5p",
+      "wm-target": "https://geekosaur.com/post/eleventy-notion-notes-section/",
+      "content": {
+        "html": "<p>I have an Eleventy blog, and recently decided to add a notes section for quick thoughts and shares. To be able to do that easily (and from my phone), I went with Notion.</p>\n\n<p>This is how I achieved the Notion + Eleventy integration.</p>",
+        "text": "I have an Eleventy blog, and recently decided to add a notes section for quick thoughts and shares. To be able to do that easily (and from my phone), I went with Notion.\n\nThis is how I achieved the Notion + Eleventy integration."
+      },
+      "in-reply-to": "https://geekosaur.com/post/eleventy-notion-notes-section/",
+      "wm-property": "in-reply-to",
       "wm-private": false
     }
   ]
