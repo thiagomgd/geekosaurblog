@@ -60,7 +60,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("tagList", function(collection) {
     let tagSet = new Set();
     collection.getAll().forEach(item => {
-      // console.log(item.data.tags);
       (item.data.tags || []).forEach(tag => tagSet.add(tag));
     });
 

@@ -8,6 +8,7 @@ pagination:
   alias: note
   addAllPagesToCollections: true
 eleventyComputed:
+  tags_string: "{{ note.tags }}"
   title: "{{ note.title }}"
   # date: "{{ note.created_time }}"
   description: "{{ note.content | twitterExerpt }}"
