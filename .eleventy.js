@@ -1,4 +1,3 @@
-const { DateTime } = require("luxon");
 const fs = require("fs");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 // const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
@@ -61,6 +60,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("tagList", function(collection) {
     let tagSet = new Set();
     collection.getAll().forEach(item => {
+      // console.log(item.data.tags);
       (item.data.tags || []).forEach(tag => tagSet.add(tag));
     });
 

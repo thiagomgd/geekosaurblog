@@ -21,6 +21,7 @@ function unique(array) {
 }
 
 function readableDate(dateObj) {
+  if (!dateObj) return;
   return new Date(dateObj).toLocaleDateString(
     'en-us',
     {
@@ -64,6 +65,10 @@ module.exports = {
     return Math.min.apply(null, numbers);
   },
   readableDate,
+  simpleDate: (dateStr) => {
+    if (!dateStr) return dateStr;
+    return dateStr.substring(0, 9);
+  },
   readableDateFromISO: (dateStr, formatStr = "dd LLL yyyy") => {
     return DateTime.fromISO(dateStr).toFormat(formatStr);
   },
@@ -150,5 +155,12 @@ module.exports = {
   },
   getLocalImgUrl: (url) => {
     return getLocalImageLink(url);
+  },
+  toArray: (thing) => {
+    if (typeof thing === 'string') {
+      thing.split(',');
+    }
+    // already an array?
+    return thing;
   }
 };
