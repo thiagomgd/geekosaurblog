@@ -122,7 +122,7 @@ ${publisher ? publisherEl : ""}
 // https://github.com/daviddarnes/eleventy-plugin-unfurl
 const unfurl = async(url) => {
   const metadata = await Cache(`https://api.microlink.io/?url=${url}`, {
-      duration: "1w",
+      duration: "8w",
       type: "json",
     });
 
