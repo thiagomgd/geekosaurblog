@@ -20,6 +20,7 @@ async function imageShortcode(src, alt) {
   let metadata = await Image(fileSource, {
     widths: [1200],
     outputDir: '_site/img',
+    duration: '8w'
   });
 
   let data = metadata.jpeg[metadata.jpeg.length - 1];
