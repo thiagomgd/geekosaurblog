@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-02-21T19:59:57.262Z",
+  "lastFetched": "2022-02-26T02:30:10.277Z",
   "children": [
     {
       "type": "entry",
@@ -1873,6 +1873,28 @@
         "text": "I have an Eleventy blog, and recently decided to add a notes section for quick thoughts and shares. To be able to do that easily (and from my phone), I went with Notion.\n\nThis is how I achieved the Notion + Eleventy integration."
       },
       "in-reply-to": "https://geekosaur.com/post/eleventy-notion-notes-section/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/53ec7a1d786bb3a10720f12d5853b318b49cfbcdc82de945c81f9fe1e754144a.png",
+        "url": "https://mastodon.social/@falcon"
+      },
+      "url": "https://mastodon.social/@falcon/107837961007711917",
+      "published": "2022-02-21T20:51:39",
+      "wm-received": "2022-02-22T04:18:35Z",
+      "wm-id": 1354441,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/107822226610915127/107837961007711917",
+      "wm-target": "https://geekosaur.com/post/book-notes-shift-hugh-howey/",
+      "content": {
+        "html": "<p>Just finished Sawkill Girls, and I enjoyed it a lot. <br /><a href=\"https://www.goodreads.com/book/show/38186306\"><span>https://www.</span><span>goodreads.com/book/show/381863</span><span>06</span></a></p>\n<a href=\"https://www.goodreads.com/book/show/38139409-sawkill-girls\">Sawkill Girls</a>",
+        "text": "Just finished Sawkill Girls, and I enjoyed it a lot. \nhttps://www.goodreads.com/book/show/38186306\nSawkill Girls"
+      },
+      "in-reply-to": "https://geekosaur.com/post/book-notes-shift-hugh-howey/",
       "wm-property": "in-reply-to",
       "wm-private": false
     }
