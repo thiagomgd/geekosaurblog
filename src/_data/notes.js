@@ -2,7 +2,7 @@ const fetch = require("node-fetch");
 const unionBy = require("lodash/unionBy");
 const fs = require("fs");
 const domain = require("./metadata.json").domain;
-const { readFromCache, writeToCache, getLocalImageLink } = require("../_11ty/helpers");
+const { readFromCache, writeToCache, getLocalImageLink, replaceNotionMarkdown } = require("../_11ty/helpers");
 
 const { Client } = require('@notionhq/client');
 // https://github.com/souvikinator/notion-to-md
@@ -68,11 +68,13 @@ async function fetchPage(pageId) {
   const mdblocks = await n2m.pageToMarkdown(pageId);
   // console.debug(`---------------`);
   // console.debug(mdblocks);
+
   const mdString = n2m.toMarkdownString(mdblocks);
   // console.debug(`---------------`);
   // console.debug(mdString);
   // console.debug(`---------------`);
-  return mdString
+  return mdString;
+  // return replaceNotionMarkdown(mdString);
 }
 
 async function fetchNotes(since) {
@@ -135,7 +137,7 @@ module.exports = async function () {
     console.log(`>>> ${cache.notes.length} notes loaded from cache`);
   }
 
-  // Only fetch new mentions in production
+  // Only fetch new notes in production
   // if (process.env.ELEVENTY_ENV === "development") return cache.notes;
 
   console.log(">>> Checking for new notes...");

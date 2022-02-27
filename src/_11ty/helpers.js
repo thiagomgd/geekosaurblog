@@ -4,6 +4,22 @@ const Image = require("@11ty/eleventy-img");
 
 const IMG_CACHE_FILE_PATH = "src/_cache/images.json";
 const external = /https?:\/\/((?:[\w\d-]+\.)+[\w\d]{2,})/i;
+// Matches bookmark links that are not inline
+const mdBookmarkRegex = /^\[bookmark]\(([^)]+)\)$/gm;
+// TODO: test
+const mdImageRegex = /^\!\[\]\(((?:\/|https?:\/\/)[\w\d./?=#]+)\)$/;
+
+function replaceNotionBookmark(markdownString) {
+  console.log("!!!!!!!!!!!!!!!!");
+  console.log(markdownString.match(mdBookmarkRegex));
+  return markdownString.replace(mdBookmarkRegex, `{% anyEmbed '$1' %}`);
+}
+
+function replaceNotionMarkdown(markdownString) {
+  const newString = replaceNotionBookmark(markdownString);
+  console.log(newString);
+  return newString;
+}
 
 // get cache contents from json file
 function readFromCache(cacheFilePath) {
@@ -92,25 +108,25 @@ function getLocalImageLink(imgUrl, fileName = "", folder = "ext") {
 }
 
 async function optimizeImage(src) {
-  if(!src) {
+  if (!src) {
     return src;
   }
 
-  const fileSource = src.startsWith('/img') ? `./src${src}` : src;
+  const fileSource = src.startsWith("/img") ? `./src${src}` : src;
 
   let metadata = await Image(fileSource, {
     widths: [1200],
-    outputDir: '_site/img',
+    outputDir: "_site/img",
   });
 
   let data = metadata.jpeg[metadata.jpeg.length - 1];
   return data.url;
 }
 
-
 module.exports = {
+  replaceNotionMarkdown,
   readFromCache,
   writeToCache,
   getLocalImageLink,
-  optimizeImage
+  optimizeImage,
 };

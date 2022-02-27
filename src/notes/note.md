@@ -19,7 +19,7 @@ permalink: "note/{{ note.id }}/"
 
 {% anyEmbed note.embed %}
 
-{{ note.content }}
+{{ note.content | safe }}
 
 {% for image in note.images %}
 

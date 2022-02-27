@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-02-26T02:30:10.277Z",
+  "lastFetched": "2022-02-27T19:13:24.254Z",
   "children": [
     {
       "type": "entry",
@@ -1896,6 +1896,24 @@
       },
       "in-reply-to": "https://geekosaur.com/post/book-notes-shift-hugh-howey/",
       "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Manuel",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/2689924594af67744884c492e6544a7dca42ee75323cd1c1158c619ad4b58433.jpg",
+        "url": "https://chaos.social/@manuel"
+      },
+      "url": "https://mastodon.social/@falcon/107868312228869776#favorited-by-1343420",
+      "published": null,
+      "wm-received": "2022-02-27T08:15:36Z",
+      "wm-id": 1356260,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mastodon.social/107868312228869776/1343420",
+      "wm-target": "https://geekosaur.com/note/2ebe8523-ce76-4910-9573-f94d830c5c89/",
+      "like-of": "https://geekosaur.com/note/2ebe8523-ce76-4910-9573-f94d830c5c89/",
+      "wm-property": "like-of",
       "wm-private": false
     }
   ]
