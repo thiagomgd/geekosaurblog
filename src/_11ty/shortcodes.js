@@ -118,6 +118,7 @@ function anyEmbed(url) {
 }
 
 module.exports = {
+  youtube_parser,
   youtube,
   reddit,
   // blur,
