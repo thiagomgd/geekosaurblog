@@ -17,9 +17,9 @@ eleventyComputed:
 permalink: "note/{{ note.id }}/"
 ---
 
-{{ note.content }}
-
 {% anyEmbed note.embed %}
+
+{{ note.content }}
 
 {% for image in note.images %}
 

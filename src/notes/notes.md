@@ -13,9 +13,9 @@ eleventyNavigation:
 
 [{{ note.title }}](/note/{{ note.id }}/) - {{ note.created_time | readableDate }}
 
-{{ note.content }}
-
 {% anyEmbed note.embed %}
+
+{{ note.content }}
 
 {% for image in note.images %}
 
