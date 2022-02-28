@@ -11,6 +11,40 @@ const filters = require('./src/_11ty/filters');
 const shortcodes = require('./src/_11ty/shortcodes');
 const pairedShortcodes = require('./src/_11ty/pairedShortcodes');
 const asyncShortcodes = require('./src/_11ty/asyncShortcodes');
+const {anyEmbed} = require('./src/_11ty/asyncShortcodes');
+const cheerio = require("cheerio");
+
+function hasBodyTag(content) {
+  const hasBody = /<\s*body(\w|\s|=|"|-)*>/gm;
+  return hasBody.test(content);
+}
+
+async function replaceSpecialLinks(content, options) {
+  const $ = cheerio.load(content);
+  // TODO: only block links
+  let links = $("a").filter((i, el) => {
+    const replace = ['bookmark', 'embed'];
+    const text = $(el).text();
+    return replace.includes(text);
+  });
+
+  const promises = [];
+  for (let i = 0; i < links.length; i++) {
+    const link = links[i];
+    const url = $(link).attr('href');
+    console.log(`Optimizing: ${url}`);
+
+    promises[i] = anyEmbed(url);
+  }
+
+  const embeds = await Promise.all(promises);
+
+  embeds.forEach((embed, i) => {
+    $(links[i]).replaceWith(embed);
+  });
+
+  return hasBodyTag(content) ? $.html() : $("body").html();
+}
 
 module.exports = function(eleventyConfig) {
   // Add plugins
@@ -134,6 +168,14 @@ module.exports = function(eleventyConfig) {
   
     // return the array
     return normalized;
+  });
+
+  eleventyConfig.addTransform('replace-special-links',async function(content){
+    if (this.outputPath && this.outputPath.endsWith(".html")) {
+      return await replaceSpecialLinks(content, {});
+    }
+
+    return content;
   });
 
   // Copy the `img` and `css` folders to the output

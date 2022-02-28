@@ -30,6 +30,7 @@
     "@11ty/eleventy-navigation": "^0.3.2",
     "@11ty/eleventy-plugin-rss": "^1.1.2",
     "@notionhq/client": "^0.4.13",
+    "cheerio": "^1.0.0-rc.10",
     "clean-css": "^5.2.2",
     "eleventy-plugin-metagen": "^1.5.2",
     "eleventy-plugin-toc": "^1.1.5",
