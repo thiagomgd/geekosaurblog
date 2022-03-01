@@ -1,7 +1,5 @@
 ---
 layout: layouts/note.njk
-# add tags after changing layout and having a filter for note tags
-# tags: ["detail"] 
 pagination:
   data: notes
   size: 1  
