@@ -14,6 +14,7 @@ eleventyComputed:
   description: "{{ note.content | twitterExerpt }}"
   thumbnail:  "{{ note | getNoteThumbnail }}"
   created_date: "{{ note.created_time }}"
+  id: "{{ note.id }}"
 permalink: "note/{{ note.id }}/"
 ---
 

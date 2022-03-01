@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-02-27T19:13:24.254Z",
+  "lastFetched": "2022-03-01T03:47:42.646Z",
   "children": [
     {
       "type": "entry",
@@ -1914,6 +1914,28 @@
       "wm-target": "https://geekosaur.com/note/2ebe8523-ce76-4910-9573-f94d830c5c89/",
       "like-of": "https://geekosaur.com/note/2ebe8523-ce76-4910-9573-f94d830c5c89/",
       "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ilja | Илья",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/43b9242d60f80bb82d8b06510b7fc2a73226d4b5b80cb463cd0c6a345e89da1d.jpg",
+        "url": "https://twitter.com/fubits"
+      },
+      "url": "https://twitter.com/fubits/status/1494256000613900293",
+      "published": "2022-02-17T10:22:47+00:00",
+      "wm-received": "2022-02-28T01:58:41Z",
+      "wm-id": 1356634,
+      "wm-source": "https://brid.gy/comment/twitter/FalconSensei/1494256000613900293/1494256000613900293",
+      "wm-target": "https://geekosaur.com/post/eleventy-notion-notes-section/",
+      "content": {
+        "html": "Uh, <a href=\"https://twitter.com/FalconSensei\">@FalconSensei</a> has a really nice getBlock() approach and local asset caching (among many other gems) here: \n<a class=\"u-mention\" href=\"https://geekosaur.com/post/eleventy-notion-notes-section/\"></a>",
+        "text": "Uh, @FalconSensei has a really nice getBlock() approach and local asset caching (among many other gems) here:"
+      },
+      "in-reply-to": "https://geekosaur.com/post/eleventy-notion-notes-section/",
+      "wm-property": "in-reply-to",
       "wm-private": false
     }
   ]

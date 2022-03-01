@@ -138,7 +138,7 @@ module.exports = async function () {
   }
 
   // Only fetch new notes in production
-  // if (process.env.ELEVENTY_ENV === "development") return cache.notes;
+  if (process.env.ELEVENTY_ENV === "development") return cache.notes;
 
   console.log(">>> Checking for new notes...");
   const newNotes = await fetchNotes(cache.lastFetched);
