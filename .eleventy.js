@@ -114,6 +114,14 @@ module.exports = function(eleventyConfig) {
   //   return collection.getSortedByDate()
   //     .filter(livePosts);
   // });
+  eleventyConfig.addCollection('posts', collection => {
+    return collection.getFilteredByTag('post').sort(function(a, b) {
+      const timeA = a.data.created_date ? a.data.created_date.getTime() : 0;
+      const timeB = b.data.created_date ? b.data.created_date.getTime() : 0;
+      console.log(a.data.title, b.data.title, timeA, timeB);
+      return timeA - timeB;
+    });
+  });
 
   // https://shivjm.blog/colophon/how-i-create-an-article-series-in-eleventy/
   eleventyConfig.addCollection("series", (collection) => {

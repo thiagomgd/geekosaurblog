@@ -32,12 +32,15 @@ module.exports = function() {
 			thumbnail: async function(data) {
 				const src = getLocalImageLink(data.thumbnail);
 				return await optimizeImage(src);
+			},
+			created_date: function(data) {
+				return data.page.date;
 			}
 		},
 
         layout: "layouts/post.njk",
         tags: [
-          "posts"
+          "post"
         ],
         permalink: "post/{% if slug %}{{ slug }}{% else %}{{ page.fileSlug }}{% endif %}/"		
 	}
