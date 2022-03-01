@@ -4,7 +4,8 @@ module.exports = function() {
 	return {
 		eleventyComputed: {
 			tags: function(data) {
-				return data.tags_string ? data.tags_string.split(",") : [];
+				return ['posts']
+				// return data.tags_string ? data.tags_string.split(",") : [];
 			}
 		},		
 	}
