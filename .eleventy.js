@@ -118,7 +118,7 @@ module.exports = function(eleventyConfig) {
     return collection.getFilteredByTag('post').sort(function(a, b) {
       const timeA = a.data.created_date ? a.data.created_date.getTime() : 0;
       const timeB = b.data.created_date ? b.data.created_date.getTime() : 0;
-      console.log(a.data.title, b.data.title, timeA, timeB);
+      // console.log(a.data.title, b.data.title, timeA, timeB);
       return timeA - timeB;
     });
   });
@@ -228,6 +228,7 @@ module.exports = function(eleventyConfig) {
     // Control which files Eleventy will process
     // e.g.: *.md, *.njk, *.html, *.liquid
     templateFormats: [
+      "js",
       "md",
       "njk",
       "html",
