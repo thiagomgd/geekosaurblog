@@ -4,7 +4,7 @@ const slugify = require("@11ty/eleventy/src/Filters/Slugify");
 const isDevEnv = process.env.ELEVENTY_ENV === "development";
 const todaysDate = new Date();
 
-function showDraft(data) {
+function showPost(data) {
   const isPublished = "published" in data && data.published === true;
   const isFutureDate = !data.date_published || data.date_published > todaysDate;
   return isDevEnv || (isPublished && !isFutureDate);
@@ -24,7 +24,7 @@ class NotionPost {
 
       eleventyComputed: {
         eleventyExcludeFromCollections: function (data) {
-          if (showDraft(data.notion_post)) {
+          if (showPost(data.notion_post)) {
             return data.eleventyExcludeFromCollections;
           } else {
             return true;
@@ -40,7 +40,7 @@ class NotionPost {
           return new Date(data.notion_post.date_published)
         },
         permalink: (data) => {
-          if(!showDraft(data.notion_post)) {
+          if(!showPost(data.notion_post)) {
             return '';
           }
           const slug = data.notion_post.slug ? data.notion_post.slug : slugify(data.notion_post.title) ;
