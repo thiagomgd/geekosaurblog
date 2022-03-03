@@ -1,14 +1,23 @@
+const util = require('util')
+
 // TODO: add delay for another call
-async function fetchFromNotion(notion, dbId, p = {}, cursor = undefined) {
-  const response = await notion.databases.query({
+async function fetchFromNotion(notion, dbId, filter = {}, cursor = undefined) {
+  
+  const payload = {
     database_id: dbId,
-    filter: p,
     start_cursor: cursor,
-  });
+  }
+
+  // it enters here with {}, but for some reason, removing this gives me an error
+  if (filter) {
+    payload['filter'] = filter;
+  }
+
+  const response = await notion.databases.query(payload);
 
   if (response.results) {
     if (response.next_cursor) {
-      return response.results.concat(await fetchFromNotion(notion, dbId, p, response.next_cursor));
+      return response.results.concat(await fetchFromNotion(notion, dbId, filter, response.next_cursor));
     }
 
     return response.results;
@@ -103,14 +112,14 @@ const NOTION_TO_DICT = {
   created_time: _created_time,
 };
 
-function getNotionProps(thing) {
+function getNotionProps(thing, normalize=false) {
   const parsed = {};
 
   for (const key of Object.keys(thing.properties)) {
     const prop = thing.properties[key];
 
     if (prop && NOTION_TO_DICT[prop.type]) {
-      parsed[key] = NOTION_TO_DICT[prop.type](prop);
+      parsed[normalize ? key.replace(' ', '_').toLowerCase() : key] = NOTION_TO_DICT[prop.type](prop);
     }
   }
   return parsed;

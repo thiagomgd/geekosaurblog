@@ -31,7 +31,6 @@ function readFromCache(cacheFilePath) {
   // no cache found.
   return {
     lastFetched: null,
-    children: [],
   };
 }
 
