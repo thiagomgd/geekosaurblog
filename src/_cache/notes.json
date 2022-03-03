@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-03-02T04:42:23.032Z",
+  "lastFetched": "2022-03-03T18:59:47.522Z",
   "notes": [
     {
       "id": "96a049dc-2184-4c66-9fb2-aac00b6b0c02",
@@ -151,6 +151,24 @@
       "images": [],
       "format": "text",
       "embed": "https://www.youtube.com/watch?v=CinuEcTAYjA"
+    },
+    {
+      "id": "cb8fd534-4cf9-4570-87c1-7323024ea804",
+      "created_time": "2022-03-02T06:28:00.000Z",
+      "last_edited_time": "2022-03-02T06:31:00.000Z",
+      "cover": null,
+      "icon": null,
+      "content": "\nGot a great week last week, and even though I didn’t study much on Sunday (or at all Yesterday), I’m happy to be making progress again.\n",
+      "title": "400 German Words",
+      "tags": [
+        "German",
+        "Personal"
+      ],
+      "images": [
+        "/img/notes/cb8fd534-FBF10B5A-3F85-49C3-B87C-EE79387EEB71.jpeg"
+      ],
+      "format": "text",
+      "embed": null
     }
   ]
 }

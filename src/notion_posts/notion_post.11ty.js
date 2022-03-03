@@ -7,6 +7,7 @@ const todaysDate = new Date();
 function showPost(data) {
   const isPublished = "published" in data && data.published === true;
   const isFutureDate = !data.date_published || data.date_published > todaysDate;
+  console.log('@@@@', data.title, (isDevEnv || (isPublished && !isFutureDate)), isDevEnv, isPublished, !isFutureDate)
   return isDevEnv || (isPublished && !isFutureDate);
 }
 
@@ -41,7 +42,7 @@ class NotionPost {
         },
         permalink: (data) => {
           if(!showPost(data.notion_post)) {
-            return '';
+            return false;
           }
           const slug = data.notion_post.slug ? data.notion_post.slug : slugify(data.notion_post.title) ;
           return `/post/${slug}/`;
