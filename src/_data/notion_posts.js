@@ -1,17 +1,21 @@
 const fetch = require("node-fetch");
 const fs = require("fs");
 const domain = require("./metadata.json").domain;
-const { readFromCache, writeToCache, getLocalImageLink } = require("../_11ty/helpers");
+const {
+  readFromCache,
+  writeToCache,
+  getLocalImageLink,
+} = require("../_11ty/helpers");
 const { fetchFromNotion, getNotionProps } = require("../_11ty/notionHelpers");
 
-const { Client } = require('@notionhq/client');
+const { Client } = require("@notionhq/client");
 // https://github.com/souvikinator/notion-to-md
 const { NotionToMarkdown } = require("notion-to-md");
 
 // Define Cache Location and API Endpoint
 const CACHE_FILE_PATH = "src/_cache/notion_posts.json";
 const DATABASE_ID = "bd6fa0624f434a45929b81057fb2e028";
-const TOKEN = process.env.NOTION_API_KEY
+const TOKEN = process.env.NOTION_API_KEY;
 
 const notion = new Client({ auth: TOKEN });
 const n2m = new NotionToMarkdown({ notionClient: notion });
@@ -19,12 +23,12 @@ const n2m = new NotionToMarkdown({ notionClient: notion });
 const getMetadata = (post) => {
   return {
     id: post.id,
-    "created_time": post.created_time,
-    "last_edited_time": post.last_edited_time,
-    "cover": post.cover,
-    "icon": post.icon,
-  }
-}
+    created_time: post.created_time,
+    last_edited_time: post.last_edited_time,
+    cover: post.cover,
+    icon: post.icon,
+  };
+};
 
 async function fetchPage(pageId) {
   const mdblocks = await n2m.pageToMarkdown(pageId);
@@ -47,10 +51,12 @@ async function fetchPosts(since) {
     return null;
   }
 
-  const filters = since ? {
-    property: 'Last Edited',
-    date: {after: since},
-  } : {} ;
+  const filters = since
+    ? {
+        property: "Last Edited",
+        date: { after: since },
+      }
+    : {};
 
   const results = await fetchFromNotion(notion, DATABASE_ID, filters);
 
@@ -59,12 +65,12 @@ async function fetchPosts(since) {
     console.log(`>>> ${results.length} new posts fetched`);
 
     for (const post of results) {
-      const content = await fetchPage(post.id)
-      
+      const content = await fetchPage(post.id);
+
       newPosts[post.id] = {
         ...getMetadata(post),
         ...getNotionProps(post, true),
-        content: content
+        content: content,
       };
     }
 
@@ -75,8 +81,8 @@ async function fetchPosts(since) {
 }
 
 // Merge dicts
-function mergePosts(a={}, b={}) {
-  return {...a,...b};
+function mergePosts(a = {}, b = {}) {
+  return { ...a, ...b };
 }
 
 module.exports = async function () {
@@ -84,11 +90,13 @@ module.exports = async function () {
   const cache = readFromCache(CACHE_FILE_PATH);
 
   if (cache.posts && Object.keys(cache.posts).length) {
-    console.log(`>>> ${Object.keys(cache.posts).length} posts loaded from cache`);
+    console.log(
+      `>>> ${Object.keys(cache.posts).length} posts loaded from cache`
+    );
   }
 
   // Only fetch new posts in production
-  // if (process.env.ELEVENTY_ENV === "development") return Object.values(cache.posts);
+  // if (process.env.ELEVENTY_ENV === "development") return [];//Object.values(cache.posts);
 
   console.log(">>> Checking for new posts...");
   const newPosts = await fetchPosts(cache.lastFetched);
@@ -102,9 +110,9 @@ module.exports = async function () {
     if (process.env.ELEVENTY_ENV === "devbuild") {
       writeToCache(posts, CACHE_FILE_PATH, "posts");
     }
-    
-    return Object.values(posts.posts);
+
+    return []; //Object.values(posts.posts);
   }
 
-  return Object.values(cache.posts);
+  return []; //Object.values(cache.posts);
 };
