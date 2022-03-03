@@ -38,15 +38,16 @@ class NotionPost {
         thumbnail: (data) => optimizeImage(data.notion_post.thumbnail),
         created_date: (data) => {
           return new Date(data.notion_post.date_published)
-        }
+        },
+        permalink: (data) => {
+          if(!showDraft(data.notion_post)) {
+            return '';
+          }
+          const slug = data.notion_post.slug ? data.notion_post.slug : slugify(data.notion_post.title) ;
+          return `/post/${slug}/`;
+        },
       },
-      permalink: (data) => {
-        if(!showDraft(data.notion_post)) {
-          return false;
-				}
-        const slug = data.notion_post.slug ? data.notion_post.slug : slugify(data.notion_post.title) ;
-        return `/post/${slug}/`;
-      },
+      
     };
   }
   render(data) {
