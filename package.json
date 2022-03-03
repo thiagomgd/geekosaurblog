@@ -4,7 +4,7 @@
   "description": "An Eleventy blog starter forked from eleventy-base-blog but with Sia's opinions",
   "scripts": {
     "start": "ELEVENTY_ENV=development NOTION_API_KEY=$ENV_NOTION_TOKEN npx @11ty/eleventy --serve",
-    "start:prod": "NOTION_API_KEY=$ENV_NOTION_TOKEN npx @11ty/eleventy --serve",
+    "start:prod": "npx @11ty/eleventy --serve",
     "build:local": "ELEVENTY_ENV=devbuild NOTION_API_KEY=$ENV_NOTION_TOKEN npx @11ty/eleventy",
     "build": "NOTION_API_KEY=$ENV_NOTION_TOKEN npx @11ty/eleventy",
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
@@ -17,7 +17,7 @@
   },
   "author": {
     "name": "Geekosaur",
-    "email": "siakaramalegos@gmail.com",
+    "email": "geekosaur@falcon.moe",
     "url": "https://geekosaur.com"
   },
   "license": "MIT",
