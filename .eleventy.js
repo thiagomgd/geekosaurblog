@@ -116,7 +116,7 @@ module.exports = function(eleventyConfig) {
   // });
   eleventyConfig.addCollection('posts', collection => {
     return collection.getFilteredByTag('post')
-      .filter(post => post.data.eleventyExcludeFromCollections !== true)
+      // .filter(post => post.data.eleventyExcludeFromCollections !== true)
       .sort(function(a, b) {
         const timeA = a.data.created_date ? a.data.created_date.getTime() : 0;
         const timeB = b.data.created_date ? b.data.created_date.getTime() : 0;

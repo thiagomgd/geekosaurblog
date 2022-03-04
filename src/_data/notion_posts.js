@@ -85,6 +85,22 @@ function mergePosts(a = {}, b = {}) {
   return { ...a, ...b };
 }
 
+
+const todaysDate = new Date();
+function showPost(data) {
+  const isPublished = "published" in data && data.published === true;
+  const isFutureDate = !data.date_published || data.date_published > todaysDate;
+  return isPublished && !isFutureDate;
+}
+
+function filterDrafts(posts) {
+  const isDevEnv = process.env.ELEVENTY_ENV === "development";
+
+  if (isDevEnv) return Object.values(posts);
+
+  return Object.values(posts).filter(post => showPost(post) === true);
+}
+
 module.exports = async function () {
   console.log(">>> Reading posts from cache...");
   const cache = readFromCache(CACHE_FILE_PATH);
@@ -96,7 +112,7 @@ module.exports = async function () {
   }
 
   // Only fetch new posts in production
-  // if (process.env.ELEVENTY_ENV === "development") return Object.values(cache.posts);
+  // if (process.env.ELEVENTY_ENV === "development") return filterDrafts(cache.posts);
 
   console.log(">>> Checking for new posts...");
   const newPosts = await fetchPosts(cache.lastFetched);
@@ -111,8 +127,8 @@ module.exports = async function () {
       writeToCache(posts, CACHE_FILE_PATH, "posts");
     }
 
-    return Object.values(posts.posts);
+    return filterDrafts(posts.posts);
   }
 
-  return Object.values(cache.posts);
+  return filterDrafts(cache.posts);
 };
