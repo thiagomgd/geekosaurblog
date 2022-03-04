@@ -88,9 +88,11 @@ function mergePosts(a = {}, b = {}) {
 
 const todaysDate = new Date();
 function showPost(data) {
+  // FOR NOW: also filter posts without slug - don't want to have it change over time
+  const hasSlug = "slug" in data && data.slug !== '';
   const isPublished = "published" in data && data.published === true;
   const isFutureDate = !data.date_published || data.date_published > todaysDate;
-  return isPublished && !isFutureDate;
+  return hasSlug && isPublished && !isFutureDate;
 }
 
 function filterDrafts(posts) {
