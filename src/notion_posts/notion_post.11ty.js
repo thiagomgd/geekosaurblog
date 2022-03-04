@@ -42,7 +42,7 @@ class NotionPost {
         },
         permalink: (data) => {
           if(!showPost(data.notion_post)) {
-            return false;
+            return `/post/${data.notion_post.id}/`; //false;
           }
           const slug = data.notion_post.slug ? data.notion_post.slug : slugify(data.notion_post.title) ;
           return `/post/${slug}/`;

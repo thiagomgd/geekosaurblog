@@ -96,7 +96,7 @@ module.exports = async function () {
   }
 
   // Only fetch new posts in production
-  // if (process.env.ELEVENTY_ENV === "development") return [];//Object.values(cache.posts);
+  // if (process.env.ELEVENTY_ENV === "development") return Object.values(cache.posts);
 
   console.log(">>> Checking for new posts...");
   const newPosts = await fetchPosts(cache.lastFetched);
@@ -111,8 +111,8 @@ module.exports = async function () {
       writeToCache(posts, CACHE_FILE_PATH, "posts");
     }
 
-    return []; //Object.values(posts.posts);
+    return Object.values(posts.posts);
   }
 
-  return []; //Object.values(cache.posts);
+  return Object.values(cache.posts);
 };
