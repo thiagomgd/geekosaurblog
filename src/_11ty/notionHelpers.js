@@ -67,12 +67,14 @@ function _date(prop) {
 }
 
 function _files(prop) {
-  files = prop["files"];
+  // TODO!!
+  return [];
+  // files = prop["files"];
 
-  if (files.length == 0) return [];
+  // if (files.length == 0) return [];
 
-  // TODO: return all files
-  return files[0]["external"]["url"];
+  // // TODO: return all files
+  // return files[0]["external"]["url"];
 }
 
 function _select(prop) {
@@ -112,7 +114,7 @@ const NOTION_TO_DICT = {
   created_time: _created_time,
 };
 
-function getNotionProps(thing, normalize=false) {
+function getNotionProps(thing, normalize=true) {
   const parsed = {};
 
   for (const key of Object.keys(thing.properties)) {

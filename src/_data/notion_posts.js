@@ -69,7 +69,7 @@ async function fetchPosts(since) {
 
       newPosts[post.id] = {
         ...getMetadata(post),
-        ...getNotionProps(post, true),
+        ...getNotionProps(post),
         content: content,
       };
     }

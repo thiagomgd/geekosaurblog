@@ -1,174 +1,184 @@
 {
-  "lastFetched": "2022-03-03T18:59:47.522Z",
-  "notes": [
-    {
-      "id": "96a049dc-2184-4c66-9fb2-aac00b6b0c02",
-      "created_time": "2022-02-04T03:41:00.000Z",
-      "last_edited_time": "2022-02-05T18:54:00.000Z",
-      "cover": null,
-      "icon": null,
-      "content": "\nThis is a first note to test this new feature I added! Just to have some quick thoughts that I can add to [Notion](http://notion.so) and get it published here!\n",
-      "title": "Now with Notes",
-      "tags": [],
-      "images": [
-        "/img/notes/96a049dc-anime-girl-hiding-behind-sheet.jpeg"
-      ],
-      "format": "text",
-      "embed": null
-    },
-    {
-      "id": "84daed7f-3d86-49c2-ba2e-41b21654ab99",
-      "created_time": "2022-02-04T06:27:00.000Z",
-      "last_edited_time": "2022-02-05T23:17:00.000Z",
-      "cover": null,
-      "icon": null,
-      "content": "\nIt’s kinda crazy how I got totally sucked in watching figure skating for the first time 12 years ago in Brazil, during Vancouver Olympics. And now here I am in Vancouver, watching the 2022 figure skating.\n",
-      "title": "Figure Skating 2022",
-      "tags": [
-        "Memories",
-        "Sports"
-      ],
-      "images": [],
-      "format": "text",
-      "embed": null
-    },
-    {
-      "id": "5346c10b-2d52-415e-93eb-a03e2f7b54b9",
-      "created_time": "2022-02-08T23:48:00.000Z",
-      "last_edited_time": "2022-02-08T23:54:00.000Z",
-      "cover": null,
-      "icon": null,
-      "content": "\nThis Saturday night I was listening to some songs that reminded me of my bands back in Brazil. Since I don’t use Spotify anymore and have migrated to Youtube Music, I decided to recreate my playlists there.\n\nI never finished those playlists on Spotify, so I’ll see if someday I find the setlists so I can have complete playlists there. I also want to create setlist for other bands I’ve played with, and also my big band. But that’s for another time. They are both below:\n\n- [Trivial](https://music.youtube.com/playlist?list=PLZIaVOUaxLAOpQvzJCeugpYgRpPlnA8m2&feature=share)\n\n- [The Mad Mavericks](https://music.youtube.com/playlist?list=PLZIaVOUaxLAP7EK8JjXvc3FpWoM-LUVlI&feature=share)\n",
-      "title": "My Band Playlists",
-      "tags": [
-        "Personal",
-        "Music",
-        "Memories"
-      ],
-      "images": [],
-      "format": "text",
-      "embed": null
-    },
-    {
-      "id": "77c7d951-5294-4b96-a9ff-4e771ba308d8",
-      "created_time": "2022-02-10T06:41:00.000Z",
-      "last_edited_time": "2022-02-10T17:07:00.000Z",
-      "cover": null,
-      "icon": null,
-      "content": "\nToday I saw a post titled How To Use Twitter, which has some interesting thoughts on how to improve the Twitter experience. And I guess the most important thing is not using the main timeline, but instead relying on the lists feature.\n\nIt’s really a letdown that to have a good experience on the platform we should avoid the main user experience they are offering, but I guess that’s the only way of really avoiding so many suggestions, likes and topics.\n\nIt’s still doesn’t solve my gripe with having my likes to myself, but that’s maybe ok for now.\n\nThe article: [https://lee-phillips.org/howtotwitter/](https://lee-phillips.org/howtotwitter/)\n\nThis HackerNews comment (and following thread) also gives some indication that yeah, trying to mark those suggestions as ‘not interested’ is not gonna help in the long run, but just make Twitter suggest worse content every time [https://news.ycombinator.com/item?id=30271837](https://news.ycombinator.com/item?id=30271837) \n",
-      "title": "How to use Twitter",
-      "tags": [],
-      "images": [],
-      "format": "text",
-      "embed": null
-    },
-    {
-      "id": "cd6f98b1-1814-411e-8399-ede231748153",
-      "created_time": "2022-02-12T02:57:00.000Z",
-      "last_edited_time": "2022-02-12T02:58:00.000Z",
-      "cover": null,
-      "icon": null,
-      "content": "\nFinally got to 300 words on Speakly and moved to Beginner II level. I’m really enjoying this app, as it gives you words based on the most used words in real life scenarios, instead of giving a dozen words from a different category each time.\n\nThe phrases are also more meaningful and realistic, so I’m probably keep using it to slowly build vocabulary, since I don’t have a lot of time and energy for more focused study and longer sessions.\n",
-      "title": "Studying German",
-      "tags": [
-        "Personal"
-      ],
-      "images": [
-        "/img/notes/cd6f98b1-EFF2AAFF-1503-4D2B-9705-0A60B4CBD95B.jpeg"
-      ],
-      "format": "text",
-      "embed": null
-    },
-    {
-      "id": "0a9d42b3-a9e2-43b9-bb00-497769b21a2f",
-      "created_time": "2022-02-13T04:09:00.000Z",
-      "last_edited_time": "2022-02-13T04:52:00.000Z",
-      "cover": null,
-      "icon": null,
-      "content": "\nYesterday I received the OST for The Serpent, a show I enjoyed a lot and that has a great soundtrack. My wife and I binged the show, and I listened to the soundtrack during most of the time I was reading [The Lighthouse Witches](https://geekosaur.com/post/the-lighthouse-witches-book-notes/).\n\nI pre-ordered it a long time ago and the release was postponed so many times I though I was not going to get it anymore. But I’m happy it’s here now. And it looks BEAUTIFUL!\n\nYou can see the trailer [here](https://www.youtube.com/watch?v=TgB7rMuxY-s) and listen to the soundtrack [here](https://www.youtube.com/watch?v=ZgJeWP_vw8M&list=PLuF78wm0RiGZlDiRBcCa06LCQLBC4T938).\n",
-      "title": "The Serpent OST Record",
-      "tags": [
-        "Personal",
-        "New Things"
-      ],
-      "images": [
-        "/img/notes/0a9d42b3-13B83BA8-DF03-4E5D-8B71-62A551D1B512.jpeg",
-        "/img/notes/0a9d42b3-BF835A3B-A14D-46DA-8786-4C959D9958F3.jpeg",
-        "/img/notes/0a9d42b3-EB5BBC65-7C5F-4252-B5BF-76087532CC4B.jpeg"
-      ],
-      "format": "text",
-      "embed": null
-    },
-    {
-      "id": "6e35ea03-1d8d-48fa-b34a-9ad050b23316",
-      "created_time": "2022-02-14T07:08:00.000Z",
-      "last_edited_time": "2022-02-14T07:13:00.000Z",
-      "cover": null,
-      "icon": null,
-      "content": "\nToday I caught up with Spy X Family, which I had stopped on chapter 53, and started Sakamoto Days. Read a couple chapter and so far enjoyed it.\n\nI was planning on reading Jujutsu, Black Clover or My Hero Academia, but it’s good to read some comedy.\n",
-      "title": "Reading Manga",
-      "tags": [
-        "Reading",
-        "Manga"
-      ],
-      "images": [
-        "/img/notes/6e35ea03-95B3E62F-0A5D-44FA-926B-968B4AD0ADC7.png",
-        "/img/notes/6e35ea03-622F08AE-3FCD-4A5A-ADCD-3C0C47FCB25C.png"
-      ],
-      "format": "text",
-      "embed": null
-    },
-    {
-      "id": "1eb0e85b-e557-41e3-84ff-7a372e21c4d5",
-      "created_time": "2022-02-17T04:50:00.000Z",
-      "last_edited_time": "2022-02-17T06:01:00.000Z",
-      "cover": null,
-      "icon": null,
-      "content": "\nThis is how my year has been so far regarding reading. I read way more after I arrived back in Vancouver and was reading Shift, the second book in the Silo trilogy.\n\nAlso, yesterday I finished [Broken](https://www.goodreads.com/book/show/54305363-broken) by Jenny Lawson, and it’s very good. And now I need to find something else to read. Maybe Sawkill Girls? Or more nonfiction? I’ll decide soon, I guess!\n",
-      "title": "My 2022 Reading Stats So Far",
-      "tags": [
-        "Reading",
-        "Stats"
-      ],
-      "images": [
-        "/img/notes/1eb0e85b-Screen Shot 2022-02-16 at 10.00.49 PM.png"
-      ],
-      "format": "text",
-      "embed": "https://www.goodreads.com/book/show/17306293-shift"
-    },
-    {
-      "id": "2ebe8523-ce76-4910-9573-f94d830c5c89",
-      "created_time": "2022-02-27T04:45:00.000Z",
-      "last_edited_time": "2022-02-27T19:12:00.000Z",
-      "cover": null,
-      "icon": null,
-      "content": "\nThis week I got to 350 German words learned on Speakly. _Hooray_!\n\nAnd today I was listening to a bit of German music, and when this song played. Since I love it, specially on this video, I decided to try to follow the lyrics. And hey, I was actually able to understand a bit of the first verse, and the first 2 lines of the bridge. That’s so cool!\n\n> Du hast mich nie darum gebeten,  \n>ich weiß, ich weiß, ja ich weiß.  \n>Es tut dir leid, oder auch nicht,  \n>keine Ahnung, was weiß ich schon.  \n>Es war alles umsonst,  \n>Aber is' okay, es ist okay für mich.  \n>  \n>_you never asked me  \n>i know i know yes i know  \n>you're sorry or not  \n>no idea, what do I know.  \n>It was all in vain  \n>But it's okay, it's okay for me._\n\n> Denn du warst süß wie Honig in meinem Kaffee  \n>Präsent in meinem Kopf von früh bis spät.  \n>Viel zu spät hab ich gecheckt:  \n>Gäb's nen Wettbewerb für Idioten  \n>hätt' ich haushoch gewonnen.  \n>  \n>_'Cause you were sweet as honey in my coffee  \n>Present in my mind from dawn to dusk.  \n>I checked much too late:  \n>There's a competition for idiots  \n>I would have won hands down._\n",
-      "title": "German Updates :)",
-      "tags": [
-        "German",
-        "Personal"
-      ],
-      "images": [],
-      "format": "text",
-      "embed": "https://www.youtube.com/watch?v=CinuEcTAYjA"
-    },
-    {
+  "lastFetched": "2022-03-07T03:45:18.995Z",
+  "notes": {
+    "cb8fd534-4cf9-4570-87c1-7323024ea804": {
       "id": "cb8fd534-4cf9-4570-87c1-7323024ea804",
       "created_time": "2022-03-02T06:28:00.000Z",
       "last_edited_time": "2022-03-02T06:31:00.000Z",
       "cover": null,
       "icon": null,
-      "content": "\nGot a great week last week, and even though I didn’t study much on Sunday (or at all Yesterday), I’m happy to be making progress again.\n",
-      "title": "400 German Words",
+      "format": "",
       "tags": [
         "German",
         "Personal"
       ],
+      "created": "2022-03-02T06:28:00.000Z",
       "images": [
         "/img/notes/cb8fd534-FBF10B5A-3F85-49C3-B87C-EE79387EEB71.jpeg"
       ],
+      "embed": null,
+      "title": "400 German Words",
+      "content": "\nGot a great week last week, and even though I didn’t study much on Sunday (or at all Yesterday), I’m happy to be making progress again.\n"
+    },
+    "2ebe8523-ce76-4910-9573-f94d830c5c89": {
+      "id": "2ebe8523-ce76-4910-9573-f94d830c5c89",
+      "created_time": "2022-02-27T04:45:00.000Z",
+      "last_edited_time": "2022-02-27T19:12:00.000Z",
+      "cover": null,
+      "icon": null,
+      "format": "",
+      "tags": [
+        "German",
+        "Personal"
+      ],
+      "created": "2022-02-27T04:45:00.000Z",
+      "images": [],
+      "embed": "https://www.youtube.com/watch?v=CinuEcTAYjA",
+      "title": "German Updates :)",
+      "content": "\nThis week I got to 350 German words learned on Speakly. _Hooray_!\n\nAnd today I was listening to a bit of German music, and when this song played. Since I love it, specially on this video, I decided to try to follow the lyrics. And hey, I was actually able to understand a bit of the first verse, and the first 2 lines of the bridge. That’s so cool!\n\n> Du hast mich nie darum gebeten,  \n>ich weiß, ich weiß, ja ich weiß.  \n>Es tut dir leid, oder auch nicht,  \n>keine Ahnung, was weiß ich schon.  \n>Es war alles umsonst,  \n>Aber is' okay, es ist okay für mich.  \n>  \n>_you never asked me  \n>i know i know yes i know  \n>you're sorry or not  \n>no idea, what do I know.  \n>It was all in vain  \n>But it's okay, it's okay for me._\n\n> Denn du warst süß wie Honig in meinem Kaffee  \n>Präsent in meinem Kopf von früh bis spät.  \n>Viel zu spät hab ich gecheckt:  \n>Gäb's nen Wettbewerb für Idioten  \n>hätt' ich haushoch gewonnen.  \n>  \n>_'Cause you were sweet as honey in my coffee  \n>Present in my mind from dawn to dusk.  \n>I checked much too late:  \n>There's a competition for idiots  \n>I would have won hands down._\n"
+    },
+    "1eb0e85b-e557-41e3-84ff-7a372e21c4d5": {
+      "id": "1eb0e85b-e557-41e3-84ff-7a372e21c4d5",
+      "created_time": "2022-02-17T04:50:00.000Z",
+      "last_edited_time": "2022-02-17T06:01:00.000Z",
+      "cover": null,
+      "icon": null,
+      "format": "",
+      "tags": [
+        "Reading",
+        "Stats"
+      ],
+      "created": "2022-02-17T04:50:00.000Z",
+      "images": [
+        "/img/notes/1eb0e85b-Screen Shot 2022-02-16 at 10.00.49 PM.png"
+      ],
+      "embed": "https://www.goodreads.com/book/show/17306293-shift",
+      "title": "My 2022 Reading Stats So Far",
+      "content": "\nThis is how my year has been so far regarding reading. I read way more after I arrived back in Vancouver and was reading Shift, the second book in the Silo trilogy.\n\nAlso, yesterday I finished [Broken](https://www.goodreads.com/book/show/54305363-broken) by Jenny Lawson, and it’s very good. And now I need to find something else to read. Maybe Sawkill Girls? Or more nonfiction? I’ll decide soon, I guess!\n"
+    },
+    "6e35ea03-1d8d-48fa-b34a-9ad050b23316": {
+      "id": "6e35ea03-1d8d-48fa-b34a-9ad050b23316",
+      "created_time": "2022-02-14T07:08:00.000Z",
+      "last_edited_time": "2022-02-14T07:13:00.000Z",
+      "cover": null,
+      "icon": null,
+      "format": "",
+      "tags": [
+        "Reading",
+        "Manga"
+      ],
+      "created": "2022-02-14T07:08:00.000Z",
+      "images": [
+        "/img/notes/6e35ea03-95B3E62F-0A5D-44FA-926B-968B4AD0ADC7.png",
+        "/img/notes/6e35ea03-622F08AE-3FCD-4A5A-ADCD-3C0C47FCB25C.png"
+      ],
+      "embed": null,
+      "title": "Reading Manga",
+      "content": "\nToday I caught up with Spy X Family, which I had stopped on chapter 53, and started Sakamoto Days. Read a couple chapter and so far enjoyed it.\n\nI was planning on reading Jujutsu, Black Clover or My Hero Academia, but it’s good to read some comedy.\n"
+    },
+    "0a9d42b3-a9e2-43b9-bb00-497769b21a2f": {
+      "id": "0a9d42b3-a9e2-43b9-bb00-497769b21a2f",
+      "created_time": "2022-02-13T04:09:00.000Z",
+      "last_edited_time": "2022-02-13T04:52:00.000Z",
+      "cover": null,
+      "icon": null,
+      "format": "",
+      "tags": [
+        "Personal",
+        "New Things"
+      ],
+      "created": "2022-02-13T04:09:00.000Z",
+      "images": [
+        "/img/notes/0a9d42b3-13B83BA8-DF03-4E5D-8B71-62A551D1B512.jpeg",
+        "/img/notes/0a9d42b3-BF835A3B-A14D-46DA-8786-4C959D9958F3.jpeg",
+        "/img/notes/0a9d42b3-EB5BBC65-7C5F-4252-B5BF-76087532CC4B.jpeg"
+      ],
+      "embed": null,
+      "title": "The Serpent OST Record",
+      "content": "\nYesterday I received the OST for The Serpent, a show I enjoyed a lot and that has a great soundtrack. My wife and I binged the show, and I listened to the soundtrack during most of the time I was reading [The Lighthouse Witches](https://geekosaur.com/post/the-lighthouse-witches-book-notes/).\n\nI pre-ordered it a long time ago and the release was postponed so many times I though I was not going to get it anymore. But I’m happy it’s here now. And it looks BEAUTIFUL!\n\nYou can see the trailer [here](https://www.youtube.com/watch?v=TgB7rMuxY-s) and listen to the soundtrack [here](https://www.youtube.com/watch?v=ZgJeWP_vw8M&list=PLuF78wm0RiGZlDiRBcCa06LCQLBC4T938).\n"
+    },
+    "cd6f98b1-1814-411e-8399-ede231748153": {
+      "id": "cd6f98b1-1814-411e-8399-ede231748153",
+      "created_time": "2022-02-12T02:57:00.000Z",
+      "last_edited_time": "2022-02-12T02:58:00.000Z",
+      "cover": null,
+      "icon": null,
+      "format": "",
+      "tags": [
+        "Personal"
+      ],
+      "created": "2022-02-12T02:57:00.000Z",
+      "images": [
+        "/img/notes/cd6f98b1-EFF2AAFF-1503-4D2B-9705-0A60B4CBD95B.jpeg"
+      ],
+      "embed": null,
+      "title": "Studying German",
+      "content": "\nFinally got to 300 words on Speakly and moved to Beginner II level. I’m really enjoying this app, as it gives you words based on the most used words in real life scenarios, instead of giving a dozen words from a different category each time.\n\nThe phrases are also more meaningful and realistic, so I’m probably keep using it to slowly build vocabulary, since I don’t have a lot of time and energy for more focused study and longer sessions.\n"
+    },
+    "77c7d951-5294-4b96-a9ff-4e771ba308d8": {
+      "id": "77c7d951-5294-4b96-a9ff-4e771ba308d8",
+      "created_time": "2022-02-10T06:41:00.000Z",
+      "last_edited_time": "2022-02-10T17:07:00.000Z",
+      "cover": null,
+      "icon": null,
+      "format": "",
+      "tags": [],
+      "created": "2022-02-10T06:41:00.000Z",
+      "images": [],
+      "embed": null,
+      "title": "How to use Twitter",
+      "content": "\nToday I saw a post titled How To Use Twitter, which has some interesting thoughts on how to improve the Twitter experience. And I guess the most important thing is not using the main timeline, but instead relying on the lists feature.\n\nIt’s really a letdown that to have a good experience on the platform we should avoid the main user experience they are offering, but I guess that’s the only way of really avoiding so many suggestions, likes and topics.\n\nIt’s still doesn’t solve my gripe with having my likes to myself, but that’s maybe ok for now.\n\nThe article: [https://lee-phillips.org/howtotwitter/](https://lee-phillips.org/howtotwitter/)\n\nThis HackerNews comment (and following thread) also gives some indication that yeah, trying to mark those suggestions as ‘not interested’ is not gonna help in the long run, but just make Twitter suggest worse content every time [https://news.ycombinator.com/item?id=30271837](https://news.ycombinator.com/item?id=30271837) \n"
+    },
+    "5346c10b-2d52-415e-93eb-a03e2f7b54b9": {
+      "id": "5346c10b-2d52-415e-93eb-a03e2f7b54b9",
+      "created_time": "2022-02-08T23:48:00.000Z",
+      "last_edited_time": "2022-02-08T23:54:00.000Z",
+      "cover": null,
+      "icon": null,
+      "format": "",
+      "tags": [
+        "Personal",
+        "Music",
+        "Memories"
+      ],
+      "created": "2022-02-08T23:48:00.000Z",
+      "images": [],
+      "embed": null,
+      "title": "My Band Playlists",
+      "content": "\nThis Saturday night I was listening to some songs that reminded me of my bands back in Brazil. Since I don’t use Spotify anymore and have migrated to Youtube Music, I decided to recreate my playlists there.\n\nI never finished those playlists on Spotify, so I’ll see if someday I find the setlists so I can have complete playlists there. I also want to create setlist for other bands I’ve played with, and also my big band. But that’s for another time. They are both below:\n\n- [Trivial](https://music.youtube.com/playlist?list=PLZIaVOUaxLAOpQvzJCeugpYgRpPlnA8m2&feature=share)\n\n- [The Mad Mavericks](https://music.youtube.com/playlist?list=PLZIaVOUaxLAP7EK8JjXvc3FpWoM-LUVlI&feature=share)\n"
+    },
+    "84daed7f-3d86-49c2-ba2e-41b21654ab99": {
+      "id": "84daed7f-3d86-49c2-ba2e-41b21654ab99",
+      "created_time": "2022-02-04T06:27:00.000Z",
+      "last_edited_time": "2022-02-05T23:17:00.000Z",
+      "cover": null,
+      "icon": null,
       "format": "text",
-      "embed": null
+      "tags": [
+        "Memories",
+        "Sports"
+      ],
+      "created": "2022-02-04T06:27:00.000Z",
+      "images": [],
+      "embed": null,
+      "title": "Figure Skating 2022",
+      "content": "\nIt’s kinda crazy how I got totally sucked in watching figure skating for the first time 12 years ago in Brazil, during Vancouver Olympics. And now here I am in Vancouver, watching the 2022 figure skating.\n"
+    },
+    "96a049dc-2184-4c66-9fb2-aac00b6b0c02": {
+      "id": "96a049dc-2184-4c66-9fb2-aac00b6b0c02",
+      "created_time": "2022-02-04T03:41:00.000Z",
+      "last_edited_time": "2022-02-05T18:54:00.000Z",
+      "cover": null,
+      "icon": null,
+      "format": "text",
+      "tags": [],
+      "created": "2022-02-04T03:41:00.000Z",
+      "images": [
+        "/img/notes/96a049dc-anime-girl-hiding-behind-sheet.jpeg"
+      ],
+      "embed": null,
+      "title": "Now with Notes",
+      "content": "\nThis is a first note to test this new feature I added! Just to have some quick thoughts that I can add to [Notion](http://notion.so) and get it published here!\n"
     }
-  ]
+  }
 }

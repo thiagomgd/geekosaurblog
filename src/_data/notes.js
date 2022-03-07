@@ -3,6 +3,7 @@ const unionBy = require("lodash/unionBy");
 const fs = require("fs");
 const domain = require("./metadata.json").domain;
 const { readFromCache, writeToCache, getLocalImageLink, replaceNotionMarkdown } = require("../_11ty/helpers");
+const { fetchFromNotion, getNotionProps } = require("../_11ty/notionHelpers");
 
 const { Client } = require('@notionhq/client');
 // https://github.com/souvikinator/notion-to-md
@@ -24,15 +25,6 @@ const getMetadata = (note) => {
     "cover": note.cover,
     "icon": note.icon,
   }
-}
-
-const getTitle = (note) => {
-  return note.properties.Title.title[0].plain_text
-}
-
-const getTags = (note) => {
-  const notionTags = note.properties.Tags.multi_select
-  return notionTags.map(tag => tag.name);
 }
 
 const getImages = (note) => {
@@ -83,40 +75,32 @@ async function fetchNotes(since) {
     return null;
   }
 
-  const newNotes = []
-  // only brings first page (100 items) but we should't have more than not in cache
-  // TODO: update to use fetch method on books.js
-  const response = await notion.databases.query({
-    database_id: DATABASE_ID,
-    filter: {
-      property: 'Created',
-      date: {after: since},
-    },
-    sorts: [
-      {
-        timestamp: 'created_time',
-        direction: 'ascending',
-      },
-    ],
-  });
+  const filters = since
+    ? {
+        property: "Edited",
+        date: { after: since },
+      }
+    : {};
 
-  if (response.results) {
+  const results = await fetchFromNotion(notion, DATABASE_ID, filters);
+
+  if (results) {
     console.log(
-      `>>> ${response.results.length} new notes fetched`
+      `>>> ${results.length} new notes fetched`
     );
 
-    for (const note of response.results) {
+    const newNotes = {}
+
+    for (const note of results) {
       const noteContent = await fetchPage(note.id)
+      const props = getNotionProps(note)
+      props['images'] = getImages(note)
       const newNote = {
         ...getMetadata(note),
+        ...props,
         content: noteContent,
-        title: getTitle(note),
-        tags: getTags(note),
-        images: getImages(note),
-        format: getFormat(note),
-        embed: getEmbed(note)
       }
-      newNotes.push(newNote);
+      newNotes[note.id] = newNote;
     }
     return newNotes;
   }
@@ -125,20 +109,29 @@ async function fetchNotes(since) {
 }
 
 // Append fresh notes to cached entries
-function mergeNotes(a, b) {
-  return a.notes.concat(b)
+function mergeNotes(a={}, b={}) {
+  return { ...a, ...b };
+}
+
+function processAndReturn(notes) {
+  return Object.values(notes)
+    .sort(function(a, b) {
+      const timeA = a.created_time ? new Date(a.created_time).getTime() : 0;
+      const timeB = b.created_time ? new Date(b.created_time).getTime() : 0;
+      return timeA - timeB;
+    })
 }
 
 module.exports = async function () {
   console.log(">>> Reading notes from cache...");
   const cache = readFromCache(CACHE_FILE_PATH);
 
-  if (cache.notes.length) {
-    console.log(`>>> ${cache.notes.length} notes loaded from cache`);
+  if (cache.notes && Object.keys(cache.notes).length) {
+    console.log(`>>> ${Object.keys(cache.notes).length} notes loaded from cache`);
   }
 
   // Only fetch new notes in production
-  // if (process.env.ELEVENTY_ENV === "development") return cache.notes;
+  // if (process.env.ELEVENTY_ENV === "development") return processAndReturn(cache.notes);
 
   console.log(">>> Checking for new notes...");
   const newNotes = await fetchNotes(cache.lastFetched);
@@ -146,15 +139,16 @@ module.exports = async function () {
   if (newNotes) {
     const notes = {
       lastFetched: new Date().toISOString(),
-      notes: mergeNotes(cache, newNotes),
+      notes: mergeNotes(cache.notes, newNotes),
     };
 
     if (process.env.ELEVENTY_ENV === "devbuild") {
       writeToCache(notes, CACHE_FILE_PATH, "notes");
     }
     
-    return notes.notes;
+    console.log(notes);
+    return processAndReturn(notes.notes);
   }
 
-  return cache.notes;
+  return processAndReturn(cache.notes);
 };
