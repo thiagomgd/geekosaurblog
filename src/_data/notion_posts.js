@@ -6,7 +6,7 @@ const {
   writeToCache,
   getLocalImageLink,
 } = require("../_11ty/helpers");
-const { fetchFromNotion, getNotionProps } = require("../_11ty/notionHelpers");
+const { fetchFromNotion, getNotionProps, getLocalImages } = require("../_11ty/notionHelpers");
 
 const { Client } = require("@notionhq/client");
 // https://github.com/souvikinator/notion-to-md
@@ -66,10 +66,11 @@ async function fetchPosts(since) {
 
     for (const post of results) {
       const content = await fetchPage(post.id);
-
+      const props = getNotionProps(post);
+      props['thumbnail'] = getLocalImages(post, 'Thumbnail', 'notion_post')[0];
       newPosts[post.id] = {
         ...getMetadata(post),
-        ...getNotionProps(post),
+        ...props,
         content: content,
       };
     }
@@ -95,6 +96,13 @@ function showPost(data) {
   return hasSlug && isPublished && !isFutureDate;
 }
 
+function checkDuplicates(posts) {
+  let seen = new Set();
+  var hasDuplicates = values.some(function(currentObject) {
+      return seen.size === seen.add(currentObject.name).size;
+  });
+}
+
 function filterDrafts(posts) {
   const isDevEnv = process.env.ELEVENTY_ENV === "development";
 
@@ -103,6 +111,8 @@ function filterDrafts(posts) {
   return Object.values(posts).filter(post => showPost(post) === true);
 }
 
+
+// TODO: Find duplicate slugs and error/warning
 module.exports = async function () {
   console.log(">>> Reading posts from cache...");
   const cache = readFromCache(CACHE_FILE_PATH);

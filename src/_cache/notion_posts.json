@@ -1,13 +1,29 @@
 {
-  "lastFetched": "2022-03-07T03:45:19.378Z",
+  "lastFetched": "2022-03-07T18:49:55.731Z",
   "posts": {
+    "07e76b28-b307-4d7a-9ef4-976dfc27538f": {
+      "id": "07e76b28-b307-4d7a-9ef4-976dfc27538f",
+      "created_time": "2022-03-06T20:59:00.000Z",
+      "last_edited_time": "2022-03-07T04:32:00.000Z",
+      "cover": null,
+      "icon": null,
+      "slug": "book-notes-sawkill-girls",
+      "published": false,
+      "lead": "",
+      "notes": "",
+      "tags": [],
+      "description": "",
+      "title": "Sawkill Girls Notes",
+      "content": ""
+    },
     "834a3691-3439-4e59-a64d-43bc09007922": {
       "id": "834a3691-3439-4e59-a64d-43bc09007922",
       "created_time": "2022-03-02T03:53:00.000Z",
-      "last_edited_time": "2022-03-04T06:13:00.000Z",
+      "last_edited_time": "2022-03-07T18:49:00.000Z",
       "cover": null,
       "icon": null,
       "slug": "music-monday-11",
+      "thumbnail": "/img/notion_post/834a3691-annenmaykantereit_cover.jpeg",
       "published": true,
       "lead": "I just can’t stop vibing to Can't Get You out of My Head",
       "notes": "",
@@ -17,23 +33,8 @@
       ],
       "date_published": "2022-03-07T00:00:00.000Z",
       "description": "Very cool cover songs by AnnenMayKantereit",
-      "title": "Music Monday #11: ",
+      "title": "Music Monday #11: AnnenMayKantereit Covers",
       "content": "\nThis is a German band and, while they have cool songs, today I’m sharing their covers because OMGTHOSEARESOCOOL! Let’s start with Can't Get You out of My Head by Kylie Minogue, which they recorded along with another band called Parcels.\n\n[bookmark](https://www.youtube.com/watch?v=RacxNskxySo)\n\nIf you are ancient like me, you probably are familiar with Tom’s Diner. If you don’t remember it by the name, the first 1 second might be enough to make you remember. Played with Giant Rooks\n\n[bookmark](https://www.youtube.com/watch?v=5r3B7yz6J68)\n\nSomething a bit newer: Valerie, played with Natalie Findlay and featuring a sweet flugelhorn solo!\n\n[bookmark](https://www.youtube.com/watch?v=Jm-FH82lVbE)\n\nCome Together is a classic, right?\n\n[bookmark](https://www.youtube.com/watch?v=SkP7QWsfNc0)\n\nAnd let’s end up with one that’s not a cover :)\n\n[bookmark](https://www.youtube.com/watch?v=s8WJYwFlyUg)\n"
-    },
-    "07e76b28-b307-4d7a-9ef4-976dfc27538f": {
-      "id": "07e76b28-b307-4d7a-9ef4-976dfc27538f",
-      "created_time": "2022-03-06T20:59:00.000Z",
-      "last_edited_time": "2022-03-06T20:59:00.000Z",
-      "cover": null,
-      "icon": null,
-      "slug": "",
-      "published": false,
-      "lead": "",
-      "notes": "",
-      "tags": [],
-      "description": "",
-      "title": "Sawkill Girls Notes",
-      "content": ""
     }
   }
 }

@@ -111,6 +111,7 @@ async function optimizeImage(src) {
     return src;
   }
 
+  console.log(src);
   const fileSource = src.startsWith("/img") ? `./src${src}` : src;
 
   let metadata = await Image(fileSource, {

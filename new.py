@@ -28,7 +28,7 @@ def get_slug(folder, path):
             filename = 'mm-{}'
         else:
             p_slug = "geekosaur-news-{}"
-            t_slug = 'Geekosaur Weekly #{}:' 
+            t_slug = 'Geekosaur News #{}:' 
             filename = 'gn-{}'
 
         return p_slug.format(fileNumber+1), t_slug.format(fileNumber+1), filename.format(fileNumber+1)

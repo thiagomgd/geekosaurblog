@@ -1,4 +1,26 @@
 const util = require('util')
+const { getLocalImageLink } = require("./helpers");
+
+const getLocalImages = (note, property='Images', folder) => {
+  const imagesNotion = note.properties[property].files;
+  const images = []
+  for (const img of imagesNotion) {
+    const imageUrl = img.type === 'external' ? img.external.url : img.file.url ;
+    const fileName = `${note.id.substr(0, note.id.indexOf("-"))}-${img.name}`;
+  
+    // if (img.file.url.includes("secure.notion-static.com") && !process.env.ELEVENTY_ENV === "devbuild") break;
+
+    // if (!process.env.ELEVENTY_ENV === "devbuild") {
+    //   images.push(img.file.url);
+    //   break;
+    // }
+    const imagePath = getLocalImageLink(imageUrl, fileName, folder)
+    
+    images.push(imagePath);
+  }
+
+  return images;
+}
 
 // TODO: add delay for another call
 async function fetchFromNotion(notion, dbId, filter = {}, cursor = undefined) {
@@ -26,6 +48,7 @@ async function fetchFromNotion(notion, dbId, filter = {}, cursor = undefined) {
 }
 
 function _title(prop) {
+  // console.log(prop);
   return prop["title"][0]["plain_text"];
 }
 
@@ -130,4 +153,5 @@ function getNotionProps(thing, normalize=true) {
 module.exports = {
   fetchFromNotion,
   getNotionProps,
+  getLocalImages
 };

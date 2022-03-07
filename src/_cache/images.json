@@ -1294,5 +1294,8 @@
   },
   "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526389901l/38186306.jpg": {
     "url": "/img/ext/4153914-38186306.jpg"
+  },
+  "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/710d5e5c-faec-4903-9a1e-7381d828ef86/annenmaykantereit_cover.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220307%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220307T184717Z&X-Amz-Expires=3600&X-Amz-Signature=659640981eb3d15f83c2c6dc5dc3fd346b65308f4533773f4d13a9bb7bedb9a6&X-Amz-SignedHeaders=host&x-id=GetObject": {
+    "url": "/img/notion_post/834a3691-annenmaykantereit_cover.jpeg"
   }
 }

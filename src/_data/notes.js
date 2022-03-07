@@ -3,7 +3,7 @@ const unionBy = require("lodash/unionBy");
 const fs = require("fs");
 const domain = require("./metadata.json").domain;
 const { readFromCache, writeToCache, getLocalImageLink, replaceNotionMarkdown } = require("../_11ty/helpers");
-const { fetchFromNotion, getNotionProps } = require("../_11ty/notionHelpers");
+const { fetchFromNotion, getNotionProps, getLocalImages } = require("../_11ty/notionHelpers");
 
 const { Client } = require('@notionhq/client');
 // https://github.com/souvikinator/notion-to-md
@@ -25,27 +25,6 @@ const getMetadata = (note) => {
     "cover": note.cover,
     "icon": note.icon,
   }
-}
-
-const getImages = (note) => {
-  const imagesNotion = note.properties.Images.files;
-  const images = []
-  for (const img of imagesNotion) {
-    const imageUrl = img.type === 'external' ? img.external.url : img.file.url ;
-    const fileName = `${note.id.substr(0, note.id.indexOf("-"))}-${img.name}`;
-  
-    // if (img.file.url.includes("secure.notion-static.com") && !process.env.ELEVENTY_ENV === "devbuild") break;
-
-    // if (!process.env.ELEVENTY_ENV === "devbuild") {
-    //   images.push(img.file.url);
-    //   break;
-    // }
-    const imagePath = getLocalImageLink(imageUrl, fileName, 'notes')
-    
-    images.push(imagePath);
-  }
-
-  return images;
 }
 
 const getEmbed = (note) => {
@@ -94,7 +73,7 @@ async function fetchNotes(since) {
     for (const note of results) {
       const noteContent = await fetchPage(note.id)
       const props = getNotionProps(note)
-      props['images'] = getImages(note)
+      props['images'] = getLocalImages(note, 'Images' , 'notes')
       const newNote = {
         ...getMetadata(note),
         ...props,
