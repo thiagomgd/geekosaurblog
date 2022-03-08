@@ -9,7 +9,7 @@ const EMPTY = ``;
 
 const Image = require("@11ty/eleventy-img");
 
-async function imageShortcode(src, alt) {
+async function imageShortcode(src, alt, options = {}) {
   if(alt === undefined) {
     // You bet we throw an error on missing alt (alt="" works okay)
     throw new Error(`Missing \`alt\` on myImage from: ${src}`);
@@ -25,7 +25,7 @@ async function imageShortcode(src, alt) {
 
   let data = metadata.jpeg[metadata.jpeg.length - 1];
   // square counts as vertical
-  const isVerticalClassname = data.height >= data.width ? 'class="vertical"' : '';
+  const isVerticalClassname = !options['novertical'] && data.height >= data.width ? 'class="vertical"' : '';
   return `<img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" ${isVerticalClassname} loading="lazy" decoding="async">`;
 }
 
@@ -54,11 +54,18 @@ async function blur(src, caption, className="", alt="") {
   return `<div class="blurDiv blurred" id="${uuid}" onclick="document.getElementById('${uuid}').className = 'blurDiv';" >${figureTag}</div>`;
 };
 
-async function card(title, img, rating, review_link, goodreads) {
+async function card(title, imgParam, rating, review_link, goodreads) {
+  let img = imgParam;
+  if (typeof imgParam !== 'string') {
+    img = imgParam.length > 0 ? imgParam[0] : ''
+  }
+
   const localImg = getLocalImageLink(img);
+  console.log('$$$$$$$$$', title, img, localImg);
 
   const badge = rating ? `<div class="card-badge">${rating}</div>` : EMPTY;
-  const imgTag = localImg ? `<div class="card-image-div"><img src="${localImg}"/></div>` : EMPTY;
+  const imgTagInner = localImg ? await imageShortcode(localImg, "", {novertical:true}) : EMPTY;
+  const imgTag = imgTagInner ? `<div class="card-image-div">${imgTagInner}</div>` : EMPTY;
   const reviewTag = review_link ? `<p><a href="${review_link}">Review</a></p>` : EMPTY;
   // todo: extract domain and use as link text
   const goodreadsTag = goodreads ? `<p><a href="${goodreads}" target="_blank" rel="noopener noreferrer">Goodreads</a></p>` : EMPTY;

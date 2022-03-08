@@ -85,15 +85,15 @@ async function fetchBooks() {
     console.log(`>>> ${results.length} new books fetched`);
 
     for (const book of results) {
-      const newBook = getNotionProps(book);
+      const newBook = getNotionProps(book, false);
 
       newBooks.push({
-        title: newBook["title"],
-        cover: newBook["cover"],
-        rating: newBook["my_rating"],
-        review: newBook["review"],
-        date_read: newBook["date_read"],
-        year_read: newBook["date_read"] ? newBook["date_read"].getFullYear() : 0,
+        title: newBook["Title"],
+        cover: newBook["Cover"],
+        rating: newBook["My Rating"],
+        review: newBook["Review"],
+        date_read: newBook["Date Read"],
+        year_read: newBook["Date Read"] ? newBook["Date Read"].getFullYear() : 0,
       });
     }
 
@@ -118,7 +118,7 @@ module.exports = async function () {
 
   console.log(">>> Checking for new books...");
   const newBooks = await fetchBooks();
-
+  console.log(newBooks);
   // TODO: after getting only new items, merge cache and new
 
   if (newBooks) {

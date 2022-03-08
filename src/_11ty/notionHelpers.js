@@ -90,14 +90,20 @@ function _date(prop) {
 }
 
 function _files(prop) {
-  // TODO!!
-  return [];
-  // files = prop["files"];
+  files = prop["files"];
+  
+  if (files.length == 0) return [];
+  
+  const images = []
+  for (const img of files) {
+    const imageUrl = img.type === 'external' ? img.external.url : img.file.url ;
+    // const imagePath = getLocalImageLink(imageUrl, fileName, folder)
+    
+    images.push(imageUrl);
+  }
 
-  // if (files.length == 0) return [];
+  return images;
 
-  // // TODO: return all files
-  // return files[0]["external"]["url"];
 }
 
 function _select(prop) {
