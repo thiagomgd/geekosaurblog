@@ -88,13 +88,13 @@ async function fetchBooks() {
       const newBook = getNotionProps(book);
 
       newBooks.push({
-        title: newBook["Title"],
-        cover: newBook["Cover"],
-        rating: newBook["My Rating"],
-        review: newBook["Review"],
-        date_read: newBook["Date Read"],
-        year_read: newBook["Date Read"]
-          ? newBook["Date Read"].getFullYear()
+        title: newBook["title"],
+        cover: newBook["cover"],
+        rating: newBook["my_rating"],
+        review: newBook["review"],
+        date_read: newBook["date_read"],
+        year_read: newBook["date_read"]
+          ? newBook["date_read"].getFullYear()
           : 0,
       });
     }

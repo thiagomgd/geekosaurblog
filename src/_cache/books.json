@@ -1,649 +1,1640 @@
 {
   "0": [
     {
+      "title": "Mr. Monk in Outer Space (Mr. Monk, #5)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "The Fellowship of the Ring (The Lord of the Rings, #1)",
+      "cover": [],
+      "rating": 5,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "A Study in Scarlet (Sherlock Holmes, #1)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "From Russia With Love (James Bond, #5)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Skulduggery Pleasant (Skulduggery Pleasant, #1)",
+      "cover": [],
+      "rating": 5,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "The Faceless Ones (Skulduggery Pleasant, #3)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Dark Days (Skulduggery Pleasant, #4)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "The Mystery of the Conjured Man (Sherlock Holmes and the Baker Street Irregulars #2)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Dewey:  Um Gato Entre Livros",
+      "cover": [],
+      "rating": 5,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Médico e o Monstro",
+      "cover": [],
+      "rating": 5,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Monge Inglês",
+      "cover": [],
+      "rating": 3,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Dracula",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Homem que Calculava",
+      "cover": [],
+      "rating": 5,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Uma aventura no Ártico (Artemis Fowl, #2)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Night of the Living Dummy (Goosebumps, #7)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Welcome to Camp Nightmare  (Goosebumps, #9)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Código Eterno (Artemis Fowl, #3)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "A Nova Catacumba e Outras Histórias",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Trapaça Mortal  (Liebermann Papers, #1)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Vienna Blood (Liebermann Papers, #2)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "The Tales of Beedle the Bard (Hogwarts Library)",
+      "cover": [],
+      "rating": 5,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Breaking Dawn (The Twilight Saga, #4)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Sonho de uma noite de verão",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Perry Rhodan 47: Gom antwortet nicht (Perry Rhodan - Heftromane, #47)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Perry Rhodan 46: Geschäfte mit Arkon-Stahl (Perry Rhodan - Heftromane, #46)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Missão Stardust (Perry Rhodan - Portuguese, #1)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Alarma Galático (Perry Rhodan - Portuguese, #5)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Charada Galática (Perry Rhodan - Portuguese, #14)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Imortal (Perry Rhodan - Portuguese, #19)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Cilada Cósmica (Perry Rhodan - Portuguese, #28)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Supercrânio (Perry Rhodan - Portuguese, #25)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Vôo Para o Infinito (Perry Rhodan - P-032)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Crepúsculo dos Deuses (Perry Rhodan - P-004)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Exército de Mutantes (Perry Rhodan - P-006)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Base em Vênus (Perry Rhodan - P-008)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Socorro Para a Terra (Perry Rhodan - P-009)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Batalha no Setor Vega (Perry Rhodan - P-010)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Mutantes em Ação (Perry Rhodan - P-011)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Segredo do Cofre de Tempo (Perry Rhodan - P-012)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "A Fortaleza das Seis Luas",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Os Espíritos de Gol (Perry Rhodan - P-016)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Planeta do Sol Moribundo (Perry Rhodan - P-017)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Ameaça a Vênus (Perry Rhodan - P-020)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Pista no Tempo e no Espaço (Perry Rhodan - P-015)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "S.O.S. : Espaçonave Titan (Perry Rhodan - P-042)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Perigo no Planeta Gelado (Perry Rhodan - P-030)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "A Guerra Atômica Que Não Houve (Perry Rhodan - P-021)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Imperador de Nova Iorque (Perry Rhodan - P-031)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Duelo de Mutantes (Perry Rhodan - P-026)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Levtan, o Traidor (Perry Rhodan - P-034)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Planeta Louco (Perry Rhodan - P-037)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Projeto Aço Arcônida (Perry Rhodan - P-046)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Domínio do Hipno (Perry Rhodan - P-027)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Luta Contra o Desconhecido (Perry Rhodan - P-040)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Mundo de Gelo em Chamas (Perry Rhodan - P-033)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Aliado do Gigante (Perry Rhodan - P-041)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Mundo dos Três Planetas (Perry Rhodan - P-039)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Flagelo do Esquecimento (Perry Rhodan - P-036)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Aralon, o Centro de Epidemias (Perry Rhodan - P-045)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Chave Secreta X (Perry Rhodan - P-023)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "A Abóbada Energética (Perry Rhodan - P-003)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Os Rebeldes de Tuglan (Perry Rhodan - P-018)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "My Youth Romantic Comedy Is Wrong, As I Expected, Vol. 1 (Yahari Ore no Seishun Love Comedy wa Machigatteiru. Light Novels, #1)",
+      "cover": [],
+      "rating": 4,
+      "review": "https://geekosaur.com/post/review-my-youth-romantic-comedy-is-wrong-as-i-expected-vol.-1/",
       "year_read": 0
     },
     {
+      "title": "A Fuga de Thora (Perry Rhodan - P-022)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Invasão Espacial (Perry Rhodan - Portuguese, #7)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Homem e o Monstro (Perry Rhodan - P-044)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Aventuras Inéditas de Sherlock Holmes (Sherlock Holmes, #10)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Sherlock Holmes: O cão dos Baskervilles (Sherlock Holmes, #5)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Roubo da Coroa de Berilos e Outras Aventuras (Sherlock Holmes #11)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Último Adeus de Sherlock Holmes",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Harry Potter e a Pedra Filosofal (Harry Potter, #1)",
+      "cover": [],
+      "rating": 5,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Harry Potter e a Câmara Secreta (Harry Potter, #2)",
+      "cover": [],
+      "rating": 5,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Harry Potter e a Ordem da Fênix (Harry Potter, #5)",
+      "cover": [],
+      "rating": 5,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Harry Potter e as Relíquias da Morte (Harry Potter, #7)",
+      "cover": [],
+      "rating": 5,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Harry Potter e o Cálice de Fogo (Harry Potter, #4)",
+      "cover": [],
+      "rating": 5,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Harry Potter e o Enigma do Príncipe (Harry Potter, #6)",
+      "cover": [],
+      "rating": 5,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Harry Potter e o Prisioneiro de Azkaban (Harry Potter, #3)",
+      "cover": [],
+      "rating": 5,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Crepúsculo (Crepúsculo, #1)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Eclipse (Crepúsculo, #3)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Lua Nova (Crepúsculo, #2)",
+      "cover": [],
+      "rating": 3,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Brincando Com Fogo (Sr.Ardiloso Cortês, #2)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "007 Contra o Satânico Dr. No",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Deus Me Livre",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Jogo do Camaleão",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Um gnomo na minha horta",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Lobisomem do Pântano da Febre (Goosebumps, #14)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Artemis Fowl: O Menino Prodígio do Crime (Artemis Fowl, #1)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "A Terceira Potência (Perry Rhodan - P-002)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Duelo de Mutantes (Perry Rhodan, A Terceira Potência, #26)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Na Selva do Mundo Primitivo (Perry Rhodan, A Terceira Potência, #24)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "A Frota dos Saltadores (Perry Rhodan - P-029)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Mundo de Gelo em Chamas (Perry Rhodan, A Terceira Potência, #33)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Levtan, o Traidor (Perry Rhodan, A Terceira Potência, #34)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Planeta dos Deuses (Perry Rhodan - P-035)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Flagelo do Esquecimento (Perry Rhodan, A Terceira Potência, #36)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Planeta Louco (Perry Rhodan, A Terceira Potência, #37)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Avanço Para Árcon (Perry Rhodan - P-038)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Mundo dos Três Planetas (Perry Rhodan, A Terceira Potência, #39)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Luta Contra o Desconhecido (Perry Rhodan, A Terceira Potência, #40)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Histórias de Horror: O mito de Cthulhu",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Aliado do Gigante (Perry Rhodan, A Terceira Potência, #41)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "SOS: Espaçonave Titan (Perry Rhodan, A Terceira Potência, #42)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Cuidado com os Microrrobôs (Perry Rhodan - P-043)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Descanse Em Paz, Meu Amor",
+      "cover": [],
+      "rating": 0,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Mistério do Vale Boscombe e Outras Aventuras",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Signo dos Quatro (Sherlock Holmes, #2)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "O Vale do Terror (Sherlock Holmes, #7)",
+      "cover": [],
+      "rating": 5,
+      "review": null,
       "year_read": 0
     },
     {
+      "title": "Túneis",
+      "cover": [],
+      "rating": 4,
+      "review": null,
       "year_read": 0
-    },
+    }
+  ],
+  "2010": [
     {
-      "year_read": 0
-    },
+      "title": "Sh*t My Dad Says",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2010-12-05T00:00:00.000Z",
+      "year_read": 2010
+    }
+  ],
+  "2012": [
     {
-      "year_read": 0
+      "title": "Mr. Monk Goes to Hawaii (Mr. Monk, #2)",
+      "cover": [],
+      "rating": 5,
+      "review": null,
+      "date_read": "2013-01-01T00:00:00.000Z",
+      "year_read": 2012
     },
     {
-      "year_read": 0
+      "title": "The Color of Magic (Discworld, #1; Rincewind, #1)",
+      "cover": [],
+      "rating": 5,
+      "review": null,
+      "date_read": "2013-01-01T00:00:00.000Z",
+      "year_read": 2012
     },
     {
-      "year_read": 0
+      "title": "The Secret Life Of Laszlo, Count Dracula",
+      "cover": [],
+      "rating": 5,
+      "review": null,
+      "date_read": "2013-01-01T00:00:00.000Z",
+      "year_read": 2012
     },
     {
-      "year_read": 0
-    },
+      "title": "Ghost a la Mode (A Ghost of Granny Apples Mystery, #1)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2013-01-01T00:00:00.000Z",
+      "year_read": 2012
+    }
+  ],
+  "2013": [
     {
-      "year_read": 0
+      "title": "Curiosity Thrilled the Cat (A Magical Cats Mystery, #1)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2013-08-20T00:00:00.000Z",
+      "year_read": 2013
     },
     {
-      "year_read": 0
+      "title": "Sleight of Paw (A Magical Cats Mystery, #2)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2013-11-06T00:00:00.000Z",
+      "year_read": 2013
     },
     {
-      "year_read": 0
+      "title": "Vôo para o Infinito (Perry Rhodan, A Terceira Potência, #32)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2013-07-25T00:00:00.000Z",
+      "year_read": 2013
     },
     {
-      "year_read": 0
-    },
+      "title": "Espiral da Morte (Skulduggery Pleasant, #5)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2014-01-01T00:00:00.000Z",
+      "year_read": 2013
+    }
+  ],
+  "2014": [
     {
-      "year_read": 0
+      "title": "Fatal Lies (Liebermann Papers, #3)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2014-03-03T00:00:00.000Z",
+      "year_read": 2014
     },
     {
-      "year_read": 0
+      "title": "Death of a Gossip (Hamish Macbeth, #1)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2014-03-10T00:00:00.000Z",
+      "year_read": 2014
     },
     {
-      "year_read": 0
+      "title": "Copycat Killing (A Magical Cats Mystery, #3)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2014-03-28T00:00:00.000Z",
+      "year_read": 2014
     },
     {
-      "year_read": 0
+      "title": "Mr. Monk and the Dirty Cop (Mr. Monk, #8)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2014-06-17T00:00:00.000Z",
+      "year_read": 2014
     },
     {
-      "year_read": 0
+      "title": "O Guia do Mochileiro das Galáxias (O Mochileiro das Galáxias, #1)",
+      "cover": [],
+      "rating": 5,
+      "review": null,
+      "date_read": "2014-07-19T00:00:00.000Z",
+      "year_read": 2014
     },
     {
-      "year_read": 0
+      "title": "Drink, Slay, Love",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2014-07-09T00:00:00.000Z",
+      "year_read": 2014
     },
     {
-      "year_read": 0
+      "title": "The Assassin's Curse (The Assassin's Curse, #1)",
+      "cover": [],
+      "rating": 5,
+      "review": "https://geekosaur.com/post/review-the-assassins-curse-duology/",
+      "date_read": "2014-08-14T00:00:00.000Z",
+      "year_read": 2014
     },
     {
-      "year_read": 0
+      "title": "The Pirate's Wish (The Assassin's Curse, #2)",
+      "cover": [],
+      "rating": 4,
+      "review": "https://geekosaur.com/post/review-the-assassins-curse-duology/",
+      "date_read": "2014-08-29T00:00:00.000Z",
+      "year_read": 2014
     },
     {
-      "year_read": 0
+      "title": "The Tale of Hill Top Farm (Beatrix Potter Mystery Book 1)",
+      "cover": [],
+      "rating": 3,
+      "review": null,
+      "date_read": "2014-02-24T00:00:00.000Z",
+      "year_read": 2014
     },
     {
-      "year_read": 0
+      "title": "A Spell for Chameleon (Xanth, #1)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2015-01-01T00:00:00.000Z",
+      "year_read": 2014
     },
     {
-      "year_read": 0
+      "title": "Iris Wildthyme: Wildthyme at Large",
+      "cover": [],
+      "rating": 0,
+      "review": null,
+      "date_read": "2015-01-01T00:00:00.000Z",
+      "year_read": 2014
     },
     {
-      "year_read": 0
+      "title": "Morte nas Nuvens",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2014-04-26T00:00:00.000Z",
+      "year_read": 2014
     },
     {
-      "year_read": 0
-    },
+      "title": "Casa de Segredos (Casa de Segredos, #1)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2014-04-10T00:00:00.000Z",
+      "year_read": 2014
+    }
+  ],
+  "2015": [
     {
-      "year_read": 0
+      "title": "Cat Trick (A Magical Cats Mystery 4)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2015-01-06T00:00:00.000Z",
+      "year_read": 2015
     },
     {
-      "year_read": 0
+      "title": "The Scarifyers: The Nazad Conspiracy (Scarifyers, #1)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2015-04-24T00:00:00.000Z",
+      "year_read": 2015
     },
     {
-      "year_read": 0
+      "title": "The Scarifyers: The Devil of Denge Marsh (Scarifyers, #2)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2015-05-02T00:00:00.000Z",
+      "year_read": 2015
     },
     {
-      "year_read": 0
+      "title": "Hard Magic (Grimnoir Chronicles, #1)",
+      "cover": [],
+      "rating": 5,
+      "review": "https://geekosaur.com/post/hard-magic-larry-correia/",
+      "date_read": "2015-05-17T00:00:00.000Z",
+      "year_read": 2015
     },
     {
-      "year_read": 0
+      "title": "Doctor Who: The Chimes of Midnight",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2015-06-17T00:00:00.000Z",
+      "year_read": 2015
     },
     {
-      "year_read": 0
+      "title": "Secondhand Spirits (A Witchcraft Mystery, #1)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2015-06-26T00:00:00.000Z",
+      "year_read": 2015
     },
     {
-      "year_read": 0
+      "title": "The Scarifyers: For King and Country (Scarifyers, #3)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
+      "date_read": "2015-09-15T00:00:00.000Z",
+      "year_read": 2015
     },
     {
-      "year_read": 0
+      "title": "Dark Shadows: The House of Despair",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2015-10-01T00:00:00.000Z",
+      "year_read": 2015
     },
     {
-      "year_read": 0
+      "title": "Dark Shadows: The Book of Temptation",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2015-10-13T00:00:00.000Z",
+      "year_read": 2015
     },
     {
-      "year_read": 0
+      "title": "The Forbidden Library",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2015-10-25T00:00:00.000Z",
+      "year_read": 2015
     },
     {
-      "year_read": 0
+      "title": "Seraphina (Seraphina #1)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2015-03-20T00:00:00.000Z",
+      "year_read": 2015
     },
     {
-      "year_read": 0
+      "title": "A Spy in the House (The Agency, #1)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2015-08-12T00:00:00.000Z",
+      "year_read": 2015
     },
     {
-      "year_read": 0
+      "title": "The Murder at the Vicarage (Miss Marple, #1)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2015-08-30T00:00:00.000Z",
+      "year_read": 2015
     },
     {
-      "year_read": 0
+      "title": "The Gun Seller",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2016-01-01T00:00:00.000Z",
+      "year_read": 2015
     },
     {
-      "year_read": 0
+      "title": "O Restaurante no Fim do Universo (O Mochileiro das Galáxias, #2)",
+      "cover": [],
+      "rating": 3,
+      "review": null,
+      "date_read": "2015-03-19T00:00:00.000Z",
+      "year_read": 2015
     },
     {
-      "year_read": 0
+      "title": "Final Catcall (Magical Cats, #5)",
+      "cover": [],
+      "rating": 3,
+      "review": null,
+      "date_read": "2015-12-26T00:00:00.000Z",
+      "year_read": 2015
     },
     {
-      "year_read": 0
-    },
+      "title": "Caught Dead Handed (Witch City Mystery, #1)",
+      "cover": [],
+      "rating": 5,
+      "review": null,
+      "date_read": "2015-04-15T00:00:00.000Z",
+      "year_read": 2015
+    }
+  ],
+  "2016": [
     {
-      "year_read": 0
+      "title": "Spice & Wolf, Vol. 01",
+      "cover": [],
+      "rating": 5,
+      "review": null,
+      "date_read": "2016-01-12T00:00:00.000Z",
+      "year_read": 2016
     },
     {
-      "year_read": 0
+      "title": "The Body in the Library (Miss Marple, #2)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2016-02-05T00:00:00.000Z",
+      "year_read": 2016
     },
     {
-      "year_read": 0
+      "title": "Doctor Who: Doom Coalition 1",
+      "cover": [],
+      "rating": 0,
+      "review": null,
+      "date_read": "2016-02-10T00:00:00.000Z",
+      "year_read": 2016
     },
     {
-      "year_read": 0
+      "title": "The Heiress of Linn Hagh (Detective Lavender Mysteries, #1)",
+      "cover": [],
+      "rating": 5,
+      "review": null,
+      "date_read": "2016-02-26T00:00:00.000Z",
+      "year_read": 2016
     },
     {
-      "year_read": 0
+      "title": "A Batalha das Bestas (Casa de Segredos, #2)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2016-04-17T00:00:00.000Z",
+      "year_read": 2016
     },
     {
-      "year_read": 0
+      "title": "Spellbound (Grimnoir Chronicles, #2)",
+      "cover": [],
+      "rating": 5,
+      "review": null,
+      "date_read": "2016-04-26T00:00:00.000Z",
+      "year_read": 2016
     },
     {
-      "year_read": 0
+      "title": "The Moving Finger (Miss Marple, #3)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2016-05-04T00:00:00.000Z",
+      "year_read": 2016
     },
     {
-      "year_read": 0
+      "title": "A Espada do Verão (Magnus Chase e os Deuses de Asgard, #1)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2016-05-25T00:00:00.000Z",
+      "year_read": 2016
     },
     {
-      "year_read": 0
+      "title": "A Murder Is Announced (Miss Marple, #4)",
+      "cover": [],
+      "rating": 0,
+      "review": null,
+      "date_read": "2016-06-13T00:00:00.000Z",
+      "year_read": 2016
     },
     {
-      "year_read": 0
+      "title": "Murder is Binding (A Booktown Mystery, #1)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2016-08-15T00:00:00.000Z",
+      "year_read": 2016
     },
     {
-      "year_read": 0
+      "title": "Sangue de Dragão (Seraphina, #2)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2016-09-08T00:00:00.000Z",
+      "year_read": 2016
     },
     {
-      "year_read": 0
+      "title": "A Cast-Off Coven (A Witchcraft Mystery, #2)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2016-09-28T00:00:00.000Z",
+      "year_read": 2016
     },
     {
-      "year_read": 0
+      "title": "Keeper of the Lost Cities (Keeper of the Lost Cities, #1)",
+      "cover": [],
+      "rating": 5,
+      "review": null,
+      "date_read": "2016-10-08T00:00:00.000Z",
+      "year_read": 2016
     },
     {
-      "year_read": 0
+      "title": "Exile (Keeper of the Lost Cities, #2)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2016-11-24T00:00:00.000Z",
+      "year_read": 2016
     },
     {
-      "year_read": 0
+      "title": "O Martelo de Thor (Magnus Chase e os Deuses de Asgard, #2)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2016-12-20T00:00:00.000Z",
+      "year_read": 2016
     },
     {
-      "year_read": 0
+      "title": "Warbound (Grimnoir Chronicles, #3)",
+      "cover": [],
+      "rating": 5,
+      "review": null,
+      "date_read": "2016-05-18T00:00:00.000Z",
+      "year_read": 2016
     },
     {
-      "year_read": 0
+      "title": "Storm Front (The Dresden Files, #1)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2016-07-12T00:00:00.000Z",
+      "year_read": 2016
     },
     {
-      "year_read": 0
-    },
+      "title": "O Oráculo Oculto (As Provações de Apolo, #1)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2016-06-23T00:00:00.000Z",
+      "year_read": 2016
+    }
+  ],
+  "2017": [
     {
-      "year_read": 0
+      "title": "Everblaze (Keeper of the Lost Cities #3)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2017-01-06T00:00:00.000Z",
+      "year_read": 2017
     },
     {
-      "year_read": 0
+      "title": "Jackaby (Jackaby, #1)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2017-05-11T00:00:00.000Z",
+      "year_read": 2017
     },
     {
-      "year_read": 0
+      "title": "The Sans Pareil Mystery (Detective Lavender Mysteries #2)",
+      "cover": [],
+      "rating": 3,
+      "review": null,
+      "date_read": "2017-07-11T00:00:00.000Z",
+      "year_read": 2017
     },
     {
-      "year_read": 0
+      "title": "Beastly Bones (Jackaby, #2)",
+      "cover": [],
+      "rating": 3,
+      "review": null,
+      "date_read": "2017-08-31T00:00:00.000Z",
+      "year_read": 2017
     },
     {
-      "year_read": 0
+      "title": "Spice & Wolf, Vol. 02",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2017-07-16T00:00:00.000Z",
+      "year_read": 2017
     },
     {
-      "year_read": 0
+      "title": "A Profecia das Sombras (As Provações de Apolo, #2)",
+      "cover": [],
+      "rating": 3,
+      "review": null,
+      "date_read": "2017-12-08T00:00:00.000Z",
+      "year_read": 2017
     },
     {
-      "year_read": 0
+      "title": "The Devil is a Part-Timer Light Novel, Vol. 3 (The Devil is a Part-Timer Light Novel, #3)",
+      "cover": [],
+      "rating": 3,
+      "review": null,
+      "date_read": "2017-03-14T00:00:00.000Z",
+      "year_read": 2017
     },
     {
-      "year_read": 0
+      "title": "Hexes and Hemlines (A Witchcraft Mystery, #3)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2017-02-20T00:00:00.000Z",
+      "year_read": 2017
     },
     {
-      "year_read": 0
+      "title": "Os Senhores dos Dinossauros (Os Senhores dos Dinossauros, #1)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2017-01-19T00:00:00.000Z",
+      "year_read": 2017
     },
     {
-      "year_read": 0
-    },
+      "title": "Alucinadamente Feliz: Um Livro Engraçado Sobre Coisas Horríveis",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2017-01-20T00:00:00.000Z",
+      "year_read": 2017
+    }
+  ],
+  "2018": [
     {
-      "year_read": 0
+      "title": "Fool Moon (The Dresden Files, #2)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2018-02-20T00:00:00.000Z",
+      "year_read": 2018
     },
     {
-      "year_read": 0
+      "title": "House of Secrets: Clash of the Worlds (House of Secrets Series)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2018-06-13T00:00:00.000Z",
+      "year_read": 2018
     },
     {
-      "year_read": 0
+      "title": "Death Bringer (Skulduggery Pleasant, #6)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2018-08-23T00:00:00.000Z",
+      "year_read": 2018
     },
     {
-      "year_read": 0
+      "title": "Toradora! (Light Novel) Vol. 1",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2018-09-12T00:00:00.000Z",
+      "year_read": 2018
     },
     {
-      "year_read": 0
+      "title": "Tails, You Lose (Witch City Mystery #2)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2018-10-22T00:00:00.000Z",
+      "year_read": 2018
     },
     {
-      "year_read": 0
+      "title": "Salvage Trouble (Black Ocean #1)",
+      "cover": [],
+      "rating": 4,
+      "review": "https://geekosaur.com/post/review-salvage-trouble/",
+      "date_read": "2018-05-11T00:00:00.000Z",
+      "year_read": 2018
     },
     {
-      "year_read": 0
+      "title": "Magpie Murders (Susan Ryeland, #1)",
+      "cover": [],
+      "rating": 5,
+      "review": null,
+      "date_read": "2018-11-22T00:00:00.000Z",
+      "year_read": 2018
     },
     {
-      "year_read": 0
+      "title": "Amagi Brilliant Park: Volume 1",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2018-11-28T00:00:00.000Z",
+      "year_read": 2018
     },
     {
-      "year_read": 0
+      "title": "Occultic;Nine: Volume 1",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2018-12-12T00:00:00.000Z",
+      "year_read": 2018
     },
     {
-      "year_read": 0
+      "title": "Neverseen (Keeper of the Lost Cities, #4)",
+      "cover": [],
+      "rating": 3,
+      "review": null,
+      "date_read": "2018-07-17T00:00:00.000Z",
+      "year_read": 2018
     },
     {
-      "year_read": 0
-    },
+      "title": "Fool's Gold (The Dragon Lords, #1)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2018-07-01T00:00:00.000Z",
+      "year_read": 2018
+    }
+  ],
+  "2019": [
     {
-      "year_read": 0
+      "title": "Occultic;Nine: Volume 3",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2019-02-02T00:00:00.000Z",
+      "year_read": 2019
     },
     {
-      "year_read": 0
+      "title": "Kokoro Connect Volume 1: Hito Random",
+      "cover": [],
+      "rating": 5,
+      "review": null,
+      "date_read": "2019-05-04T00:00:00.000Z",
+      "year_read": 2019
     },
     {
-      "year_read": 0
+      "title": "Mushoku Tensei: Jobless Reincarnation (Light Novel) Vol. 2",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2019-10-09T00:00:00.000Z",
+      "year_read": 2019
     },
     {
-      "year_read": 0
+      "title": "Bottom-Tier Character Tomozaki, Vol. 1 (light novel)",
+      "cover": [],
+      "rating": 5,
+      "review": null,
+      "date_read": "2019-09-12T00:00:00.000Z",
+      "year_read": 2019
     },
     {
-      "year_read": 0
+      "title": "Toradora! 2 (とらドラ!, #2)",
+      "cover": [],
+      "rating": 3,
+      "review": null,
+      "date_read": "2020-01-01T00:00:00.000Z",
+      "year_read": 2019
     },
     {
-      "year_read": 0
+      "title": "In a Witch's Wardrobe (A Witchcraft Mystery, #4)",
+      "cover": [],
+      "rating": 3,
+      "review": null,
+      "date_read": "2019-01-07T00:00:00.000Z",
+      "year_read": 2019
     },
     {
-      "year_read": 0
+      "title": "Mushoku Tensei: Jobless Reincarnation (Light Novel) Vol. 1",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2019-04-12T00:00:00.000Z",
+      "year_read": 2019
     },
     {
-      "year_read": 0
+      "title": "Lodestar (Keeper of the Lost Cities, #5)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2019-03-18T00:00:00.000Z",
+      "year_read": 2019
     },
     {
-      "year_read": 0
-    },
+      "title": "Occultic;Nine: Volume 2",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2019-01-20T00:00:00.000Z",
+      "year_read": 2019
+    }
+  ],
+  "2020": [
     {
-      "year_read": 0
+      "title": "Grave Peril (The Dresden Files, #3)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2020-02-20T00:00:00.000Z",
+      "year_read": 2020
     },
     {
-      "year_read": 0
+      "title": "Bottom-Tier Character Tomozaki, Vol. 2 (light novel)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2020-03-08T00:00:00.000Z",
+      "year_read": 2020
     },
     {
-      "year_read": 0
+      "title": "Let's Pretend This Never Happened: A Mostly True Memoir",
+      "cover": [],
+      "rating": 5,
+      "review": null,
+      "date_read": "2020-09-30T00:00:00.000Z",
+      "year_read": 2020
     },
     {
-      "year_read": 0
+      "title": "What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
+      "cover": [],
+      "rating": 5,
+      "review": null,
+      "date_read": "2020-10-28T00:00:00.000Z",
+      "year_read": 2020
     },
     {
-      "year_read": 0
+      "title": "Mexican Gothic",
+      "cover": [],
+      "rating": 5,
+      "review": null,
+      "date_read": "2020-11-17T00:00:00.000Z",
+      "year_read": 2020
     },
     {
-      "year_read": 0
-    },
+      "title": "Bottom-Tier Character Tomozaki, Vol. 3 (light novel)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2020-04-29T00:00:00.000Z",
+      "year_read": 2020
+    }
+  ],
+  "2021": [
     {
-      "year_read": 0
+      "title": "Summer Knight (The Dresden Files, #4)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2021-12-03T00:00:00.000Z",
+      "year_read": 2021
     },
     {
-      "year_read": 0
+      "title": "The Lighthouse Witches",
+      "cover": [],
+      "rating": 4,
+      "review": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "date_read": "2021-11-10T00:00:00.000Z",
+      "year_read": 2021
     },
     {
-      "year_read": 0
+      "title": "The Word is Murder",
+      "cover": [],
+      "rating": 4,
+      "review": "https://geekosaur.com/post/book-review-the-word-is-murder-by-anthony-horowitz/",
+      "date_read": "2021-01-02T00:00:00.000Z",
+      "year_read": 2021
     },
     {
-      "year_read": 0
+      "title": "False Idols (The Dragon Lords, #2)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2021-01-25T00:00:00.000Z",
+      "year_read": 2021
     },
     {
-      "year_read": 0
+      "title": "The Institute",
+      "cover": [],
+      "rating": 5,
+      "review": null,
+      "date_read": "2021-02-12T00:00:00.000Z",
+      "year_read": 2021
     },
     {
-      "year_read": 0
+      "title": "Bad Faith (The Dragon Lords, #3)",
+      "cover": [],
+      "rating": 4,
+      "review": "https://geekosaur.com/post/finished-the-dragon-lords-books/",
+      "date_read": "2021-04-03T00:00:00.000Z",
+      "year_read": 2021
     },
     {
-      "year_read": 0
+      "title": "Gods of Jade and Shadow",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2021-05-09T00:00:00.000Z",
+      "year_read": 2021
     },
     {
-      "year_read": 0
+      "title": "Kingdom of the Wicked (Skulduggery Pleasant, #7)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2021-06-16T00:00:00.000Z",
+      "year_read": 2021
     },
     {
-      "year_read": 0
+      "title": "Later",
+      "cover": [],
+      "rating": 5,
+      "review": "https://geekosaur.com/post/later-stephen-king/",
+      "date_read": "2021-09-28T00:00:00.000Z",
+      "year_read": 2021
     },
     {
-      "year_read": 0
-    },
+      "title": "Black Water Sister",
+      "cover": [],
+      "rating": 5,
+      "review": null,
+      "date_read": "2021-09-08T00:00:00.000Z",
+      "year_read": 2021
+    }
+  ],
+  "2022": [
     {
-      "year_read": 0
+      "title": "Sawkill Girls",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2022-02-21T00:00:00.000Z",
+      "year_read": 2022
     },
     {
-      "year_read": 0
+      "title": "Wool (Silo Trilogy #1)",
+      "cover": [],
+      "rating": 5,
+      "review": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "date_read": "2022-01-03T00:00:00.000Z",
+      "year_read": 2022
     },
     {
-      "year_read": 0
+      "title": "Shift (Silo Trilogy #2)",
+      "cover": [],
+      "rating": 5,
+      "review": "https://geekosaur.com/post/book-notes-shift-hugh-howey/",
+      "date_read": "2022-01-23T00:00:00.000Z",
+      "year_read": 2022
     },
     {
-      "year_read": 0
+      "title": "Broken (in the best possible way)",
+      "cover": [],
+      "rating": 4,
+      "review": null,
+      "date_read": "2022-02-15T00:00:00.000Z",
+      "year_read": 2022
     }
   ]
 }
