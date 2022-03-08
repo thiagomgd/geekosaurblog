@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-03-07T18:49:55.333Z",
+  "lastFetched": "2022-03-08T00:02:19.245Z",
   "notes": {
     "cb8fd534-4cf9-4570-87c1-7323024ea804": {
       "id": "cb8fd534-4cf9-4570-87c1-7323024ea804",
@@ -14,7 +14,7 @@
       ],
       "created": "2022-03-02T06:28:00.000Z",
       "images": [
-        "/img/notes/cb8fd534-FBF10B5A-3F85-49C3-B87C-EE79387EEB71.jpeg"
+        "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c771c995-f544-4005-a2c7-ccafa25dbb6d/FBF10B5A-3F85-49C3-B87C-EE79387EEB71.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T000216Z&X-Amz-Expires=3600&X-Amz-Signature=988f3d0f5c1b30553d5d7019f9b2c93c0059433ec06a1a099c7a1c3ce80f553d&X-Amz-SignedHeaders=host&x-id=GetObject"
       ],
       "embed": null,
       "title": "400 German Words",
@@ -50,7 +50,7 @@
       ],
       "created": "2022-02-17T04:50:00.000Z",
       "images": [
-        "/img/notes/1eb0e85b-Screen Shot 2022-02-16 at 10.00.49 PM.png"
+        "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b6c28a99-84e3-4ab5-8db2-002c17111adc/Screen_Shot_2022-02-16_at_10.00.49_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T000216Z&X-Amz-Expires=3600&X-Amz-Signature=69cf12daeb4b85e36c08fe38a646d5648cb486259a07565cbf2f59f1610d8ff7&X-Amz-SignedHeaders=host&x-id=GetObject"
       ],
       "embed": "https://www.goodreads.com/book/show/17306293-shift",
       "title": "My 2022 Reading Stats So Far",
@@ -69,8 +69,8 @@
       ],
       "created": "2022-02-14T07:08:00.000Z",
       "images": [
-        "/img/notes/6e35ea03-95B3E62F-0A5D-44FA-926B-968B4AD0ADC7.png",
-        "/img/notes/6e35ea03-622F08AE-3FCD-4A5A-ADCD-3C0C47FCB25C.png"
+        "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/033076ee-9aef-4951-9447-a795866665f5/95B3E62F-0A5D-44FA-926B-968B4AD0ADC7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T000216Z&X-Amz-Expires=3600&X-Amz-Signature=4b71834ee1550b44a270d0ec58068b07ee05bb15e2a7d410f4eb68e12fed43a7&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/addc5b25-b8af-40ea-b587-8d7035b3cf84/622F08AE-3FCD-4A5A-ADCD-3C0C47FCB25C.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T000216Z&X-Amz-Expires=3600&X-Amz-Signature=d4f1f23ebbb5720aea836c9e5206d1228e6e895677ed011e84fd92d1f32336c9&X-Amz-SignedHeaders=host&x-id=GetObject"
       ],
       "embed": null,
       "title": "Reading Manga",
@@ -89,9 +89,9 @@
       ],
       "created": "2022-02-13T04:09:00.000Z",
       "images": [
-        "/img/notes/0a9d42b3-13B83BA8-DF03-4E5D-8B71-62A551D1B512.jpeg",
-        "/img/notes/0a9d42b3-BF835A3B-A14D-46DA-8786-4C959D9958F3.jpeg",
-        "/img/notes/0a9d42b3-EB5BBC65-7C5F-4252-B5BF-76087532CC4B.jpeg"
+        "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a4a873a0-c36f-415e-b384-6989a12af9cc/13B83BA8-DF03-4E5D-8B71-62A551D1B512.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T000216Z&X-Amz-Expires=3600&X-Amz-Signature=97b742f0f86fec6fe5159efa9457a8cd5bae3b8d7606b976a601688e5e2fbcb9&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3aa97608-8c66-43e1-be97-1d7d171ff4df/BF835A3B-A14D-46DA-8786-4C959D9958F3.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T000216Z&X-Amz-Expires=3600&X-Amz-Signature=89bd2b8def9c53f7c1db934a16d1b885b9e9021e7210799d503ffa107d2abea1&X-Amz-SignedHeaders=host&x-id=GetObject",
+        "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/73c8146f-504e-49bf-acc8-72f141bb9f1e/EB5BBC65-7C5F-4252-B5BF-76087532CC4B.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T000216Z&X-Amz-Expires=3600&X-Amz-Signature=0326c3b3b6825559018652e16900c24e085fb6695164e5d0d81d50fb166d1e33&X-Amz-SignedHeaders=host&x-id=GetObject"
       ],
       "embed": null,
       "title": "The Serpent OST Record",
@@ -109,7 +109,7 @@
       ],
       "created": "2022-02-12T02:57:00.000Z",
       "images": [
-        "/img/notes/cd6f98b1-EFF2AAFF-1503-4D2B-9705-0A60B4CBD95B.jpeg"
+        "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/43096bb6-d7a6-4127-b544-5bfd25366a8d/EFF2AAFF-1503-4D2B-9705-0A60B4CBD95B.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T000216Z&X-Amz-Expires=3600&X-Amz-Signature=bccb581ae6d076fc73d21c388e48018e1cb176ca5bff199026da27e3cfaab680&X-Amz-SignedHeaders=host&x-id=GetObject"
       ],
       "embed": null,
       "title": "Studying German",
@@ -174,7 +174,7 @@
       "tags": [],
       "created": "2022-02-04T03:41:00.000Z",
       "images": [
-        "/img/notes/96a049dc-anime-girl-hiding-behind-sheet.jpeg"
+        "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4dbeea89-129d-4ccb-ad8a-92183fc641e6/anime-girl-hiding-behind-sheet.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T000216Z&X-Amz-Expires=3600&X-Amz-Signature=a797aeb20ff3fc397c5ebc4288b9b6c7180f74566fe0f91be13ec1171310ceea&X-Amz-SignedHeaders=host&x-id=GetObject"
       ],
       "embed": null,
       "title": "Now with Notes",

@@ -30,7 +30,7 @@ module.exports = function() {
 				}
 			},
 			thumbnail: async function(data) {
-				const src = getLocalImageLink(data.thumbnail);
+				const src = await getLocalImageLink(data.thumbnail);
 				return await optimizeImage(src);
 			},
 			created_date: function(data) {

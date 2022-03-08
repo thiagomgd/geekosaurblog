@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-03-07T18:49:55.731Z",
+  "lastFetched": "2022-03-08T00:02:19.874Z",
   "posts": {
     "07e76b28-b307-4d7a-9ef4-976dfc27538f": {
       "id": "07e76b28-b307-4d7a-9ef4-976dfc27538f",
@@ -23,7 +23,7 @@
       "cover": null,
       "icon": null,
       "slug": "music-monday-11",
-      "thumbnail": "/img/notion_post/834a3691-annenmaykantereit_cover.jpeg",
+      "thumbnail": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/710d5e5c-faec-4903-9a1e-7381d828ef86/annenmaykantereit_cover.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T000219Z&X-Amz-Expires=3600&X-Amz-Signature=dc1fff0d6a352608b6ba81fdf28089a1ae245ac3d5bc6149fab3cc02f4d927d1&X-Amz-SignedHeaders=host&x-id=GetObject",
       "published": true,
       "lead": "I just can’t stop vibing to Can't Get You out of My Head",
       "notes": "",

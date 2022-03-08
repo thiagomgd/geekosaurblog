@@ -1,4 +1,3 @@
-// const fetch = require("node-fetch");
 const groupBy = require("lodash/groupBy");
 const fs = require("fs");
 const domain = require("./metadata.json").domain;

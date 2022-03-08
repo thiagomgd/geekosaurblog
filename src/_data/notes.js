@@ -125,7 +125,6 @@ module.exports = async function () {
       writeToCache(notes, CACHE_FILE_PATH, "notes");
     }
     
-    console.log(notes);
     return processAndReturn(notes.notes);
   }
 
