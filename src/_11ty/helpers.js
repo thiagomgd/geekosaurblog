@@ -82,6 +82,8 @@ function getFileName(url) {
 function getLocalImageLink(imgUrl, fileName = "", folder = "ext") {
   if (!imgUrl) return "";
 
+  if (process.env.ELEVENTY_ENV !== "devbuild") return imgUrl;
+
   // skip local images, notion images, goodreads, and all when on development mode
   if (!external.test(imgUrl) || imgUrl.includes('secure.notion-static.com') || imgUrl.includes('photo.goodreads.com') || process.env.ELEVENTY_ENV === "development") {
     return imgUrl;
