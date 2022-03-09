@@ -40,7 +40,7 @@ class NotionPost {
         title: (data) => data.notion_post.title,
         description: (data) => data.notion_post.description ? data.notion_post.description : '',
         lead: (data) => data.notion_post.lead ? data.notion_post.lead : '',
-        thumbnail: (data) => optimizeImage(data.notion_post.thumbnail),
+        thumbnail: async (data) => optimizeImage(await getLocalImageLink(data.notion_post.thumbnail)),
         created_date: (data) => {
           return new Date(data.notion_post.date_published)
         },
