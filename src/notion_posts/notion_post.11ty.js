@@ -35,8 +35,11 @@ class NotionPost {
         //     return true;
         //   }
         // },
-        tags: ["post"],
+        tags: (data) => {
+          if (!data || !data.notion_post || !data.notion_post.tags) return ['post'];
 
+          return [...data.notion_post.tags, 'post'];
+        },
         title: (data) => data.notion_post.title,
         description: (data) => data.notion_post.description ? data.notion_post.description : '',
         lead: (data) => data.notion_post.lead ? data.notion_post.lead : '',
