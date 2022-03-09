@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-03-08T00:45:30.339Z",
+  "lastFetched": "2022-03-09T03:14:27.188Z",
   "children": [
     {
       "type": "entry",
@@ -1935,6 +1935,130 @@
         "text": "Uh, @FalconSensei has a really nice getBlock() approach and local asset caching (among many other gems) here:"
       },
       "in-reply-to": "https://geekosaur.com/post/eleventy-notion-notes-section/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Manuel",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/2689924594af67744884c492e6544a7dca42ee75323cd1c1158c619ad4b58433.jpg",
+        "url": "https://chaos.social/@manuel"
+      },
+      "url": "https://chaos.social/@manuel/107916946092787814",
+      "published": "2022-03-07T19:38:36",
+      "wm-received": "2022-03-08T05:55:36Z",
+      "wm-id": 1360336,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/107916808484484462/107916946139252451",
+      "wm-target": "https://geekosaur.com/post/music-monday-11/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@falcon\" class=\"u-url\">@<span>falcon</span></a></span> So… I already knew about AnnenMayKantereit, because I'm from Germany and there was a time here, you just couldn't escape them. After that I shut them out; too much hype.<br />But, you worked on that wall of mine with mentioning Tom's Diner last time. Now you broke it down by saying Findlay – a name I haven't heard in a long time and I did not listen to her in quite a while.</p><p>After listening to Valerie – gotta agree, the horn is sweet – I'll give the rest of the linked songs a listen, too.</p>",
+        "text": "@falcon So… I already knew about AnnenMayKantereit, because I'm from Germany and there was a time here, you just couldn't escape them. After that I shut them out; too much hype.\nBut, you worked on that wall of mine with mentioning Tom's Diner last time. Now you broke it down by saying Findlay – a name I haven't heard in a long time and I did not listen to her in quite a while.After listening to Valerie – gotta agree, the horn is sweet – I'll give the rest of the linked songs a listen, too."
+      },
+      "in-reply-to": "https://geekosaur.com/post/music-monday-11/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Manuel",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/2689924594af67744884c492e6544a7dca42ee75323cd1c1158c619ad4b58433.jpg",
+        "url": "https://chaos.social/@manuel"
+      },
+      "url": "https://mastodon.social/@falcon/107916808484484462#reblogged-by-1343420",
+      "published": null,
+      "wm-received": "2022-03-08T05:55:15Z",
+      "wm-id": 1360335,
+      "wm-source": "https://brid.gy/repost/mastodon/@falcon@mastodon.social/107916808484484462/1343420",
+      "wm-target": "https://geekosaur.com/post/music-monday-11/",
+      "repost-of": "https://geekosaur.com/post/music-monday-11/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Manuel",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/2689924594af67744884c492e6544a7dca42ee75323cd1c1158c619ad4b58433.jpg",
+        "url": "https://chaos.social/@manuel"
+      },
+      "url": "https://mastodon.social/@falcon/107916808484484462#favorited-by-1343420",
+      "published": null,
+      "wm-received": "2022-03-08T05:55:13Z",
+      "wm-id": 1360334,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mastodon.social/107916808484484462/1343420",
+      "wm-target": "https://geekosaur.com/post/music-monday-11/",
+      "like-of": "https://geekosaur.com/post/music-monday-11/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/53ec7a1d786bb3a10720f12d5853b318b49cfbcdc82de945c81f9fe1e754144a.png",
+        "url": "https://mastodon.social/@falcon"
+      },
+      "url": "https://mastodon.social/@falcon/107917454343872961",
+      "published": "2022-03-07T21:47:52",
+      "wm-received": "2022-03-08T05:55:12Z",
+      "wm-id": 1360333,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/107916808484484462/107917454343872961",
+      "wm-target": "https://geekosaur.com/post/music-monday-11/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://chaos.social/@manuel\" class=\"u-url\">@<span>manuel</span></a></span> I see. Didn’t know about that, but I totally relate to having to avoid some artists or media because it’s just everywhere</p>",
+        "text": "@manuel I see. Didn’t know about that, but I totally relate to having to avoid some artists or media because it’s just everywhere"
+      },
+      "in-reply-to": "https://geekosaur.com/post/music-monday-11/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Manuel",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/2689924594af67744884c492e6544a7dca42ee75323cd1c1158c619ad4b58433.jpg",
+        "url": "https://chaos.social/@manuel"
+      },
+      "url": "https://chaos.social/@manuel/107917047285024968",
+      "published": "2022-03-07T20:04:20",
+      "wm-received": "2022-03-08T05:55:09Z",
+      "wm-id": 1360331,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/107916808484484462/107917047321205606",
+      "wm-target": "https://geekosaur.com/post/music-monday-11/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@falcon\" class=\"u-url\">@<span>falcon</span></a></span> You picked well. Okay, I'm probably not a good judge 'cause I'm more of a casual listener, but I like the mix of your picks, so I'll say that I like it.</p><p>I think the song with Parcels was my favourite out of those. Maybe I'm biased though, because their lead singer (I guess?) has that great mustache.</p><p>Even Ozean wasn't too bad, despite the fact I'm still burned out on that whole male singer/ songwriter stuff.</p><p>Oh, and the sound aesthetic of Come Together &lt;3</p><p>Thanks for your blog post!</p>",
+        "text": "@falcon You picked well. Okay, I'm probably not a good judge 'cause I'm more of a casual listener, but I like the mix of your picks, so I'll say that I like it.I think the song with Parcels was my favourite out of those. Maybe I'm biased though, because their lead singer (I guess?) has that great mustache.Even Ozean wasn't too bad, despite the fact I'm still burned out on that whole male singer/ songwriter stuff.Oh, and the sound aesthetic of Come Together <3Thanks for your blog post!"
+      },
+      "in-reply-to": "https://geekosaur.com/post/music-monday-11/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/53ec7a1d786bb3a10720f12d5853b318b49cfbcdc82de945c81f9fe1e754144a.png",
+        "url": "https://mastodon.social/@falcon"
+      },
+      "url": "https://mastodon.social/@falcon/107917731042297642",
+      "published": "2022-03-07T22:58:14",
+      "wm-received": "2022-03-08T05:55:09Z",
+      "wm-id": 1360332,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/107916808484484462/107917731042297642",
+      "wm-target": "https://geekosaur.com/post/music-monday-11/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://chaos.social/@manuel\" class=\"u-url\">@<span>manuel</span></a></span> I'm very glad you enjoyed. The first song got stuck in my head for a while 😂 It's so good to have those two different voices there.</p><p>&gt; I'm still burned out on that whole male singer/ songwriter stuff</p><p>I'm usually not a big fan also, but that one was nice. I guess because the voice and interpretation is actually good</p>",
+        "text": "@manuel I'm very glad you enjoyed. The first song got stuck in my head for a while 😂 It's so good to have those two different voices there.> I'm still burned out on that whole male singer/ songwriter stuffI'm usually not a big fan also, but that one was nice. I guess because the voice and interpretation is actually good"
+      },
+      "in-reply-to": "https://geekosaur.com/post/music-monday-11/",
       "wm-property": "in-reply-to",
       "wm-private": false
     }

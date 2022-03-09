@@ -118,7 +118,7 @@ module.exports = async function () {
 
   console.log(">>> Checking for new books...");
   const newBooks = await fetchBooks();
-  console.log(newBooks);
+  // console.log(newBooks);
   // TODO: after getting only new items, merge cache and new
 
   if (newBooks) {

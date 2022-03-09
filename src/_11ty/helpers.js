@@ -84,8 +84,8 @@ function getLocalImageLink(imgUrl, fileName = "", folder = "ext") {
 
   if (process.env.ELEVENTY_ENV !== "devbuild") return imgUrl;
 
-  // skip local images, notion images, goodreads, and all when on development mode
-  if (!external.test(imgUrl) || imgUrl.includes('secure.notion-static.com') || imgUrl.includes('photo.goodreads.com') || process.env.ELEVENTY_ENV === "development") {
+  // skip local images, notion images, goodreads
+  if (!external.test(imgUrl) || imgUrl.includes('secure.notion-static.com') || imgUrl.includes('photo.goodreads.com')) {
     return imgUrl;
   }
 
@@ -105,7 +105,6 @@ function getLocalImageLink(imgUrl, fileName = "", folder = "ext") {
 
   if (!fs.existsSync(path)) {
     fetch(imgUrl).then((res) => res.body.pipe(fs.createWriteStream(path)));
-    // fetch(imgUrl).then((res) => fs.writeFileSync(path, res.body));
     cache[imgUrl] = { url: imagePath };
     writeToCache(cache, IMG_CACHE_FILE_PATH, "images");
     // TODO: return local. For now, synce download is async, first run needs to use external url

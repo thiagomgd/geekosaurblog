@@ -11,7 +11,7 @@ const filters = require('./src/_11ty/filters');
 const shortcodes = require('./src/_11ty/shortcodes');
 const pairedShortcodes = require('./src/_11ty/pairedShortcodes');
 const asyncShortcodes = require('./src/_11ty/asyncShortcodes');
-const {anyEmbed} = require('./src/_11ty/asyncShortcodes');
+const {anyEmbed, figure} = require('./src/_11ty/asyncShortcodes');
 const cheerio = require("cheerio");
 
 function hasBodyTag(content) {
@@ -42,6 +42,31 @@ async function replaceSpecialLinks(content, options) {
   embeds.forEach((embed, i) => {
     $(links[i]).replaceWith(embed);
   });
+
+  return hasBodyTag(content) ? $.html() : $("body").html();
+}
+
+async function imgToFigure(content, options) {
+  const $ = cheerio.load(content);
+  // TODO: only block links
+  let images = $("p img")
+    .not("picture img"); // Ignore images wrapped in <picture>
+    // .not("[data-img2picture-ignore]") // Ignore excluded images
+
+    const promises = [];
+    for (let i = 0; i < images.length; i++) {
+      const img = images[i];
+      const attrs = $(img).attr();
+  
+      console.log(`Img2Figure: ${attrs.src}`);
+      promises[i] = figure(attrs.src, attrs.caption, "", "");
+    }
+  
+    const pictures = await Promise.all(promises);
+  
+    pictures.forEach((picture, i) => {
+      $(images[i]).replaceWith(picture);
+    });
 
   return hasBodyTag(content) ? $.html() : $("body").html();
 }
@@ -180,9 +205,17 @@ module.exports = function(eleventyConfig) {
     return normalized;
   });
 
-  eleventyConfig.addTransform('replace-special-links',async function(content){
+  eleventyConfig.addTransform('replace-special-links', async function(content){
     if (this.outputPath && this.outputPath.endsWith(".html")) {
       return await replaceSpecialLinks(content, {});
+    }
+
+    return content;
+  });
+
+  eleventyConfig.addTransform('img2figure', async function(content){
+    if (this.outputPath && this.outputPath.endsWith(".html")) {
+      return await imgToFigure(content, {});
     }
 
     return content;

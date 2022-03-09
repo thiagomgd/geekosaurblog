@@ -9,6 +9,11 @@ const EMPTY = ``;
 
 const Image = require("@11ty/eleventy-img");
 
+function isVertical(width, height) {
+  // square and slightly wide counts as vertical for style purposes
+  return (width/height) <= 1.25;
+}
+
 async function imageShortcode(src, alt, options = {}) {
   if(alt === undefined) {
     // You bet we throw an error on missing alt (alt="" works okay)
@@ -20,12 +25,15 @@ async function imageShortcode(src, alt, options = {}) {
   let metadata = await Image(fileSource, {
     widths: [1200],
     outputDir: '_site/img',
-    duration: '8w'
+    cacheOptions: {
+      duration: "8w",
+    },
   });
 
   let data = metadata.jpeg[metadata.jpeg.length - 1];
-  // square counts as vertical
-  const isVerticalClassname = !options['novertical'] && data.height >= data.width ? 'class="vertical"' : '';
+
+  const isVerticalClassname = !options['novertical'] && isVertical(data.width, data.height) ? 'class="vertical"' : '';
+
   return `<img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" ${isVerticalClassname} loading="lazy" decoding="async">`;
 }
 
