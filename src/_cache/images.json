@@ -295,5 +295,1067 @@
   },
   "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png": {
     "url": "/img/ext/4155313-no-cover.png"
+  },
+  "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593457992i/35224992.jpg": {
+    "url": "/img/undefined/5168668-35224992.jpg"
+  },
+  "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632015866i/59023378.jpg": {
+    "url": "/img/undefined/1075709-59023378.jpg"
+  },
+  "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1484107737i/33369254.jpg": {
+    "url": "/img/undefined/3138531-33369254.jpg"
+  },
+  "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1600744841i/54505323.jpg": {
+    "url": "/img/undefined/4100857-54505323.jpg"
+  },
+  "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1489816767i/34616805.jpg": {
+    "url": "/img/undefined/2632323-34616805.jpg"
+  },
+  "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594559067i/18693771.jpg": {
+    "url": "/img/undefined/5481872-18693771.jpg"
+  },
+  "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355966545i/11539550.jpg": {
+    "url": "/img/undefined/1120311-11539550.jpg"
+  },
+  "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1504936953i/35167685.jpg": {
+    "url": "/img/undefined/2173317-35167685.jpg"
+  },
+  "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562867823l/51294921.jpg": {
+    "url": "/img/undefined/1926786-51294921.jpg"
+  },
+  "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1536862019i/40277241.jpg": {
+    "url": "/img/undefined/1834184-40277241.jpg"
+  },
+  "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441150227i/6342995.jpg": {
+    "url": "/img/undefined/3599322-6342995.jpg"
+  },
+  "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1627699426i/58665335.jpg": {
+    "url": "/img/undefined/1811101-58665335.jpg"
+  },
+  "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1526991088i/40126247.jpg": {
+    "url": "/img/undefined/9966432-40126247.jpg"
+  },
+  "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534695270i/39939462.jpg": {
+    "url": "/img/undefined/4769450-39939462.jpg"
+  },
+  "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1596939013i/46228086.jpg": {
+    "url": "/img/undefined/2128552-46228086.jpg"
+  },
+  "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1363435289i/17332356.jpg": {
+    "url": "/img/undefined/2283673-17332356.jpg"
+  },
+  "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618150513i/55711529.jpg": {
+    "url": "/img/undefined/2624345-55711529.jpg"
+  },
+  "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328348550i/8775982.jpg": {
+    "url": "/img/undefined/2629827-8775982.jpg"
+  },
+  "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c771c995-f544-4005-a2c7-ccafa25dbb6d/FBF10B5A-3F85-49C3-B87C-EE79387EEB71.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T000216Z&X-Amz-Expires=3600&X-Amz-Signature=988f3d0f5c1b30553d5d7019f9b2c93c0059433ec06a1a099c7a1c3ce80f553d&X-Amz-SignedHeaders=host&x-id=GetObject": {
+    "url": "/img/undefined/2259522-FBF10B5A-3F85-49C3-B87C-EE79387EEB71.jpeg"
+  },
+  "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b6c28a99-84e3-4ab5-8db2-002c17111adc/Screen_Shot_2022-02-16_at_10.00.49_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T000216Z&X-Amz-Expires=3600&X-Amz-Signature=69cf12daeb4b85e36c08fe38a646d5648cb486259a07565cbf2f59f1610d8ff7&X-Amz-SignedHeaders=host&x-id=GetObject": {
+    "url": "/img/undefined/3968634-Screen_Shot_2022-02-16_at_10.00.49_PM.png"
+  },
+  "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/033076ee-9aef-4951-9447-a795866665f5/95B3E62F-0A5D-44FA-926B-968B4AD0ADC7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T000216Z&X-Amz-Expires=3600&X-Amz-Signature=4b71834ee1550b44a270d0ec58068b07ee05bb15e2a7d410f4eb68e12fed43a7&X-Amz-SignedHeaders=host&x-id=GetObject": {
+    "url": "/img/undefined/3393872-95B3E62F-0A5D-44FA-926B-968B4AD0ADC7.png"
+  },
+  "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/addc5b25-b8af-40ea-b587-8d7035b3cf84/622F08AE-3FCD-4A5A-ADCD-3C0C47FCB25C.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T000216Z&X-Amz-Expires=3600&X-Amz-Signature=d4f1f23ebbb5720aea836c9e5206d1228e6e895677ed011e84fd92d1f32336c9&X-Amz-SignedHeaders=host&x-id=GetObject": {
+    "url": "/img/undefined/2588388-622F08AE-3FCD-4A5A-ADCD-3C0C47FCB25C.png"
+  },
+  "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a4a873a0-c36f-415e-b384-6989a12af9cc/13B83BA8-DF03-4E5D-8B71-62A551D1B512.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T000216Z&X-Amz-Expires=3600&X-Amz-Signature=97b742f0f86fec6fe5159efa9457a8cd5bae3b8d7606b976a601688e5e2fbcb9&X-Amz-SignedHeaders=host&x-id=GetObject": {
+    "url": "/img/undefined/2930015-13B83BA8-DF03-4E5D-8B71-62A551D1B512.jpeg"
+  },
+  "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3aa97608-8c66-43e1-be97-1d7d171ff4df/BF835A3B-A14D-46DA-8786-4C959D9958F3.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T000216Z&X-Amz-Expires=3600&X-Amz-Signature=89bd2b8def9c53f7c1db934a16d1b885b9e9021e7210799d503ffa107d2abea1&X-Amz-SignedHeaders=host&x-id=GetObject": {
+    "url": "/img/undefined/2010120-BF835A3B-A14D-46DA-8786-4C959D9958F3.jpeg"
+  },
+  "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/73c8146f-504e-49bf-acc8-72f141bb9f1e/EB5BBC65-7C5F-4252-B5BF-76087532CC4B.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T000216Z&X-Amz-Expires=3600&X-Amz-Signature=0326c3b3b6825559018652e16900c24e085fb6695164e5d0d81d50fb166d1e33&X-Amz-SignedHeaders=host&x-id=GetObject": {
+    "url": "/img/undefined/1525999-EB5BBC65-7C5F-4252-B5BF-76087532CC4B.jpeg"
+  },
+  "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/43096bb6-d7a6-4127-b544-5bfd25366a8d/EFF2AAFF-1503-4D2B-9705-0A60B4CBD95B.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T000216Z&X-Amz-Expires=3600&X-Amz-Signature=bccb581ae6d076fc73d21c388e48018e1cb176ca5bff199026da27e3cfaab680&X-Amz-SignedHeaders=host&x-id=GetObject": {
+    "url": "/img/undefined/2410930-EFF2AAFF-1503-4D2B-9705-0A60B4CBD95B.jpeg"
+  },
+  "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4dbeea89-129d-4ccb-ad8a-92183fc641e6/anime-girl-hiding-behind-sheet.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220308T000216Z&X-Amz-Expires=3600&X-Amz-Signature=a797aeb20ff3fc397c5ebc4288b9b6c7180f74566fe0f91be13ec1171310ceea&X-Amz-SignedHeaders=host&x-id=GetObject": {
+    "url": "/img/undefined/2756158-anime-girl-hiding-behind-sheet.jpeg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526389901l/38186306.jpg": {
+    "url": "/img/undefined/4153914-38186306.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590613361l/53510316._SY475_.jpg": {
+    "url": "/img/undefined/8618906-53510316._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590614893l/53513162._SY475_.jpg": {
+    "url": "/img/undefined/2064029-53513162._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1599828431l/53533469._SY475_.jpg": {
+    "url": "/img/undefined/7428572-53533469._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576549278l/6527661._SY475_.jpg": {
+    "url": "/img/undefined/1650832-6527661._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633552562l/57810940._SY475_.jpg": {
+    "url": "/img/undefined/1883055-57810940._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534675102l/36919462.jpg": {
+    "url": "/img/undefined/1179691-36919462.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517908400l/38369361._SY475_.jpg": {
+    "url": "/img/undefined/5674441-38369361._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1596974522l/50892339.jpg": {
+    "url": "/img/undefined/4862209-50892339.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514489676l/37760729._SY475_.jpg": {
+    "url": "/img/undefined/8372869-37760729._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576628732l/49185974.jpg": {
+    "url": "/img/undefined/1531730-49185974.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338038177l/13541180.jpg": {
+    "url": "/img/undefined/7513042-13541180.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1596448554l/54798187.jpg": {
+    "url": "/img/undefined/6332462-54798187.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610382210l/55119872.jpg": {
+    "url": "/img/undefined/3031282-55119872.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579186079l/7021986._SY475_.jpg": {
+    "url": "/img/undefined/1842793-7021986._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567515610l/50138533._SX318_SY475_.jpg": {
+    "url": "/img/undefined/2798670-50138533._SX318_SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333295721l/13054379.jpg": {
+    "url": "/img/undefined/1579059-13054379.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394861535l/21463939.jpg": {
+    "url": "/img/undefined/3054569-21463939.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1592299428l/52873094._SY475_.jpg": {
+    "url": "/img/undefined/3515519-52873094._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585750563l/49004474._SY475_.jpg": {
+    "url": "/img/undefined/2482376-49004474._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519176110l/38668326._SX318_.jpg": {
+    "url": "/img/undefined/1720604-38668326._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532411278l/40934172._SX318_.jpg": {
+    "url": "/img/undefined/4250950-40934172._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551760712l/44279081._SX318_.jpg": {
+    "url": "/img/undefined/3782954-44279081._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560949178l/50125881._SX318_SY475_.jpg": {
+    "url": "/img/undefined/1649706-50125881._SX318_SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534804087l/36518795._SX318_.jpg": {
+    "url": "/img/undefined/1445855-36518795._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327115595l/12608168.jpg": {
+    "url": "/img/undefined/1022288-12608168.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544927994l/43244242._SX318_.jpg": {
+    "url": "/img/undefined/2831016-43244242._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478112810l/29370227._SY475_.jpg": {
+    "url": "/img/undefined/3817585-29370227._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487999019l/34390698._SX318_.jpg": {
+    "url": "/img/undefined/2907813-34390698._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578715612l/6488124._SY475_.jpg": {
+    "url": "/img/undefined/2950468-6488124._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456469121l/29342832._SY475_.jpg": {
+    "url": "/img/undefined/4123190-29342832._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394651947l/18972106.jpg": {
+    "url": "/img/undefined/1055289-18972106.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521833409l/39356502._SX318_.jpg": {
+    "url": "/img/undefined/6707869-39356502._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441475165l/24366398._SY475_.jpg": {
+    "url": "/img/undefined/2319378-24366398._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438024420l/25992468._SY475_.jpg": {
+    "url": "/img/undefined/2648564-25992468._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504599398l/32075854._SY475_.jpg": {
+    "url": "/img/undefined/3485986-32075854._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532068199l/40880076.jpg": {
+    "url": "/img/undefined/1489052-40880076.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478364240l/32877317._SX318_.jpg": {
+    "url": "/img/undefined/4733882-32877317._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428163717l/25103379.jpg": {
+    "url": "/img/undefined/2879097-25103379.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465760514l/27415414.jpg": {
+    "url": "/img/undefined/2386449-27415414.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438581582l/23846400._SX318_.jpg": {
+    "url": "/img/undefined/3473656-23846400._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408561477l/23003390.jpg": {
+    "url": "/img/undefined/3040310-23003390.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438864184l/25497034._SX318_.jpg": {
+    "url": "/img/undefined/3110593-25497034._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425592816l/24001095._SY475_.jpg": {
+    "url": "/img/undefined/2642412-24001095._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340904731l/6775682.jpg": {
+    "url": "/img/undefined/1739939-6775682.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492705368l/34910489._SX318_.jpg": {
+    "url": "/img/undefined/2159918-34910489._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443473815l/25318853.jpg": {
+    "url": "/img/undefined/9433040-25318853.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388468953l/9660102.jpg": {
+    "url": "/img/undefined/5823366-9660102.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438116284l/25999334.jpg": {
+    "url": "/img/undefined/1354780-25999334.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461559590l/29992974._SX318_.jpg": {
+    "url": "/img/undefined/3273661-29992974._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340904653l/6483360.jpg": {
+    "url": "/img/undefined/3299624-6483360.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389733809l/16319.jpg": {
+    "url": "/img/undefined/1657888-16319.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427686162l/25247713.jpg": {
+    "url": "/img/undefined/1957983-25247713.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436112982l/25105267._SY475_.jpg": {
+    "url": "/img/undefined/2788923-25105267._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413606365l/23390460._SX318_SY475_.jpg": {
+    "url": "/img/undefined/1131921-23390460._SX318_SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385191227l/18899915.jpg": {
+    "url": "/img/undefined/1584089-18899915.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396227246l/16341.jpg": {
+    "url": "/img/undefined/2709394-16341.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440355386l/26152087._SX318_.jpg": {
+    "url": "/img/undefined/2444482-26152087._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348508635l/16298.jpg": {
+    "url": "/img/undefined/1538368-16298.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328318650l/8232838.jpg": {
+    "url": "/img/undefined/3375357-8232838.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459310724l/29739845.jpg": {
+    "url": "/img/undefined/1688234-29739845.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401672190l/7114817.jpg": {
+    "url": "/img/undefined/1450092-7114817.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367831259l/16088359.jpg": {
+    "url": "/img/undefined/3000784-16088359.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407138050l/18689563.jpg": {
+    "url": "/img/undefined/1824281-18689563.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474405912l/32149774._SX318_.jpg": {
+    "url": "/img/undefined/8843437-32149774._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359402972l/16130317.jpg": {
+    "url": "/img/undefined/1546628-16130317.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579185054l/6219313._SY475_.jpg": {
+    "url": "/img/undefined/4194140-6219313._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459643570l/29764230.jpg": {
+    "url": "/img/undefined/1540636-29764230.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360274019l/17340102.jpg": {
+    "url": "/img/undefined/2426081-17340102.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1306857065l/11505074.jpg": {
+    "url": "/img/undefined/1149474-11505074.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328367583l/7548999.jpg": {
+    "url": "/img/undefined/7797470-7548999.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373862448l/18195033.jpg": {
+    "url": "/img/undefined/2264952-18195033.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327498048l/1014769.jpg": {
+    "url": "/img/undefined/3935733-1014769.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328330842l/6609349.jpg": {
+    "url": "/img/undefined/2704899-6609349.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328368761l/4902745.jpg": {
+    "url": "/img/undefined/1817395-4902745.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388700698l/6240179.jpg": {
+    "url": "/img/undefined/6011295-6240179.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347731265l/6258849.jpg": {
+    "url": "/img/undefined/4183390-6258849.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421008999l/22521563.jpg": {
+    "url": "/img/undefined/2556262-22521563.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342165974l/13534499.jpg": {
+    "url": "/img/undefined/3314594-13534499.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328302643l/10087981.jpg": {
+    "url": "/img/undefined/3263494-10087981.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624876740l/6473195._SY475_.jpg": {
+    "url": "/img/undefined/3815185-6473195._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480110444l/45234.jpg": {
+    "url": "/img/undefined/2343328-45234.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438457642l/10021253._SY475_.jpg": {
+    "url": "/img/undefined/3149545-10021253._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457393079l/18620361.jpg": {
+    "url": "/img/undefined/1370787-18620361.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393786937l/19083257.jpg": {
+    "url": "/img/undefined/1682208-19083257.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320389070l/3043533.jpg": {
+    "url": "/img/undefined/1264391-3043533.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361750062l/17333402.jpg": {
+    "url": "/img/undefined/2654807-17333402.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327721138l/12259507.jpg": {
+    "url": "/img/undefined/3929179-12259507.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348894006l/7057830.jpg": {
+    "url": "/img/undefined/3613225-7057830.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438455232l/10052680._SY475_.jpg": {
+    "url": "/img/undefined/1080848-10052680._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328308220l/10253721.jpg": {
+    "url": "/img/undefined/3242809-10253721.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335967954l/13533650.jpg": {
+    "url": "/img/undefined/6016698-13533650.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352903412l/15714476.jpg": {
+    "url": "/img/undefined/1732914-15714476.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386920349l/37039.jpg": {
+    "url": "/img/undefined/3954617-37039.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476435403l/76664._SY475_.jpg": {
+    "url": "/img/undefined/1525562-76664._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1225738097l/644671.jpg": {
+    "url": "/img/undefined/3662988-644671.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395286681l/21521161.jpg": {
+    "url": "/img/undefined/3110780-21521161.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392505374l/20816289.jpg": {
+    "url": "/img/undefined/2824326-20816289.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388196304l/8730413.jpg": {
+    "url": "/img/undefined/2171034-8730413.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388767199l/10744247.jpg": {
+    "url": "/img/undefined/3568562-10744247.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545328996l/43297807._SY475_.jpg": {
+    "url": "/img/undefined/4018698-43297807._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381085939l/18631397.jpg": {
+    "url": "/img/undefined/1728102-18631397.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388176967l/115921.jpg": {
+    "url": "/img/undefined/4610091-115921.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407111017l/34497.jpg": {
+    "url": "/img/undefined/2729000-34497.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1271550377l/1123376.jpg": {
+    "url": "/img/undefined/3175759-1123376.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348059096l/6262397.jpg": {
+    "url": "/img/undefined/1376242-6262397.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327862741l/8195411.jpg": {
+    "url": "/img/undefined/2086705-8195411.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442024605l/1036448._SX318_.jpg": {
+    "url": "/img/undefined/1468401-1036448._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298411339l/34.jpg": {
+    "url": "/img/undefined/2475159-34.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519031842l/102868._SX318_.jpg": {
+    "url": "/img/undefined/2224819-102868._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440169210l/3764._SY475_.jpg": {
+    "url": "/img/undefined/1030587-3764._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334279051l/284440.jpg": {
+    "url": "/img/undefined/3640010-284440.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347680563l/4893390.jpg": {
+    "url": "/img/undefined/2475056-4893390.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348429914l/7261549.jpg": {
+    "url": "/img/undefined/1954756-7261549.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328867406l/6365761.jpg": {
+    "url": "/img/undefined/1392967-6365761.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311394238l/6697731.jpg": {
+    "url": "/img/undefined/1787549-6697731.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525254083l/6122535._SX318_.jpg": {
+    "url": "/img/undefined/1591974-6122535._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341606410l/15739412.jpg": {
+    "url": "/img/undefined/1645113-15739412.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347589231l/6669831.jpg": {
+    "url": "/img/undefined/2178811-6669831.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487038502l/17741057._SX318_.jpg": {
+    "url": "/img/undefined/2664027-17741057._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401086857l/533824.jpg": {
+    "url": "/img/undefined/4011883-533824.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328867793l/125564.jpg": {
+    "url": "/img/undefined/3960364-125564.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390767495l/125538.jpg": {
+    "url": "/img/undefined/3356751-125538.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401086217l/72388.jpg": {
+    "url": "/img/undefined/2211045-72388.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374606571l/18231728.jpg": {
+    "url": "/img/undefined/3725875-18231728.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356629059l/17184962.jpg": {
+    "url": "/img/undefined/1106180-17184962.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572898744l/1538632.jpg": {
+    "url": "/img/undefined/3556147-1538632.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630876355l/3950967._SX318_.jpg": {
+    "url": "/img/undefined/1103455-3950967._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039438l/1162543._SY475_.jpg": {
+    "url": "/img/undefined/1261729-1162543._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338912184l/5415684.jpg": {
+    "url": "/img/undefined/3589822-5415684.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351802755l/16122731.jpg": {
+    "url": "/img/undefined/3578877-16122731.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351802490l/16122727.jpg": {
+    "url": "/img/undefined/1679967-16122727.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333026872l/11432885.jpg": {
+    "url": "/img/undefined/8130822-11432885.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333135792l/11432953.jpg": {
+    "url": "/img/undefined/1835399-11432953.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364266820l/11459185.jpg": {
+    "url": "/img/undefined/2778548-11459185.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333032019l/11459279.jpg": {
+    "url": "/img/undefined/3174988-11459279.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333138270l/11836205.jpg": {
+    "url": "/img/undefined/3335207-11836205.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333137781l/11607200.jpg": {
+    "url": "/img/undefined/3637085-11607200.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364241792l/11432943.jpg": {
+    "url": "/img/undefined/3041008-11432943.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364243134l/11437357.jpg": {
+    "url": "/img/undefined/2314637-11437357.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364245062l/11437390.jpg": {
+    "url": "/img/undefined/3899188-11437390.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364245753l/11437414.jpg": {
+    "url": "/img/undefined/4245115-11437414.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364246926l/11437424.jpg": {
+    "url": "/img/undefined/4130865-11437424.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364247842l/11459117.jpg": {
+    "url": "/img/undefined/3744106-11459117.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364248975l/11459145.jpg": {
+    "url": "/img/undefined/1620918-11459145.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364265784l/11459170.jpg": {
+    "url": "/img/undefined/7988578-11459170.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364505916l/11459229.jpg": {
+    "url": "/img/undefined/3655845-11459229.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364507451l/11459243.jpg": {
+    "url": "/img/undefined/1770165-11459243.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364336028l/11459205.jpg": {
+    "url": "/img/undefined/9952289-11459205.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364516705l/11686749.jpg": {
+    "url": "/img/undefined/2520377-11686749.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472305976l/11432933.jpg": {
+    "url": "/img/undefined/2782511-11432933.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364508850l/11459248.jpg": {
+    "url": "/img/undefined/2491586-11459248.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473347850l/27415418._SY475_.jpg": {
+    "url": "/img/undefined/4176999-27415418._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438536199l/11459422._SY475_.jpg": {
+    "url": "/img/undefined/3209701-11459422._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333137304l/11437374.jpg": {
+    "url": "/img/undefined/1489828-11437374.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552850673l/17706175.jpg": {
+    "url": "/img/undefined/1781017-17706175.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1203872931l/2889318.jpg": {
+    "url": "/img/undefined/2303684-2889318.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433985218l/25706197._SY475_.jpg": {
+    "url": "/img/undefined/2382212-25706197._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365290947l/17735994.jpg": {
+    "url": "/img/undefined/3237650-17735994.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325888276l/1907452._SX318_SY475_.jpg": {
+    "url": "/img/undefined/3055635-1907452._SX318_SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420057754l/72196.jpg": {
+    "url": "/img/undefined/2364903-72196.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372734137l/173689.jpg": {
+    "url": "/img/undefined/1766979-173689.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293506395l/4612648.jpg": {
+    "url": "/img/undefined/1647823-4612648.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293506120l/1883483.jpg": {
+    "url": "/img/undefined/6160376-1883483.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325893947l/424009.jpg": {
+    "url": "/img/undefined/3421737-424009.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293505848l/380438.jpg": {
+    "url": "/img/undefined/2106108-380438.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373355804l/4591352.jpg": {
+    "url": "/img/undefined/3307445-4591352.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373357004l/6260801.jpg": {
+    "url": "/img/undefined/1978026-6260801.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373356700l/6260802.jpg": {
+    "url": "/img/undefined/3191686-6260802.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453253533l/28628142.jpg": {
+    "url": "/img/undefined/3178699-28628142.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330724019l/177209.jpg": {
+    "url": "/img/undefined/1399012-177209.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1264369524l/7449700.jpg": {
+    "url": "/img/undefined/3190018-7449700.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390603199l/5968196.jpg": {
+    "url": "/img/undefined/3061930-5968196.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1292507056l/7833822.jpg": {
+    "url": "/img/undefined/3114152-7833822.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454790230l/28948799._SX318_.jpg": {
+    "url": "/img/undefined/8248632-28948799._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373177384l/72389.jpg": {
+    "url": "/img/undefined/6625890-72389.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545331887l/43298552._SY475_.jpg": {
+    "url": "/img/undefined/4181520-43298552._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545332702l/43298614.jpg": {
+    "url": "/img/undefined/3110343-43298614.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545328903l/43297796.jpg": {
+    "url": "/img/undefined/2990893-43297796.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545328821l/43297786._SY475_.jpg": {
+    "url": "/img/undefined/2214907-43297786._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545328627l/43297760.jpg": {
+    "url": "/img/undefined/7203667-43297760.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545328369l/43297736._SY475_.jpg": {
+    "url": "/img/undefined/2625896-43297736._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372921878l/12068888.jpg": {
+    "url": "/img/undefined/2270876-12068888.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545317685l/43296647.jpg": {
+    "url": "/img/undefined/3214455-43296647.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545317582l/43296590.jpg": {
+    "url": "/img/undefined/3173800-43296590.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356226695l/17162786.jpg": {
+    "url": "/img/undefined/3871219-17162786.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545317502l/43296526.jpg": {
+    "url": "/img/undefined/2788122-43296526.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545317390l/43296406.jpg": {
+    "url": "/img/undefined/2756011-43296406.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1218053029l/2641456.jpg": {
+    "url": "/img/undefined/2893697-2641456.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461265712l/29972967._SY475_.jpg": {
+    "url": "/img/undefined/3058098-29972967._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390882964l/20644960.jpg": {
+    "url": "/img/undefined/4819609-20644960.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325992079l/13396635.jpg": {
+    "url": "/img/undefined/6742340-13396635.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336233088l/6107977.jpg": {
+    "url": "/img/undefined/1161776-6107977.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491290828l/34787826._SY475_.jpg": {
+    "url": "/img/undefined/2484333-34787826._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462036701l/30062634._SX318_.jpg": {
+    "url": "/img/undefined/3684852-30062634._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439001618l/26060468._SY475_.jpg": {
+    "url": "/img/undefined/2682210-26060468._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453435973l/28671282._SY475_.jpg": {
+    "url": "/img/undefined/3007713-28671282._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467665347l/30843700._SY475_.jpg": {
+    "url": "/img/undefined/1350450-30843700._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481937754l/33401152._SY475_.jpg": {
+    "url": "/img/undefined/3530608-33401152._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600786919l/55427206._SX318_.jpg": {
+    "url": "/img/undefined/3994043-55427206._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609828267l/54760327._SY475_.jpg": {
+    "url": "/img/undefined/3218080-54760327._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615138329l/56853692._SY475_.jpg": {
+    "url": "/img/undefined/7744161-56853692._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392995008l/18223761.jpg": {
+    "url": "/img/goodreads/7497823-18223761.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922477l/18223762.jpg": {
+    "url": "/img/goodreads/1287745-18223762.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395629015l/18775469.jpg": {
+    "url": "/img/goodreads/2155765-18775469.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397770491l/18775470.jpg": {
+    "url": "/img/goodreads/2685651-18775470.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397770595l/21411986.jpg": {
+    "url": "/img/goodreads/1730831-21411986.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557860854l/45786338._SY475_.jpg": {
+    "url": "/img/goodreads/2733061-45786338._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620942274l/45786337._SY475_.jpg": {
+    "url": "/img/goodreads/3993479-45786337._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524236932l/39901557._SY475_.jpg": {
+    "url": "/img/goodreads/8591637-39901557._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552994784l/44531488._SY475_.jpg": {
+    "url": "/img/goodreads/1299225-44531488._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578351225l/36568445._SY475_.jpg": {
+    "url": "/img/goodreads/1249080-36568445._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580788178l/52505309._SX318_SY475_.jpg": {
+    "url": "/img/goodreads/2792064-52505309._SX318_SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582054705l/51470146._SX318_.jpg": {
+    "url": "/img/goodreads/3888165-51470146._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573917057l/48837992._SX318_.jpg": {
+    "url": "/img/goodreads/1326094-48837992._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479826161l/28260438._SX318_.jpg": {
+    "url": "/img/goodreads/1225651-28260438._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487478379l/30139711._SX318_.jpg": {
+    "url": "/img/goodreads/4126852-30139711._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530732949l/35224983._SY475_.jpg": {
+    "url": "/img/goodreads/1963034-35224983._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492956010l/32856010.jpg": {
+    "url": "/img/goodreads/1793072-32856010.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1174198320l/370136.jpg": {
+    "url": "/img/goodreads/4284275-370136.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522169048l/36504691.jpg": {
+    "url": "/img/goodreads/3474140-36504691.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535657061l/40629800._SY475_.jpg": {
+    "url": "/img/goodreads/4219851-40629800._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442606382l/8498471._SX318_.jpg": {
+    "url": "/img/goodreads/9685909-8498471._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401077949l/19539094.jpg": {
+    "url": "/img/goodreads/2527362-19539094.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410764190l/22208263.jpg": {
+    "url": "/img/goodreads/3111331-22208263.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433961532l/24487012._SX318_.jpg": {
+    "url": "/img/goodreads/1517144-24487012._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435418588l/13528435.jpg": {
+    "url": "/img/goodreads/1451035-13528435.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483474686l/26067588._SY475_.jpg": {
+    "url": "/img/goodreads/1716136-26067588._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445551423l/25810226._SY475_.jpg": {
+    "url": "/img/goodreads/2685512-25810226._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445789835l/26150663.jpg": {
+    "url": "/img/goodreads/3378046-26150663.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492419166l/25852959._SY475_.jpg": {
+    "url": "/img/goodreads/2695436-25852959._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445792929l/26067734.jpg": {
+    "url": "/img/goodreads/9010306-26067734.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629800533l/25810137.jpg": {
+    "url": "/img/goodreads/3925818-25810137.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460314878l/26200319.jpg": {
+    "url": "/img/goodreads/2809640-26200319.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582086528l/26067583.jpg": {
+    "url": "/img/goodreads/1807189-26067583.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582086524l/28109909.jpg": {
+    "url": "/img/goodreads/2175721-28109909.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410891094l/23228585.jpg": {
+    "url": "/img/goodreads/3723801-23228585.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457289588l/27405590.jpg": {
+    "url": "/img/goodreads/3532396-27405590.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603145057l/25810156.jpg": {
+    "url": "/img/goodreads/2926200-25810156.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444604965l/24464163.jpg": {
+    "url": "/img/goodreads/1677969-24464163.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413031883l/20898019.jpg": {
+    "url": "/img/goodreads/1312694-20898019.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409503511l/17251103.jpg": {
+    "url": "/img/goodreads/5200432-17251103.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414348442l/20898018.jpg": {
+    "url": "/img/goodreads/4176909-20898018.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427559332l/23017947.jpg": {
+    "url": "/img/goodreads/4292516-23017947.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340738634l/13312876.jpg": {
+    "url": "/img/goodreads/8001542-13312876.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361195520l/16074588.jpg": {
+    "url": "/img/goodreads/2007956-16074588.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382266287l/18690641.jpg": {
+    "url": "/img/goodreads/4219860-18690641.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566054854l/23995491._SY475_.jpg": {
+    "url": "/img/goodreads/3196085-23995491._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499091545l/23164970._SY475_.jpg": {
+    "url": "/img/goodreads/1126678-23164970._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444684484l/26164745.jpg": {
+    "url": "/img/goodreads/6784118-26164745.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419180568l/12467354.jpg": {
+    "url": "/img/goodreads/4035968-12467354.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353558814l/16137205.jpg": {
+    "url": "/img/goodreads/1028147-16137205.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366561242l/17818457.jpg": {
+    "url": "/img/goodreads/1115512-17818457.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417073009l/23622918.jpg": {
+    "url": "/img/goodreads/1523309-23622918.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467375064l/22358444._SY475_.jpg": {
+    "url": "/img/goodreads/2371988-22358444._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435843806l/22554204._SY475_.jpg": {
+    "url": "/img/goodreads/3876119-22554204._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416263784l/23574668.jpg": {
+    "url": "/img/goodreads/2795972-23574668.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502384303l/34034964._SX318_.jpg": {
+    "url": "/img/goodreads/2550138-34034964._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563399340l/45046883.jpg": {
+    "url": "/img/goodreads/3901903-45046883.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425504360l/25071291.jpg": {
+    "url": "/img/goodreads/2218000-25071291.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491447781l/31949124.jpg": {
+    "url": "/img/goodreads/2181441-31949124.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500915785l/33946211.jpg": {
+    "url": "/img/goodreads/4139468-33946211.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501439943l/33647026._SX318_.jpg": {
+    "url": "/img/goodreads/1895555-33647026._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546138553l/35691984._SX318_.jpg": {
+    "url": "/img/goodreads/1754773-35691984._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624949979l/56977710._SY475_.jpg": {
+    "url": "/img/goodreads/3476024-56977710._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347756860l/7870457.jpg": {
+    "url": "/img/goodreads/2468166-7870457.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347271973l/3474928.jpg": {
+    "url": "/img/goodreads/2008277-3474928.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347279050l/6298793.jpg": {
+    "url": "/img/goodreads/2516208-6298793.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409964285l/23161519.jpg": {
+    "url": "/img/goodreads/1052424-23161519.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410031045l/23163314.jpg": {
+    "url": "/img/goodreads/2745979-23163314.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369135199l/17949637.jpg": {
+    "url": "/img/goodreads/1432752-17949637.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356498867l/16257093.jpg": {
+    "url": "/img/goodreads/8566833-16257093.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392584419l/18767265.jpg": {
+    "url": "/img/goodreads/8704673-18767265.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381075735l/18631073.jpg": {
+    "url": "/img/goodreads/2278474-18631073.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347732233l/12015866.jpg": {
+    "url": "/img/goodreads/1256355-12015866.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356720366l/13664872.jpg": {
+    "url": "/img/goodreads/1994473-13664872.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374638642l/17444990.jpg": {
+    "url": "/img/goodreads/1895246-17444990.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355920684l/16231090.jpg": {
+    "url": "/img/goodreads/3050199-16231090.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349685717l/14654395.jpg": {
+    "url": "/img/goodreads/1474229-14654395.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388300859l/17445108.jpg": {
+    "url": "/img/goodreads/2788432-17445108.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371424467l/18079402.jpg": {
+    "url": "/img/goodreads/2248118-18079402.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374454455l/18220447.jpg": {
+    "url": "/img/goodreads/2775130-18220447.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511760091l/27247272._SY475_.jpg": {
+    "url": "/img/goodreads/3327419-27247272._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441586807l/26240977._SY475_.jpg": {
+    "url": "/img/goodreads/3778861-26240977._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504326129l/34050718._SX318_.jpg": {
+    "url": "/img/goodreads/3089301-34050718._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507744433l/35181839._SX318_.jpg": {
+    "url": "/img/goodreads/3621940-35181839._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496008073l/35250660._SY475_.jpg": {
+    "url": "/img/goodreads/2955702-35250660._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501125134l/35250887._SY475_.jpg": {
+    "url": "/img/goodreads/1186659-35250887._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506622818l/35914965._SY475_.jpg": {
+    "url": "/img/goodreads/8744674-35914965._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513619308l/36319692._SY475_.jpg": {
+    "url": "/img/goodreads/4172907-36319692._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521480952l/37562300._SY475_.jpg": {
+    "url": "/img/goodreads/1361925-37562300._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524766773l/39323398._SY475_.jpg": {
+    "url": "/img/goodreads/5419053-39323398._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530472215l/39948444._SY475_.jpg": {
+    "url": "/img/goodreads/9856384-39948444._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492599931l/29780171._SY475_.jpg": {
+    "url": "/img/goodreads/3323354-29780171._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492420131l/31621570._SY475_.jpg": {
+    "url": "/img/goodreads/3772486-31621570._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521222806l/36646057._SX318_.jpg": {
+    "url": "/img/goodreads/2205019-36646057._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386079728l/19146864.jpg": {
+    "url": "/img/goodreads/4087264-19146864.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385989548l/19098044.jpg": {
+    "url": "/img/goodreads/1054384-19098044.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424641508l/24997018.jpg": {
+    "url": "/img/goodreads/3942647-24997018.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424641477l/24997013.jpg": {
+    "url": "/img/goodreads/3880109-24997013.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433993636l/25706711._SX318_.jpg": {
+    "url": "/img/goodreads/1599360-25706711._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553125108l/42036532.jpg": {
+    "url": "/img/goodreads/4011616-42036532.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469562987l/25535522._SX318_.jpg": {
+    "url": "/img/goodreads/5544219-25535522._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431581642l/25535560.jpg": {
+    "url": "/img/goodreads/3899731-25535560.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462387217l/30110298._SX318_.jpg": {
+    "url": "/img/goodreads/3813677-30110298._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462387305l/30110302._SX318_.jpg": {
+    "url": "/img/goodreads/3899090-30110302._SX318_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409985990l/6839093.jpg": {
+    "url": "/img/goodreads/1243723-6839093.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396977214l/19536001.jpg": {
+    "url": "/img/goodreads/2528019-19536001.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589969792l/23395763.jpg": {
+    "url": "/img/goodreads/9318954-23395763.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515520862l/35488056.jpg": {
+    "url": "/img/goodreads/1348613-35488056.jpg"
+  },
+  "https://i.imgur.com/l1FBJFX.jpg": {
+    "url": "/img/ext/8544877-l1FBJFX.jpg"
+  },
+  "https://i.imgur.com/tMv1HXZ.png": {
+    "url": "/img/ext/2435810-tMv1HXZ.png"
+  },
+  "https://media.giphy.com/media/l378hQDm0Fd41gb4c/giphy.gif": {
+    "url": "/img/ext/3634235-giphy.gif"
+  },
+  "http://78.media.tumblr.com/0784e85638f5222139ccf5c628a91891/tumblr_oycyjoCMUt1ut5ryuo2_540.gif": {
+    "url": "/img/ext/2185853-tumblr_oycyjoCMUt1ut5ryuo2_540.gif"
+  },
+  "https://i.imgur.com/BGGjW1E.jpg": {
+    "url": "/img/ext/7171511-BGGjW1E.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489415716l/12868761._SY475_.jpg": {
+    "url": "/img/goodreads/2182143-12868761._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595880686l/53504751._SY475_.jpg": {
+    "url": "/img/goodreads/4282816-53504751._SY475_.jpg"
+  },
+  "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542183307l/42776244._SY475_.jpg": {
+    "url": "/img/goodreads/2659220-42776244._SY475_.jpg"
+  },
+  "https://i.imgur.com/U9lZXw5.jpg": {
+    "url": "/img/ext/3547403-U9lZXw5.jpg"
+  },
+  "https://i.imgur.com/Ynp7l3o.jpg": {
+    "url": "/img/ext/1528444-Ynp7l3o.jpg"
+  },
+  "https://i.imgur.com/I7DmrI9.jpg": {
+    "url": "/img/ext/1348064-I7DmrI9.jpg"
+  },
+  "https://i.imgur.com/xMcYofs.jpg": {
+    "url": "/img/ext/2436985-xMcYofs.jpg"
+  },
+  "https://i.imgur.com/MQTZlfM.gif": {
+    "url": "/img/ext/3730605-MQTZlfM.gif"
+  },
+  "http://i.imgur.com/zWLQqq6.gif": {
+    "url": "/img/ext/3964509-zWLQqq6.gif"
+  },
+  "https://media0.giphy.com/media/IFUpfL1cwIFYqJW9C3/giphy.gif": {
+    "url": "/img/ext/2321286-giphy.gif"
+  },
+  "https://media0.giphy.com/media/pQWxYYvGFOUaF6CJVh/giphy.gif": {
+    "url": "/img/ext/3352751-giphy.gif"
+  },
+  "https://i.imgur.com/iNNoKBu.jpg": {
+    "url": "/img/ext/1762558-iNNoKBu.jpg"
   }
 }

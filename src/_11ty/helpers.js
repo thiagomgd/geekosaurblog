@@ -79,15 +79,27 @@ function getFileName(url) {
   return `${shortHash(url)}-${filename[0]}`;
 }
 
-function getLocalImageLink(imgUrl, fileName = "", folder = "ext") {
+function getFolder(imgUrl, folder) {
+  if (imgUrl.includes('secure.notion-static.com')) return 'notion';
+  if (imgUrl.includes('photo.goodreads.com')) return 'goodreads';
+
+  return folder;
+}
+
+function getLocalImageLink(imgUrl, fileName = "", folderParam = "ext") {
   if (!imgUrl) return "";
 
   if (process.env.ELEVENTY_ENV !== "devbuild") return imgUrl;
 
   // skip local images, notion images, goodreads
-  if (!external.test(imgUrl) || imgUrl.includes('secure.notion-static.com') || imgUrl.includes('photo.goodreads.com')) {
+  if (!external.test(imgUrl) 
+  // since notion url changes hour to hour, I can't do that :/
+  // || imgUrl.includes('secure.notion-static.com') || imgUrl.includes()
+  ) {
     return imgUrl;
   }
+
+  const folder = getFolder(imgUrl, folderParam);
 
   const cache = readFromCache(IMG_CACHE_FILE_PATH);
   if (cache[imgUrl]) {
