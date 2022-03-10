@@ -23,17 +23,20 @@ const getLocalImages = (note, property='Images', folder) => {
 }
 
 // TODO: add delay for another call
-async function fetchFromNotion(notion, dbId, filter = {}, cursor = undefined) {
+async function fetchFromNotion(notion, dbId, filter = undefined, cursor = undefined) {
   
   const payload = {
     database_id: dbId,
     start_cursor: cursor,
+    filter: filter
   }
 
+  console.log(payload)
+
   // it enters here with {}, but for some reason, removing this gives me an error
-  if (filter) {
-    payload['filter'] = filter;
-  }
+  // if (filter) {
+  //   payload['filter'] = filter;
+  // }
 
   const response = await notion.databases.query(payload);
 

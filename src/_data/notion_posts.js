@@ -51,14 +51,14 @@ async function fetchPosts(since) {
     return null;
   }
 
-  const filters = since
-    ? {
-        property: "Last Edited",
-        date: { after: since },
-      }
-    : {};
+  // const filters = since
+  //   ? {
+  //       property: "Last Edited",
+  //       date: { after: since },
+  //     }
+  //   : {};
 
-  const results = await fetchFromNotion(notion, DATABASE_ID, filters);
+  const results = await fetchFromNotion(notion, DATABASE_ID, undefined);
 
   if (results) {
     const newPosts = {};
@@ -113,34 +113,45 @@ function filterDrafts(posts) {
 
 
 // TODO: Find duplicate slugs and error/warning
+
 module.exports = async function () {
-  console.log(">>> Reading posts from cache...");
-  const cache = readFromCache(CACHE_FILE_PATH);
-
-  if (cache.posts && Object.keys(cache.posts).length) {
-    console.log(
-      `>>> ${Object.keys(cache.posts).length} posts loaded from cache`
-    );
-  }
-
-  // Only fetch new posts in production
-  // if (process.env.ELEVENTY_ENV === "development") return filterDrafts(cache.posts);
-
   console.log(">>> Checking for new posts...");
-  const newPosts = await fetchPosts(cache.lastFetched);
+  const posts = await fetchPosts();
 
-  if (newPosts) {
-    const posts = {
-      lastFetched: new Date().toISOString(),
-      posts: mergePosts(cache.posts, newPosts),
-    };
-
-    if (process.env.ELEVENTY_ENV === "devbuild") {
-      writeToCache(posts, CACHE_FILE_PATH, "posts");
-    }
-
-    return filterDrafts(posts.posts);
-  }
-
-  return filterDrafts(cache.posts);
+  
+  return filterDrafts(posts);
+  
 };
+
+
+// module.exports = async function () {
+//   console.log(">>> Reading posts from cache...");
+//   const cache = readFromCache(CACHE_FILE_PATH);
+
+//   if (cache.posts && Object.keys(cache.posts).length) {
+//     console.log(
+//       `>>> ${Object.keys(cache.posts).length} posts loaded from cache`
+//     );
+//   }
+
+//   // Only fetch new posts in production
+//   // if (process.env.ELEVENTY_ENV === "development") return filterDrafts(cache.posts);
+
+//   console.log(">>> Checking for new posts...");
+//   const newPosts = await fetchPosts(cache.lastFetched);
+
+//   if (newPosts) {
+//     const posts = {
+//       lastFetched: new Date().toISOString(),
+//       posts: mergePosts(cache.posts, newPosts),
+//     };
+
+//     if (process.env.ELEVENTY_ENV === "devbuild") {
+//       writeToCache(posts, CACHE_FILE_PATH, "posts");
+//     }
+
+//     return filterDrafts(posts.posts);
+//   }
+
+//   return filterDrafts(cache.posts);
+// };

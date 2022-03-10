@@ -91,11 +91,8 @@ function getLocalImageLink(imgUrl, fileName = "", folderParam = "ext") {
 
   if (process.env.ELEVENTY_ENV !== "devbuild") return imgUrl;
 
-  // skip local images, notion images, goodreads
-  if (!external.test(imgUrl) 
-  // since notion url changes hour to hour, I can't do that :/
-  // || imgUrl.includes('secure.notion-static.com') || imgUrl.includes()
-  ) {
+  // skip local images, notion images
+  if (!external.test(imgUrl) || imgUrl.includes('secure.notion-static.com')) {
     return imgUrl;
   }
 

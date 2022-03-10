@@ -69,7 +69,6 @@ async function card(title, imgParam, rating, review_link, goodreads) {
   }
 
   const localImg = getLocalImageLink(img);
-  console.log('$$$$$$$$$', title, img, localImg);
 
   const badge = rating ? `<div class="card-badge">${rating}</div>` : EMPTY;
   const imgTagInner = localImg ? await imageShortcode(localImg, "", {novertical:true}) : EMPTY;

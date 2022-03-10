@@ -54,14 +54,14 @@ async function fetchNotes(since) {
     return null;
   }
 
-  const filters = since
-    ? {
-        property: "Edited",
-        date: { after: since },
-      }
-    : {};
+  // const filters = since
+  //   ? {
+  //       property: "Edited",
+  //       date: { after: since },
+  //     }
+  //   : {};
 
-  const results = await fetchFromNotion(notion, DATABASE_ID, filters);
+  const results = await fetchFromNotion(notion, DATABASE_ID, undefined);
 
   if (results) {
     console.log(
@@ -102,31 +102,39 @@ function processAndReturn(notes) {
 }
 
 module.exports = async function () {
-  console.log(">>> Reading notes from cache...");
-  const cache = readFromCache(CACHE_FILE_PATH);
-
-  if (cache.notes && Object.keys(cache.notes).length) {
-    console.log(`>>> ${Object.keys(cache.notes).length} notes loaded from cache`);
-  }
-
-  // Only fetch new notes in production
-  // if (process.env.ELEVENTY_ENV === "development") return processAndReturn(cache.notes);
-
   console.log(">>> Checking for new notes...");
-  const newNotes = await fetchNotes(cache.lastFetched);
+  const newNotes = await fetchNotes();
 
-  if (newNotes) {
-    const notes = {
-      lastFetched: new Date().toISOString(),
-      notes: mergeNotes(cache.notes, newNotes),
-    };
-
-    if (process.env.ELEVENTY_ENV === "devbuild") {
-      writeToCache(notes, CACHE_FILE_PATH, "notes");
-    }
-    
-    return processAndReturn(notes.notes);
-  }
-
-  return processAndReturn(cache.notes);
+ 
+  return processAndReturn(newNotes);
 };
+
+// module.exports = async function () {
+//   console.log(">>> Reading notes from cache...");
+//   const cache = readFromCache(CACHE_FILE_PATH);
+
+//   if (cache.notes && Object.keys(cache.notes).length) {
+//     console.log(`>>> ${Object.keys(cache.notes).length} notes loaded from cache`);
+//   }
+
+//   // Only fetch new notes in production
+//   // if (process.env.ELEVENTY_ENV === "development") return processAndReturn(cache.notes);
+
+//   console.log(">>> Checking for new notes...");
+//   const newNotes = await fetchNotes(cache.lastFetched);
+
+//   if (newNotes) {
+//     const notes = {
+//       lastFetched: new Date().toISOString(),
+//       notes: mergeNotes(cache.notes, newNotes),
+//     };
+
+//     if (process.env.ELEVENTY_ENV === "devbuild") {
+//       writeToCache(notes, CACHE_FILE_PATH, "notes");
+//     }
+    
+//     return processAndReturn(notes.notes);
+//   }
+
+//   return processAndReturn(cache.notes);
+// };
