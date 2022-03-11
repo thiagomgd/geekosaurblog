@@ -8,6 +8,7 @@ const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItFootnote = require("markdown-it-footnote");
 const filters = require('./src/_11ty/filters');
+const helpers = require('./src/_11ty/helpers');
 const shortcodes = require('./src/_11ty/shortcodes');
 const pairedShortcodes = require('./src/_11ty/pairedShortcodes');
 const asyncShortcodes = require('./src/_11ty/asyncShortcodes');
@@ -87,6 +88,11 @@ module.exports = function(eleventyConfig) {
   Object.keys(filters).forEach(filterName => {
     eleventyConfig.addFilter(filterName, filters[filterName])
   })
+
+  eleventyConfig.addNunjucksAsyncFilter('getOptimizedImageUrl', async function(value, callback) {
+    const url = await helpers.optimizeImage(value);
+    callback(null, url);
+   });
 
   // Add shortcodes
   Object.keys(shortcodes).forEach(codeName => {
