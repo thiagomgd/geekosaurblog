@@ -32,7 +32,7 @@ async function replaceSpecialLinks(content, options) {
   for (let i = 0; i < links.length; i++) {
     const link = links[i];
     const url = $(link).attr('href');
-    console.log(`Optimizing: ${url}`);
+    // console.log(`Optimizing: ${url}`);
 
     promises[i] = anyEmbed(url);
   }
@@ -58,7 +58,7 @@ async function imgToFigure(content, options) {
       const img = images[i];
       const attrs = $(img).attr();
   
-      console.log(`Img2Figure: ${attrs.src}`);
+      // console.log(`Img2Figure: ${attrs.src}`);
       promises[i] = figure(attrs.src, attrs.caption, "", "");
     }
   
@@ -142,6 +142,19 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection('posts', collection => {
     return collection.getFilteredByTag('post')
       // .filter(post => post.data.eleventyExcludeFromCollections !== true)
+      .sort(function(a, b) {
+        const timeA = a.data.created_date ? a.data.created_date.getTime() : 0;
+        const timeB = b.data.created_date ? b.data.created_date.getTime() : 0;
+        // console.log(a.data.title, b.data.title, timeA, timeB);
+        return timeA - timeB;
+      });
+  });
+
+  eleventyConfig.addCollection('allthings', collection => {
+    const posts = collection.getFilteredByTag('post');
+    const notes = collection.getFilteredByTag('post');
+    const all = [...posts, ...notes];
+    return all
       .sort(function(a, b) {
         const timeA = a.data.created_date ? a.data.created_date.getTime() : 0;
         const timeB = b.data.created_date ? b.data.created_date.getTime() : 0;

@@ -9,17 +9,17 @@ const mdBookmarkRegex = /^\[bookmark]\(([^)]+)\)$/gm;
 // TODO: test
 const mdImageRegex = /^\!\[\]\(((?:\/|https?:\/\/)[\w\d./?=#]+)\)$/;
 
-function replaceNotionBookmark(markdownString) {
-  console.log("!!!!!!!!!!!!!!!!");
-  console.log(markdownString.match(mdBookmarkRegex));
-  return markdownString.replace(mdBookmarkRegex, `{% anyEmbed '$1' %}`);
-}
+// function replaceNotionBookmark(markdownString) {
+//   console.log("!!!!!!!!!!!!!!!!");
+//   console.log(markdownString.match(mdBookmarkRegex));
+//   return markdownString.replace(mdBookmarkRegex, `{% anyEmbed '$1' %}`);
+// }
 
-function replaceNotionMarkdown(markdownString) {
-  const newString = replaceNotionBookmark(markdownString);
-  console.log(newString);
-  return newString;
-}
+// function replaceNotionMarkdown(markdownString) {
+//   const newString = replaceNotionBookmark(markdownString);
+//   console.log(newString);
+//   return newString;
+// }
 
 // get cache contents from json file
 function readFromCache(cacheFilePath) {
@@ -142,7 +142,7 @@ async function optimizeImage(src) {
 }
 
 module.exports = {
-  replaceNotionMarkdown,
+  // replaceNotionMarkdown,
   readFromCache,
   writeToCache,
   getLocalImageLink,

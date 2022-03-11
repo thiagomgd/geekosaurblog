@@ -1,5 +1,8 @@
 const util = require('util')
 const { getLocalImageLink } = require("./helpers");
+const {generateDiscussionLink} = require("./filters");
+const fetch = require("node-fetch");
+const cheerio = require("cheerio");
 
 const getLocalImages = (note, property='Images', folder) => {
   const imagesNotion = note.properties[property].files;
@@ -30,8 +33,6 @@ async function fetchFromNotion(notion, dbId, filter = undefined, cursor = undefi
     start_cursor: cursor,
     filter: filter
   }
-
-  console.log(payload)
 
   // it enters here with {}, but for some reason, removing this gives me an error
   // if (filter) {
@@ -159,8 +160,36 @@ function getNotionProps(thing, normalize=true) {
   return parsed;
 }
 
+function getUrl(post, type) {
+  if (type === 'note') {
+    return `https://geekosaur.com/note/${post.id}/`
+  }
+
+  return `https://geekosaur.com/post/${post.slug}/`
+}
+
+async function updateReddit() {
+  // https://www.reddit.com/r/geekosaur.json
+}
+
+async function updateTweet(posts, type) {
+  
+  const toUpdate = Object.values(posts).filter(post => !post.tweet);
+  
+  toUpdate.forEach(async(post)=> {
+    const link = getUrl(post, type);
+    const searchUrl = `https://api.twitter.com/1.1/search/tweets.json?q=${encodeURI(link)}`;
+    const headers = {
+      authorization: ``
+    }
+    fetch()
+  }
+  )
+}
+
 module.exports = {
   fetchFromNotion,
   getNotionProps,
-  getLocalImages
+  getLocalImages,
+  updateTweet
 };
