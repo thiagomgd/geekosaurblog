@@ -152,7 +152,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addCollection('allthings', collection => {
     const posts = collection.getFilteredByTag('post');
-    const notes = collection.getFilteredByTag('post');
+    const notes = collection.getFilteredByTag('notes');
     const all = [...posts, ...notes];
     return all
       .sort(function(a, b) {
