@@ -3,6 +3,7 @@ const { getLocalImageLink } = require("./helpers");
 const {generateDiscussionLink} = require("./filters");
 const fetch = require("node-fetch");
 const cheerio = require("cheerio");
+const { forEach } = require('lodash');
 
 const getLocalImages = (note, property='Images', folder) => {
   const imagesNotion = note.properties[property].files;
@@ -24,6 +25,14 @@ const getLocalImages = (note, property='Images', folder) => {
 
   return images;
 }
+
+async function updateNotion(notion, itemId, fields) {
+  notion.pages.update({
+    page_id: itemId,
+    properties: fields,
+  })
+}
+
 
 // TODO: add delay for another call
 async function fetchFromNotion(notion, dbId, filter = undefined, cursor = undefined) {
@@ -168,14 +177,43 @@ function getUrl(post, type) {
   return `https://geekosaur.com/post/${post.slug}/`
 }
 
-async function updateReddit() {
-  // https://www.reddit.com/r/geekosaur.json
+async function updateReddit(notion, posts, type) {
+  const toUpdate = Object.values(posts).filter(post => !post.reddit);
+  // console.log('TO UPDATE REDDIT!');
+  // console.log(toUpdate);
+  if (toUpdate.length === 0) return;
+
+  const response = await fetch('https://www.reddit.com/r/geekosaur.json');
+  if (!response.ok) {
+    console.error("### not able to load from reddit")
+  }
+  const responseJson = await response.json();
+  const redditPostsArray = responseJson.data.children
+    .filter((post) => post.data.domain === 'geekosaur.com')
+    .map((post) => ({[post.data.url]: `https://www.reddit.com${post.data.permalink}`}));
+
+  const redditPosts = Object.assign({}, ...redditPostsArray);
+  
+  toUpdate.forEach(async (post) => {
+    const postUrl = getUrl(post, type);
+    if (!postUrl in redditPosts) return;
+
+    redditUrl = redditPosts[postUrl];
+    // TODO: don't mutate original object, create copy
+    posts[post.id].reddit = redditUrl;
+
+    updateNotion(notion, post.id, {'Reddit': redditUrl});
+  })
+
+  // return posts;
 }
 
 async function updateTweet(posts, type) {
   
   const toUpdate = Object.values(posts).filter(post => !post.tweet);
   
+  if (toUpdate.length === 0) return;
+
   toUpdate.forEach(async(post)=> {
     const link = getUrl(post, type);
     const searchUrl = `https://api.twitter.com/1.1/search/tweets.json?q=${encodeURI(link)}`;
@@ -191,5 +229,6 @@ module.exports = {
   fetchFromNotion,
   getNotionProps,
   getLocalImages,
-  updateTweet
+  updateTweet,
+  updateReddit
 };

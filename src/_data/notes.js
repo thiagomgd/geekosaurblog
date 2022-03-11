@@ -2,7 +2,7 @@ const fetch = require("node-fetch");
 const fs = require("fs");
 const domain = require("./metadata.json").domain;
 // const { readFromCache, writeToCache, getLocalImageLink } = require("../_11ty/helpers");
-const { fetchFromNotion, getNotionProps, getLocalImages, updateTweet } = require("../_11ty/notionHelpers");
+const { fetchFromNotion, getNotionProps, getLocalImages, updateTweet, updateReddit } = require("../_11ty/notionHelpers");
 
 const { Client } = require('@notionhq/client');
 // https://github.com/souvikinator/notion-to-md
@@ -106,6 +106,7 @@ module.exports = async function () {
   const newNotes = await fetchNotes();
 
   // updateTweet(newNotes, 'note');
+  updateReddit(notion, newNotes, 'note');
   return processAndReturn(newNotes);
 };
 

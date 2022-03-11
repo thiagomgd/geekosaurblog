@@ -14,6 +14,20 @@ function isVertical(width, height) {
   return (width/height) <= 1.25;
 }
 
+function getMetadata(metadata) {
+  let outputs;
+  if ('webp' in metadata) {
+    outputs = metadata['webp'];
+  } else if ('gif' in metadata) {
+    outputs = metadata['gif'];
+  } else if ('png' in metadata){
+    outputs = metadata['png'];
+  } else {
+    outputs = metadata['jpeg'];
+  }
+  return outputs[outputs.length - 1];
+}
+
 async function imageShortcode(src, alt, options = {}) {
   if(alt === undefined) {
     // You bet we throw an error on missing alt (alt="" works okay)
@@ -22,16 +36,24 @@ async function imageShortcode(src, alt, options = {}) {
 
   const fileSource = src.startsWith('/img') ? `./src${src}` : src;
 
+  // notion images have cloudflare auth data
+  const extraProps = src.includes('.gif') ? {
+    formats: ['webp', 'gif'],
+    sharpOptions: {
+      animated: true,
+    },
+  } : {}
+
   let metadata = await Image(fileSource, {
     widths: [1200],
     outputDir: '_site/img',
     cacheOptions: {
       duration: "8w",
     },
+    ...extraProps
   });
 
-  let data = metadata.jpeg[metadata.jpeg.length - 1];
-
+  const data = getMetadata(metadata);
   const isVerticalClassname = !options['novertical'] && isVertical(data.width, data.height) ? 'class="vertical"' : '';
 
   return `<img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" ${isVerticalClassname} loading="lazy" decoding="async">`;
