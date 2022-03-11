@@ -12,7 +12,7 @@ eleventyComputed:
   title: "{{ note.title }}"
   # date: "{{ note.created_time }}"
   description: "{{ note.content | twitterExerpt }}"
-  thumbnail:  "{{ note | getNoteThumbnail }}"
+  thumbnail_url:  "{{ note | getNoteThumbnail }}"
   created_time: "{{ note.created_time }}"
   id: "{{ note.id }}"
   tweetId: "{{ note.tweet | getTwitterId }}"

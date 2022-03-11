@@ -12,7 +12,7 @@ module.exports = function () {
       created_date: function(data) {
 				return new Date(data.created_time);
 			},
-      thumbnail: async (data) => await optimizeImage(await getLocalImageLink(data.thumbnail)),
+      thumbnail: async (data) => await optimizeImage(await getLocalImageLink(data.thumbnail_url)),
     },
   };
 };
