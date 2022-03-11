@@ -105,7 +105,7 @@ module.exports = function(eleventyConfig) {
 
   // This function is reused in this config, so declaring the filter here instead:
   function filterTagList(tags) {
-    return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
+    return (tags || []).filter(tag => ["all", "nav", "post", "posts", 'note'].indexOf(tag) === -1);
   }
   eleventyConfig.addFilter("filterTagList", filterTagList)
 
@@ -152,7 +152,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addCollection('allthings', collection => {
     const posts = collection.getFilteredByTag('post');
-    const notes = collection.getFilteredByTag('notes');
+    const notes = collection.getFilteredByTag('note');
     const all = [...posts, ...notes];
     return all
       .sort(function(a, b) {

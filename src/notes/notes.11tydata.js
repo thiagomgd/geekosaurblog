@@ -5,12 +5,14 @@ module.exports = function () {
   return {
     eleventyComputed: {
       tags: function (data) {
-        return data.tags_string ? data.tags_string.split(",") : [];
+        if (!data || !data.tags_string) return ['note'];
+
+        return [...data.tags_string.split(","), 'note'];
       },
       created_date: function(data) {
 				return new Date(data.created_time);
 			},
-      thumbnail: async (data) => optimizeImage(await getLocalImageLink(data.thumbnail)),
+      thumbnail: async (data) => await optimizeImage(await getLocalImageLink(data.thumbnail)),
     },
   };
 };
