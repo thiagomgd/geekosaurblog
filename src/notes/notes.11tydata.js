@@ -1,5 +1,5 @@
-// const { getLocalImageLink, optimizeImage } = require("../_11ty/helpers");
-const {getTwitterId} = require("../_11ty/filters");
+const { getLocalImageLink, optimizeImage } = require("../_11ty/helpers");
+
 
 module.exports = function () {
   return {
@@ -9,7 +9,8 @@ module.exports = function () {
       },
       created_date: function(data) {
 				return new Date(data.created_time);
-			}
+			},
+      thumbnail: async (data) => optimizeImage(await getLocalImageLink(data.thumbnail)),
     },
   };
 };
