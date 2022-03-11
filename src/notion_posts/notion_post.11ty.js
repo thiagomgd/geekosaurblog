@@ -1,4 +1,5 @@
 const { getLocalImageLink, optimizeImage } = require("../_11ty/helpers");
+const { getTwitterId } = require("../_11ty/filters");
 const slugify = require("@11ty/eleventy/src/Filters/Slugify");
 
 // const isDevEnv = process.env.ELEVENTY_ENV === "development";
@@ -54,6 +55,7 @@ class NotionPost {
           const slug = data.notion_post.slug ? data.notion_post.slug : slugify(data.notion_post.title) ;
           return `/post/${slug}/`;
         },
+        tweetId: (data) => getTwitterId(data.notion_post.tweet)
       },
       
     };

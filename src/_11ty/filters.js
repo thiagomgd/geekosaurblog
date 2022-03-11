@@ -1,8 +1,8 @@
 const { DateTime } = require("luxon");
 const CleanCSS = require("clean-css");
 const rootUrl = require("../_data/metadata.json").url;
-const MarkdownIt = require('markdown-it');
-const plainText = require('markdown-it-plain-text');
+const MarkdownIt = require("markdown-it");
+const plainText = require("markdown-it-plain-text");
 
 const { getLocalImageLink } = require("../_11ty/helpers");
 
@@ -22,14 +22,11 @@ function unique(array) {
 
 function readableDate(dateObj) {
   if (!dateObj) return;
-  return new Date(dateObj).toLocaleDateString(
-    'en-us',
-    {
-      year: 'numeric',
-      month: 'short',
-      day: 'numeric'
-    }
-  );
+  return new Date(dateObj).toLocaleDateString("en-us", {
+    year: "numeric",
+    month: "short",
+    day: "numeric",
+  });
 }
 
 module.exports = {
@@ -107,17 +104,13 @@ module.exports = {
     return matchesByRelevance.slice(0, size);
   },
   getWebmentionsForUrl: (webmentions, url) => {
-    
-    return webmentions.children.filter(entry => entry['wm-target'] === url)
+    return webmentions.children.filter((entry) => entry["wm-target"] === url);
   },
   isOwnWebmention: (webmention) => {
-    const urls = [
-      'https://geekosaur.com',
-      'https://twitter.com/FalconSensei'
-    ]
-    const authorUrl = webmention.author ? webmention.author.url : false
+    const urls = ["https://geekosaur.com", "https://twitter.com/FalconSensei"];
+    const authorUrl = webmention.author ? webmention.author.url : false;
     // check if a given URL is part of this site.
-    return authorUrl && urls.includes(authorUrl)
+    return authorUrl && urls.includes(authorUrl);
   },
   sortWebmentions: (mentions) => {
     return mentions.sort((a, b) => {
@@ -128,24 +121,25 @@ module.exports = {
       }
       // a must be equal to b
       return 0;
-    })
+    });
   },
   webmentionsByType: (mentions, mentionType) => {
-    return mentions.filter(entry => !!entry[mentionType])
+    return mentions.filter((entry) => !!entry[mentionType]);
   },
-  truncate: text => text.length > 300 ? `${text.substring(0, 300)}...` : text,
+  truncate: (text) =>
+    text.length > 300 ? `${text.substring(0, 300)}...` : text,
   twitterExerpt: (text) => {
-  const maxLength = 245;
-  md.use(plainText);
-  md.render(text)
-  const content = md.plainText;
-  if (content.length <= maxLength) {
-    return content;
-  }
-  return content.substr(0, content.lastIndexOf(" ", maxLength)) + "...";
+    const maxLength = 245;
+    md.use(plainText);
+    md.render(text);
+    const content = md.plainText;
+    if (content.length <= maxLength) {
+      return content;
+    }
+    return content.substr(0, content.lastIndexOf(" ", maxLength)) + "...";
   },
   size: (mentions) => {
-    return !mentions ? 0 : mentions.length
+    return !mentions ? 0 : mentions.length;
   },
   getNoteThumbnail: (note) => {
     if (note.images && note.images.length > 0) {
@@ -157,10 +151,14 @@ module.exports = {
     return getLocalImageLink(url);
   },
   toArray: (thing) => {
-    if (typeof thing === 'string') {
-      thing.split(',');
+    if (typeof thing === "string") {
+      thing.split(",");
     }
     // already an array?
     return thing;
-  }
+  },
+  getTwitterId: (url) => {
+    if (!url) return "";
+    return url.substring(url.lastIndexOf("/") + 1, url.length);
+  },
 };

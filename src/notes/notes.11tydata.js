@@ -1,4 +1,5 @@
 // const { getLocalImageLink, optimizeImage } = require("../_11ty/helpers");
+const {getTwitterId} = require("../_11ty/filters");
 
 module.exports = function () {
   return {
@@ -8,7 +9,7 @@ module.exports = function () {
       },
       created_date: function(data) {
 				return new Date(data.created_time);
-			},
+			}
     },
   };
 };
