@@ -3,7 +3,6 @@ const { getLocalImageLink } = require("./helpers");
 const {generateDiscussionLink} = require("./filters");
 const fetch = require("node-fetch");
 const cheerio = require("cheerio");
-const { forEach } = require('lodash');
 
 const getLocalImages = (note, property='Images', folder) => {
   const imagesNotion = note.properties[property].files;
@@ -208,19 +207,34 @@ async function updateReddit(notion, posts, type) {
   // return posts;
 }
 
+function randomString(length) {
+  var text = "";
+  var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+  for(var i = 0; i < length; i++) {
+      text += possible.charAt(Math.floor(Math.random() * possible.length));
+  }
+  return text;
+}
+
 async function updateTweet(posts, type) {
   
   const toUpdate = Object.values(posts).filter(post => !post.tweet);
   
   if (toUpdate.length === 0) return;
-
+  
   toUpdate.forEach(async(post)=> {
     const link = getUrl(post, type);
-    const searchUrl = `https://api.twitter.com/1.1/search/tweets.json?q=${encodeURI(link)}`;
-    const headers = {
-      authorization: ``
-    }
-    fetch()
+    // const searchUrl = `https://api.twitter.com/1.1/search/tweets.json?q=${encodeURI(link)}`;
+    // const ts = () => Math.floor(new Date().getTime() / 1000);
+    // const nonce = randomString(42);
+
+    // const headers = {
+    //   authorization: `authorization: OAuth oauth_consumer_key="consumer-key-for-app", 
+    //   oauth_nonce="${nonce}", oauth_signature="generated-signature", 
+    //   oauth_signature_method="HMAC-SHA1", oauth_timestamp="${ts}", 
+    //   oauth_token="1835848723-1z47MI26t9gE0pCTeHY1i2BstN5Uh57X8Wmh6WN", oauth_version="1.0"`
+    // }
+    // fetch()
   }
   )
 }
