@@ -176,12 +176,35 @@ function getUrl(post, type) {
   return `https://geekosaur.com/post/${post.slug}/`
 }
 
+async function searchReddit(url) {
+  const searchUrl = `https://www.reddit.com/r/geekosaur/search.json?q=${url}&restrict_sr=on&include_over_18=on&sort=relevance&t=all`;
+  const response = await fetch(searchUrl);
+  if (!response.ok) {
+    console.error("### not able to load from reddit")
+    return '';
+  }
+  const responseJson = await response.json();
+
+  if (!responseJson || !Array.isArray(responseJson)) return '';
+  for (const list of responseJson) {
+    for (const post of list.data.children) {
+      // console.log('!@#!@#',post);
+      if (post && post.data && post.data.url && post.data.url) {
+        return `https://www.reddit.com${post.data.permalink}`;
+      }
+    }
+  }
+  return '';
+}
+
 async function updateReddit(notion, posts, type) {
   const toUpdate = Object.values(posts).filter(post => !post.reddit);
   // console.log('TO UPDATE REDDIT!');
   // console.log(toUpdate);
+  // console.log(posts);
   if (toUpdate.length === 0) return;
 
+  // console.log('>>>>>>> U')
   const response = await fetch('https://www.reddit.com/r/geekosaur.json');
   if (!response.ok) {
     console.error("### not able to load from reddit")
@@ -195,9 +218,18 @@ async function updateReddit(notion, posts, type) {
   
   toUpdate.forEach(async (post) => {
     const postUrl = getUrl(post, type);
-    if (!postUrl in redditPosts) return;
 
-    redditUrl = redditPosts[postUrl];
+    let redditUrl;
+
+    if (!postUrl in redditPosts){
+      redditUrl = redditPosts[postUrl];
+    } else {
+      // redditUrl = await searchReddit(postUrl);
+      redditUrl = await searchReddit(postUrl);
+      
+      if (!redditUrl) return;
+    };
+
     // TODO: don't mutate original object, create copy
     posts[post.id].reddit = redditUrl;
 
@@ -221,7 +253,7 @@ async function updateTweet(posts, type) {
   const toUpdate = Object.values(posts).filter(post => !post.tweet);
   
   if (toUpdate.length === 0) return;
-  
+
   toUpdate.forEach(async(post)=> {
     const link = getUrl(post, type);
     // const searchUrl = `https://api.twitter.com/1.1/search/tweets.json?q=${encodeURI(link)}`;

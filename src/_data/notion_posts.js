@@ -6,7 +6,7 @@ const {
   writeToCache,
   getLocalImageLink,
 } = require("../_11ty/helpers");
-const { fetchFromNotion, getNotionProps, getLocalImages } = require("../_11ty/notionHelpers");
+const { fetchFromNotion, getNotionProps, getLocalImages, updateReddit } = require("../_11ty/notionHelpers");
 
 const { Client } = require("@notionhq/client");
 // https://github.com/souvikinator/notion-to-md
@@ -118,7 +118,7 @@ module.exports = async function () {
   console.log(">>> Checking for new posts...");
   const posts = await fetchPosts();
 
-  
+  updateReddit(notion, posts, 'post');
   return filterDrafts(posts);
   
 };
