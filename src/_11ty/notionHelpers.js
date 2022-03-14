@@ -4,7 +4,7 @@ const {generateDiscussionLink} = require("./filters");
 const fetch = require("node-fetch");
 const cheerio = require("cheerio");
 
-const getLocalImages = (note, property='Images', folder) => {
+const getLocalImages = async (note, property='Images', folder) => {
   const imagesNotion = note.properties[property].files;
   const images = []
   for (const img of imagesNotion) {

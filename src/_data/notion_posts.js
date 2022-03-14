@@ -67,7 +67,7 @@ async function fetchPosts(since) {
     for (const post of results) {
       const content = await fetchPage(post.id);
       const props = getNotionProps(post);
-      props['thumbnail'] = getLocalImages(post, 'Thumbnail', 'notion_post')[0];
+      props['thumbnail'] = props['thumbnail'][0];//getLocalImages(post, 'Thumbnail', 'notion_post')[0];
       newPosts[post.id] = {
         ...getMetadata(post),
         ...props,

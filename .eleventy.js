@@ -12,7 +12,7 @@ const helpers = require('./src/_11ty/helpers');
 const shortcodes = require('./src/_11ty/shortcodes');
 const pairedShortcodes = require('./src/_11ty/pairedShortcodes');
 const asyncShortcodes = require('./src/_11ty/asyncShortcodes');
-const {anyEmbed, figure} = require('./src/_11ty/asyncShortcodes');
+const {anyEmbed, figure, blur} = require('./src/_11ty/asyncShortcodes');
 const cheerio = require("cheerio");
 
 function hasBodyTag(content) {
@@ -58,9 +58,14 @@ async function imgToFigure(content, options) {
     for (let i = 0; i < images.length; i++) {
       const img = images[i];
       const attrs = $(img).attr();
-  
-      // console.log(`Img2Figure: ${attrs.src}`);
-      promises[i] = figure(attrs.src, attrs.caption, "", "");
+
+      const caption = attrs.alt.startsWith('(blur)') ? attrs.alt.replace('(blur)','').trim() : attrs.alt;
+
+      if (attrs.alt.startsWith('(blur)')) {
+        promises[i] = blur(attrs.src, caption, "", "");
+      } else {
+        promises[i] = figure(attrs.src, caption, "", "");   
+      }
     }
   
     const pictures = await Promise.all(promises);
