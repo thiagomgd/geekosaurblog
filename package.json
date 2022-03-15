@@ -27,10 +27,11 @@
   "homepage": "https://github.com/thiagomgd/geekosaurblog",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.0-canary.3",
+    "@11ty/eleventy-fetch": "^3.0.0",
     "@11ty/eleventy-img": "^1.1.0",
     "@11ty/eleventy-navigation": "^0.3.2",
     "@11ty/eleventy-plugin-rss": "^1.1.2",
-    "@notionhq/client": "^1.0.2",
+    "@notionhq/client": "^1.0.3",
     "@types/markdown-it": "^12.2.3",
     "cheerio": "^1.0.0-rc.10",
     "clean-css": "^5.2.2",

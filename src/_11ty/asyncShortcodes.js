@@ -1,5 +1,5 @@
 const markdownIt = require("markdown-it");
-const Cache = require("@11ty/eleventy-cache-assets");
+const EleventyFetch = require("@11ty/eleventy-fetch");
 const outdent = require("outdent")({ newline: " " });
 
 const { getLocalImageLink } = require("../_11ty/helpers");
@@ -158,7 +158,7 @@ ${publisher ? publisherEl : ""}
 
 // https://github.com/daviddarnes/eleventy-plugin-unfurl
 const unfurl = async(url) => {
-  const metadata = await Cache(`https://api.microlink.io/?url=${url}`, {
+  const metadata = await EleventyFetch(`https://api.microlink.io/?url=${url}`, {
       duration: "8w",
       type: "json",
     });

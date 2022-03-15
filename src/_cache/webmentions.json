@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-03-13T23:50:55.839Z",
+  "lastFetched": "2022-03-15T17:39:16.194Z",
   "children": [
     {
       "type": "entry",
@@ -2057,6 +2057,50 @@
       "content": {
         "html": "<p><span class=\"h-card\"><a href=\"https://chaos.social/@manuel\" class=\"u-url\">@<span>manuel</span></a></span> I'm very glad you enjoyed. The first song got stuck in my head for a while 😂 It's so good to have those two different voices there.</p><p>&gt; I'm still burned out on that whole male singer/ songwriter stuff</p><p>I'm usually not a big fan also, but that one was nice. I guess because the voice and interpretation is actually good</p>",
         "text": "@manuel I'm very glad you enjoyed. The first song got stuck in my head for a while 😂 It's so good to have those two different voices there.> I'm still burned out on that whole male singer/ songwriter stuffI'm usually not a big fan also, but that one was nice. I guess because the voice and interpretation is actually good"
+      },
+      "in-reply-to": "https://geekosaur.com/post/music-monday-11/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/53ec7a1d786bb3a10720f12d5853b318b49cfbcdc82de945c81f9fe1e754144a.png",
+        "url": "https://mastodon.social/@falcon"
+      },
+      "url": "https://mastodon.social/@falcon/107923705711631863",
+      "published": "2022-03-09T00:17:40",
+      "wm-received": "2022-03-14T18:50:12Z",
+      "wm-id": 1363140,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/107916808484484462/107923705711631863",
+      "wm-target": "https://geekosaur.com/post/music-monday-11/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://chaos.social/@manuel\" class=\"u-url\">@<span>manuel</span></a></span> OH YEAH THAT GUY. I love his voice too. And their recording of the Nightmare Before Christmas was amazing!</p><p>IDK, I always see ‘burned out’ 🤔. I think burnt is only used as adjective</p>",
+        "text": "@manuel OH YEAH THAT GUY. I love his voice too. And their recording of the Nightmare Before Christmas was amazing!IDK, I always see ‘burned out’ 🤔. I think burnt is only used as adjective"
+      },
+      "in-reply-to": "https://geekosaur.com/post/music-monday-11/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/53ec7a1d786bb3a10720f12d5853b318b49cfbcdc82de945c81f9fe1e754144a.png",
+        "url": "https://mastodon.social/@falcon"
+      },
+      "url": "https://mastodon.social/@falcon/107956351208864057",
+      "published": "2022-03-14T18:39:51",
+      "wm-received": "2022-03-14T18:49:43Z",
+      "wm-id": 1363138,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/107916808484484462/107956351208864057",
+      "wm-target": "https://geekosaur.com/post/music-monday-11/",
+      "content": {
+        "html": "<p>Some R&amp;B and Soul music from Japan <a href=\"https://mastodon.social/tags/musicmonday\">#<span>musicmonday</span></a> <a href=\"https://geekosaur.com/post/music-monday-12/\"><span>https://</span><span>geekosaur.com/post/music-monda</span><span>y-12/</span></a></p>\n<a class=\"p-category\" href=\"https://mastodon.social/tags/musicmonday\">musicmonday</a>\n<a href=\"https://geekosaur.com/post/music-monday-12/\">Music Monday 12: Nao Yoshioka</a>",
+        "text": "Some R&B and Soul music from Japan #musicmonday https://geekosaur.com/post/music-monday-12/\nmusicmonday\nMusic Monday 12: Nao Yoshioka"
       },
       "in-reply-to": "https://geekosaur.com/post/music-monday-11/",
       "wm-property": "in-reply-to",
