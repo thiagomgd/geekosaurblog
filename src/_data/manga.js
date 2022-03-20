@@ -115,8 +115,8 @@ module.exports = async function () {
   }
 
   // Only fetch new mentions in production
-  // if (process.env.ELEVENTY_ENV === "development") return cache;
-  if (process.env.ELEVENTY_ENV !== "devbuild") return cache;
+  if (process.env.ELEVENTY_ENV === "development") return cache;
+  // if (process.env.ELEVENTY_ENV !== "devbuild") return cache;
 
   console.log(">>> Checking for new manga...");
   const newBooks = await fetchBooks();
