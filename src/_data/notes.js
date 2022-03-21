@@ -72,7 +72,7 @@ async function fetchNotes(since) {
     for (const note of results) {
       const noteContent = await fetchPage(note.id)
       const props = getNotionProps(note)
-      props['images'] = getLocalImages(note, 'Images' , 'notes')
+      // props['images'] = //getLocalImages(note, 'Images' , 'notes')
       const newNote = {
         ...getMetadata(note),
         ...props,
