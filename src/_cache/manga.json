@@ -235,24 +235,6 @@
       "year_read": 0
     },
     {
-      "title": "ギャルごはん Gal Gohan [Gyaru Cooking] (Gal Gohan 1)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502384303l/34034964._SX318_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Gal Gohan Vol. 2",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563399340l/45046883.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "year_read": 0
-    },
-    {
       "title": "The Arrow (The Woods #1)",
       "cover": [
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425504360l/25071291.jpg"
@@ -1433,6 +1415,26 @@
       "rating": 3,
       "review": null,
       "date_read": "2022-02-05T00:00:00.000Z",
+      "year_read": 2022
+    },
+    {
+      "title": "ギャルごはん Gal Gohan [Gyaru Cooking] (Gal Gohan 1)",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502384303l/34034964._SX318_.jpg"
+      ],
+      "rating": 4,
+      "review": null,
+      "date_read": "2022-02-05T00:00:00.000Z",
+      "year_read": 2022
+    },
+    {
+      "title": "Gal Gohan Vol. 2",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563399340l/45046883.jpg"
+      ],
+      "rating": 4,
+      "review": null,
+      "date_read": "2022-02-06T00:00:00.000Z",
       "year_read": 2022
     },
     {

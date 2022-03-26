@@ -156,6 +156,50 @@ ${publisher ? publisherEl : ""}
 </div>`;
 };
 
+// https://github.com/gfscott/eleventy-plugin-embed-twitter/blob/main/lib/buildEmbed.js
+async function tweet(tweetUrl) {
+  const oEmbedUrl = new URL("https://publish.twitter.com/oembed");
+  // const tweetUrl = `https://twitter.com/${tweet.userHandle}/status/${tweet.tweetId}`;
+  const isScriptEnabled = false;
+
+  oEmbedUrl.searchParams.set('omit_script', true);
+  oEmbedUrl.searchParams.set('theme', 'dark');
+  oEmbedUrl.searchParams.set('dnt', true);
+  oEmbedUrl.searchParams.set('lang', 'en-US');
+  oEmbedUrl.searchParams.set('url', tweetUrl);
+  
+  // let optionsAmendedForOembed = {
+  //     tweetUrl,
+  //     omit_script: !isScriptEnabled,
+  //   }
+
+  // let oEmbedParamString = buildOptions(optionsAmendedForOembed, "url");
+
+
+  // let oEmbedRequestUrl = oEmbedUrl + oEmbedParamString;
+  // let oEmbedRequestUrl = oEmbedUrl + oEmbedParamString;
+
+  try {
+    const json = await EleventyFetch(
+      // oEmbedRequestUrl,
+      "https://publish.twitter.com/oembed"+oEmbedUrl.search,
+      {
+        duration: "8w",
+        type: "json",
+      },
+    );
+    // console.log('!!!!!!!!!!!!!!!!!!!!!!!!!!')
+    // console.log(json);
+    let out = `<div class="tweetEmbed">`;
+    out += json.html;
+    out += "</div>";
+    return out;
+  } catch (err) {
+    console.error("Error communicating with Twitter\u2019s servers: ", err);
+    return tweetUrl;
+  }
+}
+
 // https://github.com/daviddarnes/eleventy-plugin-unfurl
 const unfurl = async(url) => {
   const metadata = await EleventyFetch(`https://api.microlink.io/?url=${url}`, {
@@ -176,6 +220,8 @@ async function anyEmbed(url) {
 
   if (url.startsWith('https://www.reddit.com/')) return reddit(url);
 
+  if (url.startsWith('https://twitter.com/')) return tweet(url);
+
   return await unfurl(url);
 }
 
@@ -183,6 +229,7 @@ module.exports = {
   figure,
   blur,
   card,
+  tweet,
   anyEmbed,
   unfurl,
 };
