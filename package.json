@@ -34,7 +34,7 @@
     "@notionhq/client": "^1.0.4",
     "@types/markdown-it": "^12.2.3",
     "cheerio": "^1.0.0-rc.10",
-    "clean-css": "^5.2.2",
+    "clean-css": "^5.3.0",
     "download-file-sync": "^1.0.4",
     "eleventy-plugin-metagen": "^1.6.1",
     "eleventy-plugin-toc": "^1.1.5",
