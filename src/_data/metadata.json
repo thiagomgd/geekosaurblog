@@ -22,5 +22,7 @@
     "mastodon_url": "https://mastodon.social/@falcon"
   },
   "subreddit": "geekosaur",
-  "cloudflare_beacon": "0282bdd3b68748aba686aabfce19dc6c"
+  "cloudflare_beacon": "0282bdd3b68748aba686aabfce19dc6c",
+  "bridgy_twitter": true,
+  
 }

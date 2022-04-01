@@ -199,6 +199,8 @@ async function searchReddit(url) {
 }
 
 async function updateReddit(notion, posts, type) {
+  if (!metadata.subreddit) return;
+  
   const toUpdate = Object.values(posts).filter(post => !post.reddit);
   // console.log('TO UPDATE REDDIT!');
   // console.log(toUpdate);

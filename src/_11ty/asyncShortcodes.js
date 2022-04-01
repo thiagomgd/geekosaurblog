@@ -37,7 +37,6 @@ async function imageShortcode(src, alt, options = {}) {
 
   const fileSource = src.startsWith('/img') ? `./src${src}` : src;
 
-  // notion images have cloudflare auth data
   const extraProps = src.includes('.gif') ? {
     formats: ['webp', 'gif'],
     sharpOptions: {
@@ -55,9 +54,14 @@ async function imageShortcode(src, alt, options = {}) {
   });
 
   const data = getMetadata(metadata);
-  const isVerticalClassname = !options['novertical'] && isVertical(data.width, data.height) ? 'class="vertical"' : '';
+  const bridgyClass = options.shareBridgy ? 'u-photo' : '';
+  const isVerticalClassname = !options['novertical'] && isVertical(data.width, data.height) ? 'vertical' : '';
+  let className = '';
+  if (bridgyClass || isVerticalClassname) {
+    className = `class="${bridgyClass} ${isVerticalClassname}"`;
+  }
 
-  return `<img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" ${isVerticalClassname} loading="lazy" decoding="async">`;
+  return `<img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" ${className} loading="lazy" decoding="async">`;
 }
 
 function uuidv4() {
@@ -72,9 +76,10 @@ async function figure(image, caption="", className="", alt="") {
   const localSrc = getLocalImageLink(image);
 
   const mdCaption = caption ? markdownIt().renderInline(caption) : EMPTY;
-  const classMarkup = className ? ` class="${className}"` : '';
+  const classMarkup = (className && className !== 'u-photo') ? ` class="${className}"` : '';
   const captionMarkup = caption ? `<figcaption>${mdCaption}</figcaption>` : '';
-  const imgTag = await imageShortcode(localSrc, alt);
+  const imgOptions = (className && className === 'u-photo') ? {shareBridgy: true} : {};
+  const imgTag = await imageShortcode(localSrc, alt, imgOptions);
   return `<figure${classMarkup}>${imgTag}${captionMarkup}</figure>`;
 }
 

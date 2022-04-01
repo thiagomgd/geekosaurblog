@@ -6,7 +6,7 @@ templateClass: tmpl-post
 <div class="h-entry content-780 flow">
   <h1 class="p-name">{{ title }}</h1>
 
-  {%if lead %}
+  {% if lead %}
   <p class="post-lead">{{ lead }}</p>
   {% endif %}
 
@@ -47,6 +47,14 @@ templateClass: tmpl-post
     {% set webmentionUrl %}{{ page.url | url | absoluteUrl(site.url) }}{% endset %}
     {% include 'webmentions.njk' %}
   </section>
-
+  {% if metadata.bridgy_twitter %}
+    <a href="https://brid.gy/publish/twitter" class="hidden"></a>
+    {% if reply_to %}
+      <a class="u-in-reply-to" href="{{ reply_to }}"></a>
+    {% endif %}
+    {% if description %}
+      <p class="p-bridgy-twitter-content">{{ description }}</p>
+    {% endif %}
+  {% endif %}
   {# TODO: add 'next'/'previous' for notes #}
 </div>
