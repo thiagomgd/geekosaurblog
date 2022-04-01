@@ -15,12 +15,12 @@
     "url": "https://geekosaur.com/feed/feed.json"
   },
   "author": {
-    "name": "Geekosaur",
+    "name": "Falcon",
     "email": "geekosaur@falcon.moe",
     "url": "https://geekosaur.com/about-me/",
     "twitter_handle": "FalconSensei",
-    "nickname": "Falcon Sensei",
     "mastodon_url": "https://mastodon.social/@falcon"
   },
-  "subreddit": "geekosaur"
+  "subreddit": "geekosaur",
+  "cloudflare_beacon": "0282bdd3b68748aba686aabfce19dc6c"
 }

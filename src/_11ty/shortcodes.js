@@ -18,8 +18,8 @@ allowfullscreen>
 
 const reddit = (url) => {
   return `<blockquote class="reddit-card">
-<a href="${url}">r/${subreddit} Lounge</a>
-from <a href="http://www.reddit.com/r/${metadata.subreddit}">r/${subreddit}</a></blockquote>
+<a href="${url}">r/${metadata.subreddit} Lounge</a>
+from <a href="http://www.reddit.com/r/${metadata.subreddit}">r/${metadata.subreddit}</a></blockquote>
 <script async src="//embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>`;
 };
 

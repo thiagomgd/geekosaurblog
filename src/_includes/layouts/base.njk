@@ -33,7 +33,7 @@
         img=thumbnailUrl,
         twitter_card_type="summary_large_image",
         twitter_handle=metadata.author.twitter_handle,
-        name=metadata.author.nickname | metadata.author.name,
+        name=metadata.author.name,
         generator="eleventy",
         comments=true
     %}
@@ -48,7 +48,9 @@
   {% endif %}
   
   <!-- Cloudflare Web Analytics -->
-  <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "0282bdd3b68748aba686aabfce19dc6c"}'></script>
+  {% if metadata.cloudflare_beacon %}
+  <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "{{  metadata.cloudflare_beacon }}"}'></script>
+  {% endif %}
   <!-- End Cloudflare Web Analytics -->
   </head>
   <body>
