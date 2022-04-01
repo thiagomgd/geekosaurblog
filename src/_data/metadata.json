@@ -17,6 +17,10 @@
   "author": {
     "name": "Geekosaur",
     "email": "geekosaur@falcon.moe",
-    "url": "https://geekosaur.com/about-me/"
-  }
+    "url": "https://geekosaur.com/about-me/",
+    "twitter_handle": "FalconSensei",
+    "nickname": "Falcon Sensei",
+    "mastodon_url": "https://mastodon.social/@falcon"
+  },
+  "subreddit": "geekosaur"
 }
