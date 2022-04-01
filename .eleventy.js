@@ -165,13 +165,25 @@ module.exports = function(eleventyConfig) {
     const posts = collection.getFilteredByTag('post');
     const notes = collection.getFilteredByTag('note');
     const all = [...posts, ...notes];
-    return all
-      .sort(function(a, b) {
-        const timeA = a.data.created_date ? a.data.created_date.getTime() : 0;
-        const timeB = b.data.created_date ? b.data.created_date.getTime() : 0;
-        // console.log(a.data.title, b.data.title, timeA, timeB);
-        return timeA - timeB;
-      });
+
+    return all.sort(function (a, b) {
+      const timeA = a.data.created_date
+        ? a.data.created_date.getTime()
+        : 0;
+
+      const timeB = b.data.created_date
+        ? b.data.created_date.getTime()
+        : 0;
+
+      // if (
+      //   a.data.title === "" ||
+      //   b.data.title === ""
+      // ) {
+      //   console.log(a.data.title, b.data.title, timeA, timeB, a.data.created_date, b.data.created_date);
+      // }
+
+      return timeA - timeB;
+    });
   });
 
   // https://shivjm.blog/colophon/how-i-create-an-article-series-in-eleventy/

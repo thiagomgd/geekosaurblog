@@ -1,13 +1,8 @@
 const EleventyFetch = require("@11ty/eleventy-fetch");
 
-// const pattern = /<p>(?=(\s*))\1(?:<a [^>]*?>)??(?=(\s*))\2(?:https?:)??(?:\/\/)??(?:w{3}\.)??(?:twitter\.com)\/([a-zA-Z0-9_]{1,15})?(?:\/(?:status)\/)(\d+)?(?:[^\s<>]*)(?=(\s*))\5(?:<\/a>)??(?=(\s*))\6<\/p>/;
-
 function extractTweetInfo(str) {
-    console.log('---------------------------------------------------------');
     const tweetUrl = str.indexOf('?') ? str.substring(0, str.indexOf('?')) : str;
-	// let match = tweetUrl.match(pattern);
     const match = tweetUrl.split('/');
-    console.log(tweetUrl, match);
 	return {
 		userHandle: match[3],
 		tweetId: match[5],
