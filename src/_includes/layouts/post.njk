@@ -78,8 +78,8 @@ templateClass: tmpl-post
   {%- endif %}
   {% if metadata.bridgy_twitter %}
     <a href="https://brid.gy/publish/twitter" class="hidden"></a>
-    {% if reply_to %}
-      <a class="u-in-reply-to" href="{{ reply_to }}"></a>
+    {% if replyTo %}
+      <a class="u-in-reply-to" href="{{ replyTo }}"></a>
     {% endif %}
     {% if description %}
       <p class="p-bridgy-twitter-content">{{ description }}</p>

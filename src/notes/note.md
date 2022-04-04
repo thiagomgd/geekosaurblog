@@ -16,7 +16,8 @@ eleventyComputed:
   created_time: "{{ note.created_time }}"
   id: "{{ note.id }}"
   tweetId: "{{ note.tweet | getTwitterId }}"
-permalink: "note/{{ note.id }}/"
+  replyTo: "{{ note.reply_to }}"
+  permalink: "note/{{ note.id }}/"
 ---
 
 {% anyEmbed note.embed %}

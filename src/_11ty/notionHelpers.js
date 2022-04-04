@@ -200,8 +200,54 @@ async function searchReddit(url) {
 
 async function updateReddit(notion, posts, type) {
   if (!metadata.subreddit) return;
+
+  const toUpdate = posts.filter(post => !post.reddit);
+  // console.log('TO UPDATE REDDIT!');
+  // console.log(toUpdate);
+  // console.log(posts);
+  if (toUpdate.length === 0) return;
+
+  // console.log('>>>>>>> U')
+  const response = await fetch(`https://www.reddit.com/r/${metadata.subreddit}.json`);
+  if (!response.ok) {
+    console.error("### not able to load from reddit")
+  }
+  const responseJson = await response.json();
+  const redditPostsArray = responseJson.data.children
+    .filter((post) => post.data.domain === metadata.domain)
+    .map((post) => ({[post.data.url]: `https://www.reddit.com${post.data.permalink}`}));
+
+  const redditPosts = Object.assign({}, ...redditPostsArray);
   
-  const toUpdate = Object.values(posts).filter(post => !post.reddit);
+  toUpdate.forEach(async (post) => {
+    const postUrl = getUrl(post, type);
+
+    let redditUrl;
+
+    if (!postUrl in redditPosts){
+      redditUrl = redditPosts[postUrl];
+    } else {
+      // redditUrl = await searchReddit(postUrl);
+      redditUrl = await searchReddit(postUrl);
+      
+      if (!redditUrl) return;
+    };
+
+    // TODO: don't mutate original object, create copy
+    posts[post.id].reddit = redditUrl;
+
+    updateNotion(notion, post.id, {'Reddit': redditUrl});
+  })
+
+  // return posts;
+}
+
+async function updateReplyTo(notion, posts, type) {
+  if (!metadata.twitter_reply_to) return;
+
+  
+
+  const toUpdate = posts.filter(post => !post.reddit);
   // console.log('TO UPDATE REDDIT!');
   // console.log(toUpdate);
   // console.log(posts);
