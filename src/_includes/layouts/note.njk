@@ -17,6 +17,16 @@ templateClass: tmpl-post
     <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
   {%- endfor %}
 
+  {% if metadata.bridgy_twitter %}
+    <a href="https://brid.gy/publish/twitter" class="hidden"></a>
+    {% if replyTo %}
+      <a class="u-in-reply-to" href="{{ replyTo }}"></a>
+    {% endif %}
+    {% if description %}
+      <p class="p-bridgy-twitter-content">{{ description }}</p>
+    {% endif %}
+  {% endif %}
+
   <div class="e-content flow">
     {{ content | safe }}
   </div>
@@ -47,14 +57,6 @@ templateClass: tmpl-post
     {% set webmentionUrl %}{{ page.url | url | absoluteUrl(site.url) }}{% endset %}
     {% include 'webmentions.njk' %}
   </section>
-  {% if metadata.bridgy_twitter %}
-    <a href="https://brid.gy/publish/twitter" class="hidden"></a>
-    {% if replyTo %}
-      <a class="u-in-reply-to" href="{{ replyTo }}"></a>
-    {% endif %}
-    {% if description %}
-      <p class="p-bridgy-twitter-content">{{ description }}</p>
-    {% endif %}
-  {% endif %}
+  
   {# TODO: add 'next'/'previous' for notes #}
 </div>
