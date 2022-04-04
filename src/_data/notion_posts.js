@@ -118,8 +118,8 @@ module.exports = async function () {
   console.log(">>> Checking for new posts...");
   const posts = await fetchPosts();
 
+  updateReddit(notion, posts, 'post');
   const publishedPosts = filterDrafts(posts);
-  updateReddit(notion, publishedPosts, 'post');
   // updateReplyTo(notion, publishedPosts, 'post');
   return publishedPosts;
 };
