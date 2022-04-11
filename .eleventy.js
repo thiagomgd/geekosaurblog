@@ -3,7 +3,6 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 // const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const pluginTOC = require('eleventy-plugin-toc')
-const metagen = require('eleventy-plugin-metagen');
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItFootnote = require("markdown-it-footnote");
@@ -92,7 +91,6 @@ module.exports = function(eleventyConfig) {
     ul: true,
     wrapper: 'nav'
   })
-  eleventyConfig.addPlugin(metagen);
 
   // Add filters
   Object.keys(filters).forEach(filterName => {
