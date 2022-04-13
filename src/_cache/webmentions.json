@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-03-26T21:46:01.245Z",
+  "lastFetched": "2022-04-13T19:53:19.487Z",
   "children": [
     {
       "type": "entry",
@@ -2104,6 +2104,48 @@
       },
       "in-reply-to": "https://geekosaur.com/post/music-monday-11/",
       "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "LightNovelTweeter",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/95d0781f968e18c7725e8cc81c0d0c94ad2ad0551b28849ad1f8185d6de0952a.jpg",
+        "url": "https://twitter.com/LnTweeter"
+      },
+      "url": "https://twitter.com/LnTweeter/status/1511967199468134401",
+      "published": "2022-04-07T07:20:46+00:00",
+      "wm-received": "2022-04-08T12:05:22Z",
+      "wm-id": 1376727,
+      "wm-source": "https://brid.gy/repost/twitter/FalconSensei/1511964784681533440/1511967199468134401",
+      "wm-target": "https://geekosaur.com/note/33e8d98e-c116-44e8-9f6b-1093db736086/",
+      "photo": [
+        "https://pbs.twimg.com/media/FPuT9V3X0AYP-ut.jpg"
+      ],
+      "content": {
+        "text": "I bought the Gamers! Light Novel in German so I’ll have a goal and an incentive to study. It’s good because it’s an anime that I liked, and the LN is not available in English, and I think chances are pretty small. (geekosaur.com/note/33e8d98e-…)"
+      },
+      "repost-of": "https://geekosaur.com/note/33e8d98e-c116-44e8-9f6b-1093db736086/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "GirlsNason",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/fe5c1864fa1349668ce29e1aeafc449926269f5c2dc823e569ea616ada07bcc5.jpg",
+        "url": "https://twitter.com/GirlsNason"
+      },
+      "url": "https://twitter.com/FalconSensei/status/1511964784681533440#favorited-by-1290534421456539650",
+      "published": null,
+      "wm-received": "2022-04-08T12:05:22Z",
+      "wm-id": 1376728,
+      "wm-source": "https://brid.gy/like/twitter/FalconSensei/1511964784681533440/1290534421456539650",
+      "wm-target": "https://geekosaur.com/note/33e8d98e-c116-44e8-9f6b-1093db736086/",
+      "like-of": "https://geekosaur.com/note/33e8d98e-c116-44e8-9f6b-1093db736086/",
+      "wm-property": "like-of",
       "wm-private": false
     }
   ]
