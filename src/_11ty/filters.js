@@ -161,4 +161,7 @@ module.exports = {
     if (!url) return "";
     return url.substring(url.lastIndexOf("/") + 1, url.length);
   },
+  getWithTag: (posts, tag) => {
+    return posts.filter(post => post.data.tags.includes(tag));
+  }
 };

@@ -129,16 +129,6 @@ module.exports = function(eleventyConfig) {
   // Alias `layout: post` to `layout: layouts/post.njk`
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
-  // Create an array of all tags
-  eleventyConfig.addCollection("tagList", function(collection) {
-    let tagSet = new Set();
-    collection.getAll().forEach(item => {
-      (item.data.tags || []).forEach(tag => tagSet.add(tag));
-    });
-
-    return filterTagList([...tagSet]);
-  });
-
   // https://11ta.netlify.app/2020/09/20/v110-brings-draft-posts/
   /**
 	 * Collections
@@ -187,6 +177,16 @@ module.exports = function(eleventyConfig) {
 
       return timeA - timeB;
     });
+  });
+
+  // Create an array of all tags
+  eleventyConfig.addCollection("tagList", function(collection) {
+    let tagSet = new Set();
+    collection.getAll().forEach(item => {
+      (item.data.tags || []).forEach(tag => tagSet.add(tag));
+    });
+
+    return filterTagList([...tagSet]);
   });
 
   // https://shivjm.blog/colophon/how-i-create-an-article-series-in-eleventy/
