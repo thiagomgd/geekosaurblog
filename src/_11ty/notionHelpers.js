@@ -304,7 +304,7 @@ async function updateTweet(notion, posts, type) {
     const responseJson = await resp.json();
 
     if (responseJson.data && responseJson.data.length > 0) {
-      const tweet = `https://twitter.com/FalconSensei/status/${responseJson.data[0].id}`;
+      const tweet = `https://twitter.com/${metadata.author.twitter_handle}/status/${responseJson.data[0].id}`;
       console.log(tweet);
       // TODO: don't mutate original object, create copy
       posts[post.id].tweet = tweet;
