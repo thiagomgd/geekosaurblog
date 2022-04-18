@@ -110,6 +110,10 @@ function _date(prop) {
   // return date
 }
 
+function _created_time(prop) {
+  return _date(prop["created_time"]);
+}
+
 function _files(prop) {
   files = prop["files"];
 
@@ -143,10 +147,6 @@ function _relation(prop) {
   if (!prop["relation"]) return [];
 
   return prop["relation"].map((item) => item["id"]);
-}
-
-function _created_time(prop) {
-  return prop["created_time"];
 }
 
 const NOTION_TO_DICT = {
@@ -267,9 +267,9 @@ function randomString(length) {
 function lessThanSevenDays(postDate) {
   if (!postDate) return false;
 
-  const today = luxon.DateTime.now();
-  const date2 = luxon.DateTime.fromJSDate(postDate);
-  const diffDays = today.diff(date2, "days").toObject().days;
+  const today = luxon.DateTime.now().setZone('America/Vancouver');
+  // const date2 = luxon.DateTime.fromJSDate(postDate);
+  const diffDays = today.diff(postDate, "days").toObject().days;
   // console.log(
   //   "date diff",
   //   today.toLocaleString(),
@@ -282,13 +282,10 @@ function lessThanSevenDays(postDate) {
 
 async function updateTweet(notion, posts, type) {
   if (!TWITTER_TOKEN || process.env.ELEVENTY_ENV === "development") return;
-  const toUpdate = Object.values(posts).filter((post) => {
-    return !post.tweet && lessThanSevenDays(post.date_published || new Date(post.created_time));
-  });
 
-  // if (type === 'note') {
-  //   console.log('TO UPDATE', toUpdate);
-  // }
+  const toUpdate = Object.values(posts).filter((post) => {
+    return !post.tweet && lessThanSevenDays(post.date_published || post.created_time);
+  });
 
   if (toUpdate.length === 0) return;
 
@@ -306,7 +303,7 @@ async function updateTweet(notion, posts, type) {
 
     if (responseJson.data && responseJson.data.length > 0) {
       const tweet = `https://twitter.com/${metadata.author.twitter_handle}/status/${responseJson.data[0].id}`;
-      console.log(tweet);
+      console.log('updating tweet', tweet);
       // TODO: don't mutate original object, create copy
       posts[post.id].tweet = tweet;
 
