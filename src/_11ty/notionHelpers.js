@@ -96,7 +96,8 @@ function _date(prop) {
   if (!dt || !dt.start) return undefined;
 
   // TODO: read end date?
-  return new Date(dt.start);
+
+  return luxon.DateTime.fromISO(dt.start);
 
   // if (!dt) return null;
 
