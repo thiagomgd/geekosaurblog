@@ -702,7 +702,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-01-16T00:00:00.000Z",
+      "date_read": "2015-01-16T00:00:00.000-08:00",
       "year_read": 2015
     },
     {
@@ -712,7 +712,7 @@
       ],
       "rating": 3,
       "review": null,
-      "date_read": "2015-01-16T00:00:00.000Z",
+      "date_read": "2015-01-16T00:00:00.000-08:00",
       "year_read": 2015
     },
     {
@@ -722,7 +722,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-01-19T00:00:00.000Z",
+      "date_read": "2015-01-19T00:00:00.000-08:00",
       "year_read": 2015
     },
     {
@@ -732,7 +732,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-02-20T00:00:00.000Z",
+      "date_read": "2015-02-20T00:00:00.000-08:00",
       "year_read": 2015
     },
     {
@@ -742,7 +742,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-04-14T00:00:00.000Z",
+      "date_read": "2015-04-14T00:00:00.000-07:00",
       "year_read": 2015
     },
     {
@@ -752,7 +752,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-03-01T00:00:00.000Z",
+      "date_read": "2015-03-01T00:00:00.000-08:00",
       "year_read": 2015
     },
     {
@@ -762,7 +762,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-06-14T00:00:00.000Z",
+      "date_read": "2015-06-14T00:00:00.000-07:00",
       "year_read": 2015
     },
     {
@@ -772,7 +772,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-07-14T00:00:00.000Z",
+      "date_read": "2015-07-14T00:00:00.000-07:00",
       "year_read": 2015
     },
     {
@@ -782,7 +782,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-08-11T00:00:00.000Z",
+      "date_read": "2015-08-11T00:00:00.000-07:00",
       "year_read": 2015
     },
     {
@@ -792,7 +792,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-09-29T00:00:00.000Z",
+      "date_read": "2015-09-29T00:00:00.000-07:00",
       "year_read": 2015
     },
     {
@@ -802,7 +802,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-10-25T00:00:00.000Z",
+      "date_read": "2015-10-25T00:00:00.000-07:00",
       "year_read": 2015
     },
     {
@@ -812,7 +812,7 @@
       ],
       "rating": 5,
       "review": null,
-      "date_read": "2015-10-30T00:00:00.000Z",
+      "date_read": "2015-10-30T00:00:00.000-07:00",
       "year_read": 2015
     },
     {
@@ -822,7 +822,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-12-16T00:00:00.000Z",
+      "date_read": "2015-12-16T00:00:00.000-08:00",
       "year_read": 2015
     },
     {
@@ -832,7 +832,7 @@
       ],
       "rating": 5,
       "review": null,
-      "date_read": "2015-09-07T00:00:00.000Z",
+      "date_read": "2015-09-07T00:00:00.000-07:00",
       "year_read": 2015
     },
     {
@@ -842,7 +842,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-10-06T00:00:00.000Z",
+      "date_read": "2015-10-06T00:00:00.000-07:00",
       "year_read": 2015
     },
     {
@@ -852,7 +852,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-02-17T00:00:00.000Z",
+      "date_read": "2015-02-17T00:00:00.000-08:00",
       "year_read": 2015
     },
     {
@@ -862,7 +862,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-01-15T00:00:00.000Z",
+      "date_read": "2015-01-15T00:00:00.000-08:00",
       "year_read": 2015
     }
   ],
@@ -874,7 +874,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2016-02-20T00:00:00.000Z",
+      "date_read": "2016-02-20T00:00:00.000-08:00",
       "year_read": 2016
     },
     {
@@ -884,7 +884,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2016-02-20T00:00:00.000Z",
+      "date_read": "2016-02-20T00:00:00.000-08:00",
       "year_read": 2016
     },
     {
@@ -894,7 +894,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2016-02-20T00:00:00.000Z",
+      "date_read": "2016-02-20T00:00:00.000-08:00",
       "year_read": 2016
     },
     {
@@ -904,7 +904,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2016-02-20T00:00:00.000Z",
+      "date_read": "2016-02-20T00:00:00.000-08:00",
       "year_read": 2016
     },
     {
@@ -914,7 +914,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2016-03-31T00:00:00.000Z",
+      "date_read": "2016-03-31T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -924,7 +924,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2016-04-01T00:00:00.000Z",
+      "date_read": "2016-04-01T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -934,7 +934,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2016-04-01T00:00:00.000Z",
+      "date_read": "2016-04-01T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -944,7 +944,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2016-04-06T00:00:00.000Z",
+      "date_read": "2016-04-06T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -954,7 +954,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2016-06-13T00:00:00.000Z",
+      "date_read": "2016-06-13T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -964,7 +964,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2016-06-16T00:00:00.000Z",
+      "date_read": "2016-06-16T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -974,7 +974,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2016-06-17T00:00:00.000Z",
+      "date_read": "2016-06-17T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -984,7 +984,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2016-07-20T00:00:00.000Z",
+      "date_read": "2016-07-20T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -994,7 +994,7 @@
       ],
       "rating": 3,
       "review": null,
-      "date_read": "2016-09-22T00:00:00.000Z",
+      "date_read": "2016-09-22T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -1004,7 +1004,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2016-12-15T00:00:00.000Z",
+      "date_read": "2016-12-15T00:00:00.000-08:00",
       "year_read": 2016
     },
     {
@@ -1014,7 +1014,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2016-06-15T00:00:00.000Z",
+      "date_read": "2016-06-15T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -1024,7 +1024,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2016-03-31T00:00:00.000Z",
+      "date_read": "2016-03-31T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -1034,7 +1034,7 @@
       ],
       "rating": 3,
       "review": null,
-      "date_read": "2016-03-08T00:00:00.000Z",
+      "date_read": "2016-03-08T00:00:00.000-08:00",
       "year_read": 2016
     }
   ],
@@ -1046,7 +1046,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2018-02-27T00:00:00.000Z",
+      "date_read": "2018-02-27T00:00:00.000-08:00",
       "year_read": 2018
     },
     {
@@ -1056,7 +1056,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2018-07-06T00:00:00.000Z",
+      "date_read": "2018-07-06T00:00:00.000-07:00",
       "year_read": 2018
     },
     {
@@ -1066,7 +1066,7 @@
       ],
       "rating": 5,
       "review": null,
-      "date_read": "2018-07-31T00:00:00.000Z",
+      "date_read": "2018-07-31T00:00:00.000-07:00",
       "year_read": 2018
     },
     {
@@ -1076,7 +1076,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2018-10-23T00:00:00.000Z",
+      "date_read": "2018-10-23T00:00:00.000-07:00",
       "year_read": 2018
     },
     {
@@ -1086,7 +1086,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2018-12-11T00:00:00.000Z",
+      "date_read": "2018-12-11T00:00:00.000-08:00",
       "year_read": 2018
     },
     {
@@ -1096,11 +1096,11 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2018-12-11T00:00:00.000Z",
+      "date_read": "2018-12-11T00:00:00.000-08:00",
       "year_read": 2018
     }
   ],
-  "2019": [
+  "2020": [
     {
       "title": "Miss Kobayashi's Dragon Maid, Vol. 1",
       "cover": [
@@ -1108,8 +1108,8 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2020-01-01T00:00:00.000Z",
-      "year_read": 2019
+      "date_read": "2020-01-01T00:00:00.000-08:00",
+      "year_read": 2020
     },
     {
       "title": "Miss Kobayashi's Dragon Maid, Vol. 2",
@@ -1118,11 +1118,11 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2020-01-01T00:00:00.000Z",
-      "year_read": 2019
+      "date_read": "2020-01-01T00:00:00.000-08:00",
+      "year_read": 2020
     }
   ],
-  "2020": [
+  "2021": [
     {
       "title": "彼女、お借りします 5 [Kanojo, Okari shimasu 5] (Rent-A-Girlfriend, #5)",
       "cover": [
@@ -1130,8 +1130,8 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2021-01-01T00:00:00.000Z",
-      "year_read": 2020
+      "date_read": "2021-01-01T00:00:00.000-08:00",
+      "year_read": 2021
     },
     {
       "title": "彼女、お借りします 4 [Kanojo, Okari shimasu 4] (Rent-A-Girlfriend, #4)",
@@ -1140,8 +1140,8 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2021-01-01T00:00:00.000Z",
-      "year_read": 2020
+      "date_read": "2021-01-01T00:00:00.000-08:00",
+      "year_read": 2021
     },
     {
       "title": "彼女、お借りします 3 [Kanojo, Okari shimasu 3] (Rent-A-Girlfriend, #3)",
@@ -1150,8 +1150,8 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2021-01-01T00:00:00.000Z",
-      "year_read": 2020
+      "date_read": "2021-01-01T00:00:00.000-08:00",
+      "year_read": 2021
     },
     {
       "title": "彼女、お借りします 2 [Kanojo, Okari shimasu 2] (Rent-A-Girlfriend, #2)",
@@ -1160,8 +1160,8 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2021-01-01T00:00:00.000Z",
-      "year_read": 2020
+      "date_read": "2021-01-01T00:00:00.000-08:00",
+      "year_read": 2021
     },
     {
       "title": "彼女、お借りします 1 [Kanojo, Okari shimasu 1] (Rent-A-Girlfriend, #1)",
@@ -1170,8 +1170,8 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2021-01-01T00:00:00.000Z",
-      "year_read": 2020
+      "date_read": "2021-01-01T00:00:00.000-08:00",
+      "year_read": 2021
     },
     {
       "title": "Don't Toy with Me, Miss Nagatoro, Vol. 3",
@@ -1180,8 +1180,8 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2021-01-01T00:00:00.000Z",
-      "year_read": 2020
+      "date_read": "2021-01-01T00:00:00.000-08:00",
+      "year_read": 2021
     },
     {
       "title": "Don't Toy With Me, Miss Nagatoro, Vol. 2",
@@ -1190,21 +1190,9 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2021-01-01T00:00:00.000Z",
-      "year_read": 2020
+      "date_read": "2021-01-01T00:00:00.000-08:00",
+      "year_read": 2021
     },
-    {
-      "title": "Don't Toy With Me, Miss Nagatoro, Vol. 1",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573917057l/48837992._SX318_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2021-01-01T00:00:00.000Z",
-      "year_read": 2020
-    }
-  ],
-  "2021": [
     {
       "title": "Mieruko-chan, Vol. 1",
       "cover": [
@@ -1212,7 +1200,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2021-04-30T00:00:00.000Z",
+      "date_read": "2021-04-30T00:00:00.000-07:00",
       "year_read": 2021
     },
     {
@@ -1222,7 +1210,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2021-05-16T00:00:00.000Z",
+      "date_read": "2021-05-16T00:00:00.000-07:00",
       "year_read": 2021
     },
     {
@@ -1232,7 +1220,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2021-04-20T00:00:00.000Z",
+      "date_read": "2021-04-20T00:00:00.000-07:00",
       "year_read": 2021
     },
     {
@@ -1242,7 +1230,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2021-04-13T00:00:00.000Z",
+      "date_read": "2021-04-13T00:00:00.000-07:00",
       "year_read": 2021
     },
     {
@@ -1252,7 +1240,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2021-04-27T00:00:00.000Z",
+      "date_read": "2021-04-27T00:00:00.000-07:00",
       "year_read": 2021
     },
     {
@@ -1262,7 +1250,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2021-05-15T00:00:00.000Z",
+      "date_read": "2021-05-15T00:00:00.000-07:00",
       "year_read": 2021
     },
     {
@@ -1272,7 +1260,17 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2021-06-10T00:00:00.000Z",
+      "date_read": "2021-06-10T00:00:00.000-07:00",
+      "year_read": 2021
+    },
+    {
+      "title": "Don't Toy With Me, Miss Nagatoro, Vol. 1",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573917057l/48837992._SX318_.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "date_read": "2021-01-01T00:00:00.000-08:00",
       "year_read": 2021
     }
   ],
@@ -1284,7 +1282,7 @@
       ],
       "rating": 3,
       "review": null,
-      "date_read": "2022-03-13T00:00:00.000Z",
+      "date_read": "2022-03-13T00:00:00.000-08:00",
       "year_read": 2022
     },
     {
@@ -1294,7 +1292,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2022-03-13T00:00:00.000Z",
+      "date_read": "2022-03-13T00:00:00.000-08:00",
       "year_read": 2022
     },
     {
@@ -1304,7 +1302,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2022-03-16T00:00:00.000Z",
+      "date_read": "2022-03-16T00:00:00.000-07:00",
       "year_read": 2022
     },
     {
@@ -1314,7 +1312,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2022-03-18T00:00:00.000Z",
+      "date_read": "2022-03-18T00:00:00.000-07:00",
       "year_read": 2022
     },
     {
@@ -1324,7 +1322,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2022-03-18T00:00:00.000Z",
+      "date_read": "2022-03-18T00:00:00.000-07:00",
       "year_read": 2022
     },
     {
@@ -1334,7 +1332,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2022-03-20T00:00:00.000Z",
+      "date_read": "2022-03-20T00:00:00.000-07:00",
       "year_read": 2022
     },
     {
@@ -1344,7 +1342,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2022-03-20T00:00:00.000Z",
+      "date_read": "2022-03-20T00:00:00.000-07:00",
       "year_read": 2022
     },
     {
@@ -1354,7 +1352,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2022-02-01T00:00:00.000Z",
+      "date_read": "2022-02-01T00:00:00.000-08:00",
       "year_read": 2022
     },
     {
@@ -1364,7 +1362,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2022-02-01T00:00:00.000Z",
+      "date_read": "2022-02-01T00:00:00.000-08:00",
       "year_read": 2022
     },
     {
@@ -1374,7 +1372,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2022-02-01T00:00:00.000Z",
+      "date_read": "2022-02-01T00:00:00.000-08:00",
       "year_read": 2022
     },
     {
@@ -1384,7 +1382,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2022-02-01T00:00:00.000Z",
+      "date_read": "2022-02-01T00:00:00.000-08:00",
       "year_read": 2022
     },
     {
@@ -1394,7 +1392,7 @@
       ],
       "rating": 3,
       "review": null,
-      "date_read": "2022-03-12T00:00:00.000Z",
+      "date_read": "2022-03-12T00:00:00.000-08:00",
       "year_read": 2022
     },
     {
@@ -1404,7 +1402,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2022-02-05T00:00:00.000Z",
+      "date_read": "2022-02-05T00:00:00.000-08:00",
       "year_read": 2022
     },
     {
@@ -1414,7 +1412,7 @@
       ],
       "rating": 3,
       "review": null,
-      "date_read": "2022-02-05T00:00:00.000Z",
+      "date_read": "2022-02-05T00:00:00.000-08:00",
       "year_read": 2022
     },
     {
@@ -1424,7 +1422,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2022-02-05T00:00:00.000Z",
+      "date_read": "2022-02-05T00:00:00.000-08:00",
       "year_read": 2022
     },
     {
@@ -1434,7 +1432,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2022-02-06T00:00:00.000Z",
+      "date_read": "2022-02-06T00:00:00.000-08:00",
       "year_read": 2022
     },
     {
@@ -1444,7 +1442,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2022-01-29T00:00:00.000Z",
+      "date_read": "2022-01-29T00:00:00.000-08:00",
       "year_read": 2022
     },
     {
@@ -1454,7 +1452,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2022-01-30T00:00:00.000Z",
+      "date_read": "2022-01-30T00:00:00.000-08:00",
       "year_read": 2022
     },
     {
@@ -1464,7 +1462,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2022-01-30T00:00:00.000Z",
+      "date_read": "2022-01-30T00:00:00.000-08:00",
       "year_read": 2022
     },
     {
@@ -1474,7 +1472,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2022-01-30T00:00:00.000Z",
+      "date_read": "2022-01-30T00:00:00.000-08:00",
       "year_read": 2022
     },
     {
@@ -1484,7 +1482,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2022-01-16T00:00:00.000Z",
+      "date_read": "2022-01-16T00:00:00.000-08:00",
       "year_read": 2022
     }
   ]

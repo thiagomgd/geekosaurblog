@@ -93,7 +93,7 @@ async function fetchBooks() {
         rating: newBook["My Rating"],
         review: newBook["Review"],
         date_read: newBook["Date Read"],
-        year_read: newBook["Date Read"] ? newBook["Date Read"].getFullYear() : 0,
+        year_read: newBook["Date Read"] ? newBook["Date Read"].year : 0,
       });
     }
 

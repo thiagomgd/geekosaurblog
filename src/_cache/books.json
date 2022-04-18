@@ -981,11 +981,11 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2010-12-05T00:00:00.000Z",
+      "date_read": "2010-12-05T00:00:00.000-08:00",
       "year_read": 2010
     }
   ],
-  "2012": [
+  "2013": [
     {
       "title": "Mr. Monk Goes to Hawaii (Mr. Monk, #2)",
       "cover": [
@@ -993,8 +993,8 @@
       ],
       "rating": 5,
       "review": null,
-      "date_read": "2013-01-01T00:00:00.000Z",
-      "year_read": 2012
+      "date_read": "2013-01-01T00:00:00.000-08:00",
+      "year_read": 2013
     },
     {
       "title": "The Color of Magic (Discworld, #1; Rincewind, #1)",
@@ -1003,8 +1003,18 @@
       ],
       "rating": 5,
       "review": null,
-      "date_read": "2013-01-01T00:00:00.000Z",
-      "year_read": 2012
+      "date_read": "2013-01-01T00:00:00.000-08:00",
+      "year_read": 2013
+    },
+    {
+      "title": "Curiosity Thrilled the Cat (A Magical Cats Mystery, #1)",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388196304l/8730413.jpg"
+      ],
+      "rating": 4,
+      "review": null,
+      "date_read": "2013-08-20T00:00:00.000-07:00",
+      "year_read": 2013
     },
     {
       "title": "The Secret Life Of Laszlo, Count Dracula",
@@ -1013,29 +1023,7 @@
       ],
       "rating": 5,
       "review": null,
-      "date_read": "2013-01-01T00:00:00.000Z",
-      "year_read": 2012
-    },
-    {
-      "title": "Ghost a la Mode (A Ghost of Granny Apples Mystery, #1)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348059096l/6262397.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2013-01-01T00:00:00.000Z",
-      "year_read": 2012
-    }
-  ],
-  "2013": [
-    {
-      "title": "Curiosity Thrilled the Cat (A Magical Cats Mystery, #1)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388196304l/8730413.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2013-08-20T00:00:00.000Z",
+      "date_read": "2013-01-01T00:00:00.000-08:00",
       "year_read": 2013
     },
     {
@@ -1045,7 +1033,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2013-11-06T00:00:00.000Z",
+      "date_read": "2013-11-06T00:00:00.000-08:00",
       "year_read": 2013
     },
     {
@@ -1055,17 +1043,17 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2013-07-25T00:00:00.000Z",
+      "date_read": "2013-07-25T00:00:00.000-07:00",
       "year_read": 2013
     },
     {
-      "title": "Espiral da Morte (Skulduggery Pleasant, #5)",
+      "title": "Ghost a la Mode (A Ghost of Granny Apples Mystery, #1)",
       "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381085939l/18631397.jpg"
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348059096l/6262397.jpg"
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2014-01-01T00:00:00.000Z",
+      "date_read": "2013-01-01T00:00:00.000-08:00",
       "year_read": 2013
     }
   ],
@@ -1077,7 +1065,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2014-03-03T00:00:00.000Z",
+      "date_read": "2014-03-03T00:00:00.000-08:00",
       "year_read": 2014
     },
     {
@@ -1087,7 +1075,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2014-03-10T00:00:00.000Z",
+      "date_read": "2014-03-10T00:00:00.000-07:00",
       "year_read": 2014
     },
     {
@@ -1097,7 +1085,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2014-03-28T00:00:00.000Z",
+      "date_read": "2014-03-28T00:00:00.000-07:00",
       "year_read": 2014
     },
     {
@@ -1107,7 +1095,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2014-06-17T00:00:00.000Z",
+      "date_read": "2014-06-17T00:00:00.000-07:00",
       "year_read": 2014
     },
     {
@@ -1117,7 +1105,7 @@
       ],
       "rating": 5,
       "review": null,
-      "date_read": "2014-07-19T00:00:00.000Z",
+      "date_read": "2014-07-19T00:00:00.000-07:00",
       "year_read": 2014
     },
     {
@@ -1127,7 +1115,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2014-07-09T00:00:00.000Z",
+      "date_read": "2014-07-09T00:00:00.000-07:00",
       "year_read": 2014
     },
     {
@@ -1137,7 +1125,7 @@
       ],
       "rating": 5,
       "review": "https://geekosaur.com/post/review-the-assassins-curse-duology/",
-      "date_read": "2014-08-14T00:00:00.000Z",
+      "date_read": "2014-08-14T00:00:00.000-07:00",
       "year_read": 2014
     },
     {
@@ -1147,7 +1135,7 @@
       ],
       "rating": 4,
       "review": "https://geekosaur.com/post/review-the-assassins-curse-duology/",
-      "date_read": "2014-08-29T00:00:00.000Z",
+      "date_read": "2014-08-29T00:00:00.000-07:00",
       "year_read": 2014
     },
     {
@@ -1157,27 +1145,7 @@
       ],
       "rating": 3,
       "review": null,
-      "date_read": "2014-02-24T00:00:00.000Z",
-      "year_read": 2014
-    },
-    {
-      "title": "A Spell for Chameleon (Xanth, #1)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476435403l/76664._SY475_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2015-01-01T00:00:00.000Z",
-      "year_read": 2014
-    },
-    {
-      "title": "Iris Wildthyme: Wildthyme at Large",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1225738097l/644671.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2015-01-01T00:00:00.000Z",
+      "date_read": "2014-02-24T00:00:00.000-08:00",
       "year_read": 2014
     },
     {
@@ -1187,7 +1155,17 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2014-04-26T00:00:00.000Z",
+      "date_read": "2014-04-26T00:00:00.000-07:00",
+      "year_read": 2014
+    },
+    {
+      "title": "Espiral da Morte (Skulduggery Pleasant, #5)",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381085939l/18631397.jpg"
+      ],
+      "rating": 4,
+      "review": null,
+      "date_read": "2014-01-01T00:00:00.000-08:00",
       "year_read": 2014
     },
     {
@@ -1197,7 +1175,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2014-04-10T00:00:00.000Z",
+      "date_read": "2014-04-10T00:00:00.000-07:00",
       "year_read": 2014
     }
   ],
@@ -1209,7 +1187,17 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-01-06T00:00:00.000Z",
+      "date_read": "2015-01-06T00:00:00.000-08:00",
+      "year_read": 2015
+    },
+    {
+      "title": "A Spell for Chameleon (Xanth, #1)",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476435403l/76664._SY475_.jpg"
+      ],
+      "rating": 4,
+      "review": null,
+      "date_read": "2015-01-01T00:00:00.000-08:00",
       "year_read": 2015
     },
     {
@@ -1219,7 +1207,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-04-24T00:00:00.000Z",
+      "date_read": "2015-04-24T00:00:00.000-07:00",
       "year_read": 2015
     },
     {
@@ -1229,7 +1217,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-05-02T00:00:00.000Z",
+      "date_read": "2015-05-02T00:00:00.000-07:00",
       "year_read": 2015
     },
     {
@@ -1239,7 +1227,7 @@
       ],
       "rating": 5,
       "review": "https://geekosaur.com/post/hard-magic-larry-correia/",
-      "date_read": "2015-05-17T00:00:00.000Z",
+      "date_read": "2015-05-17T00:00:00.000-07:00",
       "year_read": 2015
     },
     {
@@ -1249,7 +1237,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-06-17T00:00:00.000Z",
+      "date_read": "2015-06-17T00:00:00.000-07:00",
       "year_read": 2015
     },
     {
@@ -1259,7 +1247,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-06-26T00:00:00.000Z",
+      "date_read": "2015-06-26T00:00:00.000-07:00",
       "year_read": 2015
     },
     {
@@ -1269,7 +1257,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2015-09-15T00:00:00.000Z",
+      "date_read": "2015-09-15T00:00:00.000-07:00",
       "year_read": 2015
     },
     {
@@ -1279,7 +1267,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-10-01T00:00:00.000Z",
+      "date_read": "2015-10-01T00:00:00.000-07:00",
       "year_read": 2015
     },
     {
@@ -1289,7 +1277,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-10-13T00:00:00.000Z",
+      "date_read": "2015-10-13T00:00:00.000-07:00",
       "year_read": 2015
     },
     {
@@ -1299,7 +1287,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-10-25T00:00:00.000Z",
+      "date_read": "2015-10-25T00:00:00.000-07:00",
       "year_read": 2015
     },
     {
@@ -1309,7 +1297,17 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-03-20T00:00:00.000Z",
+      "date_read": "2015-03-20T00:00:00.000-07:00",
+      "year_read": 2015
+    },
+    {
+      "title": "Iris Wildthyme: Wildthyme at Large",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1225738097l/644671.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "date_read": "2015-01-01T00:00:00.000-08:00",
       "year_read": 2015
     },
     {
@@ -1319,7 +1317,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-08-12T00:00:00.000Z",
+      "date_read": "2015-08-12T00:00:00.000-07:00",
       "year_read": 2015
     },
     {
@@ -1329,17 +1327,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2015-08-30T00:00:00.000Z",
-      "year_read": 2015
-    },
-    {
-      "title": "The Gun Seller",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480110444l/45234.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2016-01-01T00:00:00.000Z",
+      "date_read": "2015-08-30T00:00:00.000-07:00",
       "year_read": 2015
     },
     {
@@ -1349,7 +1337,7 @@
       ],
       "rating": 3,
       "review": null,
-      "date_read": "2015-03-19T00:00:00.000Z",
+      "date_read": "2015-03-19T00:00:00.000-07:00",
       "year_read": 2015
     },
     {
@@ -1359,7 +1347,7 @@
       ],
       "rating": 3,
       "review": null,
-      "date_read": "2015-12-26T00:00:00.000Z",
+      "date_read": "2015-12-26T00:00:00.000-08:00",
       "year_read": 2015
     },
     {
@@ -1369,7 +1357,7 @@
       ],
       "rating": 5,
       "review": null,
-      "date_read": "2015-04-15T00:00:00.000Z",
+      "date_read": "2015-04-15T00:00:00.000-07:00",
       "year_read": 2015
     }
   ],
@@ -1381,7 +1369,7 @@
       ],
       "rating": 5,
       "review": null,
-      "date_read": "2016-01-12T00:00:00.000Z",
+      "date_read": "2016-01-12T00:00:00.000-08:00",
       "year_read": 2016
     },
     {
@@ -1391,7 +1379,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2016-02-05T00:00:00.000Z",
+      "date_read": "2016-02-05T00:00:00.000-08:00",
       "year_read": 2016
     },
     {
@@ -1401,7 +1389,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2016-02-10T00:00:00.000Z",
+      "date_read": "2016-02-10T00:00:00.000-08:00",
       "year_read": 2016
     },
     {
@@ -1411,7 +1399,7 @@
       ],
       "rating": 5,
       "review": null,
-      "date_read": "2016-02-26T00:00:00.000Z",
+      "date_read": "2016-02-26T00:00:00.000-08:00",
       "year_read": 2016
     },
     {
@@ -1421,7 +1409,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2016-04-17T00:00:00.000Z",
+      "date_read": "2016-04-17T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -1431,7 +1419,7 @@
       ],
       "rating": 5,
       "review": null,
-      "date_read": "2016-04-26T00:00:00.000Z",
+      "date_read": "2016-04-26T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -1441,7 +1429,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2016-05-04T00:00:00.000Z",
+      "date_read": "2016-05-04T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -1451,7 +1439,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2016-05-25T00:00:00.000Z",
+      "date_read": "2016-05-25T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -1461,7 +1449,7 @@
       ],
       "rating": 0,
       "review": null,
-      "date_read": "2016-06-13T00:00:00.000Z",
+      "date_read": "2016-06-13T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -1471,7 +1459,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2016-08-15T00:00:00.000Z",
+      "date_read": "2016-08-15T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -1481,7 +1469,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2016-09-08T00:00:00.000Z",
+      "date_read": "2016-09-08T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -1491,7 +1479,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2016-09-28T00:00:00.000Z",
+      "date_read": "2016-09-28T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -1501,7 +1489,7 @@
       ],
       "rating": 5,
       "review": null,
-      "date_read": "2016-10-08T00:00:00.000Z",
+      "date_read": "2016-10-08T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -1511,7 +1499,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2016-11-24T00:00:00.000Z",
+      "date_read": "2016-11-24T00:00:00.000-08:00",
       "year_read": 2016
     },
     {
@@ -1521,7 +1509,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2016-12-20T00:00:00.000Z",
+      "date_read": "2016-12-20T00:00:00.000-08:00",
       "year_read": 2016
     },
     {
@@ -1531,7 +1519,7 @@
       ],
       "rating": 5,
       "review": null,
-      "date_read": "2016-05-18T00:00:00.000Z",
+      "date_read": "2016-05-18T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -1541,7 +1529,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2016-07-12T00:00:00.000Z",
+      "date_read": "2016-07-12T00:00:00.000-07:00",
       "year_read": 2016
     },
     {
@@ -1551,7 +1539,17 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2016-06-23T00:00:00.000Z",
+      "date_read": "2016-06-23T00:00:00.000-07:00",
+      "year_read": 2016
+    },
+    {
+      "title": "The Gun Seller",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480110444l/45234.jpg"
+      ],
+      "rating": 4,
+      "review": null,
+      "date_read": "2016-01-01T00:00:00.000-08:00",
       "year_read": 2016
     }
   ],
@@ -1563,7 +1561,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2017-01-06T00:00:00.000Z",
+      "date_read": "2017-01-06T00:00:00.000-08:00",
       "year_read": 2017
     },
     {
@@ -1573,7 +1571,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2017-05-11T00:00:00.000Z",
+      "date_read": "2017-05-11T00:00:00.000-07:00",
       "year_read": 2017
     },
     {
@@ -1583,7 +1581,7 @@
       ],
       "rating": 3,
       "review": null,
-      "date_read": "2017-07-11T00:00:00.000Z",
+      "date_read": "2017-07-11T00:00:00.000-07:00",
       "year_read": 2017
     },
     {
@@ -1593,7 +1591,7 @@
       ],
       "rating": 3,
       "review": null,
-      "date_read": "2017-08-31T00:00:00.000Z",
+      "date_read": "2017-08-31T00:00:00.000-07:00",
       "year_read": 2017
     },
     {
@@ -1603,7 +1601,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2017-07-16T00:00:00.000Z",
+      "date_read": "2017-07-16T00:00:00.000-07:00",
       "year_read": 2017
     },
     {
@@ -1613,7 +1611,7 @@
       ],
       "rating": 3,
       "review": null,
-      "date_read": "2017-12-08T00:00:00.000Z",
+      "date_read": "2017-12-08T00:00:00.000-08:00",
       "year_read": 2017
     },
     {
@@ -1623,7 +1621,7 @@
       ],
       "rating": 3,
       "review": null,
-      "date_read": "2017-03-14T00:00:00.000Z",
+      "date_read": "2017-03-14T00:00:00.000-07:00",
       "year_read": 2017
     },
     {
@@ -1633,7 +1631,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2017-02-20T00:00:00.000Z",
+      "date_read": "2017-02-20T00:00:00.000-08:00",
       "year_read": 2017
     },
     {
@@ -1643,7 +1641,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2017-01-19T00:00:00.000Z",
+      "date_read": "2017-01-19T00:00:00.000-08:00",
       "year_read": 2017
     },
     {
@@ -1653,7 +1651,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2017-01-20T00:00:00.000Z",
+      "date_read": "2017-01-20T00:00:00.000-08:00",
       "year_read": 2017
     }
   ],
@@ -1665,7 +1663,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2018-02-20T00:00:00.000Z",
+      "date_read": "2018-02-20T00:00:00.000-08:00",
       "year_read": 2018
     },
     {
@@ -1675,7 +1673,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2018-06-13T00:00:00.000Z",
+      "date_read": "2018-06-13T00:00:00.000-07:00",
       "year_read": 2018
     },
     {
@@ -1685,7 +1683,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2018-08-23T00:00:00.000Z",
+      "date_read": "2018-08-23T00:00:00.000-07:00",
       "year_read": 2018
     },
     {
@@ -1695,7 +1693,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2018-09-12T00:00:00.000Z",
+      "date_read": "2018-09-12T00:00:00.000-07:00",
       "year_read": 2018
     },
     {
@@ -1705,7 +1703,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2018-10-22T00:00:00.000Z",
+      "date_read": "2018-10-22T00:00:00.000-07:00",
       "year_read": 2018
     },
     {
@@ -1715,7 +1713,7 @@
       ],
       "rating": 4,
       "review": "https://geekosaur.com/post/review-salvage-trouble/",
-      "date_read": "2018-05-11T00:00:00.000Z",
+      "date_read": "2018-05-11T00:00:00.000-07:00",
       "year_read": 2018
     },
     {
@@ -1725,7 +1723,7 @@
       ],
       "rating": 5,
       "review": null,
-      "date_read": "2018-11-22T00:00:00.000Z",
+      "date_read": "2018-11-22T00:00:00.000-08:00",
       "year_read": 2018
     },
     {
@@ -1735,7 +1733,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2018-11-28T00:00:00.000Z",
+      "date_read": "2018-11-28T00:00:00.000-08:00",
       "year_read": 2018
     },
     {
@@ -1745,7 +1743,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2018-12-12T00:00:00.000Z",
+      "date_read": "2018-12-12T00:00:00.000-08:00",
       "year_read": 2018
     },
     {
@@ -1755,7 +1753,7 @@
       ],
       "rating": 3,
       "review": null,
-      "date_read": "2018-07-17T00:00:00.000Z",
+      "date_read": "2018-07-17T00:00:00.000-07:00",
       "year_read": 2018
     },
     {
@@ -1765,7 +1763,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2018-07-01T00:00:00.000Z",
+      "date_read": "2018-07-01T00:00:00.000-07:00",
       "year_read": 2018
     }
   ],
@@ -1777,7 +1775,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2019-02-02T00:00:00.000Z",
+      "date_read": "2019-02-02T00:00:00.000-08:00",
       "year_read": 2019
     },
     {
@@ -1787,7 +1785,7 @@
       ],
       "rating": 5,
       "review": null,
-      "date_read": "2019-05-04T00:00:00.000Z",
+      "date_read": "2019-05-04T00:00:00.000-07:00",
       "year_read": 2019
     },
     {
@@ -1797,7 +1795,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2019-10-09T00:00:00.000Z",
+      "date_read": "2019-10-09T00:00:00.000-07:00",
       "year_read": 2019
     },
     {
@@ -1807,17 +1805,7 @@
       ],
       "rating": 5,
       "review": null,
-      "date_read": "2019-09-12T00:00:00.000Z",
-      "year_read": 2019
-    },
-    {
-      "title": "Toradora! 2 (とらドラ!, #2)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534804087l/36518795._SX318_.jpg"
-      ],
-      "rating": 3,
-      "review": null,
-      "date_read": "2020-01-01T00:00:00.000Z",
+      "date_read": "2019-09-12T00:00:00.000-07:00",
       "year_read": 2019
     },
     {
@@ -1827,7 +1815,7 @@
       ],
       "rating": 3,
       "review": null,
-      "date_read": "2019-01-07T00:00:00.000Z",
+      "date_read": "2019-01-07T00:00:00.000-08:00",
       "year_read": 2019
     },
     {
@@ -1837,7 +1825,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2019-04-12T00:00:00.000Z",
+      "date_read": "2019-04-12T00:00:00.000-07:00",
       "year_read": 2019
     },
     {
@@ -1847,7 +1835,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2019-03-18T00:00:00.000Z",
+      "date_read": "2019-03-18T00:00:00.000-07:00",
       "year_read": 2019
     },
     {
@@ -1857,7 +1845,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2019-01-20T00:00:00.000Z",
+      "date_read": "2019-01-20T00:00:00.000-08:00",
       "year_read": 2019
     }
   ],
@@ -1869,7 +1857,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2020-02-20T00:00:00.000Z",
+      "date_read": "2020-02-20T00:00:00.000-08:00",
       "year_read": 2020
     },
     {
@@ -1879,7 +1867,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2020-03-08T00:00:00.000Z",
+      "date_read": "2020-03-08T00:00:00.000-08:00",
       "year_read": 2020
     },
     {
@@ -1889,7 +1877,7 @@
       ],
       "rating": 5,
       "review": null,
-      "date_read": "2020-09-30T00:00:00.000Z",
+      "date_read": "2020-09-30T00:00:00.000-07:00",
       "year_read": 2020
     },
     {
@@ -1899,7 +1887,7 @@
       ],
       "rating": 5,
       "review": null,
-      "date_read": "2020-10-28T00:00:00.000Z",
+      "date_read": "2020-10-28T00:00:00.000-07:00",
       "year_read": 2020
     },
     {
@@ -1909,7 +1897,17 @@
       ],
       "rating": 5,
       "review": null,
-      "date_read": "2020-11-17T00:00:00.000Z",
+      "date_read": "2020-11-17T00:00:00.000-08:00",
+      "year_read": 2020
+    },
+    {
+      "title": "Toradora! 2 (とらドラ!, #2)",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534804087l/36518795._SX318_.jpg"
+      ],
+      "rating": 3,
+      "review": null,
+      "date_read": "2020-01-01T00:00:00.000-08:00",
       "year_read": 2020
     },
     {
@@ -1919,7 +1917,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2020-04-29T00:00:00.000Z",
+      "date_read": "2020-04-29T00:00:00.000-07:00",
       "year_read": 2020
     }
   ],
@@ -1931,7 +1929,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2021-12-03T00:00:00.000Z",
+      "date_read": "2021-12-03T00:00:00.000-08:00",
       "year_read": 2021
     },
     {
@@ -1941,7 +1939,7 @@
       ],
       "rating": 4,
       "review": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
-      "date_read": "2021-11-10T00:00:00.000Z",
+      "date_read": "2021-11-10T00:00:00.000-08:00",
       "year_read": 2021
     },
     {
@@ -1951,7 +1949,7 @@
       ],
       "rating": 4,
       "review": "https://geekosaur.com/post/book-review-the-word-is-murder-by-anthony-horowitz/",
-      "date_read": "2021-01-02T00:00:00.000Z",
+      "date_read": "2021-01-02T00:00:00.000-08:00",
       "year_read": 2021
     },
     {
@@ -1961,7 +1959,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2021-01-25T00:00:00.000Z",
+      "date_read": "2021-01-25T00:00:00.000-08:00",
       "year_read": 2021
     },
     {
@@ -1971,7 +1969,7 @@
       ],
       "rating": 5,
       "review": null,
-      "date_read": "2021-02-12T00:00:00.000Z",
+      "date_read": "2021-02-12T00:00:00.000-08:00",
       "year_read": 2021
     },
     {
@@ -1981,7 +1979,7 @@
       ],
       "rating": 4,
       "review": "https://geekosaur.com/post/finished-the-dragon-lords-books/",
-      "date_read": "2021-04-03T00:00:00.000Z",
+      "date_read": "2021-04-03T00:00:00.000-07:00",
       "year_read": 2021
     },
     {
@@ -1991,7 +1989,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2021-05-09T00:00:00.000Z",
+      "date_read": "2021-05-09T00:00:00.000-07:00",
       "year_read": 2021
     },
     {
@@ -2001,7 +1999,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2021-06-16T00:00:00.000Z",
+      "date_read": "2021-06-16T00:00:00.000-07:00",
       "year_read": 2021
     },
     {
@@ -2011,7 +2009,7 @@
       ],
       "rating": 5,
       "review": "https://geekosaur.com/post/later-stephen-king/",
-      "date_read": "2021-09-28T00:00:00.000Z",
+      "date_read": "2021-09-28T00:00:00.000-07:00",
       "year_read": 2021
     },
     {
@@ -2021,7 +2019,7 @@
       ],
       "rating": 5,
       "review": null,
-      "date_read": "2021-09-08T00:00:00.000Z",
+      "date_read": "2021-09-08T00:00:00.000-07:00",
       "year_read": 2021
     }
   ],
@@ -2033,7 +2031,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2022-02-21T00:00:00.000Z",
+      "date_read": "2022-02-21T00:00:00.000-08:00",
       "year_read": 2022
     },
     {
@@ -2043,7 +2041,7 @@
       ],
       "rating": 5,
       "review": "https://geekosaur.com/post/book-notes-wool-silo-1/",
-      "date_read": "2022-01-03T00:00:00.000Z",
+      "date_read": "2022-01-03T00:00:00.000-08:00",
       "year_read": 2022
     },
     {
@@ -2053,7 +2051,7 @@
       ],
       "rating": 5,
       "review": "https://geekosaur.com/post/book-notes-shift-hugh-howey/",
-      "date_read": "2022-01-23T00:00:00.000Z",
+      "date_read": "2022-01-23T00:00:00.000-08:00",
       "year_read": 2022
     },
     {
@@ -2063,7 +2061,7 @@
       ],
       "rating": 4,
       "review": null,
-      "date_read": "2022-02-15T00:00:00.000Z",
+      "date_read": "2022-02-15T00:00:00.000-08:00",
       "year_read": 2022
     }
   ]

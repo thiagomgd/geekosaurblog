@@ -94,7 +94,7 @@ async function fetchBooks() {
         review: newBook["Review"],
         date_read: newBook["Date Read"],
         year_read: newBook["Date Read"]
-          ? newBook["Date Read"].getFullYear()
+          ? newBook["Date Read"].year
           : 0,
       });
     }
