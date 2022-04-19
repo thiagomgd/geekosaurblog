@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-04-19T04:21:21.671Z",
+  "lastFetched": "2022-04-19T20:03:10.963Z",
   "children": [
     {
       "type": "entry",
@@ -2318,6 +2318,24 @@
       },
       "in-reply-to": "https://geekosaur.com/post/music-monday-13/",
       "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "nabe-chan || ribbon girl",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/a2e8794f19c2b0822d2cb3c1ba32b1dfc2cc5f46596e36da10e83d7e6d8eacb5.png",
+        "url": "https://twitter.com/geeknabe"
+      },
+      "url": "https://twitter.com/FalconSensei/status/1516297746034176006#favorited-by-1175024564625035264",
+      "published": null,
+      "wm-received": "2022-04-19T09:16:02Z",
+      "wm-id": 1383175,
+      "wm-source": "https://brid.gy/like/twitter/FalconSensei/1516297746034176006/1175024564625035264",
+      "wm-target": "https://geekosaur.com/note/a5b72614-f04f-4cea-a7e8-f2f8025a0529/",
+      "like-of": "https://geekosaur.com/note/a5b72614-f04f-4cea-a7e8-f2f8025a0529/",
+      "wm-property": "like-of",
       "wm-private": false
     }
   ]
