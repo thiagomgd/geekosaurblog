@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-04-18T05:05:57.393Z",
+  "lastFetched": "2022-04-19T04:21:21.671Z",
   "children": [
     {
       "type": "entry",
@@ -2201,6 +2201,124 @@
       "rels": {
         "canonical": "https://geekosaur.com/post/geekosaur-news-23/"
       }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/53ec7a1d786bb3a10720f12d5853b318b49cfbcdc82de945c81f9fe1e754144a.png",
+        "url": "https://mastodon.social/@falcon"
+      },
+      "url": "https://mastodon.social/@falcon/108155603508739739",
+      "published": "2022-04-18T23:12:19",
+      "wm-received": "2022-04-18T23:33:09Z",
+      "wm-id": 1382991,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/108071935033557163/108155603508739739",
+      "wm-target": "https://geekosaur.com/post/reading-plans-april-2022/",
+      "content": {
+        "html": "<p>Let’s have a look at how I’m doing so far this month regarding my reading goals! (<a href=\"https://geekosaur.com/post/mid-april-reading-check-2022/\"><span>https://</span><span>geekosaur.com/post/mid-april-r</span><span>eading-check-2022/</span></a>)</p>\n<a href=\"https://geekosaur.com/post/mid-april-reading-check-2022/\">Mid-April Reading Check</a>",
+        "text": "Let’s have a look at how I’m doing so far this month regarding my reading goals! (https://geekosaur.com/post/mid-april-reading-check-2022/)\nMid-April Reading Check"
+      },
+      "in-reply-to": "https://geekosaur.com/post/reading-plans-april-2022/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://geekosaur.com/post/mid-april-reading-check-2022/",
+      "published": null,
+      "wm-received": "2022-04-18T23:11:35Z",
+      "wm-id": 1382982,
+      "wm-source": "https://geekosaur.com/post/mid-april-reading-check-2022/",
+      "wm-target": "https://geekosaur.com/post/geekosaur-news-23/",
+      "name": "Mid-April Reading Check",
+      "content": {
+        "html": "<p>Earlier this month I shared my reading goals for April 2022 (<a href=\"https://geekosaur.com/post/reading-plans-april-2022/\">see it here</a>). I defined goals for books (fiction and non-fiction) and also manga (not a ‘goal’ though, since I didn’t specify how many chapters).</p>\n<p>Any way, most of my reading this month so far has been for manga: I’ve read 240 chapters of One Piece! I’m currently in the Skypiea arc, but it’s probably time to start taking it easy, unless I want to miserably fail at my book goals, haha.</p>\n<p>But it was not a bad month so far, I was just busier and with less energy for books, as I mentioned in the <a href=\"https://geekosaur.com/post/geekosaur-news-23/\">last Geekosaur News</a>. Also, I wasn’t planning on getting involved in photography, and investigating which camera and lens to get, trying to find it - and then going out for photo walks - takes time, but was very enjoyable.</p>\n<p>This is how much I read on the past couple weeks</p>\n<p></p><img src=\"https://geekosaur.com/img/y2b5ZwSU_f-614.webp\" width=\"614\" height=\"100\" alt=\"\" /><p>I think it’s alright everything considered. But I’ll make some effort for the rest of the month!</p>\n<p><em>Social Media Thumbnail by</em> <a href=\"https://unsplash.com/@sonnnchen?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\"><em>Sonja Punz</em></a> <em>on</em> <a href=\"https://unsplash.com/collections/QUlPu1EDJjE/reading?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\"><em>Unsplash</em></a></p>\n<a href=\"https://brid.gy/publish/twitter\"></a>\n<a class=\"u-in-reply-to\" href=\"https://twitter.com/FalconSensei/status/1510837825255534593\"></a>\n<p class=\"p-bridgy-twitter-content\">Let’s have a look at how I’m doing so far this month regarding my reading goals!</p>",
+        "text": "Earlier this month I shared my reading goals for April 2022 (see it here). I defined goals for books (fiction and non-fiction) and also manga (not a ‘goal’ though, since I didn’t specify how many chapters).\nAny way, most of my reading this month so far has been for manga: I’ve read 240 chapters of One Piece! I’m currently in the Skypiea arc, but it’s probably time to start taking it easy, unless I want to miserably fail at my book goals, haha.\nBut it was not a bad month so far, I was just busier and with less energy for books, as I mentioned in the last Geekosaur News. Also, I wasn’t planning on getting involved in photography, and investigating which camera and lens to get, trying to find it - and then going out for photo walks - takes time, but was very enjoyable.\nThis is how much I read on the past couple weeks\nI think it’s alright everything considered. But I’ll make some effort for the rest of the month!\nSocial Media Thumbnail by Sonja Punz on Unsplash\n\n\nLet’s have a look at how I’m doing so far this month regarding my reading goals!"
+      },
+      "in-reply-to": "https://geekosaur.com/post/geekosaur-news-23/",
+      "wm-property": "in-reply-to",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://geekosaur.com/post/mid-april-reading-check-2022/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://geekosaur.com/post/mid-april-reading-check-2022/",
+      "published": null,
+      "wm-received": "2022-04-18T23:11:33Z",
+      "wm-id": 1382981,
+      "wm-source": "https://geekosaur.com/post/mid-april-reading-check-2022/",
+      "wm-target": "https://geekosaur.com/post/reading-plans-april-2022/",
+      "name": "Mid-April Reading Check",
+      "content": {
+        "html": "<p>Earlier this month I shared my reading goals for April 2022 (<a href=\"https://geekosaur.com/post/reading-plans-april-2022/\">see it here</a>). I defined goals for books (fiction and non-fiction) and also manga (not a ‘goal’ though, since I didn’t specify how many chapters).</p>\n<p>Any way, most of my reading this month so far has been for manga: I’ve read 240 chapters of One Piece! I’m currently in the Skypiea arc, but it’s probably time to start taking it easy, unless I want to miserably fail at my book goals, haha.</p>\n<p>But it was not a bad month so far, I was just busier and with less energy for books, as I mentioned in the <a href=\"https://geekosaur.com/post/geekosaur-news-23/\">last Geekosaur News</a>. Also, I wasn’t planning on getting involved in photography, and investigating which camera and lens to get, trying to find it - and then going out for photo walks - takes time, but was very enjoyable.</p>\n<p>This is how much I read on the past couple weeks</p>\n<p></p><img src=\"https://geekosaur.com/img/y2b5ZwSU_f-614.webp\" width=\"614\" height=\"100\" alt=\"\" /><p>I think it’s alright everything considered. But I’ll make some effort for the rest of the month!</p>\n<p><em>Social Media Thumbnail by</em> <a href=\"https://unsplash.com/@sonnnchen?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\"><em>Sonja Punz</em></a> <em>on</em> <a href=\"https://unsplash.com/collections/QUlPu1EDJjE/reading?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\"><em>Unsplash</em></a></p>\n<a href=\"https://brid.gy/publish/twitter\"></a>\n<a class=\"u-in-reply-to\" href=\"https://twitter.com/FalconSensei/status/1510837825255534593\"></a>\n<p class=\"p-bridgy-twitter-content\">Let’s have a look at how I’m doing so far this month regarding my reading goals!</p>",
+        "text": "Earlier this month I shared my reading goals for April 2022 (see it here). I defined goals for books (fiction and non-fiction) and also manga (not a ‘goal’ though, since I didn’t specify how many chapters).\nAny way, most of my reading this month so far has been for manga: I’ve read 240 chapters of One Piece! I’m currently in the Skypiea arc, but it’s probably time to start taking it easy, unless I want to miserably fail at my book goals, haha.\nBut it was not a bad month so far, I was just busier and with less energy for books, as I mentioned in the last Geekosaur News. Also, I wasn’t planning on getting involved in photography, and investigating which camera and lens to get, trying to find it - and then going out for photo walks - takes time, but was very enjoyable.\nThis is how much I read on the past couple weeks\nI think it’s alright everything considered. But I’ll make some effort for the rest of the month!\nSocial Media Thumbnail by Sonja Punz on Unsplash\n\n\nLet’s have a look at how I’m doing so far this month regarding my reading goals!"
+      },
+      "in-reply-to": "https://geekosaur.com/post/reading-plans-april-2022/",
+      "wm-property": "in-reply-to",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://geekosaur.com/post/mid-april-reading-check-2022/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/53ec7a1d786bb3a10720f12d5853b318b49cfbcdc82de945c81f9fe1e754144a.png",
+        "url": "https://mastodon.social/@falcon"
+      },
+      "url": "https://mastodon.social/@falcon/108151245957875555",
+      "published": "2022-04-18T04:44:08",
+      "wm-received": "2022-04-18T07:02:24Z",
+      "wm-id": 1382629,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/108094360111244685/108151245957875555",
+      "wm-target": "https://geekosaur.com/post/geekosaur-news-22/",
+      "content": {
+        "html": "<p>Another week went by, and it went so fast (<a href=\"https://geekosaur.com/post/geekosaur-news-23/\"><span>https://</span><span>geekosaur.com/post/geekosaur-n</span><span>ews-23/</span></a>)</p>\n<a href=\"https://geekosaur.com/post/geekosaur-news-23/\">Geekosaur News 23: Getting Older Is Tough, I Guess?</a>",
+        "text": "Another week went by, and it went so fast (https://geekosaur.com/post/geekosaur-news-23/)\nGeekosaur News 23: Getting Older Is Tough, I Guess?"
+      },
+      "in-reply-to": "https://geekosaur.com/post/geekosaur-news-22/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/53ec7a1d786bb3a10720f12d5853b318b49cfbcdc82de945c81f9fe1e754144a.png",
+        "url": "https://mastodon.social/@falcon"
+      },
+      "url": "https://mastodon.social/@falcon/108151364039935477",
+      "published": "2022-04-18T05:14:10",
+      "wm-received": "2022-04-18T07:02:24Z",
+      "wm-id": 1382630,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/108076995919803641/108151364039935477",
+      "wm-target": "https://geekosaur.com/post/music-monday-13/",
+      "content": {
+        "html": "<p>A couple decades ago, a friend introduced me to The Blue Hearts, a Japanese punk-rock band from late 80s/early 90s. (<a href=\"https://geekosaur.com/post/music-monday-14/\"><span>https://</span><span>geekosaur.com/post/music-monda</span><span>y-14/</span></a>)</p>\n<a href=\"https://geekosaur.com/post/music-monday-14/\">Music Monday 14: The Blue Hearts (J-Music)</a>",
+        "text": "A couple decades ago, a friend introduced me to The Blue Hearts, a Japanese punk-rock band from late 80s/early 90s. (https://geekosaur.com/post/music-monday-14/)\nMusic Monday 14: The Blue Hearts (J-Music)"
+      },
+      "in-reply-to": "https://geekosaur.com/post/music-monday-13/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
     }
   ]
 }
