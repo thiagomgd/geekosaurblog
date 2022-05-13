@@ -1,6 +1,150 @@
 {
   "0": [
     {
+      "title": "One Piece, Volume 8: I Won't Die",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630542699l/364955.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "year_read": 0
+    },
+    {
+      "title": "One Piece, Volume 9: Tears",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391641798l/364958.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "year_read": 0
+    },
+    {
+      "title": "One Piece, Volume 10: OK, Let's Stand Up!",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630569260l/364960._SY475_.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "year_read": 0
+    },
+    {
+      "title": "One Piece, Volume 11: The Meanest Man in the East",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388289119l/662985.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "year_read": 0
+    },
+    {
+      "title": "One Piece, Volume 12: The Legend Begins",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572272143l/364959.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "year_read": 0
+    },
+    {
+      "title": "One Piece, Volume 13: It's All Right!",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388797285l/364949.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "year_read": 0
+    },
+    {
+      "title": "One Piece, Volume 15: Straight Ahead!",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271281l/364961._SY475_.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "year_read": 0
+    },
+    {
+      "title": "One Piece, Volume 16: Carrying On His Will",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271230l/662986._SY475_.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "year_read": 0
+    },
+    {
+      "title": "One Piece, Volume 17: Hiriluk's Cherry Blossoms",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271389l/1826195._SY475_.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "year_read": 0
+    },
+    {
+      "title": "One Piece, Volume 18: Ace Arrives",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271401l/2382362._SY475_.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "year_read": 0
+    },
+    {
+      "title": "One Piece, Volume 19: Rebellion",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271415l/3430775._SY475_.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "year_read": 0
+    },
+    {
+      "title": "One Piece, Volume 20: Showdown at Alubarna",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271428l/5071433._SY475_.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "year_read": 0
+    },
+    {
+      "title": "One Piece, Volume 21: Utopia",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572273788l/19366773._SY475_.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "year_read": 0
+    },
+    {
+      "title": "One Piece, Volume 22: Hope!!",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271551l/6406094._SY475_.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "year_read": 0
+    },
+    {
+      "title": "One Piece, Volume 23: Vivi's Adventure",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271613l/6582724._SY475_.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "year_read": 0
+    },
+    {
+      "title": "One Piece, Volume 24: People's Dreams",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271532l/6891485._SY475_.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "year_read": 0
+    },
+    {
       "title": "Hikaru no Go, Vol. 1: Descent of the Go Master (Hikaru no Go, #1)",
       "cover": [
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388890941l/13590.jpg"
@@ -1275,6 +1419,76 @@
     }
   ],
   "2022": [
+    {
+      "title": "One Piece, Vol. 1: Romance Dawn (One Piece, #1)",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318523719l/1237398.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "date_read": "2022-03-31T00:00:00.000-07:00",
+      "year_read": 2022
+    },
+    {
+      "title": "One Piece, Volume 2: Buggy the Clown",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388531494l/364956.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "date_read": "2022-03-31T00:00:00.000-07:00",
+      "year_read": 2022
+    },
+    {
+      "title": "One Piece, Volume 3: Don't Get Fooled Again",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388531492l/364957.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "date_read": "2022-03-31T00:00:00.000-07:00",
+      "year_read": 2022
+    },
+    {
+      "title": "One Piece, Volume 4: The Black Cat Pirates",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388466608l/364952.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "date_read": "2022-03-31T00:00:00.000-07:00",
+      "year_read": 2022
+    },
+    {
+      "title": "One Piece, Volume 7: The Crap-Geezer",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389640440l/364954.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "date_read": "2022-04-03T00:00:00.000-07:00",
+      "year_read": 2022
+    },
+    {
+      "title": "One Piece, Volume 6: The Oath",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271006l/364950._SY475_.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "date_read": "2022-04-03T00:00:00.000-07:00",
+      "year_read": 2022
+    },
+    {
+      "title": "One Piece, Volume 5: For Whom the Bell Tolls",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388289134l/364951.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "date_read": "2022-04-03T00:00:00.000-07:00",
+      "year_read": 2022
+    },
     {
       "title": "Gal Gohan Vol. 4",
       "cover": [

@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-05-05T20:44:13.353Z",
+  "lastFetched": "2022-05-13T00:48:59.175Z",
   "children": [
     {
       "type": "entry",
@@ -2414,6 +2414,27 @@
       "in-reply-to": "https://geekosaur.com/note/98ebcb91-3a20-429b-ab99-94d9db1b5f9d/",
       "wm-property": "in-reply-to",
       "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://anerdyfujocries.wordpress.com/2022/05/08/jons-april-2022-creator-showcase-sixty-three-posts-to-fill-your-spring-schedule/",
+      "published": null,
+      "wm-received": "2022-05-07T18:30:04Z",
+      "wm-id": 1393692,
+      "wm-source": "https://anerdyfujocries.wordpress.com/2022/05/08/jons-april-2022-creator-showcase-sixty-three-posts-to-fill-your-spring-schedule/",
+      "wm-target": "https://geekosaur.com/post/appletv-quality-over-quantity/",
+      "mention-of": "https://geekosaur.com/post/appletv-quality-over-quantity/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://anerdyfujocries.wordpress.com/2022/05/08/jons-april-2022-creator-showcase-sixty-three-posts-to-fill-your-spring-schedule/"
+      }
     }
   ]
 }

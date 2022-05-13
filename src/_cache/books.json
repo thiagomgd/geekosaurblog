@@ -2025,6 +2025,16 @@
   ],
   "2022": [
     {
+      "title": "Death Masks (The Dresden Files, #5)",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576549587l/8680045.jpg"
+      ],
+      "rating": 4,
+      "review": null,
+      "date_read": "2022-05-04T00:00:00.000-07:00",
+      "year_read": 2022
+    },
+    {
       "title": "Sawkill Girls",
       "cover": [
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526389901l/38186306.jpg"
@@ -2062,6 +2072,16 @@
       "rating": 4,
       "review": null,
       "date_read": "2022-02-15T00:00:00.000-08:00",
+      "year_read": 2022
+    },
+    {
+      "title": "Tarnished and Torn (A Witchcraft Mystery, #5)",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426139323l/15815762.jpg"
+      ],
+      "rating": 3,
+      "review": null,
+      "date_read": "2022-03-31T00:00:00.000-07:00",
       "year_read": 2022
     }
   ]
