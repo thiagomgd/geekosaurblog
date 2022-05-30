@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-05-13T00:48:59.175Z",
+  "lastFetched": "2022-05-29T17:53:17.145Z",
   "children": [
     {
       "type": "entry",
@@ -2435,6 +2435,24 @@
       "rels": {
         "canonical": "https://anerdyfujocries.wordpress.com/2022/05/08/jons-april-2022-creator-showcase-sixty-three-posts-to-fill-your-spring-schedule/"
       }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Jesse Saenz",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/355414af72827acc31b7018485ff3c011608917921418309c5b9d0eef602f3c4.png",
+        "url": "https://mastodon.social/@saenzjj"
+      },
+      "url": "https://mastodon.social/@falcon/108371943850363781#favorited-by-108219914147057199",
+      "published": null,
+      "wm-received": "2022-05-27T10:48:18Z",
+      "wm-id": 1405588,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mastodon.social/108371943850363781/108219914147057199",
+      "wm-target": "https://geekosaur.com/tags/quote/",
+      "like-of": "https://geekosaur.com/tags/quote/",
+      "wm-property": "like-of",
+      "wm-private": false
     }
   ]
 }
