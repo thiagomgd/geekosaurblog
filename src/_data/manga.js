@@ -108,6 +108,7 @@ async function fetchBooks() {
       perYear = groupBy(ungrouped[year], 'series');
     })
 
+    console.log(grouped);
     return grouped;
   }
 
