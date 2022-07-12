@@ -105,10 +105,9 @@ async function fetchBooks() {
     const grouped = {};
 
     Object.keys(ungrouped).forEach((year)=>{
-      perYear = groupBy(ungrouped[year], 'series');
+      grouped[year] = groupBy(ungrouped[year], 'series');
     })
 
-    console.log(grouped);
     return grouped;
   }
 
