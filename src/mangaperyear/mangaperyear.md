@@ -12,15 +12,20 @@ eleventyNavigation:
   order: 5
 ---
 
-{%- for year, bookList in manga | dictsort | reverse -%}
+{%- for year, seriesList in manga | dictsort | reverse %}
 
-### {{ year }} ({{ bookList | length }} read)
+### {{ year }} ({{ seriesList | getTotalForDict }} read)
+
+{% for series, mangaList in seriesList %}
+<b>{{ series }}</b>
 
 <div class="cards">
-<!-- TODO: sort by rating and date -->
-{% for book in bookList -%}
-{% card book.title,book.cover,book.rating,book.review %}
-{% endfor -%}
+{% for manga in mangaList | sort(false, false, 'volume') %}
+{% card manga.title, manga.cover, manga.rating, manga.review %}
+
+{% endfor %}
 </div>
 
-{% endfor -%}
+{% endfor %}
+
+{% endfor %}

@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-07-04T21:57:35.153Z",
+  "lastFetched": "2022-07-11T22:21:39.979Z",
   "links": {
     "921b2ff4-e562-4915-a425-99dabeb84ff9": {
       "id": "921b2ff4-e562-4915-a425-99dabeb84ff9",
@@ -104,6 +104,28 @@
       ],
       "discussion": null,
       "title": "Why Genghis Khan's Great-Great Granddaughter Was Just as Badass"
+    },
+    "85225d62-4846-4c52-a2e7-ee9e43ef9614": {
+      "id": "85225d62-4846-4c52-a2e7-ee9e43ef9614",
+      "created_time": "2022-07-08T06:20:00.000Z",
+      "last_edited_time": "2022-07-08T06:21:00.000Z",
+      "cover": null,
+      "icon": null,
+      "type": "YouTube",
+      "private": false,
+      "publisher": "Elizabeth Phillips",
+      "summary": "",
+      "link": "https://youtu.be/iBS6cJYdtTc",
+      "comments": "",
+      "tweet": null,
+      "status": "Finished",
+      "tags": [
+        "Reading",
+        "Self Help",
+        "Learning"
+      ],
+      "discussion": null,
+      "title": "Stop reading self help books"
     }
   }
 }

@@ -103,6 +103,28 @@ async function fetchBooks() {
   return null;
 }
 
+function sortBooks(books) {
+  const sorted = {}
+  for (year in books) {
+    const yearBooks = books[year];
+    yearBooks.sort((a, b)=>{
+    // books[year].sort((a, b)=>{
+      if (a.rating !== b.rating) {
+        return b.rating - a.rating;
+      }
+
+      if (a.date_read && b.date_read) {
+        return a - b;
+      }
+
+      return 0; // todo
+    })
+    sorted[year] = yearBooks;
+  }
+
+  return sorted;
+}
+
 module.exports = async function () {
   // return [];
   console.log(">>> Reading books from cache...");
@@ -113,7 +135,7 @@ module.exports = async function () {
   }
 
   // Only fetch new mentions in production
-  if (process.env.ELEVENTY_ENV === "development") return cache;
+  if (process.env.ELEVENTY_ENV === "development") return sortBooks(cache);
   // if (process.env.ELEVENTY_ENV !== "devbuild") return cache;
 
   console.log(">>> Checking for new books...");
@@ -126,9 +148,9 @@ module.exports = async function () {
       writeToCache(newBooks, CACHE_FILE_PATH, "books");
     }
 
-    return newBooks;
+    return sortBooks(newBooks);
   }
 
-  return cache;
+  return sortBooks(cache);
   // return [];
 };

@@ -92,6 +92,8 @@ async function fetchBooks() {
         cover: newBook["Cover"],
         rating: newBook["My Rating"],
         review: newBook["Review"],
+        series: newBook["Series"],
+        volume: newBook["Number In Series"],
         date_read: newBook["Date Read"],
         year_read: newBook["Date Read"]
           ? newBook["Date Read"].year
@@ -99,7 +101,14 @@ async function fetchBooks() {
       });
     }
 
-    return groupBy(newBooks, "year_read");
+    const ungrouped = groupBy(newBooks, "year_read");
+    const grouped = {};
+
+    Object.keys(ungrouped).forEach((year)=>{
+      perYear = groupBy(ungrouped[year], 'series');
+    })
+
+    return grouped;
   }
 
   return null;
@@ -118,10 +127,10 @@ module.exports = async function () {
   if (process.env.ELEVENTY_ENV === "development") return cache;
   // if (process.env.ELEVENTY_ENV !== "devbuild") return cache;
 
-  console.log(">>> Checking for new manga...");
+  console.log(">>> Downloading manga list...");
   const newBooks = await fetchBooks();
 
-  // TODO: after getting only new items, merge cache and new
+  // TODO: getting only new items, merge cache and new
 
   if (newBooks) {
     if (process.env.ELEVENTY_ENV === "devbuild") {

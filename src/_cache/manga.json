@@ -1,1703 +1,2799 @@
 {
-  "0": [
-    {
-      "title": "One Piece, Volume 8: I Won't Die",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630542699l/364955.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "One Piece, Volume 9: Tears",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391641798l/364958.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "One Piece, Volume 10: OK, Let's Stand Up!",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630569260l/364960._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "One Piece, Volume 11: The Meanest Man in the East",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388289119l/662985.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "One Piece, Volume 12: The Legend Begins",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572272143l/364959.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "One Piece, Volume 13: It's All Right!",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388797285l/364949.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "One Piece, Volume 15: Straight Ahead!",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271281l/364961._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "One Piece, Volume 16: Carrying On His Will",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271230l/662986._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "One Piece, Volume 17: Hiriluk's Cherry Blossoms",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271389l/1826195._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "One Piece, Volume 18: Ace Arrives",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271401l/2382362._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "One Piece, Volume 19: Rebellion",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271415l/3430775._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "One Piece, Volume 20: Showdown at Alubarna",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271428l/5071433._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "One Piece, Volume 21: Utopia",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572273788l/19366773._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "One Piece, Volume 22: Hope!!",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271551l/6406094._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "One Piece, Volume 23: Vivi's Adventure",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271613l/6582724._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "One Piece, Volume 24: People's Dreams",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271532l/6891485._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 1: Descent of the Go Master (Hikaru no Go, #1)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388890941l/13590.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 2: First Battle (Hikaru no Go, #2)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348275221l/282391.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 3: Preliminary Scrimmage (Hikaru no Go, #3)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348598690l/282392.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 4: Divine Illusions (Hikaru no Go, #4)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348601311l/282381.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 5: Start (Hikaru no Go, #5)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389151163l/282395.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 6: The Insei Exam (Hikaru no Go, #6)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347780787l/282396.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 7: The Young Lions Tournament (Hikaru no Go, #7)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369274406l/13588.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 8: The Pro Test Preliminaries: Day Four (Hikaru no Go, #8)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348532246l/13589.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 9: The Pro Test Begins (Hikaru no Go, #9)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347387410l/13591.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 10: Lifeline (Hikaru no Go, #10)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389151164l/13592.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 11: Fierce Battle (Hikaru no Go, #11)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347390212l/1993619.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 12: Sai's Day Out (Hikaru no Go, #12)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348293430l/1822315.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 13: First Professional Match (Hikaru no Go, #13)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348294542l/3109439.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 19: One Step Forward! (Hikaru no Go, #19)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348813427l/6797429.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 21: Great Expectations (Hikaru no Go, #21)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348817024l/8216627.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 23: Endgame (Hikaru no Go, #23)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389151167l/9461904.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 14: Sai vs. Toya Koyo",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389151372l/4572619.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 15: Sayonara (Hikaru no Go, #15)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347641084l/4572620.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 16: Chinese Go Association (Hikaru no Go, #16)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348414613l/6226621.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 17: A Familiar Face (Hikaru no Go, #17)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348415709l/6419584.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 18: Six Characters, Six Stories (Hikaru no Go, #18)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348812510l/6801636.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 20: The Young Lions!",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348814511l/7326723.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Hikaru no Go, Vol. 22: China vs. Japan (Hikaru no Go, #22)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348818160l/8216628.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Kaiju No. 8, Vol. 1",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625673736l/57147104.jpg"
-      ],
-      "rating": 5,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Kaiju No. 8, Vol. 2",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636302068l/58438415.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "SAKAMOTO DAYS 1 (Sakamoto Days, #1)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617384366l/55980428._SY475_.jpg"
-      ],
-      "rating": 5,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "The Arrow (The Woods #1)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425504360l/25071291.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Miss Kobayashi's Dragon Maid, Vol. 3",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491447781l/31949124.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Miss Kobayashi's Dragon Maid, Vol. 4",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500915785l/33946211.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "小林さんちのメイドラゴン 5 [Kobayashi-san Chi no Maid Dragon 5] (Miss Kobayashi's Dragon Maid, #5)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501439943l/33647026._SX318_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "小林さんちのメイドラゴン 6 [Kobayashi-san Chi no Maid Dragon 6] (Miss Kobayashi's Dragon Maid, #6)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546138553l/35691984._SX318_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Mieruko-chan, Vol. 3",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624949979l/56977710._SY475_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Chew, Vol. 2: International Flavor",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347756860l/7870457.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Atomic Robo and the Fightin' Scientists of Tesladyne (Atomic Robo, #1)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347271973l/3474928.jpg"
-      ],
-      "rating": 5,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Atomic Robo and the Dogs of War (Atomic Robo, #2)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347279050l/6298793.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Capitã Marvel, Vol. 1: A Heroína Mais Poderosa da Terra",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409964285l/23161519.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Capitã Marvel, Vol. 2: O Céu é o Limite!",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410031045l/23163314.jpg"
-      ],
-      "rating": 3,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Antes de Watchmen: Dollar Bill",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369135199l/17949637.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Robyn Hood, Volume One",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356498867l/16257093.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Screwed: Project Frankenstein",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392584419l/18767265.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Fábulas: As 1001 Noites de Neve",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381075735l/18631073.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Warlord of Mars: Dejah Thoris Volume 1 - The Colossus of Mars",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347732233l/12015866.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Pirate Queen of Mars (Warlord of Mars: Dejah Thoris Volume 2)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356720366l/13664872.jpg"
-      ],
-      "rating": 3,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Warlord of Mars: Dejah Thoris Volume 4 - The Vampire Men of Saturn",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374638642l/17444990.jpg"
-      ],
-      "rating": 3,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Warlord of Mars: Dejah Thoris Volume 3 - The Boora Witch",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355920684l/16231090.jpg"
-      ],
-      "rating": 3,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Grimm Fairy Tales: Alice in Wonderland, Vol. 1",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349685717l/14654395.jpg"
-      ],
-      "rating": 5,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Ghostbusters, Volume 5: The New Ghostbusters",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388300859l/17445108.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Antes de Watchmen - Coruja",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371424467l/18079402.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Antes de Watchmen: Espectral",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374454455l/18220447.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Uncanny Avengers: Unity, Volume 1: Lost Future",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511760091l/27247272._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Lumberjanes: To the Max Edition, Vol. 1",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441586807l/26240977._SY475_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Delicious in Dungeon, Vol. 2",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504326129l/34050718._SX318_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Delicious in Dungeon, Vol. 3",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507744433l/35181839._SX318_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "ぼくたちは勉強ができない 1 [Bokutachi wa Benkyou ga Dekinai 1] (We Never Learn, #1)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496008073l/35250660._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "ぼくたちは勉強ができない 2 [Bokutachi wa Benkyou ga Dekinai 2] (We Never Learn, #2)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501125134l/35250887._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "ぼくたちは勉強ができない 3 [Bokutachi wa Benkyou ga Dekinai 3] (We Never Learn, #3)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506622818l/35914965._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "ぼくたちは勉強ができない 4 [Bokutachi wa Benkyou ga Dekinai 4] (We Never Learn, #4)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513619308l/36319692._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "ぼくたちは勉強ができない 5 [Bokutachi wa Benkyou ga Dekinai 5] (We Never Learn, #5)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521480952l/37562300._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "ぼくたちは勉強ができない 6 [Bokutachi wa Benkyou ga Dekinai 6] (We Never Learn, #6)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524766773l/39323398._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "ぼくたちは勉強ができない 7 [Bokutachi wa Benkyou ga Dekinai 7] (We Never Learn, #7)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530472215l/39948444._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Archie, Vol. 2",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492599931l/29780171._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Archie, Vol. 3",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492420131l/31621570._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "ダンジョン飯 6 [Dungeon Meshi 6] (Delicious in Dungeon, #6)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521222806l/36646057._SX318_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "文豪ストレイドッグス 1 [Bungō Stray Dogs 1]",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386079728l/19146864.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "文豪ストレイドッグス 2 [Bungō Stray Dogs 2]",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385989548l/19098044.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "文豪ストレイドッグス 3 [Bungō Stray Dogs 3]",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424641508l/24997018.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "文豪ストレイドッグス 4 [Bungō Stray Dogs 4]",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424641477l/24997013.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "文豪ストレイドッグス 5 [Bungō Stray Dogs 5]",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433993636l/25706711._SX318_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "I Married My Best Friend to Shut My Parents Up",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553125108l/42036532.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "文豪ストレイドッグス 6 [Bungō Stray Dogs 6]",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469562987l/25535522._SX318_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "文豪ストレイドッグス 7 [Bungō Stray Dogs 7]",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431581642l/25535560.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "文豪ストレイドッグス 8 [Bungō Stray Dogs 8]",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462387217l/30110298._SX318_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "文豪ストレイドッグス 9 [Bungō Stray Dogs 9]",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462387305l/30110302._SX318_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Chew, Vol. 1: Taster's Choice",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409985990l/6839093.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Sex Criminals: Volume One: One Weird Trick",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396977214l/19536001.jpg"
-      ],
-      "rating": 5,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Gotham Academy, Volume 1: Welcome to Gotham Academy",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589969792l/23395763.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "year_read": 0
-    },
-    {
-      "title": "Delicious in Dungeon, Vol. 4",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515520862l/35488056.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "year_read": 0
-    }
-  ],
-  "2015": [
-    {
-      "title": "Ms. Marvel, Vol. 1: No Normal",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413031883l/20898019.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2015-01-16T00:00:00.000-08:00",
-      "year_read": 2015
-    },
-    {
-      "title": "Deadpool, Volume 1: Dead Presidents",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409503511l/17251103.jpg"
-      ],
-      "rating": 3,
-      "review": null,
-      "date_read": "2015-01-16T00:00:00.000-08:00",
-      "year_read": 2015
-    },
-    {
-      "title": "Captain Marvel, Volume 1: Higher, Further, Faster, More",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414348442l/20898018.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2015-01-19T00:00:00.000-08:00",
-      "year_read": 2015
-    },
-    {
-      "title": "Ms. Marvel, Vol. 2: Generation Why",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427559332l/23017947.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2015-02-20T00:00:00.000-08:00",
-      "year_read": 2015
-    },
-    {
-      "title": "Soul Eater NOT!, Vol. 1",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340738634l/13312876.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2015-04-14T00:00:00.000-07:00",
-      "year_read": 2015
-    },
-    {
-      "title": "Adventure Time: Marceline and the Scream Queens",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361195520l/16074588.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2015-03-01T00:00:00.000-08:00",
-      "year_read": 2015
-    },
-    {
-      "title": "Adventure Time with Fionna & Cake Vol. 1",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382266287l/18690641.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2015-06-14T00:00:00.000-07:00",
-      "year_read": 2015
-    },
-    {
-      "title": "Lady Killer, Vol. 1",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566054854l/23995491._SY475_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2015-07-14T00:00:00.000-07:00",
-      "year_read": 2015
-    },
-    {
-      "title": "Batgirl, Volume 1: Batgirl of Burnside",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499091545l/23164970._SY475_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2015-08-11T00:00:00.000-07:00",
-      "year_read": 2015
-    },
-    {
-      "title": "Doctor Who: Four Doctors",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444684484l/26164745.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2015-09-29T00:00:00.000-07:00",
-      "year_read": 2015
-    },
-    {
-      "title": "Mega Man 1: Let the Games Begin",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419180568l/12467354.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2015-10-25T00:00:00.000-07:00",
-      "year_read": 2015
-    },
-    {
-      "title": "Revival, Vol. 1: You're Among Friends",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353558814l/16137205.jpg"
-      ],
-      "rating": 5,
-      "review": null,
-      "date_read": "2015-10-30T00:00:00.000-07:00",
-      "year_read": 2015
-    },
-    {
-      "title": "Revival, Vol. 2: Live Like You Mean It",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366561242l/17818457.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2015-12-16T00:00:00.000-08:00",
-      "year_read": 2015
-    },
-    {
-      "title": "Wayward, Vol. 1: String Theory",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417073009l/23622918.jpg"
-      ],
-      "rating": 5,
-      "review": null,
-      "date_read": "2015-09-07T00:00:00.000-07:00",
-      "year_read": 2015
-    },
-    {
-      "title": "Southern Bastards, Vol. 1: Here Was a Man",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467375064l/22358444._SY475_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2015-10-06T00:00:00.000-07:00",
-      "year_read": 2015
-    },
-    {
-      "title": "Lumberjanes, Vol. 1: Beware the Kitten Holy",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435843806l/22554204._SY475_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2015-02-17T00:00:00.000-08:00",
-      "year_read": 2015
-    },
-    {
-      "title": "Capitã Marvel, Vol. 3: Inimigo Interior",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416263784l/23574668.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2015-01-15T00:00:00.000-08:00",
-      "year_read": 2015
-    }
-  ],
-  "2016": [
-    {
-      "title": "Soul Eater NOT!, Vol. 3",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401077949l/19539094.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2016-02-20T00:00:00.000-08:00",
-      "year_read": 2016
-    },
-    {
-      "title": "Soul Eater NOT!, Vol. 4",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410764190l/22208263.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2016-02-20T00:00:00.000-08:00",
-      "year_read": 2016
-    },
-    {
-      "title": "Soul Eater NOT!, Vol. 5",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433961532l/24487012._SX318_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2016-02-20T00:00:00.000-08:00",
-      "year_read": 2016
-    },
-    {
-      "title": "Soul Eater NOT!, Vol. 2",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435418588l/13528435.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2016-02-20T00:00:00.000-08:00",
-      "year_read": 2016
-    },
-    {
-      "title": "Harley Quinn and Power Girl",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483474686l/26067588._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2016-03-31T00:00:00.000-07:00",
-      "year_read": 2016
-    },
-    {
-      "title": "Zodiac Starforce Volume 1: By the Power of Astra",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445551423l/25810226._SY475_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2016-04-01T00:00:00.000-07:00",
-      "year_read": 2016
-    },
-    {
-      "title": "Power Cubed",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445789835l/26150663.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2016-04-01T00:00:00.000-07:00",
-      "year_read": 2016
-    },
-    {
-      "title": "Archie, Vol. 1",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492419166l/25852959._SY475_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2016-04-06T00:00:00.000-07:00",
-      "year_read": 2016
-    },
-    {
-      "title": "Doctor Who: The Eighth Doctor, Vol. 1: A Matter of Life and Death",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445792929l/26067734.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2016-06-13T00:00:00.000-07:00",
-      "year_read": 2016
-    },
-    {
-      "title": "Black Canary, Volume 1: Kicking and Screaming",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629800533l/25810137.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2016-06-16T00:00:00.000-07:00",
-      "year_read": 2016
-    },
-    {
-      "title": "New Avengers: A.I.M., Volume 1: Everything is New",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460314878l/26200319.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2016-06-17T00:00:00.000-07:00",
-      "year_read": 2016
-    },
-    {
-      "title": "Batgirl, Volume 2: Family Business",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582086528l/26067583.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2016-07-20T00:00:00.000-07:00",
-      "year_read": 2016
-    },
-    {
-      "title": "Batgirl, Volume 3: Mindfields",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582086524l/28109909.jpg"
-      ],
-      "rating": 3,
-      "review": null,
-      "date_read": "2016-09-22T00:00:00.000-07:00",
-      "year_read": 2016
-    },
-    {
-      "title": "Sex Criminals: Volume Two: Two Worlds One Cop",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410891094l/23228585.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2016-12-15T00:00:00.000-08:00",
-      "year_read": 2016
-    },
-    {
-      "title": "Jughead, Vol. 1",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457289588l/27405590.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2016-06-15T00:00:00.000-07:00",
-      "year_read": 2016
-    },
-    {
-      "title": "Starfire, Volume 1: Welcome Home",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603145057l/25810156.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2016-03-31T00:00:00.000-07:00",
-      "year_read": 2016
-    },
-    {
-      "title": "Mushoku Tensei: Jobless Reincarnation (Manga) Vol. 1",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444604965l/24464163.jpg"
-      ],
-      "rating": 3,
-      "review": null,
-      "date_read": "2016-03-08T00:00:00.000-08:00",
-      "year_read": 2016
-    }
-  ],
-  "2018": [
-    {
-      "title": "The Empty Box and Zeroth Maria, Vol. 1 (The Empty Box and Zeroth Maria, #1)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530732949l/35224983._SY475_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2018-02-27T00:00:00.000-08:00",
-      "year_read": 2018
-    },
-    {
-      "title": "Delicious in Dungeon, Vol. 1",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492956010l/32856010.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2018-07-06T00:00:00.000-07:00",
-      "year_read": 2018
-    },
-    {
-      "title": "Oh My Goddess! Volume 1: Wrong Number",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1174198320l/370136.jpg"
-      ],
-      "rating": 5,
-      "review": null,
-      "date_read": "2018-07-31T00:00:00.000-07:00",
-      "year_read": 2018
-    },
-    {
-      "title": "Delicious in Dungeon, Vol. 5",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522169048l/36504691.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2018-10-23T00:00:00.000-07:00",
-      "year_read": 2018
-    },
-    {
-      "title": "ぼくたちは勉強ができない 8 [Bokutachi wa Benkyou ga Dekinai 8] (We Never Learn, #8)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535657061l/40629800._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2018-12-11T00:00:00.000-08:00",
-      "year_read": 2018
-    },
-    {
-      "title": "Oz. The Marvelous Land of Oz  (Marvel Classics)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442606382l/8498471._SX318_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2018-12-11T00:00:00.000-08:00",
-      "year_read": 2018
-    }
-  ],
-  "2020": [
-    {
-      "title": "Miss Kobayashi's Dragon Maid, Vol. 1",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479826161l/28260438._SX318_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2020-01-01T00:00:00.000-08:00",
-      "year_read": 2020
-    },
-    {
-      "title": "Miss Kobayashi's Dragon Maid, Vol. 2",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487478379l/30139711._SX318_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2020-01-01T00:00:00.000-08:00",
-      "year_read": 2020
-    }
-  ],
-  "2021": [
-    {
-      "title": "彼女、お借りします 5 [Kanojo, Okari shimasu 5] (Rent-A-Girlfriend, #5)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557860854l/45786338._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2021-01-01T00:00:00.000-08:00",
-      "year_read": 2021
-    },
-    {
-      "title": "彼女、お借りします 4 [Kanojo, Okari shimasu 4] (Rent-A-Girlfriend, #4)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620942274l/45786337._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2021-01-01T00:00:00.000-08:00",
-      "year_read": 2021
-    },
-    {
-      "title": "彼女、お借りします 3 [Kanojo, Okari shimasu 3] (Rent-A-Girlfriend, #3)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524236932l/39901557._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2021-01-01T00:00:00.000-08:00",
-      "year_read": 2021
-    },
-    {
-      "title": "彼女、お借りします 2 [Kanojo, Okari shimasu 2] (Rent-A-Girlfriend, #2)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552994784l/44531488._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2021-01-01T00:00:00.000-08:00",
-      "year_read": 2021
-    },
-    {
-      "title": "彼女、お借りします 1 [Kanojo, Okari shimasu 1] (Rent-A-Girlfriend, #1)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578351225l/36568445._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2021-01-01T00:00:00.000-08:00",
-      "year_read": 2021
-    },
-    {
-      "title": "Don't Toy with Me, Miss Nagatoro, Vol. 3",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580788178l/52505309._SX318_SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2021-01-01T00:00:00.000-08:00",
-      "year_read": 2021
-    },
-    {
-      "title": "Don't Toy With Me, Miss Nagatoro, Vol. 2",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582054705l/51470146._SX318_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2021-01-01T00:00:00.000-08:00",
-      "year_read": 2021
-    },
-    {
-      "title": "Mieruko-chan, Vol. 1",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609828267l/54760327._SY475_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2021-04-30T00:00:00.000-07:00",
-      "year_read": 2021
-    },
-    {
-      "title": "Mieruko-chan, Vol. 2",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615138329l/56853692._SY475_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2021-05-16T00:00:00.000-07:00",
-      "year_read": 2021
-    },
-    {
-      "title": "Ranma 1/2 (2-in-1 Edition), Vol. 2: Includes Volumes 3  4",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392995008l/18223761.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2021-04-20T00:00:00.000-07:00",
-      "year_read": 2021
-    },
-    {
-      "title": "Ranma 1/2, Vol. 1: Includes Volumes 1 & 2 (Ranma ½ 2-in-1 Edition #1)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922477l/18223762.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2021-04-13T00:00:00.000-07:00",
-      "year_read": 2021
-    },
-    {
-      "title": "Ranma 1/2 (2-in-1 Edition), Vol. 3: Includes Volumes 5  6",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395629015l/18775469.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2021-04-27T00:00:00.000-07:00",
-      "year_read": 2021
-    },
-    {
-      "title": "Ranma 1/2 (2-in-1 Edition), Vol. 4: Includes Volumes 7  8",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397770491l/18775470.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2021-05-15T00:00:00.000-07:00",
-      "year_read": 2021
-    },
-    {
-      "title": "Ranma 1/2 (2-in-1 Edition), Vol. 5: Includes Volumes 9  10",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397770595l/21411986.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2021-06-10T00:00:00.000-07:00",
-      "year_read": 2021
-    },
-    {
-      "title": "Don't Toy With Me, Miss Nagatoro, Vol. 1",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573917057l/48837992._SX318_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2021-01-01T00:00:00.000-08:00",
-      "year_read": 2021
-    }
-  ],
-  "2022": [
-    {
-      "title": "One Piece, Vol. 1: Romance Dawn (One Piece, #1)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318523719l/1237398.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2022-03-31T00:00:00.000-07:00",
-      "year_read": 2022
-    },
-    {
-      "title": "One Piece, Volume 2: Buggy the Clown",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388531494l/364956.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2022-03-31T00:00:00.000-07:00",
-      "year_read": 2022
-    },
-    {
-      "title": "One Piece, Volume 3: Don't Get Fooled Again",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388531492l/364957.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2022-03-31T00:00:00.000-07:00",
-      "year_read": 2022
-    },
-    {
-      "title": "One Piece, Volume 4: The Black Cat Pirates",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388466608l/364952.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2022-03-31T00:00:00.000-07:00",
-      "year_read": 2022
-    },
-    {
-      "title": "One Piece, Volume 7: The Crap-Geezer",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389640440l/364954.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2022-04-03T00:00:00.000-07:00",
-      "year_read": 2022
-    },
-    {
-      "title": "One Piece, Volume 6: The Oath",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271006l/364950._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2022-04-03T00:00:00.000-07:00",
-      "year_read": 2022
-    },
-    {
-      "title": "One Piece, Volume 5: For Whom the Bell Tolls",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388289134l/364951.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2022-04-03T00:00:00.000-07:00",
-      "year_read": 2022
-    },
-    {
-      "title": "Gal Gohan Vol. 4",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595817749l/49247161.jpg"
-      ],
-      "rating": 3,
-      "review": null,
-      "date_read": "2022-03-13T00:00:00.000-08:00",
-      "year_read": 2022
-    },
-    {
-      "title": "Gal Gohan Vol. 5",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595215088l/49247068.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2022-03-13T00:00:00.000-08:00",
-      "year_read": 2022
-    },
-    {
-      "title": "Gal Gohan Vol. 6",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595215574l/53426737.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2022-03-16T00:00:00.000-07:00",
-      "year_read": 2022
-    },
-    {
-      "title": "Gal Gohan Vol. 7",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595215243l/53426684.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2022-03-18T00:00:00.000-07:00",
-      "year_read": 2022
-    },
-    {
-      "title": "Gal Gohan Vol. 8",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618169112l/57697196._SX318_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2022-03-18T00:00:00.000-07:00",
-      "year_read": 2022
-    },
-    {
-      "title": "Gal Gohan Vol. 10",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630358453l/58801636.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2022-03-20T00:00:00.000-07:00",
-      "year_read": 2022
-    },
-    {
-      "title": "Gal Gohan Vol. 9",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624228236l/57492097.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2022-03-20T00:00:00.000-07:00",
-      "year_read": 2022
-    },
-    {
-      "title": "SAKAMOTO DAYS 2 (Sakamoto Days, #2)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622651347l/57557794._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2022-02-01T00:00:00.000-08:00",
-      "year_read": 2022
-    },
-    {
-      "title": "SAKAMOTO DAYS 3 (Sakamoto Days, #3)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630606709l/58098905._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2022-02-01T00:00:00.000-08:00",
-      "year_read": 2022
-    },
-    {
-      "title": "SAKAMOTO DAYS 4 (Sakamoto Days, #4)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636052405l/58884779._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2022-02-01T00:00:00.000-08:00",
-      "year_read": 2022
-    },
-    {
-      "title": "SAKAMOTO DAYS 5 (Sakamoto Days, #5)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640722274l/59479103._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "date_read": "2022-02-01T00:00:00.000-08:00",
-      "year_read": 2022
-    },
-    {
-      "title": "Gal Gohan Vol. 3",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567545015l/49435392._SX318_SY475_.jpg"
-      ],
-      "rating": 3,
-      "review": null,
-      "date_read": "2022-03-12T00:00:00.000-08:00",
-      "year_read": 2022
-    },
-    {
-      "title": "GTO: Paradise Lost Vol. 1",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491290828l/34787826._SY475_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2022-02-05T00:00:00.000-08:00",
-      "year_read": 2022
-    },
-    {
-      "title": "The Sacred Blacksmith Vol. 1",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462036701l/30062634._SX318_.jpg"
-      ],
-      "rating": 3,
-      "review": null,
-      "date_read": "2022-02-05T00:00:00.000-08:00",
-      "year_read": 2022
-    },
-    {
-      "title": "ギャルごはん Gal Gohan [Gyaru Cooking] (Gal Gohan 1)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502384303l/34034964._SX318_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2022-02-05T00:00:00.000-08:00",
-      "year_read": 2022
-    },
-    {
-      "title": "Gal Gohan Vol. 2",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563399340l/45046883.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2022-02-06T00:00:00.000-08:00",
-      "year_read": 2022
-    },
-    {
-      "title": "The Swarm (The Woods #2)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439001618l/26060468._SY475_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2022-01-29T00:00:00.000-08:00",
-      "year_read": 2022
-    },
-    {
-      "title": "New London (The Woods #3)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453435973l/28671282._SY475_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2022-01-30T00:00:00.000-08:00",
-      "year_read": 2022
-    },
-    {
-      "title": "Movie Night (The Woods #4)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467665347l/30843700._SY475_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2022-01-30T00:00:00.000-08:00",
-      "year_read": 2022
-    },
-    {
-      "title": "The Horde (The Woods #5)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481937754l/33401152._SY475_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2022-01-30T00:00:00.000-08:00",
-      "year_read": 2022
-    },
-    {
-      "title": "見える子ちゃん 4 (Mieruko-chan, #4)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600786919l/55427206._SX318_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2022-01-16T00:00:00.000-08:00",
-      "year_read": 2022
-    }
-  ]
+  "0": {
+    "Kobayashi-san Chi no Maid Dragon": [
+      {
+        "title": "小林さんちのメイドラゴン 10 [Kobayashi-san Chi no Maid Dragon 10] (Miss Kobayashi's Dragon Maid, #10)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1596212052l/48653910._SX318_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Kobayashi-san Chi no Maid Dragon",
+        "volume": 10,
+        "year_read": 0
+      },
+      {
+        "title": "Miss Kobayashi's Dragon Maid, Vol. 3",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491447781l/31949124.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Kobayashi-san Chi no Maid Dragon",
+        "volume": 3,
+        "year_read": 0
+      },
+      {
+        "title": "Miss Kobayashi's Dragon Maid, Vol. 4",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500915785l/33946211.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Kobayashi-san Chi no Maid Dragon",
+        "volume": 4,
+        "year_read": 0
+      },
+      {
+        "title": "小林さんちのメイドラゴン 5 [Kobayashi-san Chi no Maid Dragon 5] (Miss Kobayashi's Dragon Maid, #5)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501439943l/33647026._SX318_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Kobayashi-san Chi no Maid Dragon",
+        "volume": 5,
+        "year_read": 0
+      },
+      {
+        "title": "小林さんちのメイドラゴン 6 [Kobayashi-san Chi no Maid Dragon 6] (Miss Kobayashi's Dragon Maid, #6)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546138553l/35691984._SX318_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Kobayashi-san Chi no Maid Dragon",
+        "volume": 6,
+        "year_read": 0
+      }
+    ],
+    "One Piece": [
+      {
+        "title": "One Piece, Volume 8: I Won't Die",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630542699l/364955.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 8,
+        "year_read": 0
+      },
+      {
+        "title": "One Piece, Volume 9: Tears",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391641798l/364958.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 9,
+        "year_read": 0
+      },
+      {
+        "title": "One Piece, Volume 10: OK, Let's Stand Up!",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630569260l/364960._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 10,
+        "year_read": 0
+      },
+      {
+        "title": "One Piece, Volume 11: The Meanest Man in the East",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388289119l/662985.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 11,
+        "year_read": 0
+      },
+      {
+        "title": "One Piece, Volume 12: The Legend Begins",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572272143l/364959.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 12,
+        "year_read": 0
+      },
+      {
+        "title": "One Piece, Volume 13: It's All Right!",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388797285l/364949.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 13,
+        "year_read": 0
+      },
+      {
+        "title": "One Piece, Volume 15: Straight Ahead!",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271281l/364961._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 15,
+        "year_read": 0
+      },
+      {
+        "title": "One Piece, Volume 16: Carrying On His Will",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271230l/662986._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 16,
+        "year_read": 0
+      },
+      {
+        "title": "One Piece, Volume 17: Hiriluk's Cherry Blossoms",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271389l/1826195._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 17,
+        "year_read": 0
+      },
+      {
+        "title": "One Piece, Volume 18: Ace Arrives",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271401l/2382362._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 18,
+        "year_read": 0
+      },
+      {
+        "title": "One Piece, Volume 19: Rebellion",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271415l/3430775._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 19,
+        "year_read": 0
+      },
+      {
+        "title": "One Piece, Volume 20: Showdown at Alubarna",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271428l/5071433._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 20,
+        "year_read": 0
+      },
+      {
+        "title": "One Piece, Volume 21: Utopia",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572273788l/19366773._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 21,
+        "year_read": 0
+      },
+      {
+        "title": "One Piece, Volume 22: Hope!!",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271551l/6406094._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 22,
+        "year_read": 0
+      },
+      {
+        "title": "One Piece, Volume 23: Vivi's Adventure",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271613l/6582724._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 23,
+        "year_read": 0
+      },
+      {
+        "title": "One Piece, Volume 24: People's Dreams",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271532l/6891485._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 24,
+        "year_read": 0
+      }
+    ],
+    "Hikaru no Go": [
+      {
+        "title": "Hikaru no Go, Vol. 1: Descent of the Go Master (Hikaru no Go, #1)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388890941l/13590.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 1,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 2: First Battle (Hikaru no Go, #2)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348275221l/282391.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 2,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 3: Preliminary Scrimmage (Hikaru no Go, #3)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348598690l/282392.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 3,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 4: Divine Illusions (Hikaru no Go, #4)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348601311l/282381.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 4,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 5: Start (Hikaru no Go, #5)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389151163l/282395.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 5,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 6: The Insei Exam (Hikaru no Go, #6)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347780787l/282396.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 6,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 7: The Young Lions Tournament (Hikaru no Go, #7)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369274406l/13588.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 7,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 8: The Pro Test Preliminaries: Day Four (Hikaru no Go, #8)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348532246l/13589.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 8,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 9: The Pro Test Begins (Hikaru no Go, #9)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347387410l/13591.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 9,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 10: Lifeline (Hikaru no Go, #10)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389151164l/13592.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 10,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 11: Fierce Battle (Hikaru no Go, #11)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347390212l/1993619.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 11,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 12: Sai's Day Out (Hikaru no Go, #12)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348293430l/1822315.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 12,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 13: First Professional Match (Hikaru no Go, #13)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348294542l/3109439.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 13,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 19: One Step Forward! (Hikaru no Go, #19)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348813427l/6797429.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 19,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 21: Great Expectations (Hikaru no Go, #21)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348817024l/8216627.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 21,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 23: Endgame (Hikaru no Go, #23)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389151167l/9461904.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 23,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 14: Sai vs. Toya Koyo",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389151372l/4572619.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 14,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 15: Sayonara (Hikaru no Go, #15)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347641084l/4572620.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 15,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 16: Chinese Go Association (Hikaru no Go, #16)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348414613l/6226621.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 16,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 17: A Familiar Face (Hikaru no Go, #17)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348415709l/6419584.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 17,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 18: Six Characters, Six Stories (Hikaru no Go, #18)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348812510l/6801636.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 18,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 20: The Young Lions!",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348814511l/7326723.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 20,
+        "year_read": 0
+      },
+      {
+        "title": "Hikaru no Go, Vol. 22: China vs. Japan (Hikaru no Go, #22)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348818160l/8216628.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Hikaru no Go",
+        "volume": 22,
+        "year_read": 0
+      }
+    ],
+    "The Woods": [
+      {
+        "title": "The Arrow (The Woods #1)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425504360l/25071291.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "The Woods",
+        "volume": 1,
+        "year_read": 0
+      }
+    ],
+    "見える子ちゃん": [
+      {
+        "title": "Mieruko-chan, Vol. 3",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624949979l/56977710._SY475_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "見える子ちゃん",
+        "volume": 3,
+        "year_read": 0
+      }
+    ],
+    "Chew": [
+      {
+        "title": "Chew, Vol. 2: International Flavor",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347756860l/7870457.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Chew",
+        "volume": 2,
+        "year_read": 0
+      },
+      {
+        "title": "Chew, Vol. 1: Taster's Choice",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409985990l/6839093.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Chew",
+        "volume": 1,
+        "year_read": 0
+      }
+    ],
+    "Atomic Robo": [
+      {
+        "title": "Atomic Robo and the Fightin' Scientists of Tesladyne (Atomic Robo, #1)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347271973l/3474928.jpg"
+        ],
+        "rating": 5,
+        "review": null,
+        "series": "Atomic Robo",
+        "volume": 1,
+        "year_read": 0
+      },
+      {
+        "title": "Atomic Robo and the Dogs of War (Atomic Robo, #2)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347279050l/6298793.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Atomic Robo",
+        "volume": 2,
+        "year_read": 0
+      }
+    ],
+    "Captain Marvel (2012) (Collected Editions)": [
+      {
+        "title": "Capitã Marvel, Vol. 1: A Heroína Mais Poderosa da Terra",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409964285l/23161519.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Captain Marvel (2012) (Collected Editions)",
+        "volume": 1,
+        "year_read": 0
+      },
+      {
+        "title": "Capitã Marvel, Vol. 2: O Céu é o Limite!",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410031045l/23163314.jpg"
+        ],
+        "rating": 3,
+        "review": null,
+        "series": "Captain Marvel (2012) (Collected Editions)",
+        "volume": 2,
+        "year_read": 0
+      }
+    ],
+    "": [
+      {
+        "title": "Antes de Watchmen: Dollar Bill",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369135199l/17949637.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "",
+        "volume": null,
+        "year_read": 0
+      },
+      {
+        "title": "Screwed: Project Frankenstein",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392584419l/18767265.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "",
+        "volume": null,
+        "year_read": 0
+      },
+      {
+        "title": "Grimm Fairy Tales: Alice in Wonderland, Vol. 1",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349685717l/14654395.jpg"
+        ],
+        "rating": 5,
+        "review": null,
+        "series": "",
+        "volume": null,
+        "year_read": 0
+      },
+      {
+        "title": "I Married My Best Friend to Shut My Parents Up",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553125108l/42036532.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "",
+        "volume": null,
+        "year_read": 0
+      }
+    ],
+    "Grimm Fairy Tales Presents: Robyn Hood mini-series": [
+      {
+        "title": "Robyn Hood, Volume One",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356498867l/16257093.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Grimm Fairy Tales Presents: Robyn Hood mini-series",
+        "volume": 1,
+        "year_read": 0
+      }
+    ],
+    "Fables": [
+      {
+        "title": "Fábulas: As 1001 Noites de Neve",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381075735l/18631073.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Fables",
+        "volume": 7.5,
+        "year_read": 0
+      }
+    ],
+    "Dejah Thoris": [
+      {
+        "title": "Warlord of Mars: Dejah Thoris Volume 1 - The Colossus of Mars",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347732233l/12015866.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Dejah Thoris",
+        "volume": 1,
+        "year_read": 0
+      },
+      {
+        "title": "Pirate Queen of Mars (Warlord of Mars: Dejah Thoris Volume 2)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356720366l/13664872.jpg"
+        ],
+        "rating": 3,
+        "review": null,
+        "series": "Dejah Thoris",
+        "volume": 2,
+        "year_read": 0
+      },
+      {
+        "title": "Warlord of Mars: Dejah Thoris Volume 4 - The Vampire Men of Saturn",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374638642l/17444990.jpg"
+        ],
+        "rating": 3,
+        "review": null,
+        "series": "Dejah Thoris",
+        "volume": 4,
+        "year_read": 0
+      },
+      {
+        "title": "Warlord of Mars: Dejah Thoris Volume 3 - The Boora Witch",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355920684l/16231090.jpg"
+        ],
+        "rating": 3,
+        "review": null,
+        "series": "Dejah Thoris",
+        "volume": 3,
+        "year_read": 0
+      }
+    ],
+    "Ghostbusters (IDW Collected Editions)": [
+      {
+        "title": "Ghostbusters, Volume 5: The New Ghostbusters",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388300859l/17445108.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Ghostbusters (IDW Collected Editions)",
+        "volume": 5,
+        "year_read": 0
+      }
+    ],
+    "Before Watchmen: German Editions": [
+      {
+        "title": "Antes de Watchmen - Coruja",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371424467l/18079402.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Before Watchmen: German Editions",
+        "volume": 4,
+        "year_read": 0
+      },
+      {
+        "title": "Antes de Watchmen: Espectral",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374454455l/18220447.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Before Watchmen: German Editions",
+        "volume": 6,
+        "year_read": 0
+      }
+    ],
+    "Uncanny Avengers: Unity": [
+      {
+        "title": "Uncanny Avengers: Unity, Volume 1: Lost Future",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511760091l/27247272._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Uncanny Avengers: Unity",
+        "volume": 1,
+        "year_read": 0
+      }
+    ],
+    "Lumberjanes": [
+      {
+        "title": "Lumberjanes: To the Max Edition, Vol. 1",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441586807l/26240977._SY475_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Lumberjanes",
+        "volume": null,
+        "year_read": 0
+      }
+    ],
+    "ダンジョン飯 / Delicious in Dungeon": [
+      {
+        "title": "Delicious in Dungeon, Vol. 2",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504326129l/34050718._SX318_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "ダンジョン飯 / Delicious in Dungeon",
+        "volume": 2,
+        "year_read": 0
+      },
+      {
+        "title": "Delicious in Dungeon, Vol. 3",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507744433l/35181839._SX318_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "ダンジョン飯 / Delicious in Dungeon",
+        "volume": 3,
+        "year_read": 0
+      },
+      {
+        "title": "ダンジョン飯 6 [Dungeon Meshi 6] (Delicious in Dungeon, #6)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521222806l/36646057._SX318_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "ダンジョン飯 / Delicious in Dungeon",
+        "volume": 6,
+        "year_read": 0
+      },
+      {
+        "title": "Delicious in Dungeon, Vol. 4",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515520862l/35488056.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "ダンジョン飯 / Delicious in Dungeon",
+        "volume": 4,
+        "year_read": 0
+      }
+    ],
+    "ぼくたちは勉強ができない / We Never Learn": [
+      {
+        "title": "ぼくたちは勉強ができない 1 [Bokutachi wa Benkyou ga Dekinai 1] (We Never Learn, #1)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496008073l/35250660._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "ぼくたちは勉強ができない / We Never Learn",
+        "volume": 1,
+        "year_read": 0
+      },
+      {
+        "title": "ぼくたちは勉強ができない 2 [Bokutachi wa Benkyou ga Dekinai 2] (We Never Learn, #2)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501125134l/35250887._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "ぼくたちは勉強ができない / We Never Learn",
+        "volume": 2,
+        "year_read": 0
+      },
+      {
+        "title": "ぼくたちは勉強ができない 3 [Bokutachi wa Benkyou ga Dekinai 3] (We Never Learn, #3)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506622818l/35914965._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "ぼくたちは勉強ができない / We Never Learn",
+        "volume": 3,
+        "year_read": 0
+      },
+      {
+        "title": "ぼくたちは勉強ができない 4 [Bokutachi wa Benkyou ga Dekinai 4] (We Never Learn, #4)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513619308l/36319692._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "ぼくたちは勉強ができない / We Never Learn",
+        "volume": 4,
+        "year_read": 0
+      },
+      {
+        "title": "ぼくたちは勉強ができない 5 [Bokutachi wa Benkyou ga Dekinai 5] (We Never Learn, #5)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521480952l/37562300._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "ぼくたちは勉強ができない / We Never Learn",
+        "volume": 5,
+        "year_read": 0
+      },
+      {
+        "title": "ぼくたちは勉強ができない 6 [Bokutachi wa Benkyou ga Dekinai 6] (We Never Learn, #6)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524766773l/39323398._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "ぼくたちは勉強ができない / We Never Learn",
+        "volume": 6,
+        "year_read": 0
+      },
+      {
+        "title": "ぼくたちは勉強ができない 7 [Bokutachi wa Benkyou ga Dekinai 7] (We Never Learn, #7)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530472215l/39948444._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "ぼくたちは勉強ができない / We Never Learn",
+        "volume": 7,
+        "year_read": 0
+      }
+    ],
+    "Archie (2015) (Collected Editions)": [
+      {
+        "title": "Archie, Vol. 2",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492599931l/29780171._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Archie (2015) (Collected Editions)",
+        "volume": 2,
+        "year_read": 0
+      },
+      {
+        "title": "Archie, Vol. 3",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492420131l/31621570._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Archie (2015) (Collected Editions)",
+        "volume": 3,
+        "year_read": 0
+      }
+    ],
+    "文豪ストレイドッグス / Bungō Stray Dogs Manga": [
+      {
+        "title": "文豪ストレイドッグス 1 [Bungō Stray Dogs 1]",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386079728l/19146864.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "文豪ストレイドッグス / Bungō Stray Dogs Manga",
+        "volume": 1,
+        "year_read": 0
+      },
+      {
+        "title": "文豪ストレイドッグス 2 [Bungō Stray Dogs 2]",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385989548l/19098044.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "文豪ストレイドッグス / Bungō Stray Dogs Manga",
+        "volume": 2,
+        "year_read": 0
+      },
+      {
+        "title": "文豪ストレイドッグス 3 [Bungō Stray Dogs 3]",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424641508l/24997018.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "文豪ストレイドッグス / Bungō Stray Dogs Manga",
+        "volume": 3,
+        "year_read": 0
+      },
+      {
+        "title": "文豪ストレイドッグス 4 [Bungō Stray Dogs 4]",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424641477l/24997013.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "文豪ストレイドッグス / Bungō Stray Dogs Manga",
+        "volume": 4,
+        "year_read": 0
+      },
+      {
+        "title": "文豪ストレイドッグス 5 [Bungō Stray Dogs 5]",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433993636l/25706711._SX318_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "文豪ストレイドッグス / Bungō Stray Dogs Manga",
+        "volume": 5,
+        "year_read": 0
+      },
+      {
+        "title": "文豪ストレイドッグス 6 [Bungō Stray Dogs 6]",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469562987l/25535522._SX318_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "文豪ストレイドッグス / Bungō Stray Dogs Manga",
+        "volume": 6,
+        "year_read": 0
+      },
+      {
+        "title": "文豪ストレイドッグス 7 [Bungō Stray Dogs 7]",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431581642l/25535560.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "文豪ストレイドッグス / Bungō Stray Dogs Manga",
+        "volume": 7,
+        "year_read": 0
+      },
+      {
+        "title": "文豪ストレイドッグス 8 [Bungō Stray Dogs 8]",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462387217l/30110298._SX318_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "文豪ストレイドッグス / Bungō Stray Dogs Manga",
+        "volume": 8,
+        "year_read": 0
+      },
+      {
+        "title": "文豪ストレイドッグス 9 [Bungō Stray Dogs 9]",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462387305l/30110302._SX318_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "文豪ストレイドッグス / Bungō Stray Dogs Manga",
+        "volume": 9,
+        "year_read": 0
+      }
+    ],
+    "Sex Criminals": [
+      {
+        "title": "Sex Criminals: Volume One: One Weird Trick",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396977214l/19536001.jpg"
+        ],
+        "rating": 5,
+        "review": null,
+        "series": "Sex Criminals",
+        "volume": 1,
+        "year_read": 0
+      }
+    ],
+    "Gotham Academy": [
+      {
+        "title": "Gotham Academy, Volume 1: Welcome to Gotham Academy",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589969792l/23395763.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Gotham Academy",
+        "volume": 1,
+        "year_read": 0
+      }
+    ]
+  },
+  "2015": {
+    "Ms. Marvel by G. Willow Wilson": [
+      {
+        "title": "Ms. Marvel, Vol. 1: No Normal",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413031883l/20898019.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Ms. Marvel by G. Willow Wilson",
+        "volume": 1,
+        "date_read": "2015-01-16T00:00:00.000-08:00",
+        "year_read": 2015
+      },
+      {
+        "title": "Ms. Marvel, Vol. 2: Generation Why",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427559332l/23017947.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Ms. Marvel by G. Willow Wilson",
+        "volume": 2,
+        "date_read": "2015-02-20T00:00:00.000-08:00",
+        "year_read": 2015
+      }
+    ],
+    "Deadpool by Posehn & Duggan": [
+      {
+        "title": "Deadpool, Volume 1: Dead Presidents",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409503511l/17251103.jpg"
+        ],
+        "rating": 3,
+        "review": null,
+        "series": "Deadpool by Posehn & Duggan",
+        "volume": 1,
+        "date_read": "2015-01-16T00:00:00.000-08:00",
+        "year_read": 2015
+      }
+    ],
+    "Captain Marvel (2014) (Collected Editions)": [
+      {
+        "title": "Captain Marvel, Volume 1: Higher, Further, Faster, More",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414348442l/20898018.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Captain Marvel (2014) (Collected Editions)",
+        "volume": 1,
+        "date_read": "2015-01-19T00:00:00.000-08:00",
+        "year_read": 2015
+      }
+    ],
+    "Soul Eater NOT!": [
+      {
+        "title": "Soul Eater NOT!, Vol. 1",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340738634l/13312876.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Soul Eater NOT!",
+        "volume": 1,
+        "date_read": "2015-04-14T00:00:00.000-07:00",
+        "year_read": 2015
+      }
+    ],
+    "Adventure Time: Marceline and the Scream Queens": [
+      {
+        "title": "Adventure Time: Marceline and the Scream Queens",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361195520l/16074588.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Adventure Time: Marceline and the Scream Queens",
+        "volume": null,
+        "date_read": "2015-03-01T00:00:00.000-08:00",
+        "year_read": 2015
+      }
+    ],
+    "Adventure Time with Fionna & Cake": [
+      {
+        "title": "Adventure Time with Fionna & Cake Vol. 1",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382266287l/18690641.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Adventure Time with Fionna & Cake",
+        "volume": null,
+        "date_read": "2015-06-14T00:00:00.000-07:00",
+        "year_read": 2015
+      }
+    ],
+    "Lady Killer": [
+      {
+        "title": "Lady Killer, Vol. 1",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566054854l/23995491._SY475_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Lady Killer",
+        "volume": 1,
+        "date_read": "2015-07-14T00:00:00.000-07:00",
+        "year_read": 2015
+      }
+    ],
+    "Batgirl (2011)": [
+      {
+        "title": "Batgirl, Volume 1: Batgirl of Burnside",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499091545l/23164970._SY475_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Batgirl (2011)",
+        "volume": 6,
+        "date_read": "2015-08-11T00:00:00.000-07:00",
+        "year_read": 2015
+      }
+    ],
+    "": [
+      {
+        "title": "Doctor Who: Four Doctors",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444684484l/26164745.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "",
+        "volume": null,
+        "date_read": "2015-09-29T00:00:00.000-07:00",
+        "year_read": 2015
+      }
+    ],
+    "Mega Man (Archie)": [
+      {
+        "title": "Mega Man 1: Let the Games Begin",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419180568l/12467354.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Mega Man (Archie)",
+        "volume": 1,
+        "date_read": "2015-10-25T00:00:00.000-07:00",
+        "year_read": 2015
+      }
+    ],
+    "Revival": [
+      {
+        "title": "Revival, Vol. 1: You're Among Friends",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353558814l/16137205.jpg"
+        ],
+        "rating": 5,
+        "review": null,
+        "series": "Revival",
+        "volume": 1,
+        "date_read": "2015-10-30T00:00:00.000-07:00",
+        "year_read": 2015
+      },
+      {
+        "title": "Revival, Vol. 2: Live Like You Mean It",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366561242l/17818457.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Revival",
+        "volume": 2,
+        "date_read": "2015-12-16T00:00:00.000-08:00",
+        "year_read": 2015
+      }
+    ],
+    "Wayward": [
+      {
+        "title": "Wayward, Vol. 1: String Theory",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417073009l/23622918.jpg"
+        ],
+        "rating": 5,
+        "review": null,
+        "series": "Wayward",
+        "volume": 1,
+        "date_read": "2015-09-07T00:00:00.000-07:00",
+        "year_read": 2015
+      }
+    ],
+    "Southern Bastards": [
+      {
+        "title": "Southern Bastards, Vol. 1: Here Was a Man",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467375064l/22358444._SY475_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Southern Bastards",
+        "volume": 1,
+        "date_read": "2015-10-06T00:00:00.000-07:00",
+        "year_read": 2015
+      }
+    ],
+    "Lumberjanes (Collected Editions)": [
+      {
+        "title": "Lumberjanes, Vol. 1: Beware the Kitten Holy",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435843806l/22554204._SY475_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Lumberjanes (Collected Editions)",
+        "volume": 1,
+        "date_read": "2015-02-17T00:00:00.000-08:00",
+        "year_read": 2015
+      }
+    ],
+    "Captain Marvel (2012) (Single Issues)": [
+      {
+        "title": "Capitã Marvel, Vol. 3: Inimigo Interior",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416263784l/23574668.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Captain Marvel (2012) (Single Issues)",
+        "volume": null,
+        "date_read": "2015-01-15T00:00:00.000-08:00",
+        "year_read": 2015
+      }
+    ]
+  },
+  "2016": {
+    "Soul Eater NOT!": [
+      {
+        "title": "Soul Eater NOT!, Vol. 3",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401077949l/19539094.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Soul Eater NOT!",
+        "volume": 3,
+        "date_read": "2016-02-20T00:00:00.000-08:00",
+        "year_read": 2016
+      },
+      {
+        "title": "Soul Eater NOT!, Vol. 4",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410764190l/22208263.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Soul Eater NOT!",
+        "volume": 4,
+        "date_read": "2016-02-20T00:00:00.000-08:00",
+        "year_read": 2016
+      },
+      {
+        "title": "Soul Eater NOT!, Vol. 5",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433961532l/24487012._SX318_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Soul Eater NOT!",
+        "volume": 5,
+        "date_read": "2016-02-20T00:00:00.000-08:00",
+        "year_read": 2016
+      },
+      {
+        "title": "Soul Eater NOT!, Vol. 2",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435418588l/13528435.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Soul Eater NOT!",
+        "volume": 2,
+        "date_read": "2016-02-20T00:00:00.000-08:00",
+        "year_read": 2016
+      }
+    ],
+    "Harley Quinn: Miniserie": [
+      {
+        "title": "Harley Quinn and Power Girl",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483474686l/26067588._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Harley Quinn: Miniserie",
+        "volume": null,
+        "date_read": "2016-03-31T00:00:00.000-07:00",
+        "year_read": 2016
+      }
+    ],
+    "Zodiac Starforce (Collected Editions)": [
+      {
+        "title": "Zodiac Starforce Volume 1: By the Power of Astra",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445551423l/25810226._SY475_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Zodiac Starforce (Collected Editions)",
+        "volume": 1,
+        "date_read": "2016-04-01T00:00:00.000-07:00",
+        "year_read": 2016
+      }
+    ],
+    "": [
+      {
+        "title": "Power Cubed",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445789835l/26150663.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "",
+        "volume": null,
+        "date_read": "2016-04-01T00:00:00.000-07:00",
+        "year_read": 2016
+      }
+    ],
+    "Archie (2015) (Collected Editions)": [
+      {
+        "title": "Archie, Vol. 1",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492419166l/25852959._SY475_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Archie (2015) (Collected Editions)",
+        "volume": 1,
+        "date_read": "2016-04-06T00:00:00.000-07:00",
+        "year_read": 2016
+      }
+    ],
+    "Doctor Who: The Eighth Doctor": [
+      {
+        "title": "Doctor Who: The Eighth Doctor, Vol. 1: A Matter of Life and Death",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445792929l/26067734.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Doctor Who: The Eighth Doctor",
+        "volume": 1,
+        "date_read": "2016-06-13T00:00:00.000-07:00",
+        "year_read": 2016
+      }
+    ],
+    "Black Canary (2015)": [
+      {
+        "title": "Black Canary, Volume 1: Kicking and Screaming",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629800533l/25810137.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Black Canary (2015)",
+        "volume": 1,
+        "date_read": "2016-06-16T00:00:00.000-07:00",
+        "year_read": 2016
+      }
+    ],
+    "New Avengers: A.I.M. (Collected Editions)": [
+      {
+        "title": "New Avengers: A.I.M., Volume 1: Everything is New",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460314878l/26200319.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "New Avengers: A.I.M. (Collected Editions)",
+        "volume": 1,
+        "date_read": "2016-06-17T00:00:00.000-07:00",
+        "year_read": 2016
+      }
+    ],
+    "Batgirl (2011)": [
+      {
+        "title": "Batgirl, Volume 2: Family Business",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582086528l/26067583.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Batgirl (2011)",
+        "volume": 7,
+        "date_read": "2016-07-20T00:00:00.000-07:00",
+        "year_read": 2016
+      },
+      {
+        "title": "Batgirl, Volume 3: Mindfields",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582086524l/28109909.jpg"
+        ],
+        "rating": 3,
+        "review": null,
+        "series": "Batgirl (2011)",
+        "volume": 8,
+        "date_read": "2016-09-22T00:00:00.000-07:00",
+        "year_read": 2016
+      }
+    ],
+    "Sex Criminals": [
+      {
+        "title": "Sex Criminals: Volume Two: Two Worlds One Cop",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410891094l/23228585.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Sex Criminals",
+        "volume": 2,
+        "date_read": "2016-12-15T00:00:00.000-08:00",
+        "year_read": 2016
+      }
+    ],
+    "Jughead (2015)": [
+      {
+        "title": "Jughead, Vol. 1",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457289588l/27405590.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Jughead (2015)",
+        "volume": 1,
+        "date_read": "2016-06-15T00:00:00.000-07:00",
+        "year_read": 2016
+      }
+    ],
+    "Starfire (2015)": [
+      {
+        "title": "Starfire, Volume 1: Welcome Home",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603145057l/25810156.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Starfire (2015)",
+        "volume": 1,
+        "date_read": "2016-03-31T00:00:00.000-07:00",
+        "year_read": 2016
+      }
+    ],
+    "Mushoku Tensei Manga": [
+      {
+        "title": "Mushoku Tensei: Jobless Reincarnation (Manga) Vol. 1",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444604965l/24464163.jpg"
+        ],
+        "rating": 3,
+        "review": null,
+        "series": "Mushoku Tensei Manga",
+        "volume": 1,
+        "date_read": "2016-03-08T00:00:00.000-08:00",
+        "year_read": 2016
+      }
+    ]
+  },
+  "2018": {
+    "空ろの箱と零のマリア [Utsuro no Hako to Zero no Maria]": [
+      {
+        "title": "The Empty Box and Zeroth Maria, Vol. 1 (The Empty Box and Zeroth Maria, #1)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530732949l/35224983._SY475_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "空ろの箱と零のマリア [Utsuro no Hako to Zero no Maria]",
+        "volume": 1,
+        "date_read": "2018-02-27T00:00:00.000-08:00",
+        "year_read": 2018
+      }
+    ],
+    "ダンジョン飯 / Delicious in Dungeon": [
+      {
+        "title": "Delicious in Dungeon, Vol. 1",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492956010l/32856010.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "ダンジョン飯 / Delicious in Dungeon",
+        "volume": 1,
+        "date_read": "2018-07-06T00:00:00.000-07:00",
+        "year_read": 2018
+      },
+      {
+        "title": "Delicious in Dungeon, Vol. 5",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522169048l/36504691.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "ダンジョン飯 / Delicious in Dungeon",
+        "volume": 5,
+        "date_read": "2018-10-23T00:00:00.000-07:00",
+        "year_read": 2018
+      }
+    ],
+    "Oh My Goddess!": [
+      {
+        "title": "Oh My Goddess! Volume 1: Wrong Number",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1174198320l/370136.jpg"
+        ],
+        "rating": 5,
+        "review": null,
+        "series": "Oh My Goddess!",
+        "volume": 1,
+        "date_read": "2018-07-31T00:00:00.000-07:00",
+        "year_read": 2018
+      }
+    ],
+    "ぼくたちは勉強ができない / We Never Learn": [
+      {
+        "title": "ぼくたちは勉強ができない 8 [Bokutachi wa Benkyou ga Dekinai 8] (We Never Learn, #8)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535657061l/40629800._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "ぼくたちは勉強ができない / We Never Learn",
+        "volume": 8,
+        "date_read": "2018-12-11T00:00:00.000-08:00",
+        "year_read": 2018
+      }
+    ],
+    "Marvel's Oz Comics": [
+      {
+        "title": "Oz. The Marvelous Land of Oz  (Marvel Classics)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442606382l/8498471._SX318_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Marvel's Oz Comics",
+        "volume": 2,
+        "date_read": "2018-12-11T00:00:00.000-08:00",
+        "year_read": 2018
+      }
+    ]
+  },
+  "2020": {
+    "Kobayashi-san Chi no Maid Dragon": [
+      {
+        "title": "Miss Kobayashi's Dragon Maid, Vol. 1",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479826161l/28260438._SX318_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Kobayashi-san Chi no Maid Dragon",
+        "volume": 1,
+        "date_read": "2020-01-01T00:00:00.000-08:00",
+        "year_read": 2020
+      },
+      {
+        "title": "Miss Kobayashi's Dragon Maid, Vol. 2",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487478379l/30139711._SX318_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Kobayashi-san Chi no Maid Dragon",
+        "volume": 2,
+        "date_read": "2020-01-01T00:00:00.000-08:00",
+        "year_read": 2020
+      }
+    ]
+  },
+  "2021": {
+    "Rent-A-Girlfriend": [
+      {
+        "title": "彼女、お借りします 5 [Kanojo, Okari shimasu 5] (Rent-A-Girlfriend, #5)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557860854l/45786338._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Rent-A-Girlfriend",
+        "volume": 5,
+        "date_read": "2021-01-01T00:00:00.000-08:00",
+        "year_read": 2021
+      },
+      {
+        "title": "彼女、お借りします 4 [Kanojo, Okari shimasu 4] (Rent-A-Girlfriend, #4)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620942274l/45786337._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Rent-A-Girlfriend",
+        "volume": 4,
+        "date_read": "2021-01-01T00:00:00.000-08:00",
+        "year_read": 2021
+      },
+      {
+        "title": "彼女、お借りします 3 [Kanojo, Okari shimasu 3] (Rent-A-Girlfriend, #3)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524236932l/39901557._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Rent-A-Girlfriend",
+        "volume": 3,
+        "date_read": "2021-01-01T00:00:00.000-08:00",
+        "year_read": 2021
+      },
+      {
+        "title": "彼女、お借りします 2 [Kanojo, Okari shimasu 2] (Rent-A-Girlfriend, #2)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552994784l/44531488._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Rent-A-Girlfriend",
+        "volume": 2,
+        "date_read": "2021-01-01T00:00:00.000-08:00",
+        "year_read": 2021
+      },
+      {
+        "title": "彼女、お借りします 1 [Kanojo, Okari shimasu 1] (Rent-A-Girlfriend, #1)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578351225l/36568445._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Rent-A-Girlfriend",
+        "volume": 1,
+        "date_read": "2021-01-01T00:00:00.000-08:00",
+        "year_read": 2021
+      }
+    ],
+    "": [
+      {
+        "title": "Don't Toy with Me, Miss Nagatoro, Vol. 3",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580788178l/52505309._SX318_SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "",
+        "volume": 3,
+        "date_read": "2021-01-01T00:00:00.000-08:00",
+        "year_read": 2021
+      },
+      {
+        "title": "Don't Toy With Me, Miss Nagatoro, Vol. 2",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582054705l/51470146._SX318_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "",
+        "volume": 2,
+        "date_read": "2021-01-01T00:00:00.000-08:00",
+        "year_read": 2021
+      },
+      {
+        "title": "Don't Toy With Me, Miss Nagatoro, Vol. 1",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573917057l/48837992._SX318_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "",
+        "volume": 1,
+        "date_read": "2021-01-01T00:00:00.000-08:00",
+        "year_read": 2021
+      }
+    ],
+    "見える子ちゃん": [
+      {
+        "title": "Mieruko-chan, Vol. 1",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609828267l/54760327._SY475_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "見える子ちゃん",
+        "volume": 1,
+        "date_read": "2021-04-30T00:00:00.000-07:00",
+        "year_read": 2021
+      },
+      {
+        "title": "Mieruko-chan, Vol. 2",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615138329l/56853692._SY475_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "見える子ちゃん",
+        "volume": 2,
+        "date_read": "2021-05-16T00:00:00.000-07:00",
+        "year_read": 2021
+      }
+    ],
+    "Ranma ½: 2-in-1 Editio": [
+      {
+        "title": "Ranma 1/2 (2-in-1 Edition), Vol. 2: Includes Volumes 3  4",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392995008l/18223761.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Ranma ½: 2-in-1 Editio",
+        "volume": null,
+        "date_read": "2021-04-20T00:00:00.000-07:00",
+        "year_read": 2021
+      },
+      {
+        "title": "Ranma 1/2, Vol. 1: Includes Volumes 1 & 2 (Ranma ½ 2-in-1 Edition #1)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922477l/18223762.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Ranma ½: 2-in-1 Editio",
+        "volume": null,
+        "date_read": "2021-04-13T00:00:00.000-07:00",
+        "year_read": 2021
+      },
+      {
+        "title": "Ranma 1/2 (2-in-1 Edition), Vol. 3: Includes Volumes 5  6",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395629015l/18775469.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Ranma ½: 2-in-1 Editio",
+        "volume": null,
+        "date_read": "2021-04-27T00:00:00.000-07:00",
+        "year_read": 2021
+      },
+      {
+        "title": "Ranma 1/2 (2-in-1 Edition), Vol. 4: Includes Volumes 7  8",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397770491l/18775470.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Ranma ½: 2-in-1 Editio",
+        "volume": null,
+        "date_read": "2021-05-15T00:00:00.000-07:00",
+        "year_read": 2021
+      },
+      {
+        "title": "Ranma 1/2 (2-in-1 Edition), Vol. 5: Includes Volumes 9  10",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397770595l/21411986.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Ranma ½: 2-in-1 Editio",
+        "volume": null,
+        "date_read": "2021-06-10T00:00:00.000-07:00",
+        "year_read": 2021
+      }
+    ]
+  },
+  "2022": {
+    "One Piece": [
+      {
+        "title": "One Piece, Volume 62: Adventure on Fish-Man Island",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344391166l/13178853.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 62,
+        "date_read": "2022-07-10T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 63: Otohime and Tiger",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388289133l/13259752.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 63,
+        "date_read": "2022-07-10T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 64: 100,000 vs. 10",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388439229l/13260115.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 64,
+        "date_read": "2022-07-10T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 65: To Nothing",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389570363l/13547242.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 65,
+        "date_read": "2022-07-10T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 38: Rocketman!!",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572270689l/6801614._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 38,
+        "date_read": "2022-05-23T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 37: Tom",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572270680l/6801613._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 37,
+        "date_read": "2022-05-23T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 36: The Ninth Justice",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572270674l/6801602._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 36,
+        "date_read": "2022-05-23T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 35: Captain",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572270669l/6801601._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 35,
+        "date_read": "2022-05-23T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 34: The City of Water, Water Seven",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572270658l/6801599._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 34,
+        "date_read": "2022-05-23T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 33: Davy Back Fight",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572270653l/6801646._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 33,
+        "date_read": "2022-05-23T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 32: Love Song",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271714l/6801645._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 32,
+        "date_read": "2022-05-23T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 31: We'll Be Here",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271681l/6801644._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 31,
+        "date_read": "2022-05-23T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 30: Capriccio",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271671l/6801643._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 30,
+        "date_read": "2022-05-23T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 14: Instinct",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388965064l/364953.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 14,
+        "date_read": "2022-03-01T00:00:00.000-08:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 25: The 100 Million Berry Man",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271522l/6891484._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 25,
+        "date_read": "2022-03-01T00:00:00.000-08:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 26: Adventure on Kami's Island",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271519l/6891486._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 26,
+        "date_read": "2022-03-01T00:00:00.000-08:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 27: Overture",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271644l/6891488._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 27,
+        "date_read": "2022-03-01T00:00:00.000-08:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 28: Wyper the Berserker",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271653l/6891489._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 28,
+        "date_read": "2022-05-23T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 29: Oratorio",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271662l/6801639._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 29,
+        "date_read": "2022-05-23T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 60: My Little Brother",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336247126l/12677990.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 60,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 61: Romance Dawn for the New World",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388289124l/13178852.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 61,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 59: The Death of Portgaz D. Ace",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1319249089l/12442074.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 59,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 58: The Name of This Era is \"Whitebeard\"",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388289116l/11040807.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 58,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 57: Paramount War",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388197336l/10373700.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 57,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 56: Thank You",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387177762l/9461936.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 56,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 55: A Ray of Hope",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348237505l/8230496.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 55,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 53: Natural Born King",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388289118l/7421456.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 53,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 54: Unstoppable",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392326060l/7326792.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 54,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 52: Roger and Rayleigh",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389365439l/7421457.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 52,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 51: The Eleven Supernovas",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348230352l/7421460.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 51,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 50: Arriving Again",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388289124l/7421463.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 50,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 49: Nightmare Luffy",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572274432l/7421452._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 49,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 48: Adventures of Oars",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572274422l/6797464._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 48,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 47: Cloudy, Partly Bony",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572274401l/6797463._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 47,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 46: Adventure on Ghost Island",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572269694l/6797462._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 46,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 45: You Have My Sympathies",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572269741l/6797461._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 45,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 44: Let's Go Back",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572270137l/6797460._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 44,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 43: Legend of a Hero",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572270162l/6801576._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 43,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 42: Pirates vs. CP9",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572270193l/6801575._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 42,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 41: Declaration of War",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572270241l/6801574._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 41,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 40: Gear",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348214432l/6797480.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 40,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 39: Scramble",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572270316l/6797477._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 39,
+        "date_read": "2022-07-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Vol. 1: Romance Dawn (One Piece, #1)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318523719l/1237398.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 1,
+        "date_read": "2022-03-31T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 2: Buggy the Clown",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388531494l/364956.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 2,
+        "date_read": "2022-03-31T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 3: Don't Get Fooled Again",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388531492l/364957.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 3,
+        "date_read": "2022-03-31T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 4: The Black Cat Pirates",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388466608l/364952.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 4,
+        "date_read": "2022-03-31T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 7: The Crap-Geezer",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389640440l/364954.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 7,
+        "date_read": "2022-04-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 6: The Oath",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572271006l/364950._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 6,
+        "date_read": "2022-04-03T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "One Piece, Volume 5: For Whom the Bell Tolls",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388289134l/364951.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "One Piece",
+        "volume": 5,
+        "date_read": "2022-04-03T00:00:00.000-07:00",
+        "year_read": 2022
+      }
+    ],
+    "Sakamoto Days": [
+      {
+        "title": "SAKAMOTO DAYS 6 (Sakamoto Days, #6)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646514611l/59962187._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Sakamoto Days",
+        "volume": 6,
+        "date_read": "2022-02-01T00:00:00.000-08:00",
+        "year_read": 2022
+      },
+      {
+        "title": "SAKAMOTO DAYS 2 (Sakamoto Days, #2)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622651347l/57557794._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Sakamoto Days",
+        "volume": 2,
+        "date_read": "2022-02-01T00:00:00.000-08:00",
+        "year_read": 2022
+      },
+      {
+        "title": "SAKAMOTO DAYS 3 (Sakamoto Days, #3)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630606709l/58098905._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Sakamoto Days",
+        "volume": 3,
+        "date_read": "2022-02-01T00:00:00.000-08:00",
+        "year_read": 2022
+      },
+      {
+        "title": "SAKAMOTO DAYS 4 (Sakamoto Days, #4)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636052405l/58884779._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Sakamoto Days",
+        "volume": 4,
+        "date_read": "2022-02-01T00:00:00.000-08:00",
+        "year_read": 2022
+      },
+      {
+        "title": "SAKAMOTO DAYS 5 (Sakamoto Days, #5)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640722274l/59479103._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Sakamoto Days",
+        "volume": 5,
+        "date_read": "2022-02-01T00:00:00.000-08:00",
+        "year_read": 2022
+      },
+      {
+        "title": "SAKAMOTO DAYS 1 (Sakamoto Days, #1)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617384366l/55980428._SY475_.jpg"
+        ],
+        "rating": 5,
+        "review": null,
+        "series": "Sakamoto Days",
+        "volume": 1,
+        "date_read": "2022-02-01T00:00:00.000-08:00",
+        "year_read": 2022
+      }
+    ],
+    "Kaiju No. 8": [
+      {
+        "title": "怪獣8号 3 [Kaijuu 8-gou 3] (Kaiju No. 8, #3)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622651416l/57319556._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Kaiju No. 8",
+        "volume": 3,
+        "date_read": "2022-02-27T00:00:00.000-08:00",
+        "year_read": 2022
+      },
+      {
+        "title": "怪獣8号 4 [Kaijuu 8-gou 4] (Kaiju No. 8, #4)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630606347l/58098866._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Kaiju No. 8",
+        "volume": 4,
+        "date_read": "2022-02-27T00:00:00.000-08:00",
+        "year_read": 2022
+      },
+      {
+        "title": "怪獣8号 5 [Kaijuu 8-gou 5] (Kaiju No. 8, #5)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638564651l/58884767._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Kaiju No. 8",
+        "volume": 5,
+        "date_read": "2022-02-27T00:00:00.000-08:00",
+        "year_read": 2022
+      },
+      {
+        "title": "怪獣8号 6 [Kaijuu 8-gou 6] (Kaiju No. 8, #6)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646348031l/59706345._SY475_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Kaiju No. 8",
+        "volume": 6,
+        "date_read": "2022-02-27T00:00:00.000-08:00",
+        "year_read": 2022
+      },
+      {
+        "title": "Kaiju No. 8, Vol. 1",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625673736l/57147104.jpg"
+        ],
+        "rating": 5,
+        "review": null,
+        "series": "Kaiju No. 8",
+        "volume": 1,
+        "date_read": "2022-02-27T00:00:00.000-08:00",
+        "year_read": 2022
+      },
+      {
+        "title": "Kaiju No. 8, Vol. 2",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636302068l/58438415.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Kaiju No. 8",
+        "volume": 2,
+        "date_read": "2022-02-27T00:00:00.000-08:00",
+        "year_read": 2022
+      }
+    ],
+    "見える子ちゃん": [
+      {
+        "title": "Mieruko-chan Vol. 5",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1653467120l/59901118.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "見える子ちゃん",
+        "volume": 5,
+        "date_read": "2022-06-12T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "見える子ちゃん 4 (Mieruko-chan, #4)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600786919l/55427206._SX318_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "見える子ちゃん",
+        "volume": 4,
+        "date_read": "2022-01-16T00:00:00.000-08:00",
+        "year_read": 2022
+      }
+    ],
+    "": [
+      {
+        "title": "Miss Kobayashi's Dragon Maid Vol. 11",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639533977l/59826699._SX318_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "",
+        "volume": null,
+        "date_read": "2022-06-23T00:00:00.000-07:00",
+        "year_read": 2022
+      }
+    ],
+    "Gal Gohan": [
+      {
+        "title": "Gal Gohan Vol. 4",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595817749l/49247161.jpg"
+        ],
+        "rating": 3,
+        "review": null,
+        "series": "Gal Gohan",
+        "volume": 4,
+        "date_read": "2022-03-13T00:00:00.000-08:00",
+        "year_read": 2022
+      },
+      {
+        "title": "Gal Gohan Vol. 5",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595215088l/49247068.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Gal Gohan",
+        "volume": 5,
+        "date_read": "2022-03-13T00:00:00.000-08:00",
+        "year_read": 2022
+      },
+      {
+        "title": "Gal Gohan Vol. 6",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595215574l/53426737.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Gal Gohan",
+        "volume": 6,
+        "date_read": "2022-03-16T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "Gal Gohan Vol. 7",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595215243l/53426684.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Gal Gohan",
+        "volume": 7,
+        "date_read": "2022-03-18T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "Gal Gohan Vol. 8",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618169112l/57697196._SX318_.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Gal Gohan",
+        "volume": 8,
+        "date_read": "2022-03-18T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "Gal Gohan Vol. 10",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630358453l/58801636.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Gal Gohan",
+        "volume": 10,
+        "date_read": "2022-03-20T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "Gal Gohan Vol. 9",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624228236l/57492097.jpg"
+        ],
+        "rating": 0,
+        "review": null,
+        "series": "Gal Gohan",
+        "volume": 9,
+        "date_read": "2022-03-20T00:00:00.000-07:00",
+        "year_read": 2022
+      },
+      {
+        "title": "Gal Gohan Vol. 3",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567545015l/49435392._SX318_SY475_.jpg"
+        ],
+        "rating": 3,
+        "review": null,
+        "series": "Gal Gohan",
+        "volume": 3,
+        "date_read": "2022-03-12T00:00:00.000-08:00",
+        "year_read": 2022
+      },
+      {
+        "title": "ギャルごはん Gal Gohan [Gyaru Cooking] (Gal Gohan 1)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502384303l/34034964._SX318_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Gal Gohan",
+        "volume": 1,
+        "date_read": "2022-02-05T00:00:00.000-08:00",
+        "year_read": 2022
+      },
+      {
+        "title": "Gal Gohan Vol. 2",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563399340l/45046883.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "Gal Gohan",
+        "volume": 2,
+        "date_read": "2022-02-06T00:00:00.000-08:00",
+        "year_read": 2022
+      }
+    ],
+    "GTO: Paradise Lost": [
+      {
+        "title": "GTO: Paradise Lost Vol. 1",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491290828l/34787826._SY475_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "GTO: Paradise Lost",
+        "volume": 1,
+        "date_read": "2022-02-05T00:00:00.000-08:00",
+        "year_read": 2022
+      }
+    ],
+    "The Sacred Blacksmith": [
+      {
+        "title": "The Sacred Blacksmith Vol. 1",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462036701l/30062634._SX318_.jpg"
+        ],
+        "rating": 3,
+        "review": null,
+        "series": "The Sacred Blacksmith",
+        "volume": 1,
+        "date_read": "2022-02-05T00:00:00.000-08:00",
+        "year_read": 2022
+      }
+    ],
+    "The Woods": [
+      {
+        "title": "The Swarm (The Woods #2)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439001618l/26060468._SY475_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "The Woods",
+        "volume": 2,
+        "date_read": "2022-01-29T00:00:00.000-08:00",
+        "year_read": 2022
+      },
+      {
+        "title": "New London (The Woods #3)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453435973l/28671282._SY475_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "The Woods",
+        "volume": 3,
+        "date_read": "2022-01-30T00:00:00.000-08:00",
+        "year_read": 2022
+      },
+      {
+        "title": "Movie Night (The Woods #4)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467665347l/30843700._SY475_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "The Woods",
+        "volume": 4,
+        "date_read": "2022-01-30T00:00:00.000-08:00",
+        "year_read": 2022
+      },
+      {
+        "title": "The Horde (The Woods #5)",
+        "cover": [
+          "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481937754l/33401152._SY475_.jpg"
+        ],
+        "rating": 4,
+        "review": null,
+        "series": "The Woods",
+        "volume": 5,
+        "date_read": "2022-01-30T00:00:00.000-08:00",
+        "year_read": 2022
+      }
+    ]
+  }
 }
