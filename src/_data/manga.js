@@ -43,8 +43,7 @@ const notion = new Client({ auth: TOKEN });
 //   return images;
 // }
 
-// TODO: filter by updated since last sync
-async function fetchBooks() {
+async function fetchBooks(since) {
   // If we dont have a domain name or token, abort
   if (!DATABASE_ID || !TOKEN) {
     console.warn(">>> unable to fetch books: missing token or db id");
@@ -53,6 +52,7 @@ async function fetchBooks() {
 
   const p = {
     and: [
+      { property: "Edited", date: { after: since } },
       {
         property: "Status",
         select: {
@@ -81,13 +81,13 @@ async function fetchBooks() {
   const results = await fetchFromNotion(notion, DATABASE_ID, p);
 
   if (results) {
-    const newBooks = [];
+    const newManga = {};
     console.log(`>>> ${results.length} new books fetched`);
 
     for (const book of results) {
       const newBook = getNotionProps(book, false);
 
-      newBooks.push({
+      newManga[book.id] = {
         title: newBook["Title"],
         cover: newBook["Cover"],
         rating: newBook["My Rating"],
@@ -98,20 +98,26 @@ async function fetchBooks() {
         year_read: newBook["Date Read"]
           ? newBook["Date Read"].year
           : 0,
-      });
+      };
     }
 
-    const ungrouped = groupBy(newBooks, "year_read");
-    const grouped = {};
-
-    Object.keys(ungrouped).forEach((year)=>{
-      grouped[year] = groupBy(ungrouped[year], 'series');
-    })
-
-    return grouped;
+    
+    return newManga;
   }
 
   return null;
+}
+
+
+function sortManga(manga) {
+  const perYear = groupBy(manga, "year_read");
+  const grouped = {};
+
+  Object.keys(perYear).forEach((year)=>{
+    grouped[year] = groupBy(perYear[year], 'series');
+  })
+
+  return grouped;
 }
 
 module.exports = async function () {
@@ -124,22 +130,28 @@ module.exports = async function () {
   }
 
   // Only fetch new mentions in production
-  if (process.env.ELEVENTY_ENV === "development") return cache;
-  // if (process.env.ELEVENTY_ENV !== "devbuild") return cache;
+  if (process.env.ELEVENTY_ENV === "development") return sortManga(cache.data);
 
   console.log(">>> Downloading manga list...");
-  const newBooks = await fetchBooks();
+  const newManga = await fetchBooks(cache.lastFetched);
 
   // TODO: getting only new items, merge cache and new
 
-  if (newBooks) {
-    if (process.env.ELEVENTY_ENV === "devbuild") {
-      writeToCache(newBooks, CACHE_FILE_PATH, "manga");
-    }
-
-    return newBooks;
+  if (!newManga) {
+    return sortManga(cache.data);
+    
   }
 
-  return cache;
-  // return [];
+  const newData = {...cache.data, ...newManga}
+  
+  const newCache = {
+    lastFetched: new Date().toISOString(),
+    data: newData,
+  };
+
+  if (process.env.ELEVENTY_ENV === "devbuild") {
+    writeToCache(newCache, CACHE_FILE_PATH, "manga");
+  }
+
+  return sortManga(newManga.data);
 };

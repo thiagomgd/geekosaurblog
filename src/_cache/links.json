@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-07-12T01:14:05.926Z",
+  "lastFetched": "2022-07-18T22:15:11.744Z",
   "links": {
     "921b2ff4-e562-4915-a425-99dabeb84ff9": {
       "id": "921b2ff4-e562-4915-a425-99dabeb84ff9",
@@ -126,6 +126,26 @@
       ],
       "discussion": null,
       "title": "Stop reading self help books"
+    },
+    "abb31e3b-f4cb-4903-ad30-5965eae95d80": {
+      "id": "abb31e3b-f4cb-4903-ad30-5965eae95d80",
+      "created_time": "2022-07-15T06:22:00.000Z",
+      "last_edited_time": "2022-07-15T06:24:00.000Z",
+      "cover": null,
+      "icon": null,
+      "type": "YouTube",
+      "private": false,
+      "publisher": "",
+      "summary": "",
+      "link": "https://youtube.com/watch?v=UwGFLbvX9ns",
+      "comments": "",
+      "tweet": null,
+      "status": "",
+      "tags": [
+        "Books"
+      ],
+      "discussion": null,
+      "title": "I read 25 self-published books and this is what I discovered"
     }
   }
 }
