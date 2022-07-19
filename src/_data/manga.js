@@ -148,5 +148,5 @@ module.exports = async function () {
     writeToCache(newCache, CACHE_FILE_PATH, "manga");
   }
 
-  return sortManga(newManga.data);
+  return sortManga(newData);
 };
