@@ -1,16 +1,11 @@
 const groupBy = require("lodash/groupBy");
-const fs = require("fs");
-const domain = require("./metadata.json").domain;
 const { readFromCache, writeToCache } = require("../_11ty/helpers");
 const { fetchFromNotion, getNotionProps } = require("../_11ty/notionHelpers");
 
-const { Client } = require("@notionhq/client");
-// // https://github.com/souvikinator/notion-to-md
-// const { NotionToMarkdown } = require("notion-to-md");
+const { Client } = require("@notionhq/client"); const metadata = require("./metadata.json");
 
 // // Define Cache Location and API Endpoint
 const CACHE_FILE_PATH = "src/_cache/manga.json";
-const DATABASE_ID = "10b4fd666834458ea7d5912a492a49a1";
 const TOKEN = process.env.NOTION_API_KEY;
 // const imageFolder = "/img/books/"
 
@@ -45,7 +40,7 @@ const notion = new Client({ auth: TOKEN });
 
 async function fetchBooks(since) {
   // If we dont have a domain name or token, abort
-  if (!DATABASE_ID || !TOKEN) {
+  if (!metadata["notion_books"] || !TOKEN) {
     console.warn(">>> unable to fetch books: missing token or db id");
     return null;
   }
@@ -78,7 +73,7 @@ async function fetchBooks(since) {
     ],
   };
 
-  const results = await fetchFromNotion(notion, DATABASE_ID, p);
+  const results = await fetchFromNotion(notion, metadata["notion_books"], p);
 
   if (results) {
     const newManga = {};

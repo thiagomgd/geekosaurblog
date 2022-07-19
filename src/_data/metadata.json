@@ -25,5 +25,9 @@
   "cloudflare_beacon": "0282bdd3b68748aba686aabfce19dc6c",
   "bridgy_twitter": true,
   "twitter_reply_to": ["Geekosaur News", "Music Monday", "Manga Reading", "Reading"],
-  "notion_links": "a7f8fc3c486a487fb51e099457485108"
+  "notion_links": "a7f8fc3c486a487fb51e099457485108",
+  "notion_books": "10b4fd666834458ea7d5912a492a49a1",
+  "notion_notes": "66ebf4c34b694d0a94763b3936d9cd9b",
+  "notion_posts": "bd6fa0624f434a45929b81057fb2e028",
+  "webmention_token": "gbdqcZXnxQEW6viIwKa_1Q"
 }
