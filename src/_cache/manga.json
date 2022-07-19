@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-07-18T22:15:12.044Z",
+  "lastFetched": "2022-07-19T02:09:12.135Z",
   "data": {
     "216017a5-976c-4172-8d9e-24e747fd92c9": {
       "title": "One-Punch Man, Vol. 1",
@@ -2120,7 +2120,8 @@
       "review": null,
       "series": "Captain Marvel (2012) (Collected Editions)",
       "volume": 2,
-      "year_read": 0
+      "date_read": "2015-01-01T00:00:00.000-08:00",
+      "year_read": 2015
     },
     "af499e5a-ec0e-4a3e-8569-515d7f9f2b9f": {
       "title": "Antes de Watchmen: Dollar Bill",
@@ -3146,6 +3147,54 @@
       "volume": 1,
       "date_read": "2021-01-01T00:00:00.000-08:00",
       "year_read": 2021
+    },
+    "c16b6d08-ee4b-4ba6-b77d-24bc643749c6": {
+      "title": "One Piece, Volume 73: Operation Dressrosa S.O.P.",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413761934l/21913668.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "series": "One Piece",
+      "volume": 73,
+      "date_read": "2022-07-16T00:00:00.000-07:00",
+      "year_read": 2022
+    },
+    "8401b2cc-8cec-44f7-b93a-75ae817cb14a": {
+      "title": "One Piece, Volume 72: Dressrosa's Forgotten",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403391030l/21913665.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "series": "One Piece",
+      "volume": 72,
+      "date_read": "2022-07-16T00:00:00.000-07:00",
+      "year_read": 2022
+    },
+    "e842e2bf-4d8c-4db7-af7d-cb92827b9050": {
+      "title": "One Piece, Volume 71: Coliseum of Scoundrels",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395844909l/18775479.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "series": "One Piece",
+      "volume": 71,
+      "date_read": "2022-07-16T00:00:00.000-07:00",
+      "year_read": 2022
+    },
+    "79e371ef-9009-4406-b49c-98ec21b32c7a": {
+      "title": "One Piece, Volume 70: Enter Doflamingo",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387146162l/18143828.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "series": "One Piece",
+      "volume": 70,
+      "date_read": "2022-07-16T00:00:00.000-07:00",
+      "year_read": 2022
     }
   }
 }

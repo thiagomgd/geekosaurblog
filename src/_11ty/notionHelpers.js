@@ -279,20 +279,17 @@ function lessThanSevenDays(postDate) {
   //   diffDays,
   //   // today.diff(date2, "days"),
   // );
-  
+
   return diffDays <= 7;
 }
 
 async function updateTweet(notion, posts, type) {
   if (!TWITTER_TOKEN || process.env.ELEVENTY_ENV === "development") return;
 
-  console.log("!!!!!!!!!!!!!!!!!!!!!!");
   const toUpdate = Object.values(posts).filter((post) => {
-    console.log(post.title, !post.tweet, post.date_published, post.created_time, lessThanSevenDays(post.date_published || post.created_time));
     return !post.tweet && lessThanSevenDays(post.date_published || post.created_time);
   });
 
-  console.log(toUpdate);
   if (toUpdate.length === 0) return;
 
   toUpdate.forEach(async (post) => {
@@ -303,12 +300,10 @@ async function updateTweet(notion, posts, type) {
     }
     });
 
-    console.log(resp.ok);
     if (!resp.ok) return;
 
     const responseJson = await resp.json();
 
-    console.log(responseJson);
     if (responseJson.data && responseJson.data.length > 0) {
       const tweet = `https://twitter.com/${metadata.author.twitter_handle}/status/${responseJson.data[0].id}`;
       console.log('updating tweet', tweet);

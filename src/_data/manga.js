@@ -82,7 +82,7 @@ async function fetchBooks(since) {
 
   if (results) {
     const newManga = {};
-    console.log(`>>> ${results.length} new books fetched`);
+    console.log(`>>> ${results.length} new manga fetched`);
 
     for (const book of results) {
       const newBook = getNotionProps(book, false);

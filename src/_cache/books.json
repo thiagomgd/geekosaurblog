@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-07-18T22:15:11.626Z",
+  "lastFetched": "2022-07-19T02:09:11.608Z",
   "data": {
     "194b52ed-2678-4b6d-a94b-6d6754198dc7": {
       "title": "Anatomy: A Love Story",
@@ -2092,6 +2092,16 @@
       "review": null,
       "date_read": "2021-09-08T00:00:00.000-07:00",
       "year_read": 2021
+    },
+    "3cac55a4-5736-4807-8dc4-299da6bd191c": {
+      "title": "Strange Weather in Tokyo",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497054666l/35396763._SY475_.jpg"
+      ],
+      "rating": 4,
+      "review": null,
+      "date_read": "2022-07-17T00:00:00.000-07:00",
+      "year_read": 2022
     }
   }
 }
