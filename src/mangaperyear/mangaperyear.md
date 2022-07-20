@@ -17,10 +17,10 @@ eleventyNavigation:
 ### {{ year }} ({{ seriesList | getTotalForDict }} read)
 
 {% for series, mangaList in seriesList %}
-<b>{{ series }}</b>
+<b>{{ series }} ({{mangaList | length}})</b>
 
 <div class="cards">
-{% for manga in mangaList | sort(false, false, 'volume') %}
+{% for manga in mangaList | sortAndFilterManga %}
 {% card manga.title, manga.cover, manga.rating, manga.review %}
 
 {% endfor %}

@@ -3,6 +3,7 @@ const { readFromCache, writeToCache } = require("../_11ty/helpers");
 const { fetchFromNotion, getNotionProps } = require("../_11ty/notionHelpers");
 
 const { Client } = require("@notionhq/client"); const metadata = require("./metadata.json");
+const {sortBy} = require("lodash/collection");
 
 // // Define Cache Location and API Endpoint
 const CACHE_FILE_PATH = "src/_cache/manga.json";
@@ -109,6 +110,16 @@ function sortManga(manga) {
   const grouped = {};
 
   Object.keys(perYear).forEach((year)=>{
+    // const bySeries = groupBy(perYear[year], 'series');
+    // Object.keys(bySeries).forEach((series)=>{
+    //   const sorted = sortBy(series[series], 'volume');
+    //
+    //   if (sorted.length > 4) {
+    //     const final = [];
+    //   } else {
+    //     grouped[year]
+    //   }
+    // }
     grouped[year] = groupBy(perYear[year], 'series');
   })
 

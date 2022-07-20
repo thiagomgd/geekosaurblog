@@ -105,7 +105,7 @@ async function blur(src, caption, className = "", alt = "") {
 async function card(title, imgParam, rating, review_link, goodreads) {
   let img = imgParam;
   if (typeof imgParam !== "string") {
-    img = imgParam.length > 0 ? imgParam[0] : "";
+    img = imgParam?.length > 0 ? imgParam[0] : "";
   }
 
   const localImg = getLocalImageLink(img);
