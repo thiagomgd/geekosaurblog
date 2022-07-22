@@ -68,7 +68,9 @@ async function fetchPosts(since) {
         return null;
     }
 
-    const results = await fetchFromNotion(notion, metadata["notion_posts"], undefined);
+    const filters = {property: "Edited", date: {after: since}};
+
+    const results = await fetchFromNotion(notion, metadata["notion_posts"], filters);
 
     if (results) {
         const newPosts = {};
