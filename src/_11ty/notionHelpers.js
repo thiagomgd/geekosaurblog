@@ -1,32 +1,28 @@
-const util = require("util");
 const luxon = require("luxon");
-const { getLocalImageLink } = require("./helpers");
-const { generateDiscussionLink } = require("./filters");
 const fetch = require("node-fetch");
-const cheerio = require("cheerio");
 const metadata = require("../_data/metadata.json");
 const TWITTER_TOKEN = process.env.TWITTER_API_KEY;
 
-const getLocalImages = async (note, property = "Images", folder) => {
-  const imagesNotion = note.properties[property].files;
-  const images = [];
-  for (const img of imagesNotion) {
-    const imageUrl = img.type === "external" ? img.external.url : img.file.url;
-    const fileName = `${note.id.substr(0, note.id.indexOf("-"))}-${img.name}`;
-
-    // if (img.file.url.includes("secure.notion-static.com") && !process.env.ELEVENTY_ENV === "devbuild") break;
-
-    // if (!process.env.ELEVENTY_ENV === "devbuild") {
-    //   images.push(img.file.url);
-    //   break;
-    // }
-    const imagePath = getLocalImageLink(imageUrl, fileName, folder);
-
-    images.push(imagePath);
-  }
-
-  return images;
-};
+// const getLocalImages = async (note, property = "Images", folder) => {
+//   const imagesNotion = note.properties[property].files;
+//   const images = [];
+//   for (const img of imagesNotion) {
+//     const imageUrl = img.type === "external" ? img.external.url : img.file.url;
+//     const fileName = `${note.id.substr(0, note.id.indexOf("-"))}-${img.name}`;
+//
+//     // if (img.file.url.includes("secure.notion-static.com") && !process.env.ELEVENTY_ENV === "devbuild") break;
+//
+//     // if (!process.env.ELEVENTY_ENV === "devbuild") {
+//     //   images.push(img.file.url);
+//     //   break;
+//     // }
+//     const imagePath = getLocalImageLink(imageUrl, fileName, folder);
+//
+//     images.push(imagePath);
+//   }
+//
+//   return images;
+// };
 
 async function updateNotion(notion, itemId, fields) {
   notion.pages.update({
@@ -117,7 +113,7 @@ function _created_time(prop) {
 function _files(prop) {
   files = prop["files"];
 
-  if (files.length == 0) return [];
+  if (files.length === 0) return [];
 
   const images = [];
   for (const img of files) {
@@ -318,7 +314,7 @@ async function updateTweet(notion, posts, type) {
 module.exports = {
   fetchFromNotion,
   getNotionProps,
-  getLocalImages,
+  // getLocalImages,
   updateTweet,
   updateReddit,
 };
