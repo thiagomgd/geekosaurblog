@@ -151,19 +151,21 @@ async function downloadNotionImage(notionId, imgUrl) {
     const fn = getFileName(imgUrl);
     const imagePath = `/img/${folder}/${fn}`;
     const path = `./src${imagePath}`;
-    const dir =  `./src/img/${folder}`;
+    const dir = `./src/img/${folder}`;
 
     if (!fs.existsSync(dir)) {
         fs.mkdirSync(dir);
     }
 
-    await downloadImage(imgUrl, path);
+    // await downloadImage(imgUrl, path);
 
-    return imagePath;
+    // since the original images are on Notion, no need to keep original here
+    const res = await optimizeImage(imgUrl, dir, "outputPath");
 
+    return res.replace('src', '');
 }
 
-async function optimizeImage(src) {
+async function optimizeImage(src, outputDir = "_site/img", toReturn = "url") {
     if (!src) {
         return src;
     }
@@ -172,17 +174,19 @@ async function optimizeImage(src) {
 
     let metadata = await Image(fileSource, {
         widths: [1200],
-        outputDir: "_site/img",
+        outputDir: outputDir,
+        formats: ["jpeg"]
     });
 
+    // console.log(metadata);
     let data = metadata.jpeg[metadata.jpeg.length - 1];
-    return data.url;
+    return data[toReturn];
 }
 
 function deleteNotionLocalImages(postId) {
     if (process.env.ELEVENTY_ENV !== "devbuild") return;
 
-    const dir =  `./src/img/notion/${postId}`; // TODO: don't duplicate this with the download function
+    const dir = `./src/img/notion/${postId}`; // TODO: don't duplicate this with the download function
     if (fs.existsSync(dir)) {
         fs.rmdirSync(dir, {recursive: true});
     }
