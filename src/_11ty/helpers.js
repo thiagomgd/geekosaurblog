@@ -144,7 +144,7 @@ function downloadImage(url, filepath) {
 }
 
 async function downloadNotionImage(notionId, imgUrl) {
-    if (!isNotionImage(imgUrl)) return imgUrl;
+    if (!imgUrl || !isNotionImage(imgUrl)) return imgUrl;
 
     const folder = getFolder(imgUrl, "", notionId);
 

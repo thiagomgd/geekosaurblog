@@ -88,7 +88,6 @@ async function fetchNotes(since) {
             props["images"][index] = await downloadNotionImage(note.id, val);
         }
 
-
         newNotes[note.id] = {
             ...getMetadata(note),
             ...props,
@@ -115,15 +114,15 @@ module.exports = async function () {
     const cache = readFromCache(CACHE_FILE_PATH);
 
     if (Object.keys(cache.data).length) {
-        console.log(`>>> Notes loaded from cache`);
+        console.log(`>>> ${Object.keys(cache.data).length} notes loaded from cache`);
     }
 
     console.log(">>> Checking for new notes...");
     const newNotes = await fetchNotes(cache.lastFetched);
 
-    if (!newNotes) {
-        return processAndReturn(cache.data);
-    }
+    // if (!newNotes) {
+    //     return processAndReturn(cache.data);
+    // }
 
     const newData = {...cache.data, ...newNotes}
 
