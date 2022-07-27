@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-07-26T23:59:13.785Z",
+  "lastFetched": "2022-07-27T03:30:26.803Z",
   "data": {
     "c16b6d08-ee4b-4ba6-b77d-24bc643749c6": {
       "title": "One Piece, Volume 73: Operation Dressrosa S.O.P.",
@@ -3195,6 +3195,94 @@
       "volume": 1,
       "date_read": "2021-01-01T00:00:00.000-08:00",
       "year_read": 2021
+    },
+    "90c9af5b-888a-46a2-bcbc-0cbe3cf534a6": {
+      "title": "One Piece, Volume 74: Ever at Your Side",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418103674l/22609556.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "series": "One Piece",
+      "volume": 74,
+      "year_read": 0
+    },
+    "89b29f0b-a922-4034-a5fe-8046f81aaf5f": {
+      "title": "One Piece, Volume 75: Repaying the Debt",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433525435l/23492385._SY475_.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "series": "One Piece",
+      "volume": 75,
+      "year_read": 0
+    },
+    "1f82102f-b796-463e-b480-0c3e65dea98a": {
+      "title": "One Piece, Volume 76: Just Keep Going",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440992929l/25111249.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "series": "One Piece",
+      "volume": 76,
+      "year_read": 0
+    },
+    "e2cf9af3-13b7-4e59-98b8-4974589baae9": {
+      "title": "One Piece, Volume 77: Smile",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444274224l/25814042.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "series": "One Piece",
+      "volume": 77,
+      "year_read": 0
+    },
+    "b55bc0a0-9600-4b21-9f35-857095ede8cc": {
+      "title": "One Piece, Volume 78: Champion of Evil",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454256496l/25986938.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "series": "One Piece",
+      "volume": 78,
+      "year_read": 0
+    },
+    "b0c81cd5-95ee-4e2c-afca-a4807af7db00": {
+      "title": "Dragon Quest: The Adventure of Dai, Vol. 1: Disciples of Avan",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637513963l/58532705.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "series": "ドラゴンクエストダイの大冒険 / Dragon Quest Dai no Daibouken",
+      "volume": 1,
+      "year_read": 0
+    },
+    "cf02a060-0598-4777-9bfb-fe0ed372cb04": {
+      "title": "Dragon Quest: The Adventure of Dai, Vol. 2: Disciples of Avan",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643707960l/59366030.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "series": "ドラゴンクエストダイの大冒険 / Dragon Quest Dai no Daibouken",
+      "volume": 2,
+      "year_read": 0
+    },
+    "05ea2e57-ee43-4189-bf84-0ff453bbde9f": {
+      "title": "Dragon Quest: The Adventure of Dai, Vol. 3: Disciples of Avan",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647192186l/59366031.jpg"
+      ],
+      "rating": 0,
+      "review": null,
+      "series": "ドラゴンクエストダイの大冒険 / Dragon Quest Dai no Daibouken",
+      "volume": 3,
+      "year_read": 0
     }
   }
 }
