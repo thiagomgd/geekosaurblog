@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-07-22T05:44:00.147Z",
+  "lastFetched": "2022-07-26T23:59:31.688Z",
   "data": {
     "00aa3093-e352-43d6-8604-ca5a7d8f518a": {
       "id": "00aa3093-e352-43d6-8604-ca5a7d8f518a",
@@ -47,7 +47,7 @@
     "54007b54-2344-45dd-a853-e4145708d834": {
       "id": "54007b54-2344-45dd-a853-e4145708d834",
       "created_time": "2022-06-06T04:00:00.000Z",
-      "last_edited_time": "2022-07-16T22:50:00.000Z",
+      "last_edited_time": "2022-07-24T18:17:00.000Z",
       "cover": null,
       "icon": null,
       "format": "",
@@ -56,11 +56,11 @@
         "Books"
       ],
       "images": [
-        "/img/notion/54007b54-2344-45dd-a853-e4145708d834/0GNslDU-Gl-1200.jpeg",
-        "/img/notion/54007b54-2344-45dd-a853-e4145708d834/bnydn6P8rM-1200.jpeg",
-        "/img/notion/54007b54-2344-45dd-a853-e4145708d834/bn9EaH-UN6-1200.jpeg"
+        "/img/notion/54007b54-2344-45dd-a853-e4145708d834/jc0VXAZMxb-1200.jpeg",
+        "/img/notion/54007b54-2344-45dd-a853-e4145708d834/XBI6Z4utT1-1200.jpeg",
+        "/img/notion/54007b54-2344-45dd-a853-e4145708d834/iA6OJmRxsd-1200.jpeg"
       ],
-      "tweet": null,
+      "tweet": "https://twitter.com/FalconSensei/status/1533661985887461378",
       "reddit": "https://www.reddit.com/r/geekosaur/comments/v5uqmv/finished_a_book_starting_a_book/",
       "reply_to": null,
       "embed": null,
@@ -70,7 +70,7 @@
     "0b58c86a-cb14-4800-8dc2-ef7bbff64d00": {
       "id": "0b58c86a-cb14-4800-8dc2-ef7bbff64d00",
       "created_time": "2022-05-27T06:18:00.000Z",
-      "last_edited_time": "2022-07-16T22:50:00.000Z",
+      "last_edited_time": "2022-07-24T18:23:00.000Z",
       "cover": null,
       "icon": null,
       "format": "quote",
@@ -78,7 +78,7 @@
         "Quote"
       ],
       "images": [],
-      "tweet": null,
+      "tweet": "https://twitter.com/FalconSensei/status/1551270899130712064",
       "reddit": "https://www.reddit.com/r/geekosaur/comments/uys05x/quote_anatomy_a_love_story/",
       "reply_to": null,
       "embed": null,
@@ -88,7 +88,7 @@
     "3d830505-e17a-492e-ad86-9b82a040425f": {
       "id": "3d830505-e17a-492e-ad86-9b82a040425f",
       "created_time": "2022-05-27T03:05:00.000Z",
-      "last_edited_time": "2022-07-16T22:50:00.000Z",
+      "last_edited_time": "2022-07-24T18:23:00.000Z",
       "cover": null,
       "icon": null,
       "format": "quote",
@@ -96,7 +96,7 @@
         "Quote"
       ],
       "images": [],
-      "tweet": null,
+      "tweet": "https://twitter.com/FalconSensei/status/1551271000280649740",
       "reddit": "https://www.reddit.com/r/geekosaur/comments/uyq4p7/quote_shortcuts_and_learning/",
       "reply_to": null,
       "embed": null,
@@ -106,7 +106,7 @@
     "c14972fb-0484-43e8-8b0c-ec796856708e": {
       "id": "c14972fb-0484-43e8-8b0c-ec796856708e",
       "created_time": "2022-04-25T04:53:00.000Z",
-      "last_edited_time": "2022-07-16T22:50:00.000Z",
+      "last_edited_time": "2022-07-24T18:18:00.000Z",
       "cover": null,
       "icon": null,
       "format": "",
@@ -116,10 +116,10 @@
         "One Piece"
       ],
       "images": [
-        "/img/notion/c14972fb-0484-43e8-8b0c-ec796856708e/tqMLobQgxe-1200.jpeg",
-        "/img/notion/c14972fb-0484-43e8-8b0c-ec796856708e/tp0KXi046n-1200.jpeg"
+        "/img/notion/c14972fb-0484-43e8-8b0c-ec796856708e/ji4zkgI5Q2-1200.jpeg",
+        "/img/notion/c14972fb-0484-43e8-8b0c-ec796856708e/UfSKoX74Fw-1200.jpeg"
       ],
-      "tweet": null,
+      "tweet": "https://twitter.com/FalconSensei/status/1518458059969994753",
       "reddit": "https://www.reddit.com/r/geekosaur/comments/ubdr4p/reading_one_piece_finished_skypiea_arc/",
       "reply_to": "https://twitter.com/FalconSensei/status/1514274966707056646",
       "embed": null,
@@ -129,7 +129,7 @@
     "bd5055ef-933d-4685-becc-f675e0e36477": {
       "id": "bd5055ef-933d-4685-becc-f675e0e36477",
       "created_time": "2022-04-21T05:37:00.000Z",
-      "last_edited_time": "2022-07-16T22:50:00.000Z",
+      "last_edited_time": "2022-07-24T18:18:00.000Z",
       "cover": null,
       "icon": null,
       "format": "",
@@ -138,9 +138,9 @@
         "Non-Fiction"
       ],
       "images": [
-        "/img/notion/bd5055ef-933d-4685-becc-f675e0e36477/S5i0LA5cYn-1200.jpeg"
+        "/img/notion/bd5055ef-933d-4685-becc-f675e0e36477/f5toc3fXHF-1200.jpeg"
       ],
-      "tweet": null,
+      "tweet": "https://twitter.com/FalconSensei/status/1517037636749299712",
       "reddit": "https://www.reddit.com/r/geekosaur/comments/u8h6nj/reading_courage_to_be_disliked/",
       "reply_to": null,
       "embed": null,
@@ -150,7 +150,7 @@
     "a5b72614-f04f-4cea-a7e8-f2f8025a0529": {
       "id": "a5b72614-f04f-4cea-a7e8-f2f8025a0529",
       "created_time": "2022-04-19T05:28:00.000Z",
-      "last_edited_time": "2022-07-16T22:50:00.000Z",
+      "last_edited_time": "2022-07-24T18:19:00.000Z",
       "cover": null,
       "icon": null,
       "format": "",
@@ -158,9 +158,9 @@
         "German"
       ],
       "images": [
-        "/img/notion/a5b72614-f04f-4cea-a7e8-f2f8025a0529/GRwDpsmbmU-1170.jpeg"
+        "/img/notion/a5b72614-f04f-4cea-a7e8-f2f8025a0529/fip9ENQjmf-1170.jpeg"
       ],
-      "tweet": null,
+      "tweet": "https://twitter.com/FalconSensei/status/1516297746034176006",
       "reddit": "https://www.reddit.com/r/geekosaur/comments/u6yksn/german_updates_back_again_after_a_pause/",
       "reply_to": null,
       "embed": null,
@@ -514,6 +514,26 @@
       "embed": null,
       "title": "Now with Notes",
       "content": "\nThis is a first note to test this new feature I added! Just to have some quick thoughts that I can add to [Notion](http://notion.so) and get it published here!\n\n"
+    },
+    "aa3ab16d-e4f6-4070-8878-da3b63614716": {
+      "id": "aa3ab16d-e4f6-4070-8878-da3b63614716",
+      "created_time": "2022-07-25T03:21:00.000Z",
+      "last_edited_time": "2022-07-25T04:50:00.000Z",
+      "cover": null,
+      "icon": null,
+      "format": "",
+      "tags": [
+        "Books"
+      ],
+      "images": [
+        "/img/notion/aa3ab16d-e4f6-4070-8878-da3b63614716/-HDR2-dj53-1200.jpeg"
+      ],
+      "tweet": "https://twitter.com/FalconSensei/status/1551419325269131265",
+      "reddit": "https://www.reddit.com/r/geekosaur/comments/w7ffsx/new_fantasy_hardcover_books/",
+      "reply_to": null,
+      "embed": null,
+      "title": "New Fantasy Hardcover Books",
+      "content": "\nQuick stop at Indigo on Friday and ended up with two new books, by Judy I. Lin and Silvia Moreno-Garcia.\n\n\nStarted A Magic Steeped In Poison yesterday and it seems cool so far. Also excited to read The Daughter Of Doctor Moreau later on. (I absolutely loved Mexican Gothic by her)\n\n"
     }
   }
 }

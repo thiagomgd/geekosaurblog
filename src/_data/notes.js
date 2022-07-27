@@ -71,7 +71,6 @@ async function fetchNotes(since) {
 
     if (!results) return null;
 
-
     console.log(
         `>>> ${results.length} new notes fetched`
     );
