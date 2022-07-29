@@ -130,18 +130,18 @@ function getLocalImageLink(imgUrl, fileName = "") {
     return imagePath;
 }
 
-function downloadImage(url, filepath) {
-    if (!fs.existsSync(filepath)) {
-        return new Promise((resolve, reject) => {
-            fetch(url).then((res) => {
-                    res.body.pipe(fs.createWriteStream(filepath)).on('error', reject)
-                        .once('close', () => resolve(filepath));
-                }
-            )
-        });
-    }
-    console.error("> collision downloading image", url, filepath);
-}
+// function downloadImage(url, filepath) {
+//     if (!fs.existsSync(filepath)) {
+//         return new Promise((resolve, reject) => {
+//             fetch(url).then((res) => {
+//                     res.body.pipe(fs.createWriteStream(filepath)).on('error', reject)
+//                         .once('close', () => resolve(filepath));
+//                 }
+//             )
+//         });
+//     }
+//     console.error("> collision downloading image", url, filepath);
+// }
 
 async function downloadNotionImage(notionId, imgUrl) {
     if (!imgUrl || !isNotionImage(imgUrl)) return imgUrl;
@@ -157,29 +157,56 @@ async function downloadNotionImage(notionId, imgUrl) {
         fs.mkdirSync(dir);
     }
 
-    // await downloadImage(imgUrl, path);
-
     // since the original images are on Notion, no need to keep original here
-    const res = await optimizeImage(imgUrl, dir, "outputPath");
+    const res = await getOptimizedUrl(imgUrl, dir, "outputPath");
 
     return res.replace('src', '');
 }
 
-async function optimizeImage(src, outputDir = "_site/img", toReturn = "url") {
+function getOptimizeMetadata(metadata) {
+    let outputs;
+    if ("webp" in metadata) {
+        outputs = metadata["webp"];
+    } else if ("gif" in metadata) {
+        outputs = metadata["gif"];
+    } else if ("png" in metadata) {
+        outputs = metadata["png"];
+    } else {
+        outputs = metadata["jpeg"];
+    }
+    return outputs[outputs.length - 1];
+}
+
+async function optimizeImage(src, outputDir = "_site/img",) {
     if (!src) {
         return src;
     }
 
     const fileSource = src.startsWith("/img") ? `./src${src}` : src;
 
+    const extraProps = src.includes(".gif")
+        ? {
+            formats: ["webp", "gif"],
+            sharpOptions: {
+                animated: true,
+            },
+        }
+        : {};
+
     let metadata = await Image(fileSource, {
         widths: [1200],
-        outputDir: outputDir,
-        formats: ["jpeg"]
+        outputDir: "_site/img",
+        cacheOptions: {
+            duration: "8w",
+        },
+        ...extraProps,
     });
 
-    // console.log(metadata);
-    let data = metadata.jpeg[metadata.jpeg.length - 1];
+    return getOptimizeMetadata(metadata);
+}
+
+async function getOptimizedUrl(src, outputDir = "_site/img", toReturn = "url") {
+    const data = await optimizeImage(src, outputDir);
     return data[toReturn];
 }
 
@@ -197,6 +224,8 @@ module.exports = {
     readFromCache,
     writeToCache,
     getLocalImageLink,
+    getOptimizeMetadata,
+    getOptimizedUrl,
     optimizeImage,
     deleteNotionLocalImages,
     downloadNotionImage

@@ -2,7 +2,7 @@ const markdownIt = require("markdown-it");
 const EleventyFetch = require("@11ty/eleventy-fetch");
 const outdent = require("outdent")({newline: " "});
 
-const {getLocalImageLink} = require("../_11ty/helpers");
+const {getLocalImageLink, optimizeImage} = require("../_11ty/helpers");
 const {youtube, youtube_parser, reddit} = require("./shortcodes");
 const {
     defaultTweet,
@@ -13,26 +13,11 @@ const {
 
 const EMPTY = ``;
 
-const Image = require("@11ty/eleventy-img");
-
 function isVertical(width, height) {
     // square and slightly wide counts as vertical for style purposes
     return width / height <= 1.25;
 }
 
-function getMetadata(metadata) {
-    let outputs;
-    if ("webp" in metadata) {
-        outputs = metadata["webp"];
-    } else if ("gif" in metadata) {
-        outputs = metadata["gif"];
-    } else if ("png" in metadata) {
-        outputs = metadata["png"];
-    } else {
-        outputs = metadata["jpeg"];
-    }
-    return outputs[outputs.length - 1];
-}
 
 async function imageShortcode(src, alt, options = {}) {
     if (alt === undefined) {
@@ -40,27 +25,8 @@ async function imageShortcode(src, alt, options = {}) {
         throw new Error(`Missing \`alt\` on myImage from: ${src}`);
     }
 
-    const fileSource = src.startsWith("/img") ? `./src${src}` : src;
+    const data = await optimizeImage(src)
 
-    const extraProps = src.includes(".gif")
-        ? {
-            formats: ["webp", "gif"],
-            sharpOptions: {
-                animated: true,
-            },
-        }
-        : {};
-
-    let metadata = await Image(fileSource, {
-        widths: [1200],
-        outputDir: "_site/img",
-        cacheOptions: {
-            duration: "8w",
-        },
-        ...extraProps,
-    });
-
-    const data = getMetadata(metadata);
     const bridgyClass = options.shareBridgy ? "u-photo" : "";
     const isVerticalClassname =
         !options["novertical"] && isVertical(data.width, data.height)
