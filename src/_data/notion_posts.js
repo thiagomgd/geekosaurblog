@@ -1,4 +1,4 @@
-const {fetchFromNotion, getNotionProps, updateReddit, updateTweet} = require("../_11ty/notionHelpers");
+const {fetchFromNotion, getNotionProps, updateReddit, updateTweet, updateReplyTo} = require("../_11ty/notionHelpers");
 const {DateTime} = require('luxon');
 
 const jsToDateTime = (date, lang = 'en') =>
@@ -146,6 +146,7 @@ module.exports = async function () {
     // TODO: only process these for published notes
     await updateReddit(notion, newData, 'post');
     await updateTweet(notion, newData, 'post');
+    await updateReplyTo(notion, newData, "post");
 
     return filterDrafts(newData);
 };

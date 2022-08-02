@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-07-27T03:30:26.803Z",
+  "lastFetched": "2022-08-02T01:53:13.523Z",
   "data": {
     "c16b6d08-ee4b-4ba6-b77d-24bc643749c6": {
       "title": "One Piece, Volume 73: Operation Dressrosa S.O.P.",
@@ -56,9 +56,10 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "ワンパンマン / ONE-PUNCH MAN",
+      "series": "ONE-PUNCH MAN",
       "volume": 1,
-      "year_read": 0
+      "date_read": "2020-01-02T00:00:00.000-08:00",
+      "year_read": 2020
     },
     "5f7cc8ae-c853-46c9-bee7-54c90379fe02": {
       "title": "ワンパンマン 2 [Wanpanman 2] (Onepunch-Man, #2)",
@@ -67,9 +68,10 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "ワンパンマン / ONE-PUNCH MAN",
+      "series": "ONE-PUNCH MAN",
       "volume": 2,
-      "year_read": 0
+      "date_read": "2020-01-02T00:00:00.000-08:00",
+      "year_read": 2020
     },
     "821e1eda-2e3e-420f-87f8-6bd553b41608": {
       "title": "ワンパンマン 3 [Wanpanman 3] (Onepunch-Man, #3)",
@@ -78,9 +80,10 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "ワンパンマン / ONE-PUNCH MAN",
+      "series": "ONE-PUNCH MAN",
       "volume": 3,
-      "year_read": 0
+      "date_read": "2020-01-02T00:00:00.000-08:00",
+      "year_read": 2020
     },
     "fc9e1811-8680-472d-b7bb-48fd55669c16": {
       "title": "ワンパンマン 4 [Wanpanman 4] (Onepunch-Man, #4)",
@@ -89,9 +92,10 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "ワンパンマン / ONE-PUNCH MAN",
+      "series": "ONE-PUNCH MAN",
       "volume": 4,
-      "year_read": 0
+      "date_read": "2020-01-02T00:00:00.000-08:00",
+      "year_read": 2020
     },
     "a4fa1975-e98b-409a-9da6-7e91ea1d8040": {
       "title": "ワンパンマン 5 [Wanpanman 5] (Onepunch-Man, #5)",
@@ -100,9 +104,10 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "ワンパンマン / ONE-PUNCH MAN",
+      "series": "ONE-PUNCH MAN",
       "volume": 5,
-      "year_read": 0
+      "date_read": "2020-01-02T00:00:00.000-08:00",
+      "year_read": 2020
     },
     "a31ee927-6548-414b-bba0-a62ff212f2fe": {
       "title": "ワンパンマン 6 [Wanpanman 6] (Onepunch-Man, #6)",
@@ -111,9 +116,10 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "ワンパンマン / ONE-PUNCH MAN",
+      "series": "ONE-PUNCH MAN",
       "volume": 6,
-      "year_read": 0
+      "date_read": "2020-01-02T00:00:00.000-08:00",
+      "year_read": 2020
     },
     "b7d8ada6-83b4-4d01-a892-d83871e03689": {
       "title": "ワンパンマン 7 [Wanpanman 7] (Onepunch-Man, #7)",
@@ -122,9 +128,10 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "ワンパンマン / ONE-PUNCH MAN",
+      "series": "ONE-PUNCH MAN",
       "volume": 7,
-      "year_read": 0
+      "date_read": "2020-01-02T00:00:00.000-08:00",
+      "year_read": 2020
     },
     "41b7ad5b-8f11-4bca-b8e4-2909bb5b2d18": {
       "title": "ワンパンマン 8 [Wanpanman 8] (Onepunch-Man, #8)",
@@ -133,9 +140,10 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "ワンパンマン / ONE-PUNCH MAN",
+      "series": "ONE-PUNCH MAN",
       "volume": 8,
-      "year_read": 0
+      "date_read": "2020-01-02T00:00:00.000-08:00",
+      "year_read": 2020
     },
     "7a9c7090-a3b8-4be1-84ea-548edc19c22b": {
       "title": "ワンパンマン 13 [Wanpanman 13] (Onepunch-Man, #13)",
@@ -144,9 +152,9 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "ワンパンマン / ONE-PUNCH MAN",
+      "series": "ONE-PUNCH MAN",
       "volume": 13,
-      "date_read": "2022-01-01T00:00:00.000-08:00",
+      "date_read": "2022-01-02T00:00:00.000-08:00",
       "year_read": 2022
     },
     "9b95a077-4e72-4c86-866c-e222ed7b3345": {
@@ -156,9 +164,9 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "ワンパンマン / ONE-PUNCH MAN",
+      "series": "ONE-PUNCH MAN",
       "volume": 12,
-      "date_read": "2022-01-01T00:00:00.000-08:00",
+      "date_read": "2022-01-02T00:00:00.000-08:00",
       "year_read": 2022
     },
     "09964be6-3538-4d41-a318-6a24fec231be": {
@@ -168,9 +176,9 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "ワンパンマン / ONE-PUNCH MAN",
+      "series": "ONE-PUNCH MAN",
       "volume": 11,
-      "date_read": "2022-01-01T00:00:00.000-08:00",
+      "date_read": "2022-01-02T00:00:00.000-08:00",
       "year_read": 2022
     },
     "151995b5-b5ca-48a0-8c14-a55d457d7f5a": {
@@ -180,9 +188,9 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "ワンパンマン / ONE-PUNCH MAN",
+      "series": "ONE-PUNCH MAN",
       "volume": 10,
-      "date_read": "2022-01-01T00:00:00.000-08:00",
+      "date_read": "2022-01-02T00:00:00.000-08:00",
       "year_read": 2022
     },
     "a739ec24-4b4b-429a-8f84-30aa0a5dfbb8": {
@@ -192,9 +200,9 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "ワンパンマン / ONE-PUNCH MAN",
+      "series": "ONE-PUNCH MAN",
       "volume": 9,
-      "date_read": "2022-01-01T00:00:00.000-08:00",
+      "date_read": "2022-01-02T00:00:00.000-08:00",
       "year_read": 2022
     },
     "f83777e4-5d0c-40a5-be77-d7e3c235bb4d": {
@@ -816,7 +824,7 @@
       ],
       "rating": 4,
       "review": null,
-      "series": "見える子ちゃん",
+      "series": "Mieruko-chan",
       "volume": 5,
       "date_read": "2022-06-12T00:00:00.000-07:00",
       "year_read": 2022
@@ -830,7 +838,8 @@
       "review": null,
       "series": "Kobayashi-san Chi no Maid Dragon",
       "volume": 10,
-      "year_read": 0
+      "date_read": "2022-06-22T00:00:00.000-07:00",
+      "year_read": 2022
     },
     "685fa307-a1e4-4c89-ab1f-1bd6671bc92b": {
       "title": "Miss Kobayashi's Dragon Maid Vol. 11",
@@ -839,7 +848,7 @@
       ],
       "rating": 4,
       "review": null,
-      "series": "",
+      "series": "Kobayashi-san Chi no Maid Dragon",
       "volume": null,
       "date_read": "2022-06-23T00:00:00.000-07:00",
       "year_read": 2022
@@ -1932,7 +1941,7 @@
       ],
       "rating": 4,
       "review": null,
-      "series": "見える子ちゃん",
+      "series": "Mieruko-chan",
       "volume": 4,
       "date_read": "2022-01-16T00:00:00.000-08:00",
       "year_read": 2022
@@ -1946,7 +1955,8 @@
       "review": null,
       "series": "The Woods",
       "volume": 1,
-      "year_read": 0
+      "date_read": "2022-01-26T00:00:00.000-08:00",
+      "year_read": 2022
     },
     "9c1ee534-6a9e-470c-86b9-c117f84b3d1f": {
       "title": "彼女、お借りします 5 [Kanojo, Okari shimasu 5] (Rent-A-Girlfriend, #5)",
@@ -2039,7 +2049,7 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "",
+      "series": "Don't Toy With Me Miss Nagatoro",
       "volume": 3,
       "date_read": "2021-01-01T00:00:00.000-08:00",
       "year_read": 2021
@@ -2051,7 +2061,7 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "",
+      "series": "Don't Toy With Me Miss Nagatoro",
       "volume": 2,
       "date_read": "2021-01-01T00:00:00.000-08:00",
       "year_read": 2021
@@ -2111,9 +2121,10 @@
       ],
       "rating": 4,
       "review": null,
-      "series": "見える子ちゃん",
+      "series": "Mieruko-chan",
       "volume": 3,
-      "year_read": 0
+      "date_read": "2021-09-17T00:00:00.000-07:00",
+      "year_read": 2021
     },
     "dfac0b5b-4e41-46d7-8373-cd88d19528f4": {
       "title": "Chew, Vol. 2: International Flavor",
@@ -2692,9 +2703,10 @@
       ],
       "rating": 4,
       "review": null,
-      "series": "ダンジョン飯 / Delicious in Dungeon",
+      "series": "Delicious in Dungeon",
       "volume": 2,
-      "year_read": 0
+      "date_read": "2018-07-09T00:00:00.000-07:00",
+      "year_read": 2018
     },
     "072171db-6c0c-42d2-8960-1b1310144a22": {
       "title": "Delicious in Dungeon, Vol. 3",
@@ -2703,9 +2715,10 @@
       ],
       "rating": 4,
       "review": null,
-      "series": "ダンジョン飯 / Delicious in Dungeon",
+      "series": "Delicious in Dungeon",
       "volume": 3,
-      "year_read": 0
+      "date_read": "2018-07-13T00:00:00.000-07:00",
+      "year_read": 2018
     },
     "31a67706-3b19-4f19-bacd-b29cfe5be508": {
       "title": "ぼくたちは勉強ができない 1 [Bokutachi wa Benkyou ga Dekinai 1] (We Never Learn, #1)",
@@ -2837,9 +2850,10 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "ダンジョン飯 / Delicious in Dungeon",
+      "series": "Delicious in Dungeon",
       "volume": 6,
-      "year_read": 0
+      "date_read": "2019-01-17T00:00:00.000-08:00",
+      "year_read": 2019
     },
     "21b9dd58-6d6b-4391-80b6-d088a4fe88b0": {
       "title": "文豪ストレイドッグス 1 [Bungō Stray Dogs 1]",
@@ -2848,7 +2862,7 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "文豪ストレイドッグス / Bungō Stray Dogs Manga",
+      "series": "Bungou Stray Dogs",
       "volume": 1,
       "date_read": "2019-12-01T00:00:00.000-08:00",
       "year_read": 2019
@@ -2860,7 +2874,7 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "文豪ストレイドッグス / Bungō Stray Dogs Manga",
+      "series": "Bungou Stray Dogs",
       "volume": 2,
       "date_read": "2019-12-01T00:00:00.000-08:00",
       "year_read": 2019
@@ -2872,7 +2886,7 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "文豪ストレイドッグス / Bungō Stray Dogs Manga",
+      "series": "Bungou Stray Dogs",
       "volume": 3,
       "date_read": "2020-01-01T00:00:00.000-08:00",
       "year_read": 2020
@@ -2884,7 +2898,7 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "文豪ストレイドッグス / Bungō Stray Dogs Manga",
+      "series": "Bungou Stray Dogs",
       "volume": 4,
       "date_read": "2020-01-01T00:00:00.000-08:00",
       "year_read": 2020
@@ -2896,7 +2910,7 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "文豪ストレイドッグス / Bungō Stray Dogs Manga",
+      "series": "Bungou Stray Dogs",
       "volume": 5,
       "date_read": "2020-01-01T00:00:00.000-08:00",
       "year_read": 2020
@@ -2931,7 +2945,7 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "文豪ストレイドッグス / Bungō Stray Dogs Manga",
+      "series": "Bungou Stray Dogs",
       "volume": 6,
       "date_read": "2020-03-01T00:00:00.000-08:00",
       "year_read": 2020
@@ -2943,7 +2957,7 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "文豪ストレイドッグス / Bungō Stray Dogs Manga",
+      "series": "Bungou Stray Dogs",
       "volume": 7,
       "date_read": "2020-03-01T00:00:00.000-08:00",
       "year_read": 2020
@@ -2955,7 +2969,7 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "文豪ストレイドッグス / Bungō Stray Dogs Manga",
+      "series": "Bungou Stray Dogs",
       "volume": 8,
       "date_read": "2020-03-01T00:00:00.000-08:00",
       "year_read": 2020
@@ -2967,7 +2981,7 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "文豪ストレイドッグス / Bungō Stray Dogs Manga",
+      "series": "Bungou Stray Dogs",
       "volume": 9,
       "date_read": "2020-03-01T00:00:00.000-08:00",
       "year_read": 2020
@@ -2979,7 +2993,7 @@
       ],
       "rating": 4,
       "review": null,
-      "series": "見える子ちゃん",
+      "series": "Mieruko-chan",
       "volume": 1,
       "date_read": "2021-04-30T00:00:00.000-07:00",
       "year_read": 2021
@@ -2991,7 +3005,7 @@
       ],
       "rating": 4,
       "review": null,
-      "series": "見える子ちゃん",
+      "series": "Mieruko-chan",
       "volume": 2,
       "date_read": "2021-05-16T00:00:00.000-07:00",
       "year_read": 2021
@@ -3156,9 +3170,10 @@
       ],
       "rating": 4,
       "review": null,
-      "series": "ダンジョン飯 / Delicious in Dungeon",
+      "series": "Delicious in Dungeon",
       "volume": 4,
-      "year_read": 0
+      "date_read": "2018-07-15T00:00:00.000-07:00",
+      "year_read": 2018
     },
     "25764fe8-868e-4b25-a34d-b02db3fb5d82": {
       "title": "Capitã Marvel, Vol. 3: Inimigo Interior",
@@ -3191,7 +3206,7 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "",
+      "series": "Don't Toy With Me Miss Nagatoro",
       "volume": 1,
       "date_read": "2021-01-01T00:00:00.000-08:00",
       "year_read": 2021
@@ -3205,7 +3220,8 @@
       "review": null,
       "series": "One Piece",
       "volume": 74,
-      "year_read": 0
+      "date_read": "2022-07-18T00:00:00.000-07:00",
+      "year_read": 2022
     },
     "89b29f0b-a922-4034-a5fe-8046f81aaf5f": {
       "title": "One Piece, Volume 75: Repaying the Debt",
@@ -3216,7 +3232,8 @@
       "review": null,
       "series": "One Piece",
       "volume": 75,
-      "year_read": 0
+      "date_read": "2022-07-18T00:00:00.000-07:00",
+      "year_read": 2022
     },
     "1f82102f-b796-463e-b480-0c3e65dea98a": {
       "title": "One Piece, Volume 76: Just Keep Going",
@@ -3227,7 +3244,8 @@
       "review": null,
       "series": "One Piece",
       "volume": 76,
-      "year_read": 0
+      "date_read": "2022-07-18T00:00:00.000-07:00",
+      "year_read": 2022
     },
     "e2cf9af3-13b7-4e59-98b8-4974589baae9": {
       "title": "One Piece, Volume 77: Smile",
@@ -3238,7 +3256,8 @@
       "review": null,
       "series": "One Piece",
       "volume": 77,
-      "year_read": 0
+      "date_read": "2022-07-18T00:00:00.000-07:00",
+      "year_read": 2022
     },
     "b55bc0a0-9600-4b21-9f35-857095ede8cc": {
       "title": "One Piece, Volume 78: Champion of Evil",
@@ -3249,7 +3268,8 @@
       "review": null,
       "series": "One Piece",
       "volume": 78,
-      "year_read": 0
+      "date_read": "2022-07-18T00:00:00.000-07:00",
+      "year_read": 2022
     },
     "b0c81cd5-95ee-4e2c-afca-a4807af7db00": {
       "title": "Dragon Quest: The Adventure of Dai, Vol. 1: Disciples of Avan",
@@ -3258,7 +3278,7 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "ドラゴンクエストダイの大冒険 / Dragon Quest Dai no Daibouken",
+      "series": "Dragon Quest: The Adventure Of Dai",
       "volume": 1,
       "year_read": 0
     },
@@ -3269,7 +3289,7 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "ドラゴンクエストダイの大冒険 / Dragon Quest Dai no Daibouken",
+      "series": "Dragon Quest: The Adventure Of Dai",
       "volume": 2,
       "year_read": 0
     },
@@ -3280,7 +3300,7 @@
       ],
       "rating": 0,
       "review": null,
-      "series": "ドラゴンクエストダイの大冒険 / Dragon Quest Dai no Daibouken",
+      "series": "Dragon Quest: The Adventure Of Dai",
       "volume": 3,
       "year_read": 0
     }

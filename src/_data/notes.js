@@ -1,4 +1,4 @@
-const {fetchFromNotion, getNotionProps, updateTweet, updateReddit} = require("../_11ty/notionHelpers");
+const {fetchFromNotion, getNotionProps, updateTweet, updateReddit, updateReplyTo} = require("../_11ty/notionHelpers");
 
 const {Client} = require('@notionhq/client');
 // https://github.com/souvikinator/notion-to-md
@@ -137,6 +137,7 @@ module.exports = async function () {
     // TODO: only process these for published notes
     await updateReddit(notion, newData, 'note');
     await updateTweet(notion, newData, 'note');
+    await updateReplyTo(notion, newData, "note");
 
     return processAndReturn(newData);
 };

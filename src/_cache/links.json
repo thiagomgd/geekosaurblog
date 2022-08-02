@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-07-27T03:30:26.427Z",
+  "lastFetched": "2022-08-02T01:53:13.128Z",
   "links": {
     "abb31e3b-f4cb-4903-ad30-5965eae95d80": {
       "id": "abb31e3b-f4cb-4903-ad30-5965eae95d80",
@@ -166,6 +166,27 @@
       ],
       "discussion": null,
       "title": "My Problem With YA Fantasy - PT. 2 (Lies & Limitations)"
+    },
+    "42d3f5be-52b9-4bce-9321-b7e75e1ef132": {
+      "id": "42d3f5be-52b9-4bce-9321-b7e75e1ef132",
+      "created_time": "2022-08-01T17:44:00.000Z",
+      "last_edited_time": "2022-08-01T17:46:00.000Z",
+      "cover": null,
+      "icon": null,
+      "type": "Blog Post",
+      "private": false,
+      "publisher": "",
+      "summary": "",
+      "link": "https://lee-phillips.org/howtotwitter/",
+      "comments": "",
+      "tweet": null,
+      "status": "Finished",
+      "tags": [
+        "Social Media",
+        "Twitter"
+      ],
+      "discussion": "https://news.ycombinator.com/item?id=30271837",
+      "title": "How to Twitter"
     }
   }
 }
