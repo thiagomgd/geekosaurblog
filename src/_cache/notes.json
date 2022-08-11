@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-08-08T16:57:37.001Z",
+  "lastFetched": "2022-08-11T16:43:39.124Z",
   "data": {
     "00aa3093-e352-43d6-8604-ca5a7d8f518a": {
       "id": "00aa3093-e352-43d6-8604-ca5a7d8f518a",
@@ -538,7 +538,7 @@
     "f888901f-e6f5-4070-9f55-27f84375f7b7": {
       "id": "f888901f-e6f5-4070-9f55-27f84375f7b7",
       "created_time": "2022-08-08T05:51:00.000Z",
-      "last_edited_time": "2022-08-08T05:54:00.000Z",
+      "last_edited_time": "2022-08-08T18:59:00.000Z",
       "cover": null,
       "icon": null,
       "format": "quote",
@@ -547,10 +547,10 @@
         "Anime & Manga Quote"
       ],
       "images": [
-        "/img/notion/f888901f-e6f5-4070-9f55-27f84375f7b7/u3KBxIYgoh-944.jpeg"
+        "/img/notion/f888901f-e6f5-4070-9f55-27f84375f7b7/na2sl4Fk6--944.jpeg"
       ],
-      "tweet": null,
-      "reddit": null,
+      "tweet": "https://twitter.com/geeko_saur/status/1556688948650541057",
+      "reddit": "https://www.reddit.com/r/geekosaur/comments/wjev9j/quote_call_of_the_night/",
       "reply_to": "https://twitter.com/FalconSensei/status/1551270899130712064",
       "embed": null,
       "title": "Quote: Call Of The Night",

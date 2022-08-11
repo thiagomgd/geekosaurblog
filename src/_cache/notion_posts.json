@@ -1,17 +1,17 @@
 {
-  "lastFetched": "2022-08-08T16:58:43.307Z",
+  "lastFetched": "2022-08-11T16:43:40.014Z",
   "data": {
     "95a24363-0ebc-4ded-8219-1f056d7cf621": {
       "id": "95a24363-0ebc-4ded-8219-1f056d7cf621",
       "created_time": "2022-08-08T01:57:00.000Z",
-      "last_edited_time": "2022-08-08T02:16:00.000Z",
+      "last_edited_time": "2022-08-09T17:31:00.000Z",
       "cover": null,
       "icon": null,
       "slug": "music-corner-17",
-      "reddit": null,
-      "tweet": null,
-      "thumbnail": "/img/notion/95a24363-0ebc-4ded-8219-1f056d7cf621/jtclHTL051-800.jpeg",
-      "reply_to": null,
+      "reddit": "https://www.reddit.com/r/geekosaur/comments/wjeva5/music_corner_17_songs_from_anime_im_watching/",
+      "tweet": "https://twitter.com/geeko_saur/status/1556689637313314816",
+      "thumbnail": "/img/notion/95a24363-0ebc-4ded-8219-1f056d7cf621/JS3OOCtSfc-800.jpeg",
+      "reply_to": "https://twitter.com/geeko_saur/status/1556689637313314816",
       "published": true,
       "lead": "Just some banger anime songs!",
       "notes": "",
