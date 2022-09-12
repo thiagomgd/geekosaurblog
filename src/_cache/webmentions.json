@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-08-24T05:06:09.451Z",
+  "lastFetched": "2022-09-12T18:36:23.335Z",
   "children": [
     {
       "type": "entry",
@@ -2841,6 +2841,2357 @@
       "in-reply-to": "https://geekosaur.com/note/f888901f-e6f5-4070-9f55-27f84375f7b7/",
       "wm-property": "in-reply-to",
       "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Zachary Marquez",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b53ef690f270cde19f792e998840c0fe2361baf305c4fd29b537591f7fde72ca.jpg",
+        "url": "https://twitter.com/BurningExeter"
+      },
+      "url": "https://twitter.com/geeko_saur/status/1565235165944750081#favorited-by-1127729516854431744",
+      "published": null,
+      "wm-received": "2022-09-05T08:31:46Z",
+      "wm-id": 1511020,
+      "wm-source": "https://brid.gy/like/twitter/geeko_saur/1565235165944750081/1127729516854431744",
+      "wm-target": "https://geekosaur.com/note/2fa963da-1db5-40f5-ad22-1536ee722b57/",
+      "like-of": "https://geekosaur.com/note/2fa963da-1db5-40f5-ad22-1536ee722b57/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Zachary Marquez",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b53ef690f270cde19f792e998840c0fe2361baf305c4fd29b537591f7fde72ca.jpg",
+        "url": "https://twitter.com/BurningExeter"
+      },
+      "url": "https://twitter.com/BurningExeter/status/1566701453812502528",
+      "published": "2022-09-05T08:15:09+00:00",
+      "wm-received": "2022-09-05T08:31:46Z",
+      "wm-id": 1511021,
+      "wm-source": "https://brid.gy/repost/twitter/geeko_saur/1565235165944750081/1566701453812502528",
+      "wm-target": "https://geekosaur.com/note/2fa963da-1db5-40f5-ad22-1536ee722b57/",
+      "content": {
+        "text": "Just finished Keeper Of The Lost Cities: Nightfall (book 6). It’s so good!!! A tiny bit annoyed with the romantic square/triangle, but other than that it was a great read. Excited for the next couple ones already released, and book 9 that’ll be... (geekosaur.com/note/2fa963da-…)"
+      },
+      "repost-of": "https://geekosaur.com/note/2fa963da-1db5-40f5-ad22-1536ee722b57/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Zachary Marquez",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/b53ef690f270cde19f792e998840c0fe2361baf305c4fd29b537591f7fde72ca.jpg",
+        "url": "https://twitter.com/BurningExeter"
+      },
+      "url": "https://twitter.com/BurningExeter/status/1566702596105969664",
+      "published": "2022-09-05T08:19:41+00:00",
+      "wm-received": "2022-09-05T08:31:44Z",
+      "wm-id": 1511019,
+      "wm-source": "https://brid.gy/comment/twitter/geeko_saur/1565235165944750081/1566702596105969664",
+      "wm-target": "https://geekosaur.com/note/2fa963da-1db5-40f5-ad22-1536ee722b57/",
+      "content": {
+        "html": "Might as well share this -\n\nIt's my headcanon that KOTLC is set in the same universe as The Shield, Breaking Bad/Better Call Saul/El Camino: A Breaking Bad Movie, Sons Of Anarchy/Mayans MC, House Of Cards (S1 - S5), HBO's Spawn and Runaway Train.\n<a class=\"u-mention\" href=\"https://geekosaur.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/geeko_saur\"></a>",
+        "text": "Might as well share this -\n\nIt's my headcanon that KOTLC is set in the same universe as The Shield, Breaking Bad/Better Call Saul/El Camino: A Breaking Bad Movie, Sons Of Anarchy/Mayans MC, House Of Cards (S1 - S5), HBO's Spawn and Runaway Train."
+      },
+      "in-reply-to": "https://geekosaur.com/note/2fa963da-1db5-40f5-ad22-1536ee722b57/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon | Master of Muppets 🍥",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/589649ba575d2fc1a890f6a5f02482585484b78635d720f9612c5888d647edcb.jpg",
+        "url": "https://twitter.com/geeko_saur"
+      },
+      "url": "https://twitter.com/geeko_saur/status/1565235165944750081",
+      "published": "2022-09-01T07:08:38+00:00",
+      "wm-received": "2022-09-01T11:35:41Z",
+      "wm-id": 1508706,
+      "wm-source": "https://brid.gy/comment/twitter/geeko_saur/1565235165944750081/1565235165944750081",
+      "wm-target": "https://geekosaur.com/note/2fa963da-1db5-40f5-ad22-1536ee722b57/",
+      "content": {
+        "html": "Just finished Keeper Of The Lost Cities: Nightfall (book 6). It’s so good!!! A tiny bit annoyed with the romantic square/triangle, but other than that it was a great read. Excited for the next couple ones already released, and book 9 that’ll be... (<a href=\"https://geekosaur.com/note/2fa963da-1db5-40f5-ad22-1536ee722b57/\">geekosaur.com/note/2fa963da-…</a>)",
+        "text": "Just finished Keeper Of The Lost Cities: Nightfall (book 6). It’s so good!!! A tiny bit annoyed with the romantic square/triangle, but other than that it was a great read. Excited for the next couple ones already released, and book 9 that’ll be... (geekosaur.com/note/2fa963da-…)"
+      },
+      "in-reply-to": "https://geekosaur.com/note/2fa963da-1db5-40f5-ad22-1536ee722b57/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/osgapt/geekosaur_weekly_16_dropping_duolingo_studying/",
+      "published": null,
+      "wm-received": "2022-08-29T21:14:06Z",
+      "wm-id": 1504764,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/osgapt/geekosaur_weekly_16_dropping_duolingo_studying/",
+      "wm-target": "https://geekosaur.com/post/geekosaur-weekly-16/",
+      "mention-of": "https://geekosaur.com/post/geekosaur-weekly-16/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/osgapt/geekosaur_weekly_16_dropping_duolingo_studying/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/mogcv2/automating_things_downloading_reddit_media/",
+      "published": null,
+      "wm-received": "2022-08-29T18:42:00Z",
+      "wm-id": 1501402,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/mogcv2/automating_things_downloading_reddit_media/",
+      "wm-target": "https://geekosaur.com/post/automating_downloading_reddit_images/",
+      "mention-of": "https://geekosaur.com/post/automating_downloading_reddit_images/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/mogcv2/automating_things_downloading_reddit_media/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/ml41bj/finished_the_dragon_lords_books/",
+      "published": null,
+      "wm-received": "2022-08-29T18:32:08Z",
+      "wm-id": 1500986,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/ml41bj/finished_the_dragon_lords_books/",
+      "wm-target": "https://geekosaur.com/post/finished-the-dragon-lords-books/",
+      "mention-of": "https://geekosaur.com/post/finished-the-dragon-lords-books/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/ml41bj/finished_the_dragon_lords_books/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/meue5n/geekosaur_weekly_9_light_novel_censorship_outrage/",
+      "published": null,
+      "wm-received": "2022-08-29T18:02:58Z",
+      "wm-id": 1499620,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/meue5n/geekosaur_weekly_9_light_novel_censorship_outrage/",
+      "wm-target": "https://geekosaur.com/post/geekosaur-weekly-9-seven-seas-light-novel-censorship/",
+      "mention-of": "https://geekosaur.com/post/geekosaur-weekly-9-seven-seas-light-novel-censorship/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/meue5n/geekosaur_weekly_9_light_novel_censorship_outrage/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/m9l78b/geekosaur_weekly_8_model_trains_and_bluegrass/",
+      "published": null,
+      "wm-received": "2022-08-29T17:56:11Z",
+      "wm-id": 1499449,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/m9l78b/geekosaur_weekly_8_model_trains_and_bluegrass/",
+      "wm-target": "https://geekosaur.com/post/geekosaur-weekly-8-model-trains/",
+      "mention-of": "https://geekosaur.com/post/geekosaur-weekly-8-model-trains/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/m9l78b/geekosaur_weekly_8_model_trains_and_bluegrass/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/m4ikep/geekosaur_weekly_7_band_names_and_song_lyrics_in/",
+      "published": null,
+      "wm-received": "2022-08-29T17:51:15Z",
+      "wm-id": 1499434,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/m4ikep/geekosaur_weekly_7_band_names_and_song_lyrics_in/",
+      "wm-target": "https://geekosaur.com/post/geekosaur-weekly-7/",
+      "mention-of": "https://geekosaur.com/post/geekosaur-weekly-7/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/m4ikep/geekosaur_weekly_7_band_names_and_song_lyrics_in/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/lzfwl9/geekosaur_weekly_6_dont_overthink_just_do_it/",
+      "published": null,
+      "wm-received": "2022-08-29T17:46:18Z",
+      "wm-id": 1499403,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/lzfwl9/geekosaur_weekly_6_dont_overthink_just_do_it/",
+      "wm-target": "https://geekosaur.com/post/geekosaur-weekly-6/",
+      "mention-of": "https://geekosaur.com/post/geekosaur-weekly-6/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/lzfwl9/geekosaur_weekly_6_dont_overthink_just_do_it/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/lusv3n/geekosaur_weekly_5_ditch_yearly_resolutions_use/",
+      "published": null,
+      "wm-received": "2022-08-29T17:41:52Z",
+      "wm-id": 1499349,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/lusv3n/geekosaur_weekly_5_ditch_yearly_resolutions_use/",
+      "wm-target": "https://geekosaur.com/post/geekosaur-weekly-5/",
+      "mention-of": "https://geekosaur.com/post/geekosaur-weekly-5/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/lusv3n/geekosaur_weekly_5_ditch_yearly_resolutions_use/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/logcnz/geekosaur_weekly_4_whats_regret_anime_bingos/",
+      "published": null,
+      "wm-received": "2022-08-29T17:35:57Z",
+      "wm-id": 1499329,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/logcnz/geekosaur_weekly_4_whats_regret_anime_bingos/",
+      "wm-target": "https://geekosaur.com/post/geekosaur-weekly-4/",
+      "mention-of": "https://geekosaur.com/post/geekosaur-weekly-4/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/logcnz/geekosaur_weekly_4_whats_regret_anime_bingos/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/ln6nx8/new_record_babylon_berlin_vol_2_season_3_ost/",
+      "published": null,
+      "wm-received": "2022-08-29T17:34:47Z",
+      "wm-id": 1499322,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/ln6nx8/new_record_babylon_berlin_vol_2_season_3_ost/",
+      "wm-target": "https://geekosaur.com/post/new-record-babylon-berlin-vol2/",
+      "mention-of": "https://geekosaur.com/post/new-record-babylon-berlin-vol2/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/ln6nx8/new_record_babylon_berlin_vol_2_season_3_ost/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/lmaf62/new_fiction_books_feb_2021/",
+      "published": null,
+      "wm-received": "2022-08-29T17:33:38Z",
+      "wm-id": 1499318,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/lmaf62/new_fiction_books_feb_2021/",
+      "wm-target": "https://geekosaur.com/post/new-fiction-books-feb-2021/",
+      "mention-of": "https://geekosaur.com/post/new-fiction-books-feb-2021/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/lmaf62/new_fiction_books_feb_2021/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/lklzs7/vinyl_record_preorders_feb_15_2020/",
+      "published": null,
+      "wm-received": "2022-08-29T17:31:13Z",
+      "wm-id": 1499310,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/lklzs7/vinyl_record_preorders_feb_15_2020/",
+      "wm-target": "https://geekosaur.com/post/vinyl-preorders-feb-2021/",
+      "mention-of": "https://geekosaur.com/post/vinyl-preorders-feb-2021/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/lklzs7/vinyl_record_preorders_feb_15_2020/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/lj6wgo/geekosaur_weekly_3_its_not_a_backlog_its_a/",
+      "published": null,
+      "wm-received": "2022-08-29T17:29:37Z",
+      "wm-id": 1499307,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/lj6wgo/geekosaur_weekly_3_its_not_a_backlog_its_a/",
+      "wm-target": "https://geekosaur.com/post/geekosaur-weekly-3-collection-not-backlog/",
+      "mention-of": "https://geekosaur.com/post/geekosaur-weekly-3-collection-not-backlog/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/lj6wgo/geekosaur_weekly_3_its_not_a_backlog_its_a/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/lea7v4/geekosaur_2_buy_what_you_want_not_whats_cheap/",
+      "published": null,
+      "wm-received": "2022-08-29T17:24:19Z",
+      "wm-id": 1499290,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/lea7v4/geekosaur_2_buy_what_you_want_not_whats_cheap/",
+      "wm-target": "https://geekosaur.com/post/geekosaur-weekly-2/",
+      "mention-of": "https://geekosaur.com/post/geekosaur-weekly-2/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/lea7v4/geekosaur_2_buy_what_you_want_not_whats_cheap/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/lbg2jg/what_i_read_in_january_2021_geekosaur/",
+      "published": null,
+      "wm-received": "2022-08-29T17:21:23Z",
+      "wm-id": 1499276,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/lbg2jg/what_i_read_in_january_2021_geekosaur/",
+      "wm-target": "https://geekosaur.com/post/what-i-read-in-january-2021/",
+      "mention-of": "https://geekosaur.com/post/what-i-read-in-january-2021/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/lbg2jg/what_i_read_in_january_2021_geekosaur/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/l8v7ew/geekosaur_weekly_1_geekosaur/",
+      "published": null,
+      "wm-received": "2022-08-29T17:18:51Z",
+      "wm-id": 1499265,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/l8v7ew/geekosaur_weekly_1_geekosaur/",
+      "wm-target": "https://geekosaur.com/post/geekosaur_weekly_1/",
+      "mention-of": "https://geekosaur.com/post/geekosaur_weekly_1/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/l8v7ew/geekosaur_weekly_1_geekosaur/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/krdisa/to_the_lake_when_shit_hits_the_fan_geekosaur/",
+      "published": null,
+      "wm-received": "2022-08-29T17:01:55Z",
+      "wm-id": 1499187,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/krdisa/to_the_lake_when_shit_hits_the_fan_geekosaur/",
+      "wm-target": "https://geekosaur.com/post/to-the-lake-when-shit-hits-the-fan/",
+      "mention-of": "https://geekosaur.com/post/to-the-lake-when-shit-hits-the-fan/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/krdisa/to_the_lake_when_shit_hits_the_fan_geekosaur/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/kpdo4c/book_review_the_word_is_murder_by_anthony/",
+      "published": null,
+      "wm-received": "2022-08-29T16:59:59Z",
+      "wm-id": 1499181,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/kpdo4c/book_review_the_word_is_murder_by_anthony/",
+      "wm-target": "https://geekosaur.com/post/book-review-the-word-is-murder-by-anthony-horowitz/",
+      "mention-of": "https://geekosaur.com/post/book-review-the-word-is-murder-by-anthony-horowitz/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/kpdo4c/book_review_the_word_is_murder_by_anthony/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/knkr93/watched_december_2020_geekosaur/",
+      "published": null,
+      "wm-received": "2022-08-29T16:48:51Z",
+      "wm-id": 1499156,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/knkr93/watched_december_2020_geekosaur/",
+      "wm-target": "https://geekosaur.com/post/watched-december-2020/",
+      "mention-of": "https://geekosaur.com/post/watched-december-2020/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/knkr93/watched_december_2020_geekosaur/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/kmwtup/happy_new_year_and_late_merry_christmas_geekosaur/",
+      "published": null,
+      "wm-received": "2022-08-29T16:48:12Z",
+      "wm-id": 1499151,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/kmwtup/happy_new_year_and_late_merry_christmas_geekosaur/",
+      "wm-target": "https://geekosaur.com/post/happy_holidays_2020/",
+      "mention-of": "https://geekosaur.com/post/happy_holidays_2020/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/kmwtup/happy_new_year_and_late_merry_christmas_geekosaur/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/kg252x/paranormal_supernatural_mystery_from_egypt/",
+      "published": null,
+      "wm-received": "2022-08-29T16:37:20Z",
+      "wm-id": 1499065,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/kg252x/paranormal_supernatural_mystery_from_egypt/",
+      "wm-target": "https://geekosaur.com/post/paranormal-supernatural-mystery-from-egypt/",
+      "mention-of": "https://geekosaur.com/post/paranormal-supernatural-mystery-from-egypt/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/kg252x/paranormal_supernatural_mystery_from_egypt/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/kcrjpo/which_foreign_language_shows_and_movies_do_you/",
+      "published": null,
+      "wm-received": "2022-08-29T16:34:02Z",
+      "wm-id": 1499041,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/kcrjpo/which_foreign_language_shows_and_movies_do_you/",
+      "wm-target": "https://geekosaur.com/post/nonenglish-shows-movies/",
+      "mention-of": "https://geekosaur.com/post/nonenglish-shows-movies/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/kcrjpo/which_foreign_language_shows_and_movies_do_you/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/k84ead/my_2020_spotify_wrapped/",
+      "published": null,
+      "wm-received": "2022-08-29T16:13:06Z",
+      "wm-id": 1499010,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/k84ead/my_2020_spotify_wrapped/",
+      "wm-target": "https://geekosaur.com/post/my-2020-spotify-wrapped/",
+      "mention-of": "https://geekosaur.com/post/my-2020-spotify-wrapped/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/k84ead/my_2020_spotify_wrapped/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/jq07bv/anime_controversies_controversed/",
+      "published": null,
+      "wm-received": "2022-08-29T15:01:36Z",
+      "wm-id": 1498758,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/jq07bv/anime_controversies_controversed/",
+      "wm-target": "https://geekosaur.com/post/anime-controversies-controversed/",
+      "mention-of": "https://geekosaur.com/post/anime-controversies-controversed/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/jq07bv/anime_controversies_controversed/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/jo6921/new_fiction_books_i_got_recently_nov_2020/",
+      "published": null,
+      "wm-received": "2022-08-29T14:59:53Z",
+      "wm-id": 1498753,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/jo6921/new_fiction_books_i_got_recently_nov_2020/",
+      "wm-target": "https://geekosaur.com/post/new_ebooks_nov2020/",
+      "mention-of": "https://geekosaur.com/post/new_ebooks_nov2020/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/jo6921/new_fiction_books_i_got_recently_nov_2020/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/jo691q/fall_2020_anime_what_im_watching/",
+      "published": null,
+      "wm-received": "2022-08-29T14:59:52Z",
+      "wm-id": 1498752,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/jo691q/fall_2020_anime_what_im_watching/",
+      "wm-target": "https://geekosaur.com/post/fall-2020-anime-what-im-watching/",
+      "mention-of": "https://geekosaur.com/post/fall-2020-anime-what-im-watching/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/jo691q/fall_2020_anime_what_im_watching/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/jo6925/new_nonfiction_ebooks_i_got_recently_nov_2020/",
+      "published": null,
+      "wm-received": "2022-08-29T14:59:51Z",
+      "wm-id": 1498750,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/jo6925/new_nonfiction_ebooks_i_got_recently_nov_2020/",
+      "wm-target": "https://geekosaur.com/post/new-nonfiction-ebooks-i-got-recently-nov.-2020/",
+      "mention-of": "https://geekosaur.com/post/new-nonfiction-ebooks-i-got-recently-nov.-2020/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/jo6925/new_nonfiction_ebooks_i_got_recently_nov_2020/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/jo691c/happy_halloween/",
+      "published": null,
+      "wm-received": "2022-08-29T14:59:51Z",
+      "wm-id": 1498751,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/jo691c/happy_halloween/",
+      "wm-target": "https://geekosaur.com/post/happy-halloween/",
+      "mention-of": "https://geekosaur.com/post/happy-halloween/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/jo691c/happy_halloween/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/jnqmel/new_fiction_books_i_got_recently_nov_2020/",
+      "published": null,
+      "wm-received": "2022-08-29T14:59:30Z",
+      "wm-id": 1498747,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/jnqmel/new_fiction_books_i_got_recently_nov_2020/",
+      "wm-target": "https://geekosaur.com/post/20/11/new_ebooks_nov2020/",
+      "mention-of": "https://geekosaur.com/post/20/11/new_ebooks_nov2020/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/jnqmel/new_fiction_books_i_got_recently_nov_2020/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/jn2qrz/fall_2020_anime_what_im_watching/",
+      "published": null,
+      "wm-received": "2022-08-29T14:58:52Z",
+      "wm-id": 1498743,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/jn2qrz/fall_2020_anime_what_im_watching/",
+      "wm-target": "https://geekosaur.com/post/20/11/fall_2020_anime/",
+      "mention-of": "https://geekosaur.com/post/20/11/fall_2020_anime/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/jn2qrz/fall_2020_anime_what_im_watching/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/jltydb/happy_halloween/",
+      "published": null,
+      "wm-received": "2022-08-29T14:57:35Z",
+      "wm-id": 1498734,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/jltydb/happy_halloween/",
+      "wm-target": "https://geekosaur.com/post/20/10/happy_halloween_2020/",
+      "mention-of": "https://geekosaur.com/post/20/10/happy_halloween_2020/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/jltydb/happy_halloween/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/j5s1ae/what_im_watching_oct_4_2020/",
+      "published": null,
+      "wm-received": "2022-08-29T14:37:11Z",
+      "wm-id": 1498632,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/j5s1ae/what_im_watching_oct_4_2020/",
+      "wm-target": "https://geekosaur.com/post/what-im-watching-oct.-4-2020/",
+      "mention-of": "https://geekosaur.com/post/what-im-watching-oct.-4-2020/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/j5s1ae/what_im_watching_oct_4_2020/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/j0xze6/watched_the_marvelous_mrs_maisel_season_3/",
+      "published": null,
+      "wm-received": "2022-08-29T14:32:21Z",
+      "wm-id": 1498545,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/j0xze6/watched_the_marvelous_mrs_maisel_season_3/",
+      "wm-target": "https://geekosaur.com/post/watched-the-marvelous-mrs.-maisel-season-3/",
+      "mention-of": "https://geekosaur.com/post/watched-the-marvelous-mrs.-maisel-season-3/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/j0xze6/watched_the_marvelous_mrs_maisel_season_3/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/iz2ion/books_im_reading_now_sept_24_2020/",
+      "published": null,
+      "wm-received": "2022-08-29T14:30:31Z",
+      "wm-id": 1498536,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/iz2ion/books_im_reading_now_sept_24_2020/",
+      "wm-target": "https://geekosaur.com/post/books-im-reading-now-sept.-24-2020/",
+      "mention-of": "https://geekosaur.com/post/books-im-reading-now-sept.-24-2020/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/iz2ion/books_im_reading_now_sept_24_2020/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/iojb0l/music_monday_katy_perry_smile/",
+      "published": null,
+      "wm-received": "2022-08-29T01:19:21Z",
+      "wm-id": 1498068,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/iojb0l/music_monday_katy_perry_smile/",
+      "wm-target": "https://geekosaur.com/post/music-monday-katy-perry-smile/",
+      "mention-of": "https://geekosaur.com/post/music-monday-katy-perry-smile/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/iojb0l/music_monday_katy_perry_smile/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/iljn9a/finished_control_game/",
+      "published": null,
+      "wm-received": "2022-08-29T00:45:43Z",
+      "wm-id": 1498039,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/iljn9a/finished_control_game/",
+      "wm-target": "https://geekosaur.com/post/finished-control-game/",
+      "mention-of": "https://geekosaur.com/post/finished-control-game/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/iljn9a/finished_control_game/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/i1bd82/anime_im_watching_this_season/",
+      "published": null,
+      "wm-received": "2022-08-28T21:45:08Z",
+      "wm-id": 1497886,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/i1bd82/anime_im_watching_this_season/",
+      "wm-target": "https://geekosaur.com/post/anime_summer_2020/",
+      "mention-of": "https://geekosaur.com/post/anime_summer_2020/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/i1bd82/anime_im_watching_this_season/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/hknqhh/good_old_amvs/",
+      "published": null,
+      "wm-received": "2022-08-28T21:05:34Z",
+      "wm-id": 1497737,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/hknqhh/good_old_amvs/",
+      "wm-target": "https://geekosaur.com/post/good-old-amvs/",
+      "mention-of": "https://geekosaur.com/post/good-old-amvs/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/hknqhh/good_old_amvs/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/hiyg24/review_the_assassins_curse_duology/",
+      "published": null,
+      "wm-received": "2022-08-28T21:04:12Z",
+      "wm-id": 1497726,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/hiyg24/review_the_assassins_curse_duology/",
+      "wm-target": "https://geekosaur.com/post/review-the-assassins-curse-duology/",
+      "mention-of": "https://geekosaur.com/post/review-the-assassins-curse-duology/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/hiyg24/review_the_assassins_curse_duology/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/hiygky/weekly_updates_4/",
+      "published": null,
+      "wm-received": "2022-08-28T21:04:12Z",
+      "wm-id": 1497727,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/hiygky/weekly_updates_4/",
+      "wm-target": "https://geekosaur.com/post/weekly-updates-4/",
+      "mention-of": "https://geekosaur.com/post/weekly-updates-4/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/hiygky/weekly_updates_4/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/hiyf3c/review_my_youth_romantic_comedy_is_wrong_as_i/",
+      "published": null,
+      "wm-received": "2022-08-28T21:04:09Z",
+      "wm-id": 1497725,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/hiyf3c/review_my_youth_romantic_comedy_is_wrong_as_i/",
+      "wm-target": "https://geekosaur.com/post/review-my-youth-romantic-comedy-is-wrong-as-i-expected-vol.-1/",
+      "mention-of": "https://geekosaur.com/post/review-my-youth-romantic-comedy-is-wrong-as-i-expected-vol.-1/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/hiyf3c/review_my_youth_romantic_comedy_is_wrong_as_i/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/hiyfmy/kpop_dump_1/",
+      "published": null,
+      "wm-received": "2022-08-28T21:04:07Z",
+      "wm-id": 1497724,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/hiyfmy/kpop_dump_1/",
+      "wm-target": "https://geekosaur.com/post/k-pop-dump-1/",
+      "mention-of": "https://geekosaur.com/post/k-pop-dump-1/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/hiyfmy/kpop_dump_1/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/hiye2n/personal_updates_for_october_2017/",
+      "published": null,
+      "wm-received": "2022-08-28T21:04:05Z",
+      "wm-id": 1497723,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/hiye2n/personal_updates_for_october_2017/",
+      "wm-target": "https://geekosaur.com/post/personal-updates-for-october-2017/",
+      "mention-of": "https://geekosaur.com/post/personal-updates-for-october-2017/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/hiye2n/personal_updates_for_october_2017/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/hi537z/what_cosplays_do_you_like_to_see_at_conventions/",
+      "published": null,
+      "wm-received": "2022-08-28T21:03:25Z",
+      "wm-id": 1497716,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/hi537z/what_cosplays_do_you_like_to_see_at_conventions/",
+      "wm-target": "https://geekosaur.com/post/cosplays-at-conventions-taking-pictures/",
+      "mention-of": "https://geekosaur.com/post/cosplays-at-conventions-taking-pictures/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/hi537z/what_cosplays_do_you_like_to_see_at_conventions/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/heoare/my_ps4_games_list/",
+      "published": null,
+      "wm-received": "2022-08-28T21:00:19Z",
+      "wm-id": 1497698,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/heoare/my_ps4_games_list/",
+      "wm-target": "https://geekosaur.com/post/my-ps4-games-list/",
+      "mention-of": "https://geekosaur.com/post/my-ps4-games-list/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/heoare/my_ps4_games_list/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/he2ykt/random_music_music_monday_jun_22/",
+      "published": null,
+      "wm-received": "2022-08-28T20:59:48Z",
+      "wm-id": 1497688,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/he2ykt/random_music_music_monday_jun_22/",
+      "wm-target": "https://geekosaur.com/post/random-music-jun-22/",
+      "mention-of": "https://geekosaur.com/post/random-music-jun-22/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/he2ykt/random_music_music_monday_jun_22/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/h9gunx/some_jpop_music_monday_jun_14/",
+      "published": null,
+      "wm-received": "2022-08-28T20:55:48Z",
+      "wm-id": 1497665,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/h9gunx/some_jpop_music_monday_jun_14/",
+      "wm-target": "https://geekosaur.com/post/some-j-pop-music-monday-jun-14/",
+      "mention-of": "https://geekosaur.com/post/some-j-pop-music-monday-jun-14/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/h9gunx/some_jpop_music_monday_jun_14/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/h8ydv1/spy_x_family_reading_now/",
+      "published": null,
+      "wm-received": "2022-08-28T20:55:22Z",
+      "wm-id": 1497664,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/h8ydv1/spy_x_family_reading_now/",
+      "wm-target": "https://geekosaur.com/post/spy-x-family-reading-now/",
+      "mention-of": "https://geekosaur.com/post/spy-x-family-reading-now/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/h8ydv1/spy_x_family_reading_now/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/gzsltp/the_king_eternal_monarch_first_impressions/",
+      "published": null,
+      "wm-received": "2022-08-28T20:52:44Z",
+      "wm-id": 1497649,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/gzsltp/the_king_eternal_monarch_first_impressions/",
+      "wm-target": "https://geekosaur.com/post/the-king-eternal-monarch-first-impressions/",
+      "mention-of": "https://geekosaur.com/post/the-king-eternal-monarch-first-impressions/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/gzsltp/the_king_eternal_monarch_first_impressions/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/gzaouy/music_monday_jun_8_2020/",
+      "published": null,
+      "wm-received": "2022-08-28T20:52:22Z",
+      "wm-id": 1497647,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/gzaouy/music_monday_jun_8_2020/",
+      "wm-target": "https://geekosaur.com/post/music-monday-jun-8-2020/",
+      "mention-of": "https://geekosaur.com/post/music-monday-jun-8-2020/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/gzaouy/music_monday_jun_8_2020/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/gzaiio/review_salvage_trouble/",
+      "published": null,
+      "wm-received": "2022-08-28T20:52:20Z",
+      "wm-id": 1497646,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/gzaiio/review_salvage_trouble/",
+      "wm-target": "https://geekosaur.com/post/review-salvage-trouble/",
+      "mention-of": "https://geekosaur.com/post/review-salvage-trouble/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/gzaiio/review_salvage_trouble/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/gzahqi/black_clover_friday_reads_may_29_2020/",
+      "published": null,
+      "wm-received": "2022-08-28T20:52:19Z",
+      "wm-id": 1497645,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/gzahqi/black_clover_friday_reads_may_29_2020/",
+      "wm-target": "https://geekosaur.com/post/black-clover-friday-reads-may-29-2020/",
+      "mention-of": "https://geekosaur.com/post/black-clover-friday-reads-may-29-2020/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/gzahqi/black_clover_friday_reads_may_29_2020/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/gxeb36/watched_this_week_jun_5_2020/",
+      "published": null,
+      "wm-received": "2022-08-28T20:50:47Z",
+      "wm-id": 1497634,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/gxeb36/watched_this_week_jun_5_2020/",
+      "wm-target": "https://geekosaur.com/post/watched-this-week-jun-5-2020/",
+      "mention-of": "https://geekosaur.com/post/watched-this-week-jun-5-2020/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/gxeb36/watched_this_week_jun_5_2020/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/gwrbs2/weekend_movies_jun_4_2020/",
+      "published": null,
+      "wm-received": "2022-08-28T20:50:12Z",
+      "wm-id": 1497629,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/gwrbs2/weekend_movies_jun_4_2020/",
+      "wm-target": "https://geekosaur.com/post/weekend-movies-jun-4-2020/",
+      "mention-of": "https://geekosaur.com/post/weekend-movies-jun-4-2020/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/gwrbs2/weekend_movies_jun_4_2020/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/gw49ta/welcome_to_my_new_blog/",
+      "published": null,
+      "wm-received": "2022-08-28T20:49:41Z",
+      "wm-id": 1497625,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/gw49ta/welcome_to_my_new_blog/",
+      "wm-target": "https://geekosaur.com/post/welcome-to-my-new-blog/",
+      "mention-of": "https://geekosaur.com/post/welcome-to-my-new-blog/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/gw49ta/welcome_to_my_new_blog/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/qgb63v/checking_your_anime_recs_and_favorites_oct_2021/",
+      "published": null,
+      "wm-received": "2022-08-26T23:12:56Z",
+      "wm-id": 1494052,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/qgb63v/checking_your_anime_recs_and_favorites_oct_2021/",
+      "wm-target": "https://geekosaur.com/post/checking-your-anime-recs-and-favorites-oct.-2021/",
+      "mention-of": "https://geekosaur.com/post/checking-your-anime-recs-and-favorites-oct.-2021/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/qgb63v/checking_your_anime_recs_and_favorites_oct_2021/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/qex8fa/horror_book_recommendations/",
+      "published": null,
+      "wm-received": "2022-08-26T23:11:11Z",
+      "wm-id": 1494034,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/qex8fa/horror_book_recommendations/",
+      "wm-target": "https://geekosaur.com/post/horror-book-recommendations/",
+      "mention-of": "https://geekosaur.com/post/horror-book-recommendations/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/qex8fa/horror_book_recommendations/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/qekcfw/new_mechanical_keyboard_dygma_raise/",
+      "published": null,
+      "wm-received": "2022-08-26T23:11:09Z",
+      "wm-id": 1494033,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/qekcfw/new_mechanical_keyboard_dygma_raise/",
+      "wm-target": "https://geekosaur.com/post/new-mechanical-keyboard-dygma-raise/",
+      "mention-of": "https://geekosaur.com/post/new-mechanical-keyboard-dygma-raise/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/qekcfw/new_mechanical_keyboard_dygma_raise/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/qt628g/geekosaur_news_18_microsofts_notion_clone_twitter/",
+      "published": null,
+      "wm-received": "2022-08-26T22:24:36Z",
+      "wm-id": 1493478,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/qt628g/geekosaur_news_18_microsofts_notion_clone_twitter/",
+      "wm-target": "https://geekosaur.com/post/geekosaur-news-18/",
+      "mention-of": "https://geekosaur.com/post/geekosaur-news-18/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/qt628g/geekosaur_news_18_microsofts_notion_clone_twitter/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/qs4e10/book_notes_the_lighthouse_witches_c_j_cooke/",
+      "published": null,
+      "wm-received": "2022-08-26T22:22:02Z",
+      "wm-id": 1493440,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/qs4e10/book_notes_the_lighthouse_witches_c_j_cooke/",
+      "wm-target": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "mention-of": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/qs4e10/book_notes_the_lighthouse_witches_c_j_cooke/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/qrvpqo/readingwatching_now/",
+      "published": null,
+      "wm-received": "2022-08-26T22:21:20Z",
+      "wm-id": 1493426,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/qrvpqo/readingwatching_now/",
+      "wm-target": "https://geekosaur.com/reading-watching-now/",
+      "mention-of": "https://geekosaur.com/reading-watching-now/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/qrvpqo/readingwatching_now/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/qrtrqd/review_salvage_trouble/",
+      "published": null,
+      "wm-received": "2022-08-26T22:21:18Z",
+      "wm-id": 1493425,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/qrtrqd/review_salvage_trouble/",
+      "wm-target": "https://geekosaur.com/post/salvage_trouble_review/",
+      "mention-of": "https://geekosaur.com/post/salvage_trouble_review/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/qrtrqd/review_salvage_trouble/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/qouyvo/geekosaur_news_17_dickinson_is_back_im_lazy_and/",
+      "published": null,
+      "wm-received": "2022-08-26T22:12:59Z",
+      "wm-id": 1493162,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/qouyvo/geekosaur_news_17_dickinson_is_back_im_lazy_and/",
+      "wm-target": "https://geekosaur.com/post/geekosaur-news-17/",
+      "mention-of": "https://geekosaur.com/post/geekosaur-news-17/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/qouyvo/geekosaur_news_17_dickinson_is_back_im_lazy_and/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/qoednp/atelier_a_refreshing_netflix_original/",
+      "published": null,
+      "wm-received": "2022-08-26T22:12:54Z",
+      "wm-id": 1493156,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/qoednp/atelier_a_refreshing_netflix_original/",
+      "wm-target": "https://geekosaur.com/post/atelier-refreshing-netflix-original/",
+      "mention-of": "https://geekosaur.com/post/atelier-refreshing-netflix-original/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/qoednp/atelier_a_refreshing_netflix_original/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/qnfpdr/laterstephenking/",
+      "published": null,
+      "wm-received": "2022-08-26T22:12:27Z",
+      "wm-id": 1493136,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/qnfpdr/laterstephenking/",
+      "wm-target": "https://geekosaur.com/post/later-stephen-king/",
+      "mention-of": "https://geekosaur.com/post/later-stephen-king/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/qnfpdr/laterstephenking/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/qmch62/book_review_hard_magic_by_larry_correia/",
+      "published": null,
+      "wm-received": "2022-08-26T22:11:20Z",
+      "wm-id": 1493119,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/qmch62/book_review_hard_magic_by_larry_correia/",
+      "wm-target": "https://geekosaur.com/post/hard-magic-larry-correia/",
+      "mention-of": "https://geekosaur.com/post/hard-magic-larry-correia/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/qmch62/book_review_hard_magic_by_larry_correia/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/qlz5k0/new_books_on_my_list_nov_2021/",
+      "published": null,
+      "wm-received": "2022-08-26T22:10:50Z",
+      "wm-id": 1493097,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/qlz5k0/new_books_on_my_list_nov_2021/",
+      "wm-target": "https://geekosaur.com/post/new-books-on-tbr-2021/",
+      "mention-of": "https://geekosaur.com/post/new-books-on-tbr-2021/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/qlz5k0/new_books_on_my_list_nov_2021/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/qkipcu/music_monday_lee_suhyun/",
+      "published": null,
+      "wm-received": "2022-08-26T22:09:20Z",
+      "wm-id": 1493060,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/qkipcu/music_monday_lee_suhyun/",
+      "wm-target": "https://geekosaur.com/post/music-monday-lee-suhyun/",
+      "mention-of": "https://geekosaur.com/post/music-monday-lee-suhyun/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/qkipcu/music_monday_lee_suhyun/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/rmek9w/geekosaur_news_20_games_blog_migration_and_nerd/",
+      "published": null,
+      "wm-received": "2022-08-26T21:44:19Z",
+      "wm-id": 1492498,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/rmek9w/geekosaur_news_20_games_blog_migration_and_nerd/",
+      "wm-target": "https://geekosaur.com/post/geekosaur-news-20/",
+      "mention-of": "https://geekosaur.com/post/geekosaur-news-20/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/rmek9w/geekosaur_news_20_games_blog_migration_and_nerd/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/qrtrqm/review_my_youth_romantic_comedy_is_wrong_as_i/",
+      "published": null,
+      "wm-received": "2022-08-26T21:39:32Z",
+      "wm-id": 1492371,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/qrtrqm/review_my_youth_romantic_comedy_is_wrong_as_i/",
+      "wm-target": "https://geekosaur.com/post/review-oregairu-vol1/",
+      "mention-of": "https://geekosaur.com/post/review-oregairu-vol1/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/qrtrqm/review_my_youth_romantic_comedy_is_wrong_as_i/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/rip9ey/december_2021_book_haul/",
+      "published": null,
+      "wm-received": "2022-08-26T21:29:42Z",
+      "wm-id": 1492095,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/rip9ey/december_2021_book_haul/",
+      "wm-target": "https://geekosaur.com/post/new-books-dec-2021/",
+      "mention-of": "https://geekosaur.com/post/new-books-dec-2021/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/rip9ey/december_2021_book_haul/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/rha8fo/geekosaur_news_19/",
+      "published": null,
+      "wm-received": "2022-08-26T21:23:52Z",
+      "wm-id": 1491832,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/rha8fo/geekosaur_news_19/",
+      "wm-target": "https://geekosaur.com/post/geekosaur-news-19/",
+      "mention-of": "https://geekosaur.com/post/geekosaur-news-19/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/rha8fo/geekosaur_news_19/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/qrtrq6/book_review_the_word_is_murder_by_anthony_horowitz/",
+      "published": null,
+      "wm-received": "2022-08-26T21:18:27Z",
+      "wm-id": 1491560,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/qrtrq6/book_review_the_word_is_murder_by_anthony_horowitz/",
+      "wm-target": "https://geekosaur.com/post/the_word_is_murder_book_review/",
+      "mention-of": "https://geekosaur.com/post/the_word_is_murder_book_review/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/qrtrq6/book_review_the_word_is_murder_by_anthony_horowitz/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/qpinhz/music_monday_7_tiny_desk_concerts/",
+      "published": null,
+      "wm-received": "2022-08-26T21:14:48Z",
+      "wm-id": 1491407,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/qpinhz/music_monday_7_tiny_desk_concerts/",
+      "wm-target": "https://geekosaur.com/post/music-monday-7-tiny-desk-concerts/",
+      "mention-of": "https://geekosaur.com/post/music-monday-7-tiny-desk-concerts/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/qpinhz/music_monday_7_tiny_desk_concerts/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/qrtrr3/review_the_assassins_curse_duology/",
+      "published": null,
+      "wm-received": "2022-08-26T21:13:35Z",
+      "wm-id": 1491342,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/qrtrr3/review_the_assassins_curse_duology/",
+      "wm-target": "https://geekosaur.com/post/review-assassins-curse-duology/",
+      "mention-of": "https://geekosaur.com/post/review-assassins-curse-duology/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/qrtrr3/review_the_assassins_curse_duology/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/s5h535/book_notes_wool_silo_1_by_hugh_howey/",
+      "published": null,
+      "wm-received": "2022-08-26T16:54:59Z",
+      "wm-id": 1488464,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/s5h535/book_notes_wool_silo_1_by_hugh_howey/",
+      "wm-target": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "mention-of": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/s5h535/book_notes_wool_silo_1_by_hugh_howey/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/s41pqv/my_nonfiction_must_read_for_2022/",
+      "published": null,
+      "wm-received": "2022-08-26T16:51:46Z",
+      "wm-id": 1488384,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/s41pqv/my_nonfiction_must_read_for_2022/",
+      "wm-target": "https://geekosaur.com/post/non-fiction-must-read-2022/",
+      "mention-of": "https://geekosaur.com/post/non-fiction-must-read-2022/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/s41pqv/my_nonfiction_must_read_for_2022/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/rvfhw4/changing_how_i_track_my_reading/",
+      "published": null,
+      "wm-received": "2022-08-26T16:02:04Z",
+      "wm-id": 1486187,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/rvfhw4/changing_how_i_track_my_reading/",
+      "wm-target": "https://geekosaur.com/post/changing-reading-tracking/",
+      "mention-of": "https://geekosaur.com/post/changing-reading-tracking/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/rvfhw4/changing_how_i_track_my_reading/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/slmyne/comicsmanga_read/",
+      "published": null,
+      "wm-received": "2022-08-26T15:47:45Z",
+      "wm-id": 1485599,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/slmyne/comicsmanga_read/",
+      "wm-target": "https://geekosaur.com/comics-manga-read/",
+      "mention-of": "https://geekosaur.com/comics-manga-read/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/slmyne/comicsmanga_read/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/tj4ggp/updated_reading_stats/",
+      "published": null,
+      "wm-received": "2022-08-26T04:24:06Z",
+      "wm-id": 1483852,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/tj4ggp/updated_reading_stats/",
+      "wm-target": "https://geekosaur.com/note/b3563def-90a5-4be4-9422-1b06d0a78d24/",
+      "mention-of": "https://geekosaur.com/note/b3563def-90a5-4be4-9422-1b06d0a78d24/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/tj4ggp/updated_reading_stats/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/ubdr4p/reading_one_piece_finished_skypiea_arc/",
+      "published": null,
+      "wm-received": "2022-08-24T19:28:25Z",
+      "wm-id": 1482140,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/ubdr4p/reading_one_piece_finished_skypiea_arc/",
+      "wm-target": "https://geekosaur.com/note/c14972fb-0484-43e8-8b0c-ec796856708e/",
+      "mention-of": "https://geekosaur.com/note/c14972fb-0484-43e8-8b0c-ec796856708e/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/ubdr4p/reading_one_piece_finished_skypiea_arc/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/u8h6nj/reading_courage_to_be_disliked/",
+      "published": null,
+      "wm-received": "2022-08-24T19:21:18Z",
+      "wm-id": 1482015,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/u8h6nj/reading_courage_to_be_disliked/",
+      "wm-target": "https://geekosaur.com/note/bd5055ef-933d-4685-becc-f675e0e36477/",
+      "mention-of": "https://geekosaur.com/note/bd5055ef-933d-4685-becc-f675e0e36477/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/u8h6nj/reading_courage_to_be_disliked/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/u6yksn/german_updates_back_again_after_a_pause/",
+      "published": null,
+      "wm-received": "2022-08-24T19:15:50Z",
+      "wm-id": 1481920,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/u6yksn/german_updates_back_again_after_a_pause/",
+      "wm-target": "https://geekosaur.com/note/a5b72614-f04f-4cea-a7e8-f2f8025a0529/",
+      "mention-of": "https://geekosaur.com/note/a5b72614-f04f-4cea-a7e8-f2f8025a0529/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/u6yksn/german_updates_back_again_after_a_pause/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/u6qta0/midapril_reading_check/",
+      "published": null,
+      "wm-received": "2022-08-24T19:15:42Z",
+      "wm-id": 1481917,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/u6qta0/midapril_reading_check/",
+      "wm-target": "https://geekosaur.com/post/mid-april-reading-check-2022/",
+      "mention-of": "https://geekosaur.com/post/mid-april-reading-check-2022/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/u6qta0/midapril_reading_check/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/tyr2r1/geekosaur_news_22_twitter_comedy_and_more/",
+      "published": null,
+      "wm-received": "2022-08-24T19:02:30Z",
+      "wm-id": 1481727,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/tyr2r1/geekosaur_news_22_twitter_comedy_and_more/",
+      "wm-target": "https://geekosaur.com/post/geekosaur-news-22/",
+      "mention-of": "https://geekosaur.com/post/geekosaur-news-22/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/tyr2r1/geekosaur_news_22_twitter_comedy_and_more/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/ty7ppl/gamers_light_novel_arrived/",
+      "published": null,
+      "wm-received": "2022-08-24T19:01:19Z",
+      "wm-id": 1481706,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/ty7ppl/gamers_light_novel_arrived/",
+      "wm-target": "https://geekosaur.com/note/33e8d98e-c116-44e8-9f6b-1093db736086/",
+      "mention-of": "https://geekosaur.com/note/33e8d98e-c116-44e8-9f6b-1093db736086/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/ty7ppl/gamers_light_novel_arrived/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/tu4t2d/testing_something/",
+      "published": null,
+      "wm-received": "2022-08-24T18:50:21Z",
+      "wm-id": 1481522,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/tu4t2d/testing_something/",
+      "wm-target": "https://geekosaur.com/note/c189209b-6447-4eed-a7c8-f50b5bee457c/",
+      "mention-of": "https://geekosaur.com/note/c189209b-6447-4eed-a7c8-f50b5bee457c/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/tu4t2d/testing_something/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/ttl26o/finished_a_cozy_mystery_book/",
+      "published": null,
+      "wm-received": "2022-08-24T18:49:13Z",
+      "wm-id": 1481502,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/ttl26o/finished_a_cozy_mystery_book/",
+      "wm-target": "https://geekosaur.com/note/1cfe2fe4-e8b1-4b7c-80a2-e6240e29f9aa/",
+      "mention-of": "https://geekosaur.com/note/1cfe2fe4-e8b1-4b7c-80a2-e6240e29f9aa/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/ttl26o/finished_a_cozy_mystery_book/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/v1jzdi/music_corner_16_running_up_that_hill/",
+      "published": null,
+      "wm-received": "2022-08-24T18:46:31Z",
+      "wm-id": 1481457,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/v1jzdi/music_corner_16_running_up_that_hill/",
+      "wm-target": "https://geekosaur.com/post/music-corner-16/",
+      "mention-of": "https://geekosaur.com/post/music-corner-16/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/v1jzdi/music_corner_16_running_up_that_hill/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/tbk51o/german_updates/",
+      "published": null,
+      "wm-received": "2022-08-24T18:34:25Z",
+      "wm-id": 1481134,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/tbk51o/german_updates/",
+      "wm-target": "https://geekosaur.com/note/2ebe8523-ce76-4910-9573-f94d830c5c89/",
+      "mention-of": "https://geekosaur.com/note/2ebe8523-ce76-4910-9573-f94d830c5c89/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/tbk51o/german_updates/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/tbk51a/my_2022_reading_stats_so_far/",
+      "published": null,
+      "wm-received": "2022-08-24T18:34:24Z",
+      "wm-id": 1481132,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/tbk51a/my_2022_reading_stats_so_far/",
+      "wm-target": "https://geekosaur.com/note/1eb0e85b-e557-41e3-84ff-7a372e21c4d5/",
+      "mention-of": "https://geekosaur.com/note/1eb0e85b-e557-41e3-84ff-7a372e21c4d5/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/tbk51a/my_2022_reading_stats_so_far/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/uxvav1/music_corner_15_king_gizzard_and_the_lizard_wizard/",
+      "published": null,
+      "wm-received": "2022-08-24T18:29:55Z",
+      "wm-id": 1480996,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/uxvav1/music_corner_15_king_gizzard_and_the_lizard_wizard/",
+      "wm-target": "https://geekosaur.com/post/music-corner-15/",
+      "mention-of": "https://geekosaur.com/post/music-corner-15/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/uxvav1/music_corner_15_king_gizzard_and_the_lizard_wizard/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/tbk4zl/figure_skating_2022/",
+      "published": null,
+      "wm-received": "2022-08-24T18:01:31Z",
+      "wm-id": 1480041,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/tbk4zl/figure_skating_2022/",
+      "wm-target": "https://geekosaur.com/note/84daed7f-3d86-49c2-ba2e-41b21654ab99/",
+      "mention-of": "https://geekosaur.com/note/84daed7f-3d86-49c2-ba2e-41b21654ab99/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/tbk4zl/figure_skating_2022/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/tbk50s/the_serpent_ost_record/",
+      "published": null,
+      "wm-received": "2022-08-24T18:01:30Z",
+      "wm-id": 1480039,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/tbk50s/the_serpent_ost_record/",
+      "wm-target": "https://geekosaur.com/note/0a9d42b3-a9e2-43b9-bb00-497769b21a2f/",
+      "mention-of": "https://geekosaur.com/note/0a9d42b3-a9e2-43b9-bb00-497769b21a2f/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/tbk50s/the_serpent_ost_record/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/tbk523/400_german_words/",
+      "published": null,
+      "wm-received": "2022-08-24T18:01:30Z",
+      "wm-id": 1480040,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/tbk523/400_german_words/",
+      "wm-target": "https://geekosaur.com/note/cb8fd534-4cf9-4570-87c1-7323024ea804/",
+      "mention-of": "https://geekosaur.com/note/cb8fd534-4cf9-4570-87c1-7323024ea804/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/tbk523/400_german_words/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/tbk52c/reading_one_punch_man/",
+      "published": null,
+      "wm-received": "2022-08-24T17:54:10Z",
+      "wm-id": 1479688,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/tbk52c/reading_one_punch_man/",
+      "wm-target": "https://geekosaur.com/note/e57c9387-f77b-491b-b418-560cf99ebbc4/",
+      "mention-of": "https://geekosaur.com/note/e57c9387-f77b-491b-b418-560cf99ebbc4/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/tbk52c/reading_one_punch_man/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/tbk4zy/my_band_playlists/",
+      "published": null,
+      "wm-received": "2022-08-24T17:54:08Z",
+      "wm-id": 1479686,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/tbk4zy/my_band_playlists/",
+      "wm-target": "https://geekosaur.com/note/5346c10b-2d52-415e-93eb-a03e2f7b54b9/",
+      "mention-of": "https://geekosaur.com/note/5346c10b-2d52-415e-93eb-a03e2f7b54b9/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/tbk4zy/my_band_playlists/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/tbk52j/just_another_day/",
+      "published": null,
+      "wm-received": "2022-08-24T17:52:07Z",
+      "wm-id": 1479552,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/tbk52j/just_another_day/",
+      "wm-target": "https://geekosaur.com/note/ec6b85af-093a-4ee2-995e-3e9ccc0dc344/",
+      "mention-of": "https://geekosaur.com/note/ec6b85af-093a-4ee2-995e-3e9ccc0dc344/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/tbk52j/just_another_day/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/u65oqa/music_monday_14_the_blue_hearts_jmusic/",
+      "published": null,
+      "wm-received": "2022-08-24T17:44:17Z",
+      "wm-id": 1479067,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/u65oqa/music_monday_14_the_blue_hearts_jmusic/",
+      "wm-target": "https://geekosaur.com/post/music-monday-14/",
+      "mention-of": "https://geekosaur.com/post/music-monday-14/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/u65oqa/music_monday_14_the_blue_hearts_jmusic/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/twki3i/music_monday_13_brazilian_music_vinyl_sets/",
+      "published": null,
+      "wm-received": "2022-08-24T17:26:29Z",
+      "wm-id": 1478528,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/twki3i/music_monday_13_brazilian_music_vinyl_sets/",
+      "wm-target": "https://geekosaur.com/post/music-monday-13/",
+      "mention-of": "https://geekosaur.com/post/music-monday-13/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/twki3i/music_monday_13_brazilian_music_vinyl_sets/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/uys05x/quote_anatomy_a_love_story/",
+      "published": null,
+      "wm-received": "2022-08-24T17:13:46Z",
+      "wm-id": 1478036,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/uys05x/quote_anatomy_a_love_story/",
+      "wm-target": "https://geekosaur.com/note/0b58c86a-cb14-4800-8dc2-ef7bbff64d00/",
+      "mention-of": "https://geekosaur.com/note/0b58c86a-cb14-4800-8dc2-ef7bbff64d00/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/uys05x/quote_anatomy_a_love_story/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/tvs78l/reading_plans_for_april_2022/",
+      "published": null,
+      "wm-received": "2022-08-24T16:53:55Z",
+      "wm-id": 1476911,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/tvs78l/reading_plans_for_april_2022/",
+      "wm-target": "https://geekosaur.com/post/reading-plans-april-2022/",
+      "mention-of": "https://geekosaur.com/post/reading-plans-april-2022/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/tvs78l/reading_plans_for_april_2022/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/uir8x8/april_reading_wrap_up_and_may_plans/",
+      "published": null,
+      "wm-received": "2022-08-24T16:14:45Z",
+      "wm-id": 1474700,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/uir8x8/april_reading_wrap_up_and_may_plans/",
+      "wm-target": "https://geekosaur.com/post/april-reading-may-plans-2022/",
+      "mention-of": "https://geekosaur.com/post/april-reading-may-plans-2022/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/uir8x8/april_reading_wrap_up_and_may_plans/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/vhk48t/printed_a_couple_photos/",
+      "published": null,
+      "wm-received": "2022-08-24T16:12:23Z",
+      "wm-id": 1474600,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/vhk48t/printed_a_couple_photos/",
+      "wm-target": "https://geekosaur.com/note/2da86923-b26b-4133-925c-ad31a4394adf/",
+      "mention-of": "https://geekosaur.com/note/2da86923-b26b-4133-925c-ad31a4394adf/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/vhk48t/printed_a_couple_photos/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/v5uqmv/finished_a_book_starting_a_book/",
+      "published": null,
+      "wm-received": "2022-08-24T07:29:37Z",
+      "wm-id": 1471280,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/v5uqmv/finished_a_book_starting_a_book/",
+      "wm-target": "https://geekosaur.com/note/54007b54-2344-45dd-a853-e4145708d834/",
+      "mention-of": "https://geekosaur.com/note/54007b54-2344-45dd-a853-e4145708d834/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/v5uqmv/finished_a_book_starting_a_book/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/w7ffsx/new_fantasy_hardcover_books/",
+      "published": null,
+      "wm-received": "2022-08-24T06:52:30Z",
+      "wm-id": 1470654,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/w7ffsx/new_fantasy_hardcover_books/",
+      "wm-target": "https://geekosaur.com/note/aa3ab16d-e4f6-4070-8878-da3b63614716/",
+      "mention-of": "https://geekosaur.com/note/aa3ab16d-e4f6-4070-8878-da3b63614716/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/w7ffsx/new_fantasy_hardcover_books/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/vyp5sw/manga_reading_midyear_check/",
+      "published": null,
+      "wm-received": "2022-08-24T06:20:06Z",
+      "wm-id": 1469311,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/vyp5sw/manga_reading_midyear_check/",
+      "wm-target": "https://geekosaur.com/post/manga-reading-mid-year-check-2022/",
+      "mention-of": "https://geekosaur.com/post/manga-reading-mid-year-check-2022/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/vyp5sw/manga_reading_midyear_check/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://www.reddit.com/r/geekosaur/comments/vyp5t9/got_my_drivers_license/",
+      "published": null,
+      "wm-received": "2022-08-24T06:20:00Z",
+      "wm-id": 1469307,
+      "wm-source": "https://www.reddit.com/r/geekosaur/comments/vyp5t9/got_my_drivers_license/",
+      "wm-target": "https://geekosaur.com/note/00aa3093-e352-43d6-8604-ca5a7d8f518a/",
+      "mention-of": "https://geekosaur.com/note/00aa3093-e352-43d6-8604-ca5a7d8f518a/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://www.reddit.com/r/geekosaur/comments/vyp5t9/got_my_drivers_license/"
+      }
     }
   ]
 }

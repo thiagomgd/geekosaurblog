@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-08-24T05:06:07.049Z",
+  "lastFetched": "2022-09-12T18:36:16.964Z",
   "data": {
     "194b52ed-2678-4b6d-a94b-6d6754198dc7": {
       "title": "Anatomy: A Love Story",
@@ -2255,6 +2255,16 @@
       "rating": 0,
       "review": null,
       "year_read": 0
+    },
+    "db144dab-d2f3-4f6d-8e2e-781b194046f5": {
+      "title": "Nightfall (Keeper of the Lost Cities, #6)",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492561388l/34884513._SY475_.jpg"
+      ],
+      "rating": 4,
+      "review": null,
+      "date_read": "2022-08-31T00:00:00.000-07:00",
+      "year_read": 2022
     }
   }
 }
