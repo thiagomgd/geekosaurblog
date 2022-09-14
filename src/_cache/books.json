@@ -1,6 +1,16 @@
 {
-  "lastFetched": "2022-09-14T03:57:38.165Z",
+  "lastFetched": "2022-09-14T04:07:07.471Z",
   "data": {
+    "db144dab-d2f3-4f6d-8e2e-781b194046f5": {
+      "title": "Nightfall (Keeper of the Lost Cities, #6)",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492561388l/34884513._SY475_.jpg"
+      ],
+      "rating": 4,
+      "review": null,
+      "date_read": "2022-08-31T00:00:00.000-07:00",
+      "year_read": 2022
+    },
     "194b52ed-2678-4b6d-a94b-6d6754198dc7": {
       "title": "Anatomy: A Love Story",
       "cover": [
@@ -1108,6 +1118,16 @@
       "date_read": "2018-02-20T00:00:00.000-08:00",
       "year_read": 2018
     },
+    "5fcd5677-aeb6-4fa4-b05a-54e5637d4938": {
+      "title": "The Empty Box and Zeroth Maria, Vol. 1 (The Empty Box and Zeroth Maria, #1)",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530732949l/35224983._SY475_.jpg"
+      ],
+      "rating": 4,
+      "review": null,
+      "date_read": "2018-02-27T00:00:00.000-08:00",
+      "year_read": 2018
+    },
     "8b17b572-d8e7-440d-b9a0-dfb968b615c7": {
       "title": "House of Secrets: Clash of the Worlds (House of Secrets Series)",
       "cover": [
@@ -2102,179 +2122,6 @@
       "review": null,
       "date_read": "2021-09-08T00:00:00.000-07:00",
       "year_read": 2021
-    },
-    "eaec9e43-9789-4083-9d48-83992d0f3770": {
-      "title": "Dragon Quest: The Adventure of Dai, Vol. 4: Disciples of Avan",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652623117l/60321319.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    "097f8f77-e509-430b-94af-a2b95db8e136": {
-      "title": "Dragon Quest: The Adventure of Dai, Vol. 5: Disciples of Avan",
-      "cover": [
-        "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    "eecd8db4-1f0b-4fdd-b62e-3a46b1640732": {
-      "title": "竜の騎士 I (ドラゴンクエストダイの大冒険 / Dragon Quest Dai no Daibouken, #6)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645003974l/60428378._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    "5038e801-0e93-421d-b2e1-b69fcc36bf64": {
-      "title": "竜の騎士 II (ドラゴンクエストダイの大冒険 / Dragon Quest Dai no Daibouken, #7)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645004374l/60428395._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    "196fbb9f-f191-4f5b-b31a-a753d6de12c7": {
-      "title": "竜の騎士 III (ドラゴンクエストダイの大冒険 / Dragon Quest Dai no Daibouken, #8)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645009958l/60428702._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    "840f430c-4a0c-48e8-858e-d5d78cb2b622": {
-      "title": "竜の騎士 IV (ドラゴンクエストダイの大冒険 / Dragon Quest Dai no Daibouken, #9)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645010111l/60428709._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    "378dc891-2e4d-48c0-81d7-8138605412de": {
-      "title": "竜の騎士 V (ドラゴンクエストダイの大冒険 / Dragon Quest Dai no Daibouken, #10)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645032619l/60430612._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    "d5c0ef78-4c10-4551-80eb-0256573a7d46": {
-      "title": "死の大地 I (ドラゴンクエストダイの大冒険 / Dragon Quest Dai no Daibouken, #11)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645173364l/60442013._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    "86169203-1cca-4ce4-b0db-c31b695dc7b0": {
-      "title": "死の大地 II (ドラゴンクエストダイの大冒険 / Dragon Quest Dai no Daibouken, #12)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645173649l/60442043._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    "f097d6c1-2b4e-4c16-97d3-a194aecd6ce9": {
-      "title": "死の大地 III (ドラゴンクエストダイの大冒険 / Dragon Quest Dai no Daibouken, #13)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645183926l/60442953._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    "07528031-a633-44b1-a940-8ed48f074639": {
-      "title": "死の大地 IV (ドラゴンクエストダイの大冒険 / Dragon Quest Dai no Daibouken, #14)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645184184l/60442991._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    "e4d4a083-742d-4e99-8981-04f14295ed26": {
-      "title": "死の大地 V (ドラゴンクエストダイの大冒険 / Dragon Quest Dai no Daibouken, #15)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645436492l/60464247._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    "fb480e81-b140-4d1a-b7d7-1813e6607fe2": {
-      "title": "大魔宮 I (ドラゴンクエストダイの大冒険 / Dragon Quest Dai no Daibouken, #16)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645436699l/60464262._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    "9d05ed74-bc81-44a7-82dc-2638866b5189": {
-      "title": "大魔宮 II (ドラゴンクエストダイの大冒険 / Dragon Quest Dai no Daibouken, #17)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645454431l/60466421._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    "086f3d06-95eb-476f-ac43-320b1327f6be": {
-      "title": "大魔宮 III (ドラゴンクエストダイの大冒険 / Dragon Quest Dai no Daibouken, #18)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646119434l/60529074._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    "5927c1bb-df33-4cec-b2da-7e08fa0cc5dd": {
-      "title": "大魔宮 IV (ドラゴンクエストダイの大冒険 / Dragon Quest Dai no Daibouken, #19)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646119604l/60529084._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    "269af6bd-c16e-4b73-a3d5-79cfb6bb5ede": {
-      "title": "大魔宮 V (ドラゴンクエストダイの大冒険 / Dragon Quest Dai no Daibouken, #20)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646119810l/60529098._SY475_.jpg"
-      ],
-      "rating": 0,
-      "review": null,
-      "year_read": 0
-    },
-    "db144dab-d2f3-4f6d-8e2e-781b194046f5": {
-      "title": "Nightfall (Keeper of the Lost Cities, #6)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492561388l/34884513._SY475_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2022-08-31T00:00:00.000-07:00",
-      "year_read": 2022
-    },
-    "5fcd5677-aeb6-4fa4-b05a-54e5637d4938": {
-      "title": "The Empty Box and Zeroth Maria, Vol. 1 (The Empty Box and Zeroth Maria, #1)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530732949l/35224983._SY475_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2018-02-27T00:00:00.000-08:00",
-      "year_read": 2018
     }
   }
 }
