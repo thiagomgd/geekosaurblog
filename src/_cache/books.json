@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-09-12T18:36:16.964Z",
+  "lastFetched": "2022-09-14T03:57:38.165Z",
   "data": {
     "194b52ed-2678-4b6d-a94b-6d6754198dc7": {
       "title": "Anatomy: A Love Story",
@@ -2265,6 +2265,16 @@
       "review": null,
       "date_read": "2022-08-31T00:00:00.000-07:00",
       "year_read": 2022
+    },
+    "5fcd5677-aeb6-4fa4-b05a-54e5637d4938": {
+      "title": "The Empty Box and Zeroth Maria, Vol. 1 (The Empty Box and Zeroth Maria, #1)",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530732949l/35224983._SY475_.jpg"
+      ],
+      "rating": 4,
+      "review": null,
+      "date_read": "2018-02-27T00:00:00.000-08:00",
+      "year_read": 2018
     }
   }
 }

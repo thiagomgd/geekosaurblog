@@ -56,7 +56,7 @@ async function fetchBooks(since) {
             {property: "Edited", date: {after: since}},
             {
                 property: "Status",
-                select: {
+                status: {
                     equals: "read",
                 },
             },
