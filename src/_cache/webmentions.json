@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-09-14T04:07:25.869Z",
+  "lastFetched": "2022-09-16T01:02:58.699Z",
   "children": [
     {
       "type": "entry",
@@ -5192,6 +5192,28 @@
       "rels": {
         "canonical": "https://www.reddit.com/r/geekosaur/comments/vyp5t9/got_my_drivers_license/"
       }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon | Master of Muppets 🍥",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/589649ba575d2fc1a890f6a5f02482585484b78635d720f9612c5888d647edcb.jpg",
+        "url": "https://twitter.com/geeko_saur"
+      },
+      "url": "https://twitter.com/geeko_saur/status/1570274554030837760",
+      "published": "2022-09-15T04:53:22+00:00",
+      "wm-received": "2022-09-15T08:15:42Z",
+      "wm-id": 1519144,
+      "wm-source": "https://brid.gy/comment/twitter/geeko_saur/1570274554030837760/1570274554030837760",
+      "wm-target": "https://geekosaur.com/post/new-print-fiction-books-sept-2022/",
+      "content": {
+        "html": "Huge TBR, small apartment, but this past week I still got some new additions to my shelves. (<a href=\"https://geekosaur.com/post/new-print-fiction-books-sept-2022/\">geekosaur.com/post/new-print…</a>)\n<a class=\"u-mention\" href=\"https://twitter.com/P_Harrison99\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/StephenKing\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/TravisBaldree\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/digressica\"></a>",
+        "text": "Huge TBR, small apartment, but this past week I still got some new additions to my shelves. (geekosaur.com/post/new-print…)"
+      },
+      "in-reply-to": "https://geekosaur.com/post/new-print-fiction-books-sept-2022/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
     }
   ]
 }
