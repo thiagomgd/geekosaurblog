@@ -162,7 +162,7 @@ const unfurl = async (url) => {
 
         return template(metadata.data);
     } catch (e) {
-        console.error("error on unfurl", url, e);
+        console.error(">>> error on unfurl", url, e);
         return `<a href="${url}">${url}</a>`;
     }
 };
