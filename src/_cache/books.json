@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-09-22T18:21:44.366Z",
+  "lastFetched": "2022-09-22T18:56:39.035Z",
   "data": {
     "db144dab-d2f3-4f6d-8e2e-781b194046f5": {
       "title": "Nightfall (Keeper of the Lost Cities, #6)",
@@ -2122,6 +2122,16 @@
       "review": null,
       "date_read": "2021-09-08T00:00:00.000-07:00",
       "year_read": 2021
+    },
+    "1bc41b14-02bd-4cde-922c-fbc3b6692a3d": {
+      "title": "Flashback (Keeper of the Lost Cities #7)",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524661286l/39941913._SY475_.jpg"
+      ],
+      "rating": 4,
+      "review": null,
+      "date_read": "2022-09-15T00:00:00.000-07:00",
+      "year_read": 2022
     }
   }
 }
