@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-09-18T21:05:19.976Z",
+  "lastFetched": "2022-09-22T18:21:53.085Z",
   "children": [
     {
       "type": "entry",
@@ -5214,6 +5214,162 @@
       "in-reply-to": "https://geekosaur.com/post/new-print-fiction-books-sept-2022/",
       "wm-property": "in-reply-to",
       "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon | Master of Muppets 🍥",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/589649ba575d2fc1a890f6a5f02482585484b78635d720f9612c5888d647edcb.jpg",
+        "url": "https://twitter.com/geeko_saur"
+      },
+      "url": "https://twitter.com/geeko_saur/status/1572392426073100288",
+      "published": "2022-09-21T01:09:02+00:00",
+      "wm-received": "2022-09-21T01:31:45Z",
+      "wm-id": 1523798,
+      "wm-source": "https://brid.gy/comment/twitter/geeko_saur/1572392426073100288/1572392426073100288",
+      "wm-target": "https://geekosaur.com/note/3da9cc88-b385-4b97-a33e-2797528078ee/",
+      "photo": [
+        "https://pbs.twimg.com/media/FdJClCEWYAAPwHK.jpg"
+      ],
+      "content": {
+        "html": "Just saw that Audible is giving 3 months for free, so I had to go in and grab The Mapmaker (Cordelia Hatmaker #2), written and narrated by Tamzin Merchant! I still have to finish listening to the first volume (I’m terrible with audiobooks), but... (<a href=\"https://geekosaur.com/note/3da9cc88-b385-4b97-a33e-2797528078ee/\">geekosaur.com/note/3da9cc88-…</a>)\n<a class=\"u-mention\" href=\"https://twitter.com/P_Harrison99\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/StephenKing\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/TravisBaldree\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/digressica\"></a>",
+        "text": "Just saw that Audible is giving 3 months for free, so I had to go in and grab The Mapmaker (Cordelia Hatmaker #2), written and narrated by Tamzin Merchant! I still have to finish listening to the first volume (I’m terrible with audiobooks), but... (geekosaur.com/note/3da9cc88-…)"
+      },
+      "in-reply-to": "https://geekosaur.com/note/3da9cc88-b385-4b97-a33e-2797528078ee/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/53ec7a1d786bb3a10720f12d5853b318b49cfbcdc82de945c81f9fe1e754144a.png",
+        "url": "https://mastodon.social/@falcon"
+      },
+      "url": "https://mastodon.social/@falcon/109033740442940362",
+      "published": "2022-09-21T01:14:06",
+      "wm-received": "2022-09-21T01:31:08Z",
+      "wm-id": 1523796,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/109021514019932474/109033740442940362",
+      "wm-target": "https://geekosaur.com/post/more-print-fiction-books-sept-2022/",
+      "photo": [
+        "https://files.mastodon.social/media_attachments/files/109/033/740/317/801/383/original/4b19e911c9b38490.jpg"
+      ],
+      "content": {
+        "html": "<p>@StephenKing@twitter.com @P_Harrison99@twitter.com @digressica@twitter.com @TravisBaldree@twitter.com Just saw that Audible is giving 3 months for free, so I had to go in and grab The Mapmaker (Cordelia Hatmaker #2), written and narrated by Tamzin Merchant! I still have to finish listening to the first volume (I’m terrible with audiobooks), but... (<a href=\"https://geekosaur.com/note/3da9cc88-b385-4b97-a33e-2797528078ee/\"><span>https://</span><span>geekosaur.com/note/3da9cc88-b3</span><span>85-4b97-a33e-2797528078ee/</span></a>)</p>\n<a href=\"https://geekosaur.com/note/3da9cc88-b385-4b97-a33e-2797528078ee/\">Got The Mapmakers On Audible</a>",
+        "text": "@StephenKing@twitter.com @P_Harrison99@twitter.com @digressica@twitter.com @TravisBaldree@twitter.com Just saw that Audible is giving 3 months for free, so I had to go in and grab The Mapmaker (Cordelia Hatmaker #2), written and narrated by Tamzin Merchant! I still have to finish listening to the first volume (I’m terrible with audiobooks), but... (https://geekosaur.com/note/3da9cc88-b385-4b97-a33e-2797528078ee/)\nGot The Mapmakers On Audible"
+      },
+      "in-reply-to": "https://geekosaur.com/post/more-print-fiction-books-sept-2022/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Seth Halleway",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/3d825eed76bb5489bb0ec9c15ee2fffdd09daa7a42a82040eac41de873151e43.jpg",
+        "url": "https://mastodon.online/@sethhalleway"
+      },
+      "url": "https://mastodon.social/@falcon/109033740442940362#favorited-by-107435603102636166",
+      "published": null,
+      "wm-received": "2022-09-21T01:30:37Z",
+      "wm-id": 1523795,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mastodon.social/109033740442940362/107435603102636166",
+      "wm-target": "https://geekosaur.com/note/3da9cc88-b385-4b97-a33e-2797528078ee/",
+      "like-of": "https://geekosaur.com/note/3da9cc88-b385-4b97-a33e-2797528078ee/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/53ec7a1d786bb3a10720f12d5853b318b49cfbcdc82de945c81f9fe1e754144a.png",
+        "url": "https://mastodon.social/@falcon"
+      },
+      "url": "https://mastodon.social/@falcon/109021514019932474",
+      "published": "2022-09-18T21:24:45",
+      "wm-received": "2022-09-19T15:12:37Z",
+      "wm-id": 1522668,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/109000644778505192/109021514019932474",
+      "wm-target": "https://geekosaur.com/post/new-print-fiction-books-sept-2022/",
+      "content": {
+        "html": "<p>@StephenKing@twitter.com @P_Harrison99@twitter.com @digressica@twitter.com @TravisBaldree@twitter.com I just recently made a post about new print books I got, and then yesterday I received an email that some more from my last order were ready to pick up. (<a href=\"https://geekosaur.com/post/more-print-fiction-books-sept-2022/\"><span>https://</span><span>geekosaur.com/post/more-print-</span><span>fiction-books-sept-2022/</span></a>)</p>\n<a href=\"https://geekosaur.com/post/more-print-fiction-books-sept-2022/\">More Print Fiction Books (Sept, 2022)</a>",
+        "text": "@StephenKing@twitter.com @P_Harrison99@twitter.com @digressica@twitter.com @TravisBaldree@twitter.com I just recently made a post about new print books I got, and then yesterday I received an email that some more from my last order were ready to pick up. (https://geekosaur.com/post/more-print-fiction-books-sept-2022/)\nMore Print Fiction Books (Sept, 2022)"
+      },
+      "in-reply-to": "https://geekosaur.com/post/new-print-fiction-books-sept-2022/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ax | Email & SMS Marketing for E-Com 💸",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/a1e9f9273500a722b71759216889aa86953e002e17a3e5b73d8186c967e2324a.jpg",
+        "url": "https://twitter.com/ecom_by_ax"
+      },
+      "url": "https://twitter.com/geeko_saur/status/1571610278348849156#favorited-by-1428383821192318976",
+      "published": null,
+      "wm-received": "2022-09-18T22:04:16Z",
+      "wm-id": 1522223,
+      "wm-source": "https://brid.gy/like/twitter/geeko_saur/1571610278348849156/1428383821192318976",
+      "wm-target": "https://geekosaur.com/post/more-print-fiction-books-sept-2022/",
+      "like-of": "https://geekosaur.com/post/more-print-fiction-books-sept-2022/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon | Master of Muppets 🍥",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/589649ba575d2fc1a890f6a5f02482585484b78635d720f9612c5888d647edcb.jpg",
+        "url": "https://twitter.com/geeko_saur"
+      },
+      "url": "https://twitter.com/geeko_saur/status/1571610278348849156",
+      "published": "2022-09-18T21:21:04+00:00",
+      "wm-received": "2022-09-18T21:22:07Z",
+      "wm-id": 1522205,
+      "wm-source": "https://brid.gy/comment/twitter/geeko_saur/1571610278348849156/1571610278348849156",
+      "wm-target": "https://geekosaur.com/post/more-print-fiction-books-sept-2022/",
+      "content": {
+        "html": "I just recently made a post about new print books I got, and then yesterday I received an email that some more from my last order were ready to pick up. (<a href=\"https://geekosaur.com/post/more-print-fiction-books-sept-2022/\">geekosaur.com/post/more-prin…</a>)\n<a class=\"u-mention\" href=\"https://twitter.com/P_Harrison99\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/StephenKing\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/TravisBaldree\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/digressica\"></a>",
+        "text": "I just recently made a post about new print books I got, and then yesterday I received an email that some more from my last order were ready to pick up. (geekosaur.com/post/more-prin…)"
+      },
+      "in-reply-to": "https://geekosaur.com/post/more-print-fiction-books-sept-2022/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://geekosaur.com/post/more-print-fiction-books-sept-2022/",
+      "published": null,
+      "wm-received": "2022-09-18T21:21:02Z",
+      "wm-id": 1522204,
+      "wm-source": "https://geekosaur.com/post/more-print-fiction-books-sept-2022/",
+      "wm-target": "https://geekosaur.com/post/new-print-fiction-books-sept-2022/",
+      "name": "More Print Fiction Books (Sept, 2022)",
+      "content": {
+        "html": "<p>I just recently made a post about new print books I got, and then yesterday I received an email that some more from my last order were ready to pick up.</p>\n<p></p><img src=\"https://geekosaur.com/img/a_mc_djpSL-1200.jpeg\" width=\"1200\" height=\"1200\" alt=\"\" /><p>I was only expecting them next week, but I guess I’m happy! And I already started reading one of them: <a href=\"https://www.goodreads.com/book/show/34219873-the-trials-of-morrigan-crow\">The Trials of Morrigan Crow (Nevermoor #1)</a>.</p>\n<p>The other book I got where: <em>Wundersmith: The Calling of Morrigan Crow</em> and <em>Hollowpox: The Hunt for Morrigan Crow</em>, which are the 2nd and 3rd books on the Nevermoor series - I got the boxset 🙂</p>\n<p>I also got <a href=\"https://www.goodreads.com/book/show/59131384-spineless\">Spineless</a> by Samantha San Miguel, which sounds really interesting and fun, and has a gorgeous cover!</p>\n<p>Check my previous post below!</p>\n<p></p>\n<h4><a href=\"https://geekosaur.com/post/new-print-fiction-books-sept-2022/\">New Print Fiction Books (Sept, 2022)</a></h4>\n<img src=\"https://geekosaur.com/img/notion/8854fd23-0e40-4156-a92b-b30d5c79ae80/L7o9E7Q4X--1200.jpeg\" alt=\"\" /><p>Huge TBR, small apartment, but this past week I still got some new additions to my shelves.</p>\n\n<span>geekosaur.com</span>\n\n<p></p>\n<a href=\"https://brid.gy/publish/twitter\"></a>\n<a class=\"u-in-reply-to\" href=\"https://twitter.com/geeko_saur/status/1570274554030837760\"></a>\n<p class=\"p-bridgy-twitter-content\">I just recently made a post about new print books I got, and then yesterday I received an email that some more from my last order were ready to pick up.</p>",
+        "text": "I just recently made a post about new print books I got, and then yesterday I received an email that some more from my last order were ready to pick up.\nI was only expecting them next week, but I guess I’m happy! And I already started reading one of them: The Trials of Morrigan Crow (Nevermoor #1).\nThe other book I got where: Wundersmith: The Calling of Morrigan Crow and Hollowpox: The Hunt for Morrigan Crow, which are the 2nd and 3rd books on the Nevermoor series - I got the boxset 🙂\nI also got Spineless by Samantha San Miguel, which sounds really interesting and fun, and has a gorgeous cover!\nCheck my previous post below!\n\nNew Print Fiction Books (Sept, 2022)\nHuge TBR, small apartment, but this past week I still got some new additions to my shelves.\n\ngeekosaur.com\n\n\n\n\nI just recently made a post about new print books I got, and then yesterday I received an email that some more from my last order were ready to pick up."
+      },
+      "in-reply-to": "https://geekosaur.com/post/new-print-fiction-books-sept-2022/",
+      "wm-property": "in-reply-to",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://geekosaur.com/post/more-print-fiction-books-sept-2022/"
+      }
     }
   ]
 }
