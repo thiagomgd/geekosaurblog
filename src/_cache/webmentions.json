@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-09-25T22:46:08.173Z",
+  "lastFetched": "2022-09-26T16:52:54.664Z",
   "children": [
     {
       "type": "entry",
@@ -5369,6 +5369,138 @@
       "wm-private": false,
       "rels": {
         "canonical": "https://geekosaur.com/post/more-print-fiction-books-sept-2022/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/53ec7a1d786bb3a10720f12d5853b318b49cfbcdc82de945c81f9fe1e754144a.png",
+        "url": "https://mastodon.social/@falcon"
+      },
+      "url": "https://mastodon.social/@falcon/109063698176999163",
+      "published": "2022-09-26T08:12:44",
+      "wm-received": "2022-09-26T08:41:32Z",
+      "wm-id": 1526532,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/108921888494342773/109063698176999163",
+      "wm-target": "https://geekosaur.com/note/2fa963da-1db5-40f5-ad22-1536ee722b57/",
+      "content": {
+        "html": "<p>Just finished reading Nevermoor: The Trials Of Morrigan Crow. It’s the first book in a middle grade series, and it’s so much fun!! (<a href=\"https://geekosaur.com/note/f313a361-05dc-4757-878d-e85495ea4cc7/\"><span>https://</span><span>geekosaur.com/note/f313a361-05</span><span>dc-4757-878d-e85495ea4cc7/</span></a>)</p>\n<a href=\"https://geekosaur.com/note/f313a361-05dc-4757-878d-e85495ea4cc7/\">Finished Nevermoor: The Trials Of Morrigan Crow</a>",
+        "text": "Just finished reading Nevermoor: The Trials Of Morrigan Crow. It’s the first book in a middle grade series, and it’s so much fun!! (https://geekosaur.com/note/f313a361-05dc-4757-878d-e85495ea4cc7/)\nFinished Nevermoor: The Trials Of Morrigan Crow"
+      },
+      "in-reply-to": "https://geekosaur.com/note/2fa963da-1db5-40f5-ad22-1536ee722b57/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon | Master of Muppets 🍥",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/589649ba575d2fc1a890f6a5f02482585484b78635d720f9612c5888d647edcb.jpg",
+        "url": "https://twitter.com/geeko_saur"
+      },
+      "url": "https://twitter.com/geeko_saur/status/1574310219173302272",
+      "published": "2022-09-26T08:09:40+00:00",
+      "wm-received": "2022-09-26T08:31:05Z",
+      "wm-id": 1526514,
+      "wm-source": "https://brid.gy/comment/twitter/geeko_saur/1574310219173302272/1574310219173302272",
+      "wm-target": "https://geekosaur.com/note/f313a361-05dc-4757-878d-e85495ea4cc7/",
+      "content": {
+        "html": "Just finished reading Nevermoor: The Trials Of Morrigan Crow. It’s the first book in a middle grade series, and it’s so much fun!! (<a href=\"https://geekosaur.com/note/f313a361-05dc-4757-878d-e85495ea4cc7/\">geekosaur.com/note/f313a361-…</a>)",
+        "text": "Just finished reading Nevermoor: The Trials Of Morrigan Crow. It’s the first book in a middle grade series, and it’s so much fun!! (geekosaur.com/note/f313a361-…)"
+      },
+      "in-reply-to": "https://geekosaur.com/note/f313a361-05dc-4757-878d-e85495ea4cc7/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Travis Baldree",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/bbfd3a0cdc59e664d980c91666e77049d0bf7c8e8bf20a20c42dea6a7cabd3a1.jpg",
+        "url": "https://twitter.com/TravisBaldree"
+      },
+      "url": "https://twitter.com/geeko_saur/status/1574235010185428993#favorited-by-349968484",
+      "published": null,
+      "wm-received": "2022-09-26T03:45:35Z",
+      "wm-id": 1526316,
+      "wm-source": "https://brid.gy/like/twitter/geeko_saur/1574235010185428993/349968484",
+      "wm-target": "https://geekosaur.com/post/book-preorders-sept-2022/",
+      "like-of": "https://geekosaur.com/post/book-preorders-sept-2022/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/53ec7a1d786bb3a10720f12d5853b318b49cfbcdc82de945c81f9fe1e754144a.png",
+        "url": "https://mastodon.social/@falcon"
+      },
+      "url": "https://mastodon.social/@falcon/109062520366030776",
+      "published": "2022-09-26T03:13:12",
+      "wm-received": "2022-09-26T03:44:26Z",
+      "wm-id": 1526315,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/109000644778505192/109062520366030776",
+      "wm-target": "https://geekosaur.com/post/new-print-fiction-books-sept-2022/",
+      "content": {
+        "html": "<p>@StephenKing@twitter.com @P_Harrison99@twitter.com @digressica@twitter.com @TravisBaldree@twitter.com I recently posted a bunch of new fiction books I got recently, and I guess now’s the time to share books I preordered and I’m waiting to receive! (<a href=\"https://geekosaur.com/post/book-preorders-sept-2022/\"><span>https://</span><span>geekosaur.com/post/book-preord</span><span>ers-sept-2022/</span></a>)</p>\n<a href=\"https://geekosaur.com/post/book-preorders-sept-2022/\">Book Preorders I’m Waiting For (Sept, 2022)</a>",
+        "text": "@StephenKing@twitter.com @P_Harrison99@twitter.com @digressica@twitter.com @TravisBaldree@twitter.com I recently posted a bunch of new fiction books I got recently, and I guess now’s the time to share books I preordered and I’m waiting to receive! (https://geekosaur.com/post/book-preorders-sept-2022/)\nBook Preorders I’m Waiting For (Sept, 2022)"
+      },
+      "in-reply-to": "https://geekosaur.com/post/new-print-fiction-books-sept-2022/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon | Master of Muppets 🍥",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/589649ba575d2fc1a890f6a5f02482585484b78635d720f9612c5888d647edcb.jpg",
+        "url": "https://twitter.com/geeko_saur"
+      },
+      "url": "https://twitter.com/geeko_saur/status/1574235010185428993",
+      "published": "2022-09-26T03:10:48+00:00",
+      "wm-received": "2022-09-26T03:18:54Z",
+      "wm-id": 1526308,
+      "wm-source": "https://brid.gy/comment/twitter/geeko_saur/1574235010185428993/1574235010185428993",
+      "wm-target": "https://geekosaur.com/post/book-preorders-sept-2022/",
+      "content": {
+        "html": "I recently posted a bunch of new fiction books I got recently, and I guess now’s the time to share books I preordered and I’m waiting to receive! (<a href=\"https://geekosaur.com/post/book-preorders-sept-2022/\">geekosaur.com/post/book-preo…</a>)\n<a class=\"u-mention\" href=\"https://twitter.com/P_Harrison99\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/StephenKing\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/TravisBaldree\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/digressica\"></a>",
+        "text": "I recently posted a bunch of new fiction books I got recently, and I guess now’s the time to share books I preordered and I’m waiting to receive! (geekosaur.com/post/book-preo…)"
+      },
+      "in-reply-to": "https://geekosaur.com/post/book-preorders-sept-2022/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://geekosaur.com/post/book-preorders-sept-2022/",
+      "published": null,
+      "wm-received": "2022-09-26T03:10:43Z",
+      "wm-id": 1526307,
+      "wm-source": "https://geekosaur.com/post/book-preorders-sept-2022/",
+      "wm-target": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "name": "Book Preorders I’m Waiting For (Sept, 2022)",
+      "content": {
+        "html": "<p>I recently posted a bunch of new fiction books I got recently, and I guess now’s the time to share books I preordered and I’m waiting to receive!</p>\n<p>Legends &amp; Latter by Travis Baldree is what seems like a western and D&amp;D take on the slice-of-life genre, and it’s been very well received. Got it as part of recent online order, and just waiting to get my hands on this!</p>\n<p></p>\n<h4><a href=\"https://us.macmillan.com/books/9781250886095/legendslattes\">Legends &amp; Lattes</a></h4>\n<img src=\"https://mpd-biblio-covers.imgix.net/9781250886095.jpg\" width=\"1200\" height=\"1200\" alt=\"\" /><p>The much-beloved BookTok sensation from Travis Baldree, Legends &amp; Lattes is a novel of high fantasy and low stakes.*The new paperback edition will includ...</p>\n\n<img src=\"https://d3ialxc06lvqvq.cloudfront.net/wp-content/uploads/2021/09/07133421/cropped-mac-favicon-2.png\" width=\"512\" height=\"512\" alt=\"\" /><span>Macmillan</span>\n\n<p></p>\n<p>Stellarlune is the 9th book in the wonderful The Keeper of The Lost Cities series, by Shannon Messenger. I got the first 3 books in a box set many years ago and fell in love with it. I put the series on hold after volume 5 in 2018, as each book was getting bigger and bigger, but this year I decided to go back to the series and WOW. It’s still so much fun, but also growing so much.</p>\n<p>I absolutely recommend this series! I still need to read book 8 before this release, but I do have enough time 🙂</p>\n<p></p>\n<h4><a href=\"https://www.simonandschuster.com/books/Stellarlune/Shannon-Messenger/Keeper-of-the-Lost-Cities/9781534438521\">Stellarlune</a></h4>\n<img src=\"https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781534438521/stellarlune-9781534438521_lg.jpg\" width=\"265\" height=\"400\" alt=\"\" /><p>In this stunning ninth book in the New York Times and USA TODAY bestselling Keeper of the Lost Cities series, Sophie and her friends discover the t...</p>\n\n<img src=\"https://d1dyndsnc54cq8.cloudfront.net/assets/favicon-global.png\" width=\"32\" height=\"32\" alt=\"\" /><span>simonandschuster.com</span>\n\n<p></p>\n<p>The Ghost Woods by C. J. Cooke is something I just had to preorder. Not only does it hit so many right buttons - specially for a fall/winter read, but it’s by the same author of The Lighthouse Witches, which I read last year and found it SO enjoyable - <a href=\"https://geekosaur.com/post/the-lighthouse-witches-book-notes/\">see my short review here</a>. Very excited for this!</p>\n<p></p>\n<h4><a href=\"https://www.harpercollins.ca/9780008515904/the-ghost-woods/\">The Ghost Woods - C.J. Cooke - Hardcover</a></h4>\n<img src=\"https://i.harperapps.com/covers/9780008515904/x145.jpg\" width=\"145\" height=\"233\" alt=\"\" /><p>Look out for C.J. Cooke’s atmospheric new novel . . . ’Original and compelling, The Ghost Woods is a beautifully written, chilling ta...</p>\n\n<img src=\"https://www.harpercollins.ca/wp-content/themes/harper-collins-global/public/img/favicon-194x194.png\" width=\"194\" height=\"194\" alt=\"\" /><span>HarperCollins Canada</span>\n\n<p></p>\n<p>The Poisoners Ring (A Rip Through Time #2) by Kelley Armstrong. Now, this one I still didn’t preorder, but I’m sure I’m going to do it soon; as soon as I’m 100% decided to go with the hardcover version, as this time there’s no paperback release announced yet. I would prefer a paperback for this, but for a mystery, I feel like a print release is better than eBook. Also, I have the 1st one in paperback (which I also preordered at the time). Plus, this is from a Canadian author. Hooray!</p>\n<p></p>\n<h4><a href=\"https://us.macmillan.com/books/9781250820037/thepoisonersring\">The Poisoner’s Ring</a></h4>\n<img src=\"https://mpd-biblio-covers.imgix.net/9781250820037.jpg\" width=\"900\" height=\"1200\" alt=\"\" /><p>A modern-day homicide detective is working as an undertaker’s assistant in Victorian Scotland when a serial poisoner attacks the men of Edinburgh and leaves ...</p>\n\n<img src=\"https://d3ialxc06lvqvq.cloudfront.net/wp-content/uploads/2021/09/07133421/cropped-mac-favicon-2.png\" width=\"512\" height=\"512\" alt=\"\" /><span>Macmillan</span>\n\n<p></p>\n<a href=\"https://brid.gy/publish/twitter\"></a>\n<a class=\"u-in-reply-to\" href=\"https://twitter.com/geeko_saur/status/1570274554030837760\"></a>\n<p class=\"p-bridgy-twitter-content\">I recently posted a bunch of new fiction books I got recently, and I guess now’s the time to share books I preordered and I’m waiting to receive!</p>",
+        "text": "I recently posted a bunch of new fiction books I got recently, and I guess now’s the time to share books I preordered and I’m waiting to receive!\nLegends & Latter by Travis Baldree is what seems like a western and D&D take on the slice-of-life genre, and it’s been very well received. Got it as part of recent online order, and just waiting to get my hands on this!\n\nLegends & Lattes\nThe much-beloved BookTok sensation from Travis Baldree, Legends & Lattes is a novel of high fantasy and low stakes.*The new paperback edition will includ...\n\nMacmillan\n\n\nStellarlune is the 9th book in the wonderful The Keeper of The Lost Cities series, by Shannon Messenger. I got the first 3 books in a box set many years ago and fell in love with it. I put the series on hold after volume 5 in 2018, as each book was getting bigger and bigger, but this year I decided to go back to the series and WOW. It’s still so much fun, but also growing so much.\nI absolutely recommend this series! I still need to read book 8 before this release, but I do have enough time 🙂\n\nStellarlune\nIn this stunning ninth book in the New York Times and USA TODAY bestselling Keeper of the Lost Cities series, Sophie and her friends discover the t...\n\nsimonandschuster.com\n\n\nThe Ghost Woods by C. J. Cooke is something I just had to preorder. Not only does it hit so many right buttons - specially for a fall/winter read, but it’s by the same author of The Lighthouse Witches, which I read last year and found it SO enjoyable - see my short review here. Very excited for this!\n\nThe Ghost Woods - C.J. Cooke - Hardcover\nLook out for C.J. Cooke’s atmospheric new novel . . . ’Original and compelling, The Ghost Woods is a beautifully written, chilling ta...\n\nHarperCollins Canada\n\n\nThe Poisoners Ring (A Rip Through Time #2) by Kelley Armstrong. Now, this one I still didn’t preorder, but I’m sure I’m going to do it soon; as soon as I’m 100% decided to go with the hardcover version, as this time there’s no paperback release announced yet. I would prefer a paperback for this, but for a mystery, I feel like a print release is better than eBook. Also, I have the 1st one in paperback (which I also preordered at the time). Plus, this is from a Canadian author. Hooray!\n\nThe Poisoner’s Ring\nA modern-day homicide detective is working as an undertaker’s assistant in Victorian Scotland when a serial poisoner attacks the men of Edinburgh and leaves ...\n\nMacmillan\n\n\n\n\nI recently posted a bunch of new fiction books I got recently, and I guess now’s the time to share books I preordered and I’m waiting to receive!"
+      },
+      "in-reply-to": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "wm-property": "in-reply-to",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://geekosaur.com/post/book-preorders-sept-2022/"
       }
     }
   ]
