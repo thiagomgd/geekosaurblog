@@ -3,7 +3,7 @@ const EleventyFetch = require("@11ty/eleventy-fetch");
 const outdent = require("outdent")({newline: " "});
 
 const {getLocalImageLink, optimizeImage} = require("../_11ty/helpers");
-const {youtube, youtube_parser, reddit} = require("./shortcodes");
+const {youtube, youtube_parser, reddit, video} = require("./shortcodes");
 const {
     defaultTweet,
     cachedTweet,
@@ -48,7 +48,19 @@ function uuidv4() {
     });
 }
 
+function isVideo(url) {
+    if (url.includes('.gifv') || url.includes('.mp4')) return true;
+
+    return false;
+}
+
 async function figure(image, caption = "", className = "", alt = "") {
+    if (!image) return '';
+    
+    if (isVideo(image)) {
+        return video(image);
+    }
+
     const localSrc = getLocalImageLink(image);
 
     const mdCaption = caption ? markdownIt().renderInline(caption) : EMPTY;

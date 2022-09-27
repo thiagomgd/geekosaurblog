@@ -230,9 +230,37 @@ function metagen(data) {
   return cleanOutput;
 }
 
+const getVideoUrl = (url) =>{
+  if (url.includes('.gifv')) {
+    return url.replace('.gifv', '.mp4')
+  }
+
+  return url;
+}
+
+const getVideoType = (url) =>{
+  if (url.includes('.webm')) {
+    return 'video/webm'
+  }
+
+  if (url.includes('.mp4')) {
+    return 'video/mp4'
+  }
+
+  return 'video'
+}
+
+const video = (url) => {
+  const videoUrl = getVideoUrl(url);
+  const videoType = getVideoType(videoUrl);
+
+  return `<video controls><source src="${videoUrl}" type="${videoType}"/>`;
+};
+
 module.exports = {
   youtube_parser,
   youtube,
   reddit,
-  metagen
+  metagen,
+  video
 };
