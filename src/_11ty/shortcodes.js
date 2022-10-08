@@ -257,10 +257,24 @@ const video = (url) => {
   return `<video controls><source src="${videoUrl}" type="${videoType}"/>`;
 };
 
+const gfycat = (url, caption="") => {
+  let id;
+  if (url.includes("/")) {
+    const parts = url.split("/")
+    id = parts[parts.length];
+  } else {
+    id = url;
+  }
+
+  const captionCode = caption ? `<figcaption>${caption}</figcaption>` : "";
+  return `<figure><div style='position:relative; padding-bottom:calc(61.80% + 44px)'><iframe src='https://gfycat.com/ifr/${id}' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>${captionCode}</figure>`
+}
+
 module.exports = {
   youtube_parser,
   youtube,
   reddit,
   metagen,
-  video
+  video,
+  gfycat
 };

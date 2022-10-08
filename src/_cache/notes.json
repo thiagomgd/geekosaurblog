@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-09-26T16:52:52.960Z",
+  "lastFetched": "2022-10-08T03:54:23.000Z",
   "data": {
     "00aa3093-e352-43d6-8604-ca5a7d8f518a": {
       "id": "00aa3093-e352-43d6-8604-ca5a7d8f518a",
@@ -601,7 +601,7 @@
     "f313a361-05dc-4757-878d-e85495ea4cc7": {
       "id": "f313a361-05dc-4757-878d-e85495ea4cc7",
       "created_time": "2022-09-26T06:53:00.000Z",
-      "last_edited_time": "2022-09-26T06:58:00.000Z",
+      "last_edited_time": "2022-09-26T17:31:00.000Z",
       "cover": null,
       "icon": null,
       "format": "",
@@ -610,12 +610,37 @@
         "Books"
       ],
       "images": [],
-      "tweet": null,
-      "reddit": null,
+      "tweet": "https://twitter.com/geeko_saur/status/1574310219173302272",
+      "reddit": "https://www.reddit.com/r/geekosaur/comments/xocfpt/finished_nevermoor_the_trials_of_morrigan_crow/",
       "reply_to": "https://twitter.com/geeko_saur/status/1565235165944750081",
       "embed": "https://www.goodreads.com/book/show/37946448",
       "title": "Finished Nevermoor: The Trials Of Morrigan Crow",
       "content": "\nJust finished reading Nevermoor: The Trials Of Morrigan Crow. It’s the first book in a middle gra\n\n"
+    },
+    "231cbafa-09d4-4b8c-a15e-33a4c960b569": {
+      "id": "231cbafa-09d4-4b8c-a15e-33a4c960b569",
+      "created_time": "2022-10-07T23:44:00.000Z",
+      "last_edited_time": "2022-10-08T01:00:00.000Z",
+      "cover": null,
+      "icon": null,
+      "format": "",
+      "tags": [
+        "Reading",
+        "Manga",
+        "Delicious In Dungeon"
+      ],
+      "images": [
+        "/img/notion/231cbafa-09d4-4b8c-a15e-33a4c960b569/ood74_-DAR-1200.jpeg",
+        "/img/notion/231cbafa-09d4-4b8c-a15e-33a4c960b569/YrTeuaPLj5-1200.jpeg",
+        "/img/notion/231cbafa-09d4-4b8c-a15e-33a4c960b569/ntvJPnTSjl-1200.jpeg",
+        "/img/notion/231cbafa-09d4-4b8c-a15e-33a4c960b569/o8RS63vf9v-1200.jpeg"
+      ],
+      "tweet": null,
+      "reddit": "https://www.reddit.com/r/geekosaur/comments/xyet26/read_delicious_in_dungeon_7/",
+      "reply_to": "https://twitter.com/geeko_saur/status/1574310219173302272",
+      "embed": null,
+      "title": "Read Delicious In Dungeon 7",
+      "content": "\nToday I finished Delicious In Dungeon Vol. 7. This is such a cool manga series that I started reading back when I was in Toronto. \n\n\nThis volume was really cool, and we learn quite a bit about the lunatic magician, the dungeon, and Senshi. That last chapter was just awesome.\n\n"
     }
   }
 }

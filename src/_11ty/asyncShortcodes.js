@@ -54,14 +54,14 @@ function isVideo(url) {
     return false;
 }
 
-async function figure(image, caption = "", className = "", alt = "") {
+async function figure(image, caption = "", className = "", alt = "", noLocal="False") {
     if (!image) return '';
     
     if (isVideo(image)) {
         return video(image);
     }
 
-    const localSrc = getLocalImageLink(image);
+    const localSrc = noLocal === "True" ? image : getLocalImageLink(image);
 
     const mdCaption = caption ? markdownIt().renderInline(caption) : EMPTY;
     const classMarkup =

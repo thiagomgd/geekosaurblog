@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-09-26T16:52:54.664Z",
+  "lastFetched": "2022-10-08T03:54:23.788Z",
   "children": [
     {
       "type": "entry",
@@ -5502,6 +5502,34 @@
       "rels": {
         "canonical": "https://geekosaur.com/post/book-preorders-sept-2022/"
       }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon | Master of Muppets 🍥",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/589649ba575d2fc1a890f6a5f02482585484b78635d720f9612c5888d647edcb.jpg",
+        "url": "https://twitter.com/geeko_saur"
+      },
+      "url": "https://twitter.com/geeko_saur/status/1578553366128791552",
+      "published": "2022-10-08T01:10:25+00:00",
+      "wm-received": "2022-10-08T03:21:05Z",
+      "wm-id": 1534832,
+      "wm-source": "https://brid.gy/comment/twitter/geeko_saur/1578553366128791552/1578553366128791552",
+      "wm-target": "https://geekosaur.com/note/231cbafa-09d4-4b8c-a15e-33a4c960b569/",
+      "photo": [
+        "https://pbs.twimg.com/media/Fegl6RoX0AANMce.jpg",
+        "https://pbs.twimg.com/media/Fegl6g4XwAIsCvf.jpg",
+        "https://pbs.twimg.com/media/Fegl6wAXEAAlxRc.jpg",
+        "https://pbs.twimg.com/media/Fegl69PWAAE-Xa1.jpg"
+      ],
+      "content": {
+        "html": "Today I finished Delicious In Dungeon Vol. 7. This is such a cool manga series that I started reading back when I was in Toronto. This volume was really cool, and we learn quite a bit about the lunatic magician, the dungeon, and Senshi. That... (<a href=\"https://geekosaur.com/note/231cbafa-09d4-4b8c-a15e-33a4c960b569/\">geekosaur.com/note/231cbafa-…</a>)",
+        "text": "Today I finished Delicious In Dungeon Vol. 7. This is such a cool manga series that I started reading back when I was in Toronto. This volume was really cool, and we learn quite a bit about the lunatic magician, the dungeon, and Senshi. That... (geekosaur.com/note/231cbafa-…)"
+      },
+      "in-reply-to": "https://geekosaur.com/note/231cbafa-09d4-4b8c-a15e-33a4c960b569/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
     }
   ]
 }
