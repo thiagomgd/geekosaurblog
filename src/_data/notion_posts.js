@@ -46,13 +46,14 @@ async function fetchPage(pageId) {
             }
         });
         
-    } else if (process.env.ELEVENTY_ENV === "devbuild") {
-        n2m.setCustomTransformer('bookmark', async (block) => {
-            console.log(block);
-            console.log(block.bookmark.caption);
-            return `[a](b)`
-        });
-    }
+    } 
+    // else if (process.env.ELEVENTY_ENV === "devbuild") {
+    //     n2m.setCustomTransformer('bookmark', async (block) => {
+    //         console.log(block);
+    //         console.log(block.bookmark.caption);
+    //         return `[a](b)`
+    //     });
+    // }
 
     const mdblocks = await n2m.pageToMarkdown(pageId);
 
