@@ -261,13 +261,27 @@ const gfycat = (url, caption="") => {
   let id;
   if (url.includes("/")) {
     const parts = url.split("/")
-    id = parts[parts.length];
+    id = parts[parts.length-1];
   } else {
     id = url;
   }
 
-  const captionCode = caption ? `<figcaption>${caption}</figcaption>` : "";
-  return `<figure><div style='position:relative; padding-bottom:calc(61.80% + 44px)'><iframe src='https://gfycat.com/ifr/${id}' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>${captionCode}</figure>`
+  const captionCode = caption ? `<p>${caption}</p>` : "";
+  return `<div class="mediaEmbed"><div style='position:relative; padding-bottom:calc(61.80% + 44px)'><iframe src='https://gfycat.com/ifr/${id}' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>${captionCode}</div>`
+}
+
+const imgurEmbed = (url, caption="") => {
+  let id;
+  if (url.includes("/")) {
+    const parts = url.split("/")
+    id = parts[parts.length-1];
+    id = id.split("#")[0]
+  } else {
+    id = url;
+  }
+
+  const captionCode = caption ? `<p>${caption}</p>` : "";
+  return `<div class="mediaEmbed"><blockquote class="imgur-embed-pub" lang="en" data-id="a/${id}"  ><a href="//imgur.com/a/${id}"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>${captionCode}</div>`
 }
 
 module.exports = {
@@ -276,5 +290,6 @@ module.exports = {
   reddit,
   metagen,
   video,
-  gfycat
+  gfycat,
+  imgurEmbed
 };

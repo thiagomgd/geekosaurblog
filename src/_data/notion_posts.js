@@ -45,6 +45,13 @@ async function fetchPage(pageId) {
                 return `![${image_caption_plain}](${localImage})`
             }
         });
+        
+    } else if (process.env.ELEVENTY_ENV === "devbuild") {
+        n2m.setCustomTransformer('bookmark', async (block) => {
+            console.log(block);
+            console.log(block.bookmark.caption);
+            return `[a](b)`
+        });
     }
 
     const mdblocks = await n2m.pageToMarkdown(pageId);
@@ -127,6 +134,7 @@ module.exports = async function () {
     console.log(">>> Checking for new posts...");
     const newPosts = await fetchPosts(cache.lastFetched);
 
+    console.log(newPosts);
     // maybe update reddit/twitter here
     // if (!newPosts) {
     //     return filterDrafts(cache.data);

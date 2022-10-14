@@ -96,9 +96,16 @@ function getLocalImageLink(imgUrl, fileName = "") {
     if (process.env.ELEVENTY_ENV !== "devbuild") return imgUrl;
 
     // skip local images, notion images
-    if (!external.test(imgUrl) || isNotionImage(imgUrl)) {
+    // there shouldn't be any notion images at this point anymore
+    // if (!external.test(imgUrl) || isNotionImage(imgUrl)) {
+    //     return imgUrl;
+    // }
+
+    // For now, stop downloading all external images
+    if (external.test(imgUrl)) {
         return imgUrl;
     }
+
 
     const cache = readFromCache(IMG_CACHE_FILE_PATH);
 

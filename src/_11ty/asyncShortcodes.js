@@ -3,7 +3,7 @@ const EleventyFetch = require("@11ty/eleventy-fetch");
 const outdent = require("outdent")({newline: " "});
 
 const {getLocalImageLink, optimizeImage} = require("../_11ty/helpers");
-const {youtube, youtube_parser, reddit, video} = require("./shortcodes");
+const {youtube, youtube_parser, reddit, video, gfycat, imgurEmbed} = require("./shortcodes");
 const {
     defaultTweet,
     cachedTweet,
@@ -196,6 +196,8 @@ async function tweet(tweetUrl, options = {}, index = 0) {
     return output;
 }
 
+
+
 async function anyEmbed(url) {
     if (!url) return ``;
 
@@ -210,6 +212,10 @@ async function anyEmbed(url) {
     if (url.startsWith("https://www.reddit.com/")) return reddit(url);
 
     if (url.startsWith("https://twitter.com/")) return tweet(url);
+
+    if (url.startsWith("https://gfycat.com/")) return gfycat(url);
+
+    if (url.startsWith("https://imgur.com/a/") || url.startsWith("https://imgur.com/gallery/")) return imgurEmbed(url);
 
     return await unfurl(url);
 }

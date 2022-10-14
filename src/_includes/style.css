@@ -948,3 +948,13 @@ figure.vertical, img.vertical {
 p.p-bridgy-twitter-content, .hidden {
   display: none;
 }
+
+
+
+/* EMBEDS WITH CAPTIONS */
+
+div.mediaEmbed > iframe, div.mediaEmbed > div { 
+  display: block;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
