@@ -47,7 +47,7 @@ async function fetchPage(pageId) {
         });
         
     } 
-    // else if (process.env.ELEVENTY_ENV === "devbuild") {
+    // else if (process.env.ELEVENTY_ENV === "dev") {
     //     n2m.setCustomTransformer('bookmark', async (block) => {
     //         console.log(block);
     //         console.log(block.bookmark.caption);
