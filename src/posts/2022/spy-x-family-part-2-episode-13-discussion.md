@@ -13,6 +13,7 @@ tags:
 # reddit: 
 tweetId: '1578646599781306368'
 thread: 'spy x family season 2'
+series: 'Spy X Family Season 2'
 ---
 
 Laaaaaate, but I finally had soe time to make a quick Spy x Family post! I was able to wrap up season 1 just before part 2 started, and I'm so happy that it got a really cool adaptation.
