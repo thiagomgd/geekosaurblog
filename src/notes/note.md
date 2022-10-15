@@ -17,6 +17,7 @@ eleventyComputed:
   id: "{{ note.id }}"
   tweetId: "{{ note.tweet | getTwitterId }}"
   replyTo: "{{ note.reply_to }}"
+  thread: "{{ note.thread }}"
   permalink: "note/{{ note.id }}/"
 ---
 

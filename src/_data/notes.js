@@ -137,7 +137,7 @@ module.exports = async function () {
     // TODO: only process these for published notes
     await updateReddit(notion, newData, 'note');
     await updateTweet(notion, newData, 'note');
-    await updateReplyTo(notion, newData, "note");
+    // await updateReplyTo(notion, newData, "note");
 
     return processAndReturn(newData);
 };

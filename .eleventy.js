@@ -12,6 +12,8 @@ const shortcodes = require('./src/_11ty/shortcodes');
 const pairedShortcodes = require('./src/_11ty/pairedShortcodes');
 const asyncShortcodes = require('./src/_11ty/asyncShortcodes');
 const {anyEmbed, figure, blur, tweet} = require('./src/_11ty/asyncShortcodes');
+const {updateReplyToByThreadStartNotion} = require('./src/_11ty/notionHelpers');
+
 const cheerio = require("cheerio");
 
 function hasBodyTag(content) {
@@ -159,7 +161,7 @@ module.exports = function(eleventyConfig) {
     const notes = collection.getFilteredByTag('note');
     const all = [...posts, ...notes];
 
-    return all.sort(function (a, b) {
+    const sorted = all.sort(function (a, b) {
       const timeA = a.data.created_date
         ? a.data.created_date.getTime()
         : 0;
@@ -177,6 +179,10 @@ module.exports = function(eleventyConfig) {
 
       return timeA - timeB;
     });
+
+    const updated = updateReplyToByThreadStartNotion(sorted);
+
+    return updated;
   });
 
   // Create an array of all tags

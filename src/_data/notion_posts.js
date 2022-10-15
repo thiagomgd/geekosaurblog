@@ -116,7 +116,7 @@ function showPost(data) {
 function filterDrafts(posts) {
     const isDevEnv = process.env.ELEVENTY_ENV === "development";
 
-    if (isDevEnv) return Object.values(posts);
+    // if (isDevEnv) return Object.values(posts);
 
     return Object.values(posts).filter(post => showPost(post) === true);
 }
@@ -135,7 +135,7 @@ module.exports = async function () {
     console.log(">>> Checking for new posts...");
     const newPosts = await fetchPosts(cache.lastFetched);
 
-    console.log(newPosts);
+    // console.log(newPosts);
     // maybe update reddit/twitter here
     // if (!newPosts) {
     //     return filterDrafts(cache.data);
@@ -155,7 +155,7 @@ module.exports = async function () {
     // TODO: only process these for published notes
     await updateReddit(notion, newData, 'post');
     await updateTweet(notion, newData, 'post');
-    await updateReplyTo(notion, newData, "post");
+    // await updateReplyTo(notion, newData, "post");
 
     return filterDrafts(newData);
 };

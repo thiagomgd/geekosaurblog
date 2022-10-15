@@ -5,6 +5,11 @@ const fetch = require("node-fetch");
 const {intersection} = require("lodash/array");
 
 const metadata = require("../_data/metadata.json");
+
+const {Client} = require("@notionhq/client");
+
+const TOKEN = process.env.NOTION_API_KEY;
+
 const TWITTER_TOKEN = process.env.TWITTER_API_KEY;
 
 // const getLocalImages = async (note, property = "Images", folder) => {
@@ -271,6 +276,7 @@ function lessThanSevenDays(postDate) {
     const date2 = luxon.DateTime.fromISO(postDate);
     const diffDays = today.diff(date2, "days").toObject().days;
 
+
     // console.log(
     //   "date diff",
     //   // today,
@@ -315,7 +321,7 @@ async function updateTweet(notion, posts, type) {
     });
 }
 
-function getPreviousPost(newPost, posts) {
+function getPreviousPostByTag(newPost, posts) {
     const tagsToUse = intersection(metadata.twitter_reply_to, newPost.tags);
     if (!tagsToUse || !tagsToUse.length) return undefined;
 
@@ -327,6 +333,20 @@ function getPreviousPost(newPost, posts) {
         }
     }
 
+    return undefined;
+}
+
+function getPreviousPostByThread(newPost, posts) {
+    const thread = newPost.data.thread;
+
+    if (!thread) return undefined;
+ 
+    for (const post of posts) {
+        if (post.data.tweetId && post.data.thread === thread) {
+            return post;
+        }
+    }
+    
     return undefined;
 }
 
@@ -366,28 +386,73 @@ function postDictToOrderedArray(posts, type) {
 }
 
 // to-do: make it possibly to use other fields as reply-to (mastodon, blog post url, etc)
-async function updateReplyTo(notion, posts, type) {
-    if (!TWITTER_TOKEN || process.env.ELEVENTY_ENV === "development") return;
+// async function updateReplyToByTag(notion, posts, type) {
+//     if (!TWITTER_TOKEN || process.env.ELEVENTY_ENV === "development") return;
 
-    const toUpdate = Object.values(posts).filter((post) => {
-        return !post.reply_to && lessThanSevenDays(post.date_published || post.created_time);
-    });
+//     const toUpdate = Object.values(posts).filter((post) => {
+//         return !post.reply_to && lessThanSevenDays(post.date_published || post.created_time);
+//     });
 
-    // console.debug("!!!!!!!",type, toUpdate);
+//     // console.debug("!!!!!!!",type, toUpdate);
 
-    if (toUpdate.length === 0) return;
+//     if (toUpdate.length === 0) return;
 
-    const postsArray = postDictToOrderedArray(posts, type);
-    // toUpdate.forEach(async (post) => {
-    for (let post of toUpdate) {
-        const previousPost = getPreviousPost(post, postsArray);
+//     const postsArray = postDictToOrderedArray(posts, type);
+//     // toUpdate.forEach(async (post) => {
+//     for (let post of toUpdate) {
+//         const previousPost = getPreviousPost(post, postsArray);
 
-        if (!previousPost) break;
+//         if (!previousPost) break;
 
-        await updateNotion(notion, post.id, {"Reply To": previousPost.tweet});
+//         await updateNotion(notion, post.id, {"Reply To": previousPost.tweet});
 
-        posts[post.id].reply_to = previousPost.tweet;
+//         posts[post.id].reply_to = previousPost.tweet;
+//     }
+// }
+
+function updateReplyToByThread(notion, posts) {
+    // if (!TWITTER_TOKEN || process.env.ELEVENTY_ENV === "development") return;
+
+    // TODO: instead of filter, use for loop to avoid processing old posts
+    // const toUpdate = Object.values(posts).filter((post) => {
+    //     return !post.data.reply_to && post.data.thread && ;
+    // });
+
+    // const toUpdate = [{}];
+    // console.debug("LAST POST", posts[posts.length - 1]);
+    // console.debug("!!!!!!! To Update", toUpdate);
+    
+    // console.log("!!!!!!", posts[posts.length - 1].data.repl ,lessThanSevenDays(posts[posts.length - 1].data.created_time));
+    // if (toUpdate.length === 0) return;
+
+    for (let i = posts.length-1; i >= 0 ; i--) {
+        const post = posts[i];
+
+        const less7days = lessThanSevenDays(post.data.date_published || post.data.created_time);
+
+        if (!less7days) break;
+
+        if (post.data.reply_to || !post.data.thread) continue;
+
+        const previousPost = getPreviousPostByThread(post, posts);
+        // console.log("PREVIOUS POST", previousPost.data.title);
+        if (!previousPost) continue;
+
+        const id = post.data.notion_post?.id || post.data.note?.id;
+        const tweet = previousPost.data.notion_post?.tweet || previousPost.data.note?.tweet;
+
+        updateNotion(notion, id, {"Reply To": tweet});
+
+        // posts[post.id].reply_to = tweet;
+        posts[i].data.replyTo = tweet;
     }
+
+    return posts;
+}
+
+function updateReplyToByThreadStartNotion(posts) {
+    const notion = new Client({auth: TOKEN});
+    return updateReplyToByThread(notion, posts);
 }
 
 module.exports = {
@@ -396,5 +461,6 @@ module.exports = {
     // getLocalImages,
     updateTweet,
     updateReddit,
-    updateReplyTo
+    updateReplyToByThread,
+    updateReplyToByThreadStartNotion
 };
