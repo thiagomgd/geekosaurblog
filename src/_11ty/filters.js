@@ -180,5 +180,13 @@ module.exports = {
     return [sorted[0], {title:"..."}, sorted[sorted.length - 2], sorted[sorted.length - 1]];
 
 
+  },
+  getSeriesPosts: (seriesArray, seriesTitle) =>{
+    for (const series of seriesArray) {
+      if (series.title === seriesTitle) {
+        return series.posts;
+      }
+    }
+    return [];
   }
 };

@@ -6,7 +6,7 @@ date: 2020-12-13T21:04:57-08:00
 draft: false
 tags: ["Foreign"]
 categories: ["Movies & TV"]
-series: ["Foreign Language"]
+series: "Foreign Language"
 images: ["https://i.imgur.com/MzfQL2Y.jpg"]
 reddit: https://www.reddit.com/r/geekosaur/comments/kcrjpo/which_foreign_language_shows_and_movies_do_you/
 tweetId: "1338355311472623620"

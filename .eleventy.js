@@ -202,52 +202,55 @@ module.exports = function(eleventyConfig) {
   
     // this will store the mapping from series to lists of posts; it can be a
     // regular object if you prefer
-    const mapping = new Map();
+    const dict = new Object();
   
     // loop over the posts
     for (const post of posts) {
       // get any series data for the current post, and store the date for later
-      const { series, seriesDescription, date } = post.data;
+      const { series, date } = post.data;
   
       // ignore anything with no series data
-      if (series === undefined) {
+      // if (series === undefined) {
+      if (!series) {
         continue;
       }
   
       // if we haven’t seen this series before, create a new entry in the mapping
       // (i.e. take the description from the first post we encounter)
-      if (!mapping.has(series)) {
-        mapping.set(series, {
+      if (!dict[series]) {
+        dict[series] = {
+          title: series,
           posts: [],
-          description: seriesDescription,
-          date,
-        });
+          // description: seriesDescription,
+        };
       }
   
       // get the entry for this series
-      const existing = mapping.get(series);
+      const existing = dict[series];
   
       // add the current post to the list
-      existing.posts.push(post.url);
+      existing.posts.push({url: post.url, title: post.data.title, date: post.data.date});
   
       // update the date so we always have the date from the latest post
-      existing.date = date;
+      // existing.date = date;
     }
   
     // now to collect series containing more than one post as an array that
     // Eleventy can paginate
     const normalized = [];
   
-    // loop over the mapping (`k` is the series title)
-    for (const [k, { posts, description, date }] of mapping.entries()) {
-      // if (posts.length > 1) {
+    for (const key in dict) {
+      // console.debug(dict[key]);
+      seriesDict = dict[key];
+      if (seriesDict.posts.length > 1) {
         // add any series with multiple posts to the new array
-        normalized.push({ title: k, posts, description, date });
-      // }
+        normalized.push({ title: seriesDict.title, posts: seriesDict.posts, slug: eleventyConfig.getFilter("slugify")(seriesDict.title) });
+      }
     }
   
     // return the array
     return normalized;
+    // return mapping;
   });
 
   eleventyConfig.addTransform('replace-special-links', async function(content){

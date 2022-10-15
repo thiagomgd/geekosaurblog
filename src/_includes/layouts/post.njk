@@ -68,6 +68,11 @@ templateClass: tmpl-post
   <hr />
     <div id="series-footer">
       <p>This is a post in the <b>{{ series }}</b> series.</p>
+      <ul>
+      {% for seriesPost in collections.series | getSeriesPosts(series) | reverse %}
+      <li><a href="{{ seriesPost.url }}">{{ seriesPost.title }}</a></li>
+      {% endfor %}
+      </ul>
     </div>    
   {% endif %}
 

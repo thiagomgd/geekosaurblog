@@ -5,7 +5,7 @@ date: 2020-12-18T21:26:04-08:00
 draft: false
 tags: ["Foreign Language"]
 categories: ["Movies & TV"]
-series: ["Foreign Language"]
+series: "Foreign Language"
 thumbnail: "https://i.imgur.com/desgj4S.jpg"
 reddit: https://www.reddit.com/r/geekosaur/comments/kg252x/paranormal_supernatural_mystery_from_egypt/
 tweetId: "1340169407851446274"

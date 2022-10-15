@@ -116,7 +116,7 @@ function showPost(data) {
 function filterDrafts(posts) {
     const isDevEnv = process.env.ELEVENTY_ENV === "development";
 
-    // if (isDevEnv) return Object.values(posts);
+    if (isDevEnv) return Object.values(posts);
 
     return Object.values(posts).filter(post => showPost(post) === true);
 }
