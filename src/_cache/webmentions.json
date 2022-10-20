@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-10-15T01:52:49.404Z",
+  "lastFetched": "2022-10-20T04:24:58.662Z",
   "children": [
     {
       "type": "entry",
@@ -5592,6 +5592,103 @@
       "wm-source": "https://brid.gy/like/mastodon/@falcon@mastodon.social/109129988570402020/108226627507427162",
       "wm-target": "https://geekosaur.com/note/231cbafa-09d4-4b8c-a15e-33a4c960b569/",
       "like-of": "https://geekosaur.com/note/231cbafa-09d4-4b8c-a15e-33a4c960b569/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Shawn Holmes",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/7f85050db93bce642e5c7fa5555181a877195eb4c46564037eb494f28e2d0b58.jpg",
+        "url": "https://twitter.com/Hanzo55"
+      },
+      "url": "https://twitter.com/geeko_saur/status/1581421825984454657#favorited-by-34945729",
+      "published": null,
+      "wm-received": "2022-10-16T07:08:24Z",
+      "wm-id": 1539745,
+      "wm-source": "https://brid.gy/like/twitter/geeko_saur/1581421825984454657/34945729",
+      "wm-target": "https://geekosaur.com/post/urusei-yatsura-episode1-review/",
+      "like-of": "https://geekosaur.com/post/urusei-yatsura-episode1-review/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Shawn Holmes",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/7f85050db93bce642e5c7fa5555181a877195eb4c46564037eb494f28e2d0b58.jpg",
+        "url": "https://twitter.com/Hanzo55"
+      },
+      "url": "https://twitter.com/Hanzo55/status/1581507597747646465",
+      "published": "2022-10-16T04:49:28+00:00",
+      "wm-received": "2022-10-16T07:08:23Z",
+      "wm-id": 1539744,
+      "wm-source": "https://brid.gy/comment/twitter/geeko_saur/1581421825984454657/1581507597747646465",
+      "wm-target": "https://geekosaur.com/post/urusei-yatsura-episode1-review/",
+      "content": {
+        "html": "Rumiko Takahashi 4 life\n<a class=\"u-mention\" href=\"https://geekosaur.com/\"></a>\n<a class=\"u-mention\" href=\"https://twitter.com/geeko_saur\"></a>",
+        "text": "Rumiko Takahashi 4 life"
+      },
+      "in-reply-to": "https://geekosaur.com/post/urusei-yatsura-episode1-review/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "🎃Matheus N – 誕生の神贈👻",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/f035f700cc14c7005a156465015b71aade484caad4582b17b0612584b1e8cdcc.jpg",
+        "url": "https://twitter.com/tanjounokamioku"
+      },
+      "url": "https://twitter.com/tanjounokamioku/status/1581458587234148352",
+      "published": "2022-10-16T01:34:43+00:00",
+      "wm-received": "2022-10-16T02:19:33Z",
+      "wm-id": 1539676,
+      "wm-source": "https://brid.gy/repost/twitter/geeko_saur/1581421825984454657/1581458587234148352",
+      "wm-target": "https://geekosaur.com/post/urusei-yatsura-episode1-review/",
+      "content": {
+        "text": "First episode of Urusei Yatsura was GREAT! Check out my impressions and some images geekosaur.com/post/urusei-ya…"
+      },
+      "repost-of": "https://geekosaur.com/post/urusei-yatsura-episode1-review/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon | Master of Muppets 🍥",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/589649ba575d2fc1a890f6a5f02482585484b78635d720f9612c5888d647edcb.jpg",
+        "url": "https://twitter.com/geeko_saur"
+      },
+      "url": "https://twitter.com/geeko_saur/status/1581421825984454657#favorited-by-1835848723",
+      "published": null,
+      "wm-received": "2022-10-16T02:19:32Z",
+      "wm-id": 1539675,
+      "wm-source": "https://brid.gy/like/twitter/geeko_saur/1581421825984454657/1835848723",
+      "wm-target": "https://geekosaur.com/post/urusei-yatsura-episode1-review/",
+      "like-of": "https://geekosaur.com/post/urusei-yatsura-episode1-review/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "🎃Matheus N – 誕生の神贈👻",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/f035f700cc14c7005a156465015b71aade484caad4582b17b0612584b1e8cdcc.jpg",
+        "url": "https://twitter.com/tanjounokamioku"
+      },
+      "url": "https://twitter.com/geeko_saur/status/1581421825984454657#favorited-by-1306039770385199104",
+      "published": null,
+      "wm-received": "2022-10-16T02:19:30Z",
+      "wm-id": 1539674,
+      "wm-source": "https://brid.gy/like/twitter/geeko_saur/1581421825984454657/1306039770385199104",
+      "wm-target": "https://geekosaur.com/post/urusei-yatsura-episode1-review/",
+      "like-of": "https://geekosaur.com/post/urusei-yatsura-episode1-review/",
       "wm-property": "like-of",
       "wm-private": false
     }

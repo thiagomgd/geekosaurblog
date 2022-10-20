@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-10-15T01:52:48.580Z",
+  "lastFetched": "2022-10-20T04:24:57.823Z",
   "data": {
     "00aa3093-e352-43d6-8604-ca5a7d8f518a": {
       "id": "00aa3093-e352-43d6-8604-ca5a7d8f518a",
@@ -641,6 +641,27 @@
       "embed": null,
       "title": "Read Delicious In Dungeon 7",
       "content": "\nToday I finished Delicious In Dungeon Vol. 7. This is such a cool manga series that I started reading back when I was in Toronto. \n\n\nThis volume was really cool, and we learn quite a bit about the lunatic magician, the dungeon, and Senshi. That last chapter was just awesome.\n\n"
+    },
+    "65968750-57c8-40f3-b0b1-8a1cc54de011": {
+      "id": "65968750-57c8-40f3-b0b1-8a1cc54de011",
+      "created_time": "2022-10-17T06:12:00.000Z",
+      "last_edited_time": "2022-10-19T17:32:00.000Z",
+      "cover": null,
+      "icon": null,
+      "format": "",
+      "tags": [
+        "German"
+      ],
+      "thread": "german studies",
+      "images": [
+        "/img/notion/65968750-57c8-40f3-b0b1-8a1cc54de011/1eRiGBRgOI-1170.jpeg"
+      ],
+      "tweet": "https://twitter.com/geeko_saur/status/1581904963303002113",
+      "reddit": "https://www.reddit.com/r/geekosaur/comments/y64l0p/german_progress/",
+      "reply_to": "https://twitter.com/geeko_saur/status/1581904963303002113",
+      "embed": null,
+      "title": "German progress",
+      "content": "\nAfter a couple months, finally back to it\n\n"
     }
   }
 }
