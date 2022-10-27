@@ -1,14 +1,37 @@
 {
-  "lastFetched": "2022-10-20T04:24:57.027Z",
+  "lastFetched": "2022-10-25T21:31:50.947Z",
   "data": {
+    "8fc9dd85-da28-4d6a-b0ba-54b69a3a90a4": {
+      "title": "Nevermoor: The Trials of Morrigan Crow (Nevermoor, #1)",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538382376l/37946448._SX318_.jpg"
+      ],
+      "rating": 4,
+      "tier": "",
+      "review": null,
+      "date_read": "2022-09-25T00:00:00.000-07:00",
+      "year_read": 2022
+    },
     "db144dab-d2f3-4f6d-8e2e-781b194046f5": {
       "title": "Nightfall (Keeper of the Lost Cities, #6)",
       "cover": [
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492561388l/34884513._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2022-08-31T00:00:00.000-07:00",
+      "year_read": 2022
+    },
+    "1bc41b14-02bd-4cde-922c-fbc3b6692a3d": {
+      "title": "Flashback (Keeper of the Lost Cities #7)",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524661286l/39941913._SY475_.jpg"
+      ],
+      "rating": 4,
+      "tier": "",
+      "review": null,
+      "date_read": "2022-09-15T00:00:00.000-07:00",
       "year_read": 2022
     },
     "194b52ed-2678-4b6d-a94b-6d6754198dc7": {
@@ -17,6 +40,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621454828l/57917042.jpg"
       ],
       "rating": 4,
+      "tier": "B",
       "review": null,
       "date_read": "2022-06-05T00:00:00.000-07:00",
       "year_read": 2022
@@ -27,6 +51,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652810307l/60174385.jpg"
       ],
       "rating": 4,
+      "tier": "A",
       "review": null,
       "date_read": "2022-06-13T00:00:00.000-07:00",
       "year_read": 2022
@@ -37,6 +62,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576549587l/8680045.jpg"
       ],
       "rating": 4,
+      "tier": "B",
       "review": null,
       "date_read": "2022-05-04T00:00:00.000-07:00",
       "year_read": 2022
@@ -47,6 +73,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526389901l/38186306.jpg"
       ],
       "rating": 4,
+      "tier": "A",
       "review": null,
       "date_read": "2022-02-21T00:00:00.000-08:00",
       "year_read": 2022
@@ -57,6 +84,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497054666l/35396763._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "B",
       "review": null,
       "date_read": "2022-07-17T00:00:00.000-07:00",
       "year_read": 2022
@@ -67,6 +95,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590613361l/53510316._SY475_.jpg"
       ],
       "rating": 5,
+      "tier": "A",
       "review": "https://geekosaur.com/post/book-notes-wool-silo-1/",
       "date_read": "2022-01-03T00:00:00.000-08:00",
       "year_read": 2022
@@ -77,6 +106,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590614893l/53513162._SY475_.jpg"
       ],
       "rating": 5,
+      "tier": "A",
       "review": "https://geekosaur.com/post/book-notes-shift-hugh-howey/",
       "date_read": "2022-01-23T00:00:00.000-08:00",
       "year_read": 2022
@@ -87,6 +117,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1599828431l/53533469._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "A",
       "review": null,
       "date_read": "2022-02-15T00:00:00.000-08:00",
       "year_read": 2022
@@ -97,6 +128,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576549278l/6527661._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "B",
       "review": null,
       "date_read": "2021-12-03T00:00:00.000-08:00",
       "year_read": 2021
@@ -107,6 +139,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633552562l/57810940._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "A",
       "review": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
       "date_read": "2021-11-10T00:00:00.000-08:00",
       "year_read": 2021
@@ -117,6 +150,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388176967l/115921.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "date_read": "2013-01-01T00:00:00.000-08:00",
       "year_read": 2013
@@ -127,6 +161,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442024605l/1036448._SX318_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -136,6 +171,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298411339l/34.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -145,6 +181,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519031842l/102868._SX318_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -154,6 +191,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440169210l/3764._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -163,6 +201,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334279051l/284440.jpg"
       ],
       "rating": 5,
+      "tier": "S",
       "review": null,
       "year_read": 0
     },
@@ -172,6 +211,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347680563l/4893390.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -181,6 +221,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348429914l/7261549.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -190,6 +231,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407111017l/34497.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "date_read": "2013-01-01T00:00:00.000-08:00",
       "year_read": 2013
@@ -200,6 +242,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328867406l/6365761.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -209,6 +252,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311394238l/6697731.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -218,6 +262,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525254083l/6122535._SX318_.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -227,6 +272,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341606410l/15739412.jpg"
       ],
       "rating": 3,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -236,6 +282,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347589231l/6669831.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -245,6 +292,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487038502l/17741057._SX318_.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -254,6 +302,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401086857l/533824.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -263,6 +312,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328867793l/125564.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -272,6 +322,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390767495l/125538.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -281,6 +332,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401086217l/72388.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -290,6 +342,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388196304l/8730413.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2013-08-20T00:00:00.000-07:00",
       "year_read": 2013
@@ -300,6 +353,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1271550377l/1123376.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "date_read": "2013-01-01T00:00:00.000-08:00",
       "year_read": 2013
@@ -310,6 +364,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388767199l/10744247.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2013-11-06T00:00:00.000-08:00",
       "year_read": 2013
@@ -320,6 +375,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374606571l/18231728.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -329,6 +385,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320389070l/3043533.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2014-03-03T00:00:00.000-08:00",
       "year_read": 2014
@@ -339,6 +396,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361750062l/17333402.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2014-03-10T00:00:00.000-07:00",
       "year_read": 2014
@@ -349,6 +407,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356629059l/17184962.jpg"
       ],
       "rating": 4,
+      "tier": "A",
       "review": null,
       "year_read": 0
     },
@@ -358,6 +417,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572898744l/1538632.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -367,6 +427,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327721138l/12259507.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2014-03-28T00:00:00.000-07:00",
       "year_read": 2014
@@ -377,6 +438,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630876355l/3950967._SX318_.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -386,6 +448,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039438l/1162543._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -395,6 +458,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348894006l/7057830.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2014-06-17T00:00:00.000-07:00",
       "year_read": 2014
@@ -405,6 +469,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438455232l/10052680._SY475_.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "date_read": "2014-07-19T00:00:00.000-07:00",
       "year_read": 2014
@@ -415,6 +480,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328308220l/10253721.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2014-07-09T00:00:00.000-07:00",
       "year_read": 2014
@@ -425,6 +491,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335967954l/13533650.jpg"
       ],
       "rating": 5,
+      "tier": "A",
       "review": "https://geekosaur.com/post/review-the-assassins-curse-duology/",
       "date_read": "2014-08-14T00:00:00.000-07:00",
       "year_read": 2014
@@ -435,6 +502,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352903412l/15714476.jpg"
       ],
       "rating": 4,
+      "tier": "A",
       "review": "https://geekosaur.com/post/review-the-assassins-curse-duology/",
       "date_read": "2014-08-29T00:00:00.000-07:00",
       "year_read": 2014
@@ -445,6 +513,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360274019l/17340102.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2015-01-06T00:00:00.000-08:00",
       "year_read": 2015
@@ -455,6 +524,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386920349l/37039.jpg"
       ],
       "rating": 3,
+      "tier": "",
       "review": null,
       "date_read": "2014-02-24T00:00:00.000-08:00",
       "year_read": 2014
@@ -465,6 +535,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476435403l/76664._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2015-01-01T00:00:00.000-08:00",
       "year_read": 2015
@@ -475,6 +546,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1306857065l/11505074.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2015-04-24T00:00:00.000-07:00",
       "year_read": 2015
@@ -485,6 +557,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328367583l/7548999.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2015-05-02T00:00:00.000-07:00",
       "year_read": 2015
@@ -495,6 +568,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373862448l/18195033.jpg"
       ],
       "rating": 5,
+      "tier": "A",
       "review": "https://geekosaur.com/post/hard-magic-larry-correia/",
       "date_read": "2015-05-17T00:00:00.000-07:00",
       "year_read": 2015
@@ -505,6 +579,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327498048l/1014769.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2015-06-17T00:00:00.000-07:00",
       "year_read": 2015
@@ -515,6 +590,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328330842l/6609349.jpg"
       ],
       "rating": 4,
+      "tier": "B",
       "review": null,
       "date_read": "2015-06-26T00:00:00.000-07:00",
       "year_read": 2015
@@ -525,6 +601,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328368761l/4902745.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "date_read": "2015-09-15T00:00:00.000-07:00",
       "year_read": 2015
@@ -535,6 +612,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388700698l/6240179.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2015-10-01T00:00:00.000-07:00",
       "year_read": 2015
@@ -545,6 +623,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347731265l/6258849.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2015-10-13T00:00:00.000-07:00",
       "year_read": 2015
@@ -555,6 +634,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421008999l/22521563.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2015-10-25T00:00:00.000-07:00",
       "year_read": 2015
@@ -565,6 +645,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340904653l/6483360.jpg"
       ],
       "rating": 5,
+      "tier": "A",
       "review": null,
       "date_read": "2016-01-12T00:00:00.000-08:00",
       "year_read": 2016
@@ -575,6 +656,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389733809l/16319.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2016-02-05T00:00:00.000-08:00",
       "year_read": 2016
@@ -585,6 +667,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427686162l/25247713.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "date_read": "2016-02-10T00:00:00.000-08:00",
       "year_read": 2016
@@ -595,6 +678,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436112982l/25105267._SY475_.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "date_read": "2016-02-26T00:00:00.000-08:00",
       "year_read": 2016
@@ -605,6 +689,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342165974l/13534499.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2015-03-20T00:00:00.000-07:00",
       "year_read": 2015
@@ -615,6 +700,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413606365l/23390460._SX318_SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2016-04-17T00:00:00.000-07:00",
       "year_read": 2016
@@ -625,6 +711,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385191227l/18899915.jpg"
       ],
       "rating": 5,
+      "tier": "A",
       "review": null,
       "date_read": "2016-04-26T00:00:00.000-07:00",
       "year_read": 2016
@@ -635,6 +722,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396227246l/16341.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2016-05-04T00:00:00.000-07:00",
       "year_read": 2016
@@ -645,6 +733,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440355386l/26152087._SX318_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2016-05-25T00:00:00.000-07:00",
       "year_read": 2016
@@ -655,6 +744,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338912184l/5415684.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -664,6 +754,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348508635l/16298.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "date_read": "2016-06-13T00:00:00.000-07:00",
       "year_read": 2016
@@ -674,6 +765,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328318650l/8232838.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2016-08-15T00:00:00.000-07:00",
       "year_read": 2016
@@ -684,6 +776,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351802755l/16122731.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -693,6 +786,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351802490l/16122727.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -702,6 +796,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333026872l/11432885.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -711,6 +806,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333135792l/11432953.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -720,6 +816,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364266820l/11459185.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -729,6 +826,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333032019l/11459279.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -738,6 +836,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333138270l/11836205.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -747,6 +846,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333137781l/11607200.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -756,6 +856,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -765,6 +866,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364241792l/11432943.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -774,6 +876,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364243134l/11437357.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -783,6 +886,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364245062l/11437390.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -792,6 +896,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364245753l/11437414.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -801,6 +906,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364246926l/11437424.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -810,6 +916,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364247842l/11459117.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -819,6 +926,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364248975l/11459145.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -828,6 +936,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364265784l/11459170.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -837,6 +946,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364505916l/11459229.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -846,6 +956,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364507451l/11459243.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -855,6 +966,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -864,6 +976,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364336028l/11459205.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -873,6 +986,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -882,6 +996,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -891,6 +1006,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -900,6 +1016,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -909,6 +1026,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -918,6 +1036,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -927,6 +1046,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -936,6 +1056,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -945,6 +1066,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364516705l/11686749.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -954,6 +1076,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -963,6 +1086,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -972,6 +1096,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -981,6 +1106,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -990,6 +1116,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -999,6 +1126,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1008,6 +1136,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1017,6 +1146,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472305976l/11432933.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1026,6 +1156,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459310724l/29739845.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2016-09-08T00:00:00.000-07:00",
       "year_read": 2016
@@ -1036,6 +1167,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401672190l/7114817.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2016-09-28T00:00:00.000-07:00",
       "year_read": 2016
@@ -1046,6 +1178,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367831259l/16088359.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "date_read": "2016-10-08T00:00:00.000-07:00",
       "year_read": 2016
@@ -1056,6 +1189,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364508850l/11459248.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1065,6 +1199,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407138050l/18689563.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2016-11-24T00:00:00.000-08:00",
       "year_read": 2016
@@ -1075,6 +1210,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474405912l/32149774._SX318_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2016-12-20T00:00:00.000-08:00",
       "year_read": 2016
@@ -1085,6 +1221,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438581582l/23846400._SX318_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2017-01-06T00:00:00.000-08:00",
       "year_read": 2017
@@ -1095,6 +1232,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408561477l/23003390.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2017-05-11T00:00:00.000-07:00",
       "year_read": 2017
@@ -1105,6 +1243,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473347850l/27415418._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": "https://geekosaur.com/post/review-my-youth-romantic-comedy-is-wrong-as-i-expected-vol.-1/",
       "year_read": 0
     },
@@ -1114,6 +1253,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578715612l/6488124._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2018-02-20T00:00:00.000-08:00",
       "year_read": 2018
@@ -1124,6 +1264,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530732949l/35224983._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2018-02-27T00:00:00.000-08:00",
       "year_read": 2018
@@ -1134,6 +1275,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456469121l/29342832._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2018-06-13T00:00:00.000-07:00",
       "year_read": 2018
@@ -1144,6 +1286,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359402972l/16130317.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "date_read": "2016-05-18T00:00:00.000-07:00",
       "year_read": 2016
@@ -1154,6 +1297,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394651947l/18972106.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2018-08-23T00:00:00.000-07:00",
       "year_read": 2018
@@ -1164,6 +1308,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438536199l/11459422._SY475_.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1173,6 +1318,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521833409l/39356502._SX318_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2018-09-12T00:00:00.000-07:00",
       "year_read": 2018
@@ -1183,6 +1329,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441475165l/24366398._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2018-10-22T00:00:00.000-07:00",
       "year_read": 2018
@@ -1193,6 +1340,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438024420l/25992468._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": "https://geekosaur.com/post/review-salvage-trouble/",
       "date_read": "2018-05-11T00:00:00.000-07:00",
       "year_read": 2018
@@ -1203,6 +1351,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504599398l/32075854._SY475_.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "date_read": "2018-11-22T00:00:00.000-08:00",
       "year_read": 2018
@@ -1213,6 +1362,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532068199l/40880076.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2018-11-28T00:00:00.000-08:00",
       "year_read": 2018
@@ -1223,6 +1373,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438864184l/25497034._SX318_.jpg"
       ],
       "rating": 3,
+      "tier": "",
       "review": null,
       "date_read": "2017-07-11T00:00:00.000-07:00",
       "year_read": 2017
@@ -1233,6 +1384,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478364240l/32877317._SX318_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2018-12-12T00:00:00.000-08:00",
       "year_read": 2018
@@ -1243,6 +1395,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426139323l/15815762.jpg"
       ],
       "rating": 3,
+      "tier": "",
       "review": null,
       "date_read": "2022-03-31T00:00:00.000-07:00",
       "year_read": 2022
@@ -1253,6 +1406,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519176110l/38668326._SX318_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2019-02-02T00:00:00.000-08:00",
       "year_read": 2019
@@ -1263,6 +1417,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532411278l/40934172._SX318_.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "date_read": "2019-05-04T00:00:00.000-07:00",
       "year_read": 2019
@@ -1273,6 +1428,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551760712l/44279081._SX318_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2019-10-09T00:00:00.000-07:00",
       "year_read": 2019
@@ -1283,6 +1439,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560949178l/50125881._SX318_SY475_.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "date_read": "2019-09-12T00:00:00.000-07:00",
       "year_read": 2019
@@ -1293,6 +1450,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579186079l/7021986._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2020-02-20T00:00:00.000-08:00",
       "year_read": 2020
@@ -1303,6 +1461,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567515610l/50138533._SX318_SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2020-03-08T00:00:00.000-08:00",
       "year_read": 2020
@@ -1313,6 +1472,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333137304l/11437374.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1322,6 +1482,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1331,6 +1492,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333295721l/13054379.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "date_read": "2020-09-30T00:00:00.000-07:00",
       "year_read": 2020
@@ -1341,6 +1503,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394861535l/21463939.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "date_read": "2020-10-28T00:00:00.000-07:00",
       "year_read": 2020
@@ -1351,6 +1514,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1592299428l/52873094._SY475_.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "date_read": "2020-11-17T00:00:00.000-08:00",
       "year_read": 2020
@@ -1361,6 +1525,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534675102l/36919462.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": "https://geekosaur.com/post/book-review-the-word-is-murder-by-anthony-horowitz/",
       "date_read": "2021-01-02T00:00:00.000-08:00",
       "year_read": 2021
@@ -1371,6 +1536,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517908400l/38369361._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2021-01-25T00:00:00.000-08:00",
       "year_read": 2021
@@ -1381,6 +1547,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1596974522l/50892339.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "date_read": "2021-02-12T00:00:00.000-08:00",
       "year_read": 2021
@@ -1391,6 +1558,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514489676l/37760729._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": "https://geekosaur.com/post/finished-the-dragon-lords-books/",
       "date_read": "2021-04-03T00:00:00.000-07:00",
       "year_read": 2021
@@ -1401,6 +1569,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618150513l/55711529.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "date_read": "2022-05-22T00:00:00.000-07:00",
       "year_read": 2022
@@ -1411,6 +1580,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545328996l/43297807._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2013-07-25T00:00:00.000-07:00",
       "year_read": 2013
@@ -1421,6 +1591,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327862741l/8195411.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2010-12-05T00:00:00.000-08:00",
       "year_read": 2010
@@ -1431,6 +1602,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552850673l/17706175.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1440,6 +1612,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1203872931l/2889318.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1449,6 +1622,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433985218l/25706197._SY475_.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1458,6 +1632,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365290947l/17735994.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1467,6 +1642,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325888276l/1907452._SX318_SY475_.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1476,6 +1652,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420057754l/72196.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1485,6 +1662,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372734137l/173689.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1494,6 +1672,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293506395l/4612648.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1503,6 +1682,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293506120l/1883483.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1512,6 +1692,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325893947l/424009.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1521,6 +1702,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293505848l/380438.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1530,6 +1712,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373355804l/4591352.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1539,6 +1722,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373357004l/6260801.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1548,6 +1732,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373356700l/6260802.jpg"
       ],
       "rating": 3,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1557,6 +1742,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453253533l/28628142.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1566,6 +1752,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330724019l/177209.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1575,6 +1762,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1264369524l/7449700.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1584,6 +1772,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390603199l/5968196.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1593,6 +1782,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1292507056l/7833822.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1602,6 +1792,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454790230l/28948799._SX318_.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1611,6 +1802,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373177384l/72389.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1620,6 +1812,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1629,6 +1822,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545331887l/43298552._SY475_.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1638,6 +1832,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545332702l/43298614.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1647,6 +1842,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1656,6 +1852,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545328903l/43297796.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1665,6 +1862,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545328821l/43297786._SY475_.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1674,6 +1872,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1683,6 +1882,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545328627l/43297760.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1692,6 +1892,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545328369l/43297736._SY475_.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1701,6 +1902,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372921878l/12068888.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1710,6 +1912,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545317685l/43296647.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1719,6 +1922,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545317582l/43296590.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1728,6 +1932,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356226695l/17162786.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1737,6 +1942,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545317502l/43296526.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1746,6 +1952,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545317390l/43296406.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1755,6 +1962,7 @@
         "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1764,6 +1972,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1218053029l/2641456.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1773,6 +1982,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576628732l/49185974.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2021-05-09T00:00:00.000-07:00",
       "year_read": 2021
@@ -1783,6 +1993,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348059096l/6262397.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2013-01-01T00:00:00.000-08:00",
       "year_read": 2013
@@ -1793,6 +2004,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1225738097l/644671.jpg"
       ],
       "rating": 0,
+      "tier": "",
       "review": null,
       "date_read": "2015-01-01T00:00:00.000-08:00",
       "year_read": 2015
@@ -1803,6 +2015,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534804087l/36518795._SX318_.jpg"
       ],
       "rating": 3,
+      "tier": "",
       "review": null,
       "date_read": "2020-01-01T00:00:00.000-08:00",
       "year_read": 2020
@@ -1813,6 +2026,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327115595l/12608168.jpg"
       ],
       "rating": 3,
+      "tier": "",
       "review": null,
       "date_read": "2019-01-07T00:00:00.000-08:00",
       "year_read": 2019
@@ -1823,6 +2037,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425592816l/24001095._SY475_.jpg"
       ],
       "rating": 3,
+      "tier": "",
       "review": null,
       "date_read": "2017-08-31T00:00:00.000-07:00",
       "year_read": 2017
@@ -1833,6 +2048,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340904731l/6775682.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2017-07-16T00:00:00.000-07:00",
       "year_read": 2017
@@ -1843,6 +2059,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492705368l/34910489._SX318_.jpg"
       ],
       "rating": 3,
+      "tier": "",
       "review": null,
       "date_read": "2017-12-08T00:00:00.000-08:00",
       "year_read": 2017
@@ -1853,6 +2070,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443473815l/25318853.jpg"
       ],
       "rating": 3,
+      "tier": "",
       "review": null,
       "date_read": "2017-03-14T00:00:00.000-07:00",
       "year_read": 2017
@@ -1863,6 +2081,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388468953l/9660102.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2017-02-20T00:00:00.000-08:00",
       "year_read": 2017
@@ -1873,6 +2092,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438116284l/25999334.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2017-01-19T00:00:00.000-08:00",
       "year_read": 2017
@@ -1883,6 +2103,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579185054l/6219313._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2016-07-12T00:00:00.000-07:00",
       "year_read": 2016
@@ -1893,6 +2114,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459643570l/29764230.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2016-06-23T00:00:00.000-07:00",
       "year_read": 2016
@@ -1903,6 +2125,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328302643l/10087981.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2015-08-12T00:00:00.000-07:00",
       "year_read": 2015
@@ -1913,6 +2136,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624876740l/6473195._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2015-08-30T00:00:00.000-07:00",
       "year_read": 2015
@@ -1923,6 +2147,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395286681l/21521161.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2014-04-26T00:00:00.000-07:00",
       "year_read": 2014
@@ -1933,6 +2158,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480110444l/45234.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2016-01-01T00:00:00.000-08:00",
       "year_read": 2016
@@ -1943,6 +2169,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461265712l/29972967._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1952,6 +2179,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438457642l/10021253._SY475_.jpg"
       ],
       "rating": 3,
+      "tier": "",
       "review": null,
       "date_read": "2015-03-19T00:00:00.000-07:00",
       "year_read": 2015
@@ -1962,6 +2190,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381085939l/18631397.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2014-01-01T00:00:00.000-08:00",
       "year_read": 2014
@@ -1972,6 +2201,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392505374l/20816289.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2014-04-10T00:00:00.000-07:00",
       "year_read": 2014
@@ -1982,6 +2212,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390882964l/20644960.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -1991,6 +2222,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457393079l/18620361.jpg"
       ],
       "rating": 3,
+      "tier": "",
       "review": null,
       "date_read": "2015-12-26T00:00:00.000-08:00",
       "year_read": 2015
@@ -2001,6 +2233,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325992079l/13396635.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -2010,6 +2243,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336233088l/6107977.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "year_read": 0
     },
@@ -2019,6 +2253,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393786937l/19083257.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "date_read": "2015-04-15T00:00:00.000-07:00",
       "year_read": 2015
@@ -2029,6 +2264,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428163717l/25103379.jpg"
       ],
       "rating": 3,
+      "tier": "",
       "review": null,
       "date_read": "2018-07-17T00:00:00.000-07:00",
       "year_read": 2018
@@ -2039,6 +2275,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544927994l/43244242._SX318_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2019-04-12T00:00:00.000-07:00",
       "year_read": 2019
@@ -2049,6 +2286,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461559590l/29992974._SX318_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2017-01-20T00:00:00.000-08:00",
       "year_read": 2017
@@ -2059,6 +2297,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478112810l/29370227._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2019-03-18T00:00:00.000-07:00",
       "year_read": 2019
@@ -2069,6 +2308,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465760514l/27415414.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2018-07-01T00:00:00.000-07:00",
       "year_read": 2018
@@ -2079,6 +2319,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487999019l/34390698._SX318_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2019-01-20T00:00:00.000-08:00",
       "year_read": 2019
@@ -2089,6 +2330,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585750563l/49004474._SY475_.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2020-04-29T00:00:00.000-07:00",
       "year_read": 2020
@@ -2099,6 +2341,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338038177l/13541180.jpg"
       ],
       "rating": 4,
+      "tier": "",
       "review": null,
       "date_read": "2021-06-16T00:00:00.000-07:00",
       "year_read": 2021
@@ -2109,6 +2352,7 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1596448554l/54798187.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": "https://geekosaur.com/post/later-stephen-king/",
       "date_read": "2021-09-28T00:00:00.000-07:00",
       "year_read": 2021
@@ -2119,19 +2363,10 @@
         "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610382210l/55119872.jpg"
       ],
       "rating": 5,
+      "tier": "",
       "review": null,
       "date_read": "2021-09-08T00:00:00.000-07:00",
       "year_read": 2021
-    },
-    "1bc41b14-02bd-4cde-922c-fbc3b6692a3d": {
-      "title": "Flashback (Keeper of the Lost Cities #7)",
-      "cover": [
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524661286l/39941913._SY475_.jpg"
-      ],
-      "rating": 4,
-      "review": null,
-      "date_read": "2022-09-15T00:00:00.000-07:00",
-      "year_read": 2022
     }
   }
 }

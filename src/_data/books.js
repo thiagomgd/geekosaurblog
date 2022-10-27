@@ -92,6 +92,7 @@ async function fetchBooks(since) {
                 title: newBook["Title"],
                 cover: newBook["Cover"],
                 rating: newBook["My Rating"],
+                tier: newBook["Tier"],
                 review: newBook["Review"],
                 date_read: newBook["Date Read"],
                 year_read: newBook["Date Read"] ? newBook["Date Read"].year : 0,
@@ -104,6 +105,16 @@ async function fetchBooks(since) {
     return null;
 }
 
+const tierOrder = {
+    'S' : 0,
+    'A' : 1,
+    'B' : 2,
+    'C' : 3,
+    'D' : 4,
+    'F' : 5,
+    '' : 999999
+}
+
 function sortBooks(books) {
     const sorted = {}
     const groupedBooks = groupBy(books, "year_read")
@@ -112,8 +123,8 @@ function sortBooks(books) {
         const yearBooks = groupedBooks[year];
         yearBooks.sort((a, b) => {
             // books[year].sort((a, b)=>{
-            if (a.rating !== b.rating) {
-                return b.rating - a.rating;
+            if (a.tier !== b.tier) {
+                return  tierOrder[a.tier ?? ''] - tierOrder[b.tier ?? ''];
             }
 
             if (a.date_read && b.date_read) {

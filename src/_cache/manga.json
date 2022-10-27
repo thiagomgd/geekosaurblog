@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-10-20T04:24:57.365Z",
+  "lastFetched": "2022-10-25T21:31:51.532Z",
   "data": {
     "d967447a-7c41-47b8-882c-f466fe3199f3": {
       "title": "Jujutsu Kaisen 0: Blinding Darkness",
@@ -3522,6 +3522,18 @@
       "volume": 1,
       "date_read": "2021-01-01T00:00:00.000-08:00",
       "year_read": 2021
+    },
+    "2f7753e6-ec94-46b3-9919-4d773fd714b4": {
+      "title": "ダンジョン飯 7 [Dungeon Meshi 7] (Delicious in Dungeon, #7)",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553124510l/39298506._SX318_.jpg"
+      ],
+      "rating": 4,
+      "review": null,
+      "series": "Delicious in Dungeon",
+      "volume": 7,
+      "date_read": "2019-12-29T00:00:00.000-08:00",
+      "year_read": 2019
     }
   }
 }

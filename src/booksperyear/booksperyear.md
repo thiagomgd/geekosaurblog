@@ -17,9 +17,8 @@ eleventyNavigation:
 ### {{ year }} ({{ bookList | length }} read)
 
 <div class="cards">
-<!-- TODO: sort by rating and date -->
 {% for book in bookList -%}
-{% card book.title,book.cover,book.rating,book.review %}
+{% card book.title,book.cover,book.tier,book.review %}
 {% endfor -%}
 </div>
 
