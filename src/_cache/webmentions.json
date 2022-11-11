@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-11-10T23:39:09.124Z",
+  "lastFetched": "2022-11-11T19:00:55.509Z",
   "children": [
     {
       "type": "entry",
@@ -5932,6 +5932,24 @@
       "wm-target": "https://geekosaur.com/post/november-book-haul/",
       "like-of": "https://geekosaur.com/post/november-book-haul/",
       "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Anca Antoci - Fantasy Author",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/8365c8cda9cbc32b7d61ea8f681ef33659d3035a158647d2ac7f4892d105ce8b.jpg",
+        "url": "https://booktoot.club/@AncaAntoci"
+      },
+      "url": "https://mastodon.social/@falcon/109317854726251550#reblogged-by-109307909536592599",
+      "published": null,
+      "wm-received": "2022-11-11T16:40:37Z",
+      "wm-id": 1555942,
+      "wm-source": "https://brid.gy/repost/mastodon/@falcon@mastodon.social/109317854726251550/109307909536592599",
+      "wm-target": "https://geekosaur.com/post/november-book-haul/",
+      "repost-of": "https://geekosaur.com/post/november-book-haul/",
+      "wm-property": "repost-of",
       "wm-private": false
     }
   ]
