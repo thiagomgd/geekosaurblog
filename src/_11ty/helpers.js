@@ -97,15 +97,9 @@ function getLocalImageLink(imgUrl, fileName = "") {
 
     // skip local images, notion images
     // there shouldn't be any notion images at this point anymore
-    // if (!external.test(imgUrl) || isNotionImage(imgUrl)) {
-    //     return imgUrl;
-    // }
-
-    // For now, stop downloading all external images
-    if (external.test(imgUrl)) {
+    if (!external.test(imgUrl)) { //|| isNotionImage(imgUrl)) {
         return imgUrl;
     }
-
 
     const cache = readFromCache(IMG_CACHE_FILE_PATH);
 
@@ -118,23 +112,26 @@ function getLocalImageLink(imgUrl, fileName = "") {
         return imgUrl;
     }
 
-    const folder = getFolder(imgUrl, "ext");
+    // for now, don't download more images
+    return;
+    // const folder = getFolder(imgUrl, "ext");
 
-    const fn = fileName || getFileName(imgUrl);
-    const imagePath = `/img/${folder}/${fn}`;
-    const path = `./src${imagePath}`;
+    // const fn = fileName || getFileName(imgUrl);
+    // const imagePath = `/img/${folder}/${fn}`;
+    // const path = `./src${imagePath}`;
 
-    if (!fs.existsSync(path)) {
-        fetch(imgUrl).then((res) => res.body.pipe(fs.createWriteStream(path)));
-        cache[imgUrl] = {url: imagePath};
-        writeToCache(cache, IMG_CACHE_FILE_PATH, "images");
-        // TODO: return local. For now, since download is async, first run needs to use external url
-        return imgUrl;
-    } else {
-        console.error("> collision downloading image", imgUrl);
-    }
+    // console.debug('@@@@', imgUrl);
+    // if (!fs.existsSync(path)) {
+    //     fetch(imgUrl).then((res) => res.body.pipe(fs.createWriteStream(path)));
+    //     cache[imgUrl] = {url: imagePath};
+    //     writeToCache(cache, IMG_CACHE_FILE_PATH, "images");
+    //     // TODO: return local. For now, since download is async, first run needs to use external url
+    //     return imgUrl;
+    // } else {
+    //     console.error("> collision downloading image", imgUrl);
+    // }
 
-    return imagePath;
+    // return imagePath;
 }
 
 // function downloadImage(url, filepath) {
@@ -181,6 +178,7 @@ function getOptimizeMetadata(metadata) {
     } else {
         outputs = metadata["jpeg"];
     }
+    // console.debug("outputs", outputs);
     return outputs[outputs.length - 1];
 }
 
@@ -209,12 +207,16 @@ async function optimizeImage(src, outputDir = "_site/img",) {
         ...extraProps,
     });
 
+    // console.debug(metadata);
     return getOptimizeMetadata(metadata);
 }
 
 async function getOptimizedUrl(src, outputDir = "_site/img", toReturn = "url") {
     // console.log("!!!!!!getOptimizedUrl", src, outputDir, toReturn);
     const data = await optimizeImage(src, outputDir);
+    
+    if (!data) return data;
+
     return data[toReturn];
 }
 

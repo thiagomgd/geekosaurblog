@@ -1,6 +1,207 @@
 {
-  "lastFetched": "2022-10-31T19:00:16.575Z",
+  "lastFetched": "2022-11-10T23:39:05.925Z",
   "data": {
+    "c2f069e6-0e8d-461f-abf5-ed3a6e2b941a": {
+      "id": "c2f069e6-0e8d-461f-abf5-ed3a6e2b941a",
+      "created_time": "2022-11-04T06:29:00.000Z",
+      "last_edited_time": "2022-11-09T17:32:00.000Z",
+      "cover": null,
+      "icon": null,
+      "format": "",
+      "tags": [
+        "Books",
+        "Middle Grade",
+        "Reading"
+      ],
+      "thread": "books finished",
+      "thread_mastodon": null,
+      "images": [
+        "/img/notion/c2f069e6-0e8d-461f-abf5-ed3a6e2b941a/iDmNhZt3PM-1200.jpeg"
+      ],
+      "toot": null,
+      "tweet": "https://twitter.com/geeko_saur/status/1588443777127141376",
+      "reddit": "https://www.reddit.com/r/geekosaur/comments/ylstsf/finished_legacy_keeper_of_the_lost_cities_8/",
+      "thread_twitter": "https://twitter.com/geeko_saur/status/1588443777127141376",
+      "embed": "https://www.goodreads.com/book/show/44150974",
+      "reply_to": "https://twitter.com/geeko_saur/status/1588443777127141376",
+      "title": "Finished Legacy (Keeper of the Lost Cities, #8)",
+      "content": "\nJust finished reading Keeper Of The Lost Cities: Legacy, by Shannon Messenger.\n\n\nCan’t wait for Stellarlune, the next book in the series, which is releasing in the next few days.\n\n"
+    },
+    "65968750-57c8-40f3-b0b1-8a1cc54de011": {
+      "id": "65968750-57c8-40f3-b0b1-8a1cc54de011",
+      "created_time": "2022-10-17T06:12:00.000Z",
+      "last_edited_time": "2022-10-23T17:31:00.000Z",
+      "cover": null,
+      "icon": null,
+      "format": "",
+      "tags": [
+        "German"
+      ],
+      "thread": "german studies",
+      "thread_mastodon": null,
+      "images": [
+        "/img/notion/65968750-57c8-40f3-b0b1-8a1cc54de011/L2GJuGxk71-1170.jpeg"
+      ],
+      "toot": null,
+      "tweet": "https://twitter.com/geeko_saur/status/1581904963303002113",
+      "reddit": "https://www.reddit.com/r/geekosaur/comments/y64l0p/german_progress/",
+      "thread_twitter": "https://twitter.com/geeko_saur/status/1581904963303002113",
+      "embed": null,
+      "reply_to": null,
+      "title": "German progress",
+      "content": "\nAfter a couple months, finally back to it\n\n"
+    },
+    "231cbafa-09d4-4b8c-a15e-33a4c960b569": {
+      "id": "231cbafa-09d4-4b8c-a15e-33a4c960b569",
+      "created_time": "2022-10-07T23:44:00.000Z",
+      "last_edited_time": "2022-10-08T06:17:00.000Z",
+      "cover": null,
+      "icon": null,
+      "format": "",
+      "tags": [
+        "Reading",
+        "Manga",
+        "Delicious In Dungeon"
+      ],
+      "thread": "",
+      "thread_mastodon": null,
+      "images": [
+        "/img/notion/231cbafa-09d4-4b8c-a15e-33a4c960b569/zHhe6isweJ-1200.jpeg",
+        "/img/notion/231cbafa-09d4-4b8c-a15e-33a4c960b569/nViyzF2aKf-1200.jpeg",
+        "/img/notion/231cbafa-09d4-4b8c-a15e-33a4c960b569/7XqXHrCd6t-1200.jpeg",
+        "/img/notion/231cbafa-09d4-4b8c-a15e-33a4c960b569/anI08uNPya-1200.jpeg"
+      ],
+      "toot": null,
+      "tweet": "https://twitter.com/geeko_saur/status/1578553366128791552",
+      "reddit": "https://www.reddit.com/r/geekosaur/comments/xyet26/read_delicious_in_dungeon_7/",
+      "thread_twitter": "https://twitter.com/geeko_saur/status/1574310219173302272",
+      "embed": null,
+      "reply_to": null,
+      "title": "Read Delicious In Dungeon 7",
+      "content": "\nToday I finished Delicious In Dungeon Vol. 7. This is such a cool manga series that I started reading back when I was in Toronto. \n\n\nThis volume was really cool, and we learn quite a bit about the lunatic magician, the dungeon, and Senshi. That last chapter was just awesome.\n\n"
+    },
+    "f313a361-05dc-4757-878d-e85495ea4cc7": {
+      "id": "f313a361-05dc-4757-878d-e85495ea4cc7",
+      "created_time": "2022-09-26T06:53:00.000Z",
+      "last_edited_time": "2022-09-26T17:31:00.000Z",
+      "cover": null,
+      "icon": null,
+      "format": "",
+      "tags": [
+        "Reading",
+        "Books"
+      ],
+      "thread": "",
+      "thread_mastodon": null,
+      "images": [],
+      "toot": null,
+      "tweet": "https://twitter.com/geeko_saur/status/1574310219173302272",
+      "reddit": "https://www.reddit.com/r/geekosaur/comments/xocfpt/finished_nevermoor_the_trials_of_morrigan_crow/",
+      "thread_twitter": "https://twitter.com/geeko_saur/status/1565235165944750081",
+      "embed": "https://www.goodreads.com/book/show/37946448",
+      "reply_to": null,
+      "title": "Finished Nevermoor: The Trials Of Morrigan Crow",
+      "content": "\nJust finished reading Nevermoor: The Trials Of Morrigan Crow. It’s the first book in a middle gra\n\n"
+    },
+    "3da9cc88-b385-4b97-a33e-2797528078ee": {
+      "id": "3da9cc88-b385-4b97-a33e-2797528078ee",
+      "created_time": "2022-09-20T23:41:00.000Z",
+      "last_edited_time": "2022-09-21T17:32:00.000Z",
+      "cover": null,
+      "icon": null,
+      "format": "",
+      "tags": [
+        "New Books",
+        "New Things",
+        "Books",
+        "Middle Grade"
+      ],
+      "thread": "",
+      "thread_mastodon": null,
+      "images": [
+        "/img/notion/3da9cc88-b385-4b97-a33e-2797528078ee/s17KFWcMvC-965.jpeg"
+      ],
+      "toot": null,
+      "tweet": "https://twitter.com/geeko_saur/status/1572392426073100288",
+      "reddit": "https://www.reddit.com/r/geekosaur/comments/xjpn23/got_the_mapmakers_on_audible/",
+      "thread_twitter": "https://twitter.com/geeko_saur/status/1571610278348849156",
+      "embed": null,
+      "reply_to": null,
+      "title": "Got The Mapmakers On Audible",
+      "content": "\nJust saw that Audible is giving 3 months for free, so I had to go in and grab The Mapmaker (Cordelia Hatmaker #2), written and narrated by Tamzin Merchant!\n\n\nI still have to finish listening to the first volume (I’m terrible with audiobooks), but I’m sure I was going to get it someday anyway. And maybe I’ll get both books either in print or e-Book so I can read along 🙂\n\n\n[bookmark](https://www.goodreads.com/book/show/58999209-the-mapmakers)\n\n"
+    },
+    "2fa963da-1db5-40f5-ad22-1536ee722b57": {
+      "id": "2fa963da-1db5-40f5-ad22-1536ee722b57",
+      "created_time": "2022-09-01T06:02:00.000Z",
+      "last_edited_time": "2022-09-01T17:32:00.000Z",
+      "cover": null,
+      "icon": null,
+      "format": "",
+      "tags": [
+        "Books",
+        "Reading"
+      ],
+      "thread": "",
+      "thread_mastodon": null,
+      "images": [],
+      "toot": null,
+      "tweet": "https://twitter.com/geeko_saur/status/1565235165944750081",
+      "reddit": "https://www.reddit.com/r/geekosaur/comments/x30csi/finished_keeper_of_the_lost_cities_nightfall/",
+      "thread_twitter": "https://twitter.com/FalconSensei/status/1533661985887461378",
+      "embed": "https://www.goodreads.com/book/show/34884513",
+      "reply_to": null,
+      "title": "Finished Keeper of the Lost Cities: Nightfall ",
+      "content": "\nJust finished Keeper Of The Lost Cities: Nightfall (book 6). It’s so good!!!\n\n\nA tiny bit annoyed with the romantic square/triangle, but other than that it was a great read. Excited for the next couple ones already released, and book 9 that’ll be releasing later this year!\n\n"
+    },
+    "f888901f-e6f5-4070-9f55-27f84375f7b7": {
+      "id": "f888901f-e6f5-4070-9f55-27f84375f7b7",
+      "created_time": "2022-08-08T05:51:00.000Z",
+      "last_edited_time": "2022-08-08T18:59:00.000Z",
+      "cover": null,
+      "icon": null,
+      "format": "quote",
+      "tags": [
+        "Quote",
+        "Anime & Manga Quote"
+      ],
+      "thread": "",
+      "thread_mastodon": null,
+      "images": [
+        "/img/notion/f888901f-e6f5-4070-9f55-27f84375f7b7/humuauhCQM-944.jpeg"
+      ],
+      "toot": null,
+      "tweet": "https://twitter.com/geeko_saur/status/1556688948650541057",
+      "reddit": "https://www.reddit.com/r/geekosaur/comments/wjev9j/quote_call_of_the_night/",
+      "thread_twitter": "https://twitter.com/FalconSensei/status/1551270899130712064",
+      "embed": null,
+      "reply_to": null,
+      "title": "Quote: Call Of The Night",
+      "content": "\nStarted watching Call Of The Night, and liked this quote:\n\n\n> People sleep well when they’re satisfied with their day\n\n"
+    },
+    "aa3ab16d-e4f6-4070-8878-da3b63614716": {
+      "id": "aa3ab16d-e4f6-4070-8878-da3b63614716",
+      "created_time": "2022-07-25T03:21:00.000Z",
+      "last_edited_time": "2022-07-25T04:50:00.000Z",
+      "cover": null,
+      "icon": null,
+      "format": "",
+      "tags": [
+        "Books"
+      ],
+      "thread": "",
+      "thread_mastodon": null,
+      "images": [
+        "/img/notion/aa3ab16d-e4f6-4070-8878-da3b63614716/dZlLosiIcL-1200.jpeg"
+      ],
+      "toot": null,
+      "tweet": "https://twitter.com/FalconSensei/status/1551419325269131265",
+      "reddit": "https://www.reddit.com/r/geekosaur/comments/w7ffsx/new_fantasy_hardcover_books/",
+      "thread_twitter": null,
+      "embed": null,
+      "reply_to": null,
+      "title": "New Fantasy Hardcover Books",
+      "content": "\nQuick stop at Indigo on Friday and ended up with two new books, by Judy I. Lin and Silvia Moreno-Garcia.\n\n\nStarted A Magic Steeped In Poison yesterday and it seems cool so far. Also excited to read The Daughter Of Doctor Moreau later on. (I absolutely loved Mexican Gothic by her)\n\n"
+    },
     "00aa3093-e352-43d6-8604-ca5a7d8f518a": {
       "id": "00aa3093-e352-43d6-8604-ca5a7d8f518a",
       "created_time": "2022-07-14T05:01:00.000Z",
@@ -11,13 +212,17 @@
       "tags": [
         "Personal"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [
-        "/img/notion/00aa3093-e352-43d6-8604-ca5a7d8f518a/i9RHYi6an7-1200.jpeg"
+        "/img/notion/00aa3093-e352-43d6-8604-ca5a7d8f518a/ROUzDBvnkU-1200.jpeg"
       ],
+      "toot": null,
       "tweet": "https://twitter.com/FalconSensei/status/1547449424045084675",
       "reddit": "https://www.reddit.com/r/geekosaur/comments/vyp5t9/got_my_drivers_license/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": null,
+      "reply_to": null,
       "title": "Got My Driver’s License",
       "content": "\nToday I passed my road test (my 2nd try) and passed it. So went with my wife to eat something at Craffles. Got waffles with fruit and a flat white coffee!\n\n"
     },
@@ -32,15 +237,19 @@
         "Journal",
         "Photography"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [
-        "/img/notion/2da86923-b26b-4133-925c-ad31a4394adf/Hb027LlajX-1200.jpeg",
-        "/img/notion/2da86923-b26b-4133-925c-ad31a4394adf/Sbf8jcg-Oj-1200.jpeg",
-        "/img/notion/2da86923-b26b-4133-925c-ad31a4394adf/gNn75KhHxO-1200.jpeg"
+        "/img/notion/2da86923-b26b-4133-925c-ad31a4394adf/nhIVyZRP41-1200.jpeg",
+        "/img/notion/2da86923-b26b-4133-925c-ad31a4394adf/wPOvKGnpxg-1200.jpeg",
+        "/img/notion/2da86923-b26b-4133-925c-ad31a4394adf/Cv1yNyeLZ_-1200.jpeg"
       ],
+      "toot": null,
       "tweet": "https://twitter.com/FalconSensei/status/1539324184651878403",
       "reddit": "https://www.reddit.com/r/geekosaur/comments/vhk48t/printed_a_couple_photos/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": null,
+      "reply_to": null,
       "title": "Printed A Couple Photos",
       "content": "\nToday we got a couple of our pictures (street photography) printed and put in frames. They look so cool there!\n\n\nWe hope to print more in the future, so we can keep rotating them from time to time.\n\n"
     },
@@ -55,15 +264,19 @@
         "Reading",
         "Books"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [
-        "/img/notion/54007b54-2344-45dd-a853-e4145708d834/jc0VXAZMxb-1200.jpeg",
-        "/img/notion/54007b54-2344-45dd-a853-e4145708d834/XBI6Z4utT1-1200.jpeg",
-        "/img/notion/54007b54-2344-45dd-a853-e4145708d834/iA6OJmRxsd-1200.jpeg"
+        "/img/notion/54007b54-2344-45dd-a853-e4145708d834/bVwLbVtY5O-1200.jpeg",
+        "/img/notion/54007b54-2344-45dd-a853-e4145708d834/gt3hKuzXki-1200.jpeg",
+        "/img/notion/54007b54-2344-45dd-a853-e4145708d834/IucII3Jf6D-1200.jpeg"
       ],
+      "toot": null,
       "tweet": "https://twitter.com/FalconSensei/status/1533661985887461378",
       "reddit": "https://www.reddit.com/r/geekosaur/comments/v5uqmv/finished_a_book_starting_a_book/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": null,
+      "reply_to": null,
       "title": "Finished A Book, Starting A Book",
       "content": "\nFinished reading Anatomy: A Love Story by Dana Schwartz, something I picked up on a whim while browsing at Indigo.\n\n\nNow starting A Rip Through Time by Kelley\nArmstrong, which I decided to preorder because it's a time travel mystery described as Outlander meets The Alienist\n\n"
     },
@@ -77,11 +290,15 @@
       "tags": [
         "Quote"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [],
+      "toot": null,
       "tweet": "https://twitter.com/FalconSensei/status/1551270899130712064",
       "reddit": "https://www.reddit.com/r/geekosaur/comments/uys05x/quote_anatomy_a_love_story/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": null,
+      "reply_to": null,
       "title": "Quote: Anatomy, A Love Story",
       "content": "\n> Do not play games with your future. It permits the possibility of losing. \n\n\nAnatomy: A Love Story by Dana Schwartz\n\n"
     },
@@ -95,13 +312,17 @@
       "tags": [
         "Quote"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [],
+      "toot": null,
       "tweet": "https://twitter.com/FalconSensei/status/1551271000280649740",
       "reddit": "https://www.reddit.com/r/geekosaur/comments/uyq4p7/quote_shortcuts_and_learning/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": null,
+      "reply_to": null,
       "title": "Quote: Shortcuts And Learning",
-      "content": "\n> These days people want to improve overnight, so when they hear they have to dedicate a year before achieving results, they get scared.  \n>Little do they know: if they practice without technique, they will get further and further away from achieving good results. By the time they reach old age, they have failed to learn anything.  \n>If you use proper technique to practice, you can actually count the days that it takes to improve. After a year you will have reached a high level of shooting.  \n>How is this not a shortcut?  \n>— Gao Ying, in [The Way of Archery](http://url9854.butwhatfor.com/ss/c/XlhqSDn-bNdJ6HjElfvy5OOYAqMfHkwG5FZ8XtRdMQE/3m0/2cCGj6y8TqOQGwuKjYY2Og/h40/ZfFHvXP2KV_HsvVgzh_bnitAxQ7oLYZwDhWKB0nga-8) [1637], as translated by [Justin Ma](http://url9854.butwhatfor.com/ss/c/BN4mh0HYN2m9nda9Tq5y_x4faa1kfdxq_kpzCkMg8TvwDOjmweGMItwRy3y0JBcwhdwio_vnBPzjEZMlE6kBVQ/3m0/2cCGj6y8TqOQGwuKjYY2Og/h41/ncjgqteXDQkJnpdyipG-U2K3Ajk3h5qAdbkJHF2aTmQ) & [Jie Tian](http://url9854.butwhatfor.com/ss/c/BN4mh0HYN2m9nda9Tq5y_x4faa1kfdxq_kpzCkMg8TvwDOjmweGMItwRy3y0JBcwhdwio_vnBPzjEZMlE6kBVQ/3m0/2cCGj6y8TqOQGwuKjYY2Og/h42/81btYBy0jGqQGNRLoZq2yZpKwupu9YsQCprJUurK2Rg)\n\n\nFrom: [ButWhatFor? Four for Friday | No. 038](https://newsletter.butwhatfor.com/p/butwhatfor-four-friday-no-038)\n\n"
+      "content": "\n> These days people want to improve overnight, so when they hear they have to dedicate a year before achieving results, they get scared.  \n> Little do they know: if they practice without technique, they will get further and further away from achieving good results. By the time they reach old age, they have failed to learn anything.  \n> If you use proper technique to practice, you can actually count the days that it takes to improve. After a year you will have reached a high level of shooting.  \n> How is this not a shortcut?  \n> — Gao Ying, in [The Way of Archery](http://url9854.butwhatfor.com/ss/c/XlhqSDn-bNdJ6HjElfvy5OOYAqMfHkwG5FZ8XtRdMQE/3m0/2cCGj6y8TqOQGwuKjYY2Og/h40/ZfFHvXP2KV_HsvVgzh_bnitAxQ7oLYZwDhWKB0nga-8) [1637], as translated by [Justin Ma](http://url9854.butwhatfor.com/ss/c/BN4mh0HYN2m9nda9Tq5y_x4faa1kfdxq_kpzCkMg8TvwDOjmweGMItwRy3y0JBcwhdwio_vnBPzjEZMlE6kBVQ/3m0/2cCGj6y8TqOQGwuKjYY2Og/h41/ncjgqteXDQkJnpdyipG-U2K3Ajk3h5qAdbkJHF2aTmQ) & [Jie Tian](http://url9854.butwhatfor.com/ss/c/BN4mh0HYN2m9nda9Tq5y_x4faa1kfdxq_kpzCkMg8TvwDOjmweGMItwRy3y0JBcwhdwio_vnBPzjEZMlE6kBVQ/3m0/2cCGj6y8TqOQGwuKjYY2Og/h42/81btYBy0jGqQGNRLoZq2yZpKwupu9YsQCprJUurK2Rg)\n\n\nFrom: [ButWhatFor? Four for Friday | No. 038](https://newsletter.butwhatfor.com/p/butwhatfor-four-friday-no-038)\n\n"
     },
     "c14972fb-0484-43e8-8b0c-ec796856708e": {
       "id": "c14972fb-0484-43e8-8b0c-ec796856708e",
@@ -115,14 +336,18 @@
         "Manga",
         "One Piece"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [
-        "/img/notion/c14972fb-0484-43e8-8b0c-ec796856708e/ji4zkgI5Q2-1200.jpeg",
-        "/img/notion/c14972fb-0484-43e8-8b0c-ec796856708e/UfSKoX74Fw-1200.jpeg"
+        "/img/notion/c14972fb-0484-43e8-8b0c-ec796856708e/jeEwHQodEw-1200.jpeg",
+        "/img/notion/c14972fb-0484-43e8-8b0c-ec796856708e/vwqAClW9vN-1200.jpeg"
       ],
+      "toot": null,
       "tweet": "https://twitter.com/FalconSensei/status/1518458059969994753",
       "reddit": "https://www.reddit.com/r/geekosaur/comments/ubdr4p/reading_one_piece_finished_skypiea_arc/",
-      "reply_to": "https://twitter.com/FalconSensei/status/1514274966707056646",
+      "thread_twitter": "https://twitter.com/FalconSensei/status/1514274966707056646",
       "embed": null,
+      "reply_to": null,
       "title": "Reading One Piece: Finished Skypiea Arc",
       "content": "\n Today I finished reading One Piece’s Skypiea arc, getting to chapter 302! I had stopped last week at around 240, so that means 60 chapters in a day. Pretty good!\n\n\nI enjoyed this arc. It got me really curious about what’s going to happen next, and to know more about the world’s mysteries.\n\n"
     },
@@ -137,13 +362,17 @@
         "Reading",
         "Non-Fiction"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [
-        "/img/notion/bd5055ef-933d-4685-becc-f675e0e36477/f5toc3fXHF-1200.jpeg"
+        "/img/notion/bd5055ef-933d-4685-becc-f675e0e36477/WL8LbaRGRJ-1200.jpeg"
       ],
+      "toot": null,
       "tweet": "https://twitter.com/FalconSensei/status/1517037636749299712",
       "reddit": "https://www.reddit.com/r/geekosaur/comments/u8h6nj/reading_courage_to_be_disliked/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": null,
+      "reply_to": null,
       "title": "Reading Courage To Be Disliked",
       "content": "\nAs per my reading goals for April, I started reading The Courage To Be Disliked by by Ichiro Kishimi and Fumitake Koga. \n\n\nI don’t usually read self-help, but this one seems cool, and is very psychology and philosophy oriented. One interesting thing about it is that it’s written as a conversation between someone and a philosopher.\n\n\nI just finished the first chapter - about 30 pages in - and so far I’m enjoying it.\n\n\n[bookmark](https://www.youtube.com/watch?v=Bf4Hs5E9eNg)\n\n"
     },
@@ -157,13 +386,17 @@
       "tags": [
         "German"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [
-        "/img/notion/a5b72614-f04f-4cea-a7e8-f2f8025a0529/fip9ENQjmf-1170.jpeg"
+        "/img/notion/a5b72614-f04f-4cea-a7e8-f2f8025a0529/ypwLMwKX99-1170.jpeg"
       ],
+      "toot": null,
       "tweet": "https://twitter.com/FalconSensei/status/1516297746034176006",
       "reddit": "https://www.reddit.com/r/geekosaur/comments/u6yksn/german_updates_back_again_after_a_pause/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": null,
+      "reply_to": null,
       "title": "German Updates: Back Again After a Pause",
       "content": "\nLast time I posted was March 30, when I reached 550 words on Speakly. It took me a bit longer to get the next 50 words, but here I am!!\n\n"
     },
@@ -179,16 +412,20 @@
         "Manga",
         "One Piece"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [
-        "/img/notion/98ebcb91-3a20-429b-ab99-94d9db1b5f9d/RQKI-ApA00-1200.jpeg",
-        "/img/notion/98ebcb91-3a20-429b-ab99-94d9db1b5f9d/Zjz5yPu3ul-1200.jpeg",
-        "/img/notion/98ebcb91-3a20-429b-ab99-94d9db1b5f9d/V0vmZeQ2rL-1200.jpeg",
-        "/img/notion/98ebcb91-3a20-429b-ab99-94d9db1b5f9d/3SzEHEQrMa-1200.jpeg"
+        "/img/notion/98ebcb91-3a20-429b-ab99-94d9db1b5f9d/35KJkuIJjO-1200.jpeg",
+        "/img/notion/98ebcb91-3a20-429b-ab99-94d9db1b5f9d/NagOFAhCWP-1200.jpeg",
+        "/img/notion/98ebcb91-3a20-429b-ab99-94d9db1b5f9d/5exRWy8yJK-1200.jpeg",
+        "/img/notion/98ebcb91-3a20-429b-ab99-94d9db1b5f9d/cdLq08uG5Y-1200.jpeg"
       ],
+      "toot": null,
       "tweet": "https://twitter.com/FalconSensei/status/1514274966707056646",
       "reddit": "https://www.reddit.com/r/geekosaur/comments/u2j73r/reading_one_piece_laboom_the_whale/",
-      "reply_to": "https://twitter.com/falconsensei/status/1510837825255534593",
+      "thread_twitter": "https://twitter.com/falconsensei/status/1510837825255534593",
       "embed": null,
+      "reply_to": null,
       "title": "Reading One Piece: Laboom The Whale",
       "content": "\n I’m not crying… definitely not crying\n\n"
     },
@@ -203,13 +440,17 @@
         "German",
         "New Things"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [
         "https://i.imgur.com/asoLcvJ.jpg"
       ],
+      "toot": null,
       "tweet": null,
       "reddit": "https://www.reddit.com/r/geekosaur/comments/ty7ppl/gamers_light_novel_arrived/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": null,
+      "reply_to": null,
       "title": "Gamers! Light Novel Arrived",
       "content": "\nI bought the Gamers! Light Novel in German so I’ll have a goal and an incentive to study. It’s good because it’s an anime that I liked, and the LN is not available in English, and I think chances are pretty small.\n\n"
     },
@@ -223,11 +464,15 @@
       "tags": [
         "Reading"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [],
+      "toot": null,
       "tweet": "https://twitter.com/FalconSensei/status/1509786364635598852",
       "reddit": "https://www.reddit.com/r/geekosaur/comments/ttl26o/finished_a_cozy_mystery_book/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": "https://www.goodreads.com/book/show/15815762",
+      "reply_to": null,
       "title": "Finished A Cozy Mystery Book",
       "content": "\nIt’s been a long while since I’ve read a cozy mystery, but today I finished the 5th book in the Witchcraft Mystery series. It’s a fun read as usual.\n\n"
     },
@@ -241,13 +486,17 @@
       "tags": [
         "German"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [
-        "/img/notion/bd502d4a-fca1-4f54-8482-1a48208940fa/KHwjxSpWC7-1012.jpeg"
+        "/img/notion/bd502d4a-fca1-4f54-8482-1a48208940fa/vGfQGX9wIi-1012.jpeg"
       ],
+      "toot": null,
       "tweet": null,
       "reddit": "https://www.reddit.com/r/geekosaur/comments/trzc1p/german_update/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": null,
+      "reply_to": null,
       "title": "German Update",
       "content": "\nVery slow week last week, and still trying to catch up on the energy for studying. But this week I’ll make sure to do at least the 10 new words each day, which is my goal.\n\n"
     },
@@ -262,13 +511,17 @@
         "Reading",
         "Stats"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [
-        "/img/notion/b3563def-90a5-4be4-9422-1b06d0a78d24/uQj5bKa2Zk-615.jpeg"
+        "/img/notion/b3563def-90a5-4be4-9422-1b06d0a78d24/zDvi73KzDF-615.jpeg"
       ],
+      "toot": null,
       "tweet": "https://twitter.com/FalconSensei/status/1505762762718281729",
       "reddit": "https://www.reddit.com/r/geekosaur/comments/tj4ggp/updated_reading_stats/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": null,
+      "reply_to": null,
       "title": "Updated Reading Stats",
       "content": "\nMy first 10 weeks of this year (up to last week). It’s not A LOT, but it’s good enough for me!\n\n\nA few notes on the weeks I have a lot of pages/chapters:\n\n\nFor books, I read a lot more when I was reading the first 2 books in the Silo trilogy (still need to read #3), and Sawkill Girls.\n\n\nFor manga, the 102 chapters week was basically Sakamoto Days + Kaiju No. 8. About 50 chapters each. And then last week I read a few Gal Gohan volumes and some One Punch Man!\n\n"
     },
@@ -283,16 +536,20 @@
         "Personal",
         "Journal"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [
-        "/img/notion/ec6b85af-093a-4ee2-995e-3e9ccc0dc344/_TIz7JB4aN-708.jpeg",
-        "/img/notion/ec6b85af-093a-4ee2-995e-3e9ccc0dc344/iguPdM4wj--708.jpeg",
-        "/img/notion/ec6b85af-093a-4ee2-995e-3e9ccc0dc344/2CVK8FUeX4-708.jpeg",
-        "/img/notion/ec6b85af-093a-4ee2-995e-3e9ccc0dc344/yPiySQ1aHB-708.jpeg"
+        "/img/notion/ec6b85af-093a-4ee2-995e-3e9ccc0dc344/W97eGOkrlz-708.jpeg",
+        "/img/notion/ec6b85af-093a-4ee2-995e-3e9ccc0dc344/wiQOAHzAAC-708.jpeg",
+        "/img/notion/ec6b85af-093a-4ee2-995e-3e9ccc0dc344/yPXCXzBJmI-708.jpeg",
+        "/img/notion/ec6b85af-093a-4ee2-995e-3e9ccc0dc344/LRuZQca-2y-708.jpeg"
       ],
+      "toot": null,
       "tweet": "https://twitter.com/FalconSensei/status/1502162867197399041",
       "reddit": "https://www.reddit.com/r/geekosaur/comments/tbk52j/just_another_day/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": null,
+      "reply_to": null,
       "title": "Just another day",
       "content": "\nToday work wasn’t being very productive, but my wife and I decided to go to an early dinner on a sushi place nearby that we like. We had smoked salmon, mango and some veggie gyozas, along with Asahi beer and tea.\n\n\nOn our way back, a quick stop at Nordstrom to walk around a bit, and then, when arriving home, a beautiful and smiling samoyed was sniffing me, and after I continued walking, he (or she? seemed like a male) kept looking at me instead of walking. THAT WAS SO CUTE!!! Even the owner was like... what?\n\n\nNow, time for a bit of What We Do In The Shadows, maybe start playing the Triangle Strategy demo or read One Punch Man.\n\n"
     },
@@ -307,14 +564,18 @@
         "Reading",
         "Manga"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [
-        "/img/notion/e57c9387-f77b-491b-b418-560cf99ebbc4/M9W_L1zRGm-1200.jpeg",
-        "/img/notion/e57c9387-f77b-491b-b418-560cf99ebbc4/MXQlzPedxb-1200.jpeg"
+        "/img/notion/e57c9387-f77b-491b-b418-560cf99ebbc4/Op0vsHOJlm-1200.jpeg",
+        "/img/notion/e57c9387-f77b-491b-b418-560cf99ebbc4/7XH7oV12d3-1200.jpeg"
       ],
+      "toot": null,
       "tweet": "https://twitter.com/FalconSensei/status/1501806483914194944",
       "reddit": "https://www.reddit.com/r/geekosaur/comments/tbk52c/reading_one_punch_man/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": null,
+      "reply_to": null,
       "title": "Reading One Punch Man",
       "content": "\nAfter a long time, I’m continuing reading One Punch Man. I read the first 47 chapters in 2020 and then stopped, but I guess now I was in the mood for it again, after reading about 50 chapters of Sakamoto Days and Kaiju No. 8.\n\n\nAnd now I finally saw the monster that was showing up on my Twitter feed when she debuted on the manga.\n\n"
     },
@@ -328,13 +589,17 @@
       "tags": [
         "German"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [
-        "/img/notion/cb8fd534-4cf9-4570-87c1-7323024ea804/hnafgTNyvF-1170.jpeg"
+        "/img/notion/cb8fd534-4cf9-4570-87c1-7323024ea804/VmVSWB3qjA-1170.jpeg"
       ],
+      "toot": null,
       "tweet": null,
       "reddit": "https://www.reddit.com/r/geekosaur/comments/tbk523/400_german_words/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": null,
+      "reply_to": null,
       "title": "400 German Words",
       "content": "\nGot a great week last week, and even though I didn’t study much on Sunday (or at all Yesterday), I’m happy to be making progress again.\n\n"
     },
@@ -348,13 +613,17 @@
       "tags": [
         "German"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [],
+      "toot": null,
       "tweet": null,
       "reddit": "https://www.reddit.com/r/geekosaur/comments/tbk51o/german_updates/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": "https://www.youtube.com/watch?v=CinuEcTAYjA",
+      "reply_to": null,
       "title": "German Updates :)",
-      "content": "\nThis week I got to 350 German words learned on Speakly. _Hooray_!\n\n\nAnd today I was listening to a bit of German music, and when this song played. Since I love it, specially on this video, I decided to try to follow the lyrics. And hey, I was actually able to understand a bit of the first verse, and the first 2 lines of the bridge. That’s so cool!\n\n\n> Du hast mich nie darum gebeten,  \n>ich weiß, ich weiß, ja ich weiß.  \n>Es tut dir leid, oder auch nicht,  \n>keine Ahnung, was weiß ich schon.  \n>Es war alles umsonst,  \n>Aber is' okay, es ist okay für mich.  \n>  \n>_you never asked me  \n>i know i know yes i know  \n>you're sorry or not  \n>no idea, what do I know.  \n>It was all in vain  \n>But it's okay, it's okay for me._\n\n\n> Denn du warst süß wie Honig in meinem Kaffee  \n>Präsent in meinem Kopf von früh bis spät.  \n>Viel zu spät hab ich gecheckt:  \n>Gäb's nen Wettbewerb für Idioten  \n>hätt' ich haushoch gewonnen.  \n>  \n>_'Cause you were sweet as honey in my coffee  \n>Present in my mind from dawn to dusk.  \n>I checked much too late:  \n>There's a competition for idiots  \n>I would have won hands down._\n\n"
+      "content": "\nThis week I got to 350 German words learned on Speakly. _Hooray_!\n\n\nAnd today I was listening to a bit of German music, and when this song played. Since I love it, specially on this video, I decided to try to follow the lyrics. And hey, I was actually able to understand a bit of the first verse, and the first 2 lines of the bridge. That’s so cool!\n\n\n> Du hast mich nie darum gebeten,  \n> ich weiß, ich weiß, ja ich weiß.  \n> Es tut dir leid, oder auch nicht,  \n> keine Ahnung, was weiß ich schon.  \n> Es war alles umsonst,  \n> Aber is' okay, es ist okay für mich.  \n>   \n> _you never asked me  \n> i know i know yes i know  \n> you're sorry or not  \n> no idea, what do I know.  \n> It was all in vain  \n> But it's okay, it's okay for me._\n\n\n> Denn du warst süß wie Honig in meinem Kaffee  \n> Präsent in meinem Kopf von früh bis spät.  \n> Viel zu spät hab ich gecheckt:  \n> Gäb's nen Wettbewerb für Idioten  \n> hätt' ich haushoch gewonnen.  \n>   \n> _'Cause you were sweet as honey in my coffee  \n> Present in my mind from dawn to dusk.  \n> I checked much too late:  \n> There's a competition for idiots  \n> I would have won hands down._\n\n"
     },
     "1eb0e85b-e557-41e3-84ff-7a372e21c4d5": {
       "id": "1eb0e85b-e557-41e3-84ff-7a372e21c4d5",
@@ -367,13 +636,17 @@
         "Reading",
         "Stats"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [
-        "/img/notion/1eb0e85b-e557-41e3-84ff-7a372e21c4d5/B-D1MSW2JD-623.jpeg"
+        "/img/notion/1eb0e85b-e557-41e3-84ff-7a372e21c4d5/WlCR4tQbko-623.jpeg"
       ],
+      "toot": null,
       "tweet": null,
       "reddit": "https://www.reddit.com/r/geekosaur/comments/tbk51a/my_2022_reading_stats_so_far/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": "https://www.goodreads.com/book/show/17306293-shift",
+      "reply_to": null,
       "title": "My 2022 Reading Stats So Far",
       "content": "\nThis is how my year has been so far regarding reading. I read way more after I arrived back in Vancouver and was reading Shift, the second book in the Silo trilogy.\n\n\nAlso, yesterday I finished [Broken](https://www.goodreads.com/book/show/54305363-broken) by Jenny Lawson, and it’s very good. And now I need to find something else to read. Maybe Sawkill Girls? Or more nonfiction? I’ll decide soon, I guess!\n\n"
     },
@@ -388,14 +661,18 @@
         "Reading",
         "Manga"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [
-        "/img/notion/6e35ea03-1d8d-48fa-b34a-9ad050b23316/caLPHoTLb4-1200.jpeg",
-        "/img/notion/6e35ea03-1d8d-48fa-b34a-9ad050b23316/r9nQNZX8Y2-1200.jpeg"
+        "/img/notion/6e35ea03-1d8d-48fa-b34a-9ad050b23316/9abFZj3o3S-1200.jpeg",
+        "/img/notion/6e35ea03-1d8d-48fa-b34a-9ad050b23316/elTjIyijfu-1200.jpeg"
       ],
+      "toot": null,
       "tweet": null,
       "reddit": "https://www.reddit.com/r/geekosaur/comments/tbk50y/reading_manga/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": null,
+      "reply_to": null,
       "title": "Reading Manga",
       "content": "\nToday I caught up with Spy X Family, which I had stopped on chapter 53, and started Sakamoto Days. Read a couple chapter and so far enjoyed it.\n\n\nI was planning on reading Jujutsu, Black Clover or My Hero Academia, but it’s good to read some comedy.\n\n"
     },
@@ -410,15 +687,19 @@
         "Personal",
         "New Things"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [
-        "/img/notion/0a9d42b3-a9e2-43b9-bb00-497769b21a2f/Cs74efdw-Z-1200.jpeg",
-        "/img/notion/0a9d42b3-a9e2-43b9-bb00-497769b21a2f/h1QWBAuUa8-1200.jpeg",
-        "/img/notion/0a9d42b3-a9e2-43b9-bb00-497769b21a2f/KMkCFYB6qm-1200.jpeg"
+        "/img/notion/0a9d42b3-a9e2-43b9-bb00-497769b21a2f/amrCAJ3Dup-1200.jpeg",
+        "/img/notion/0a9d42b3-a9e2-43b9-bb00-497769b21a2f/gzeNwfLq8c-1200.jpeg",
+        "/img/notion/0a9d42b3-a9e2-43b9-bb00-497769b21a2f/UVBXDZtQyC-1200.jpeg"
       ],
+      "toot": null,
       "tweet": null,
       "reddit": "https://www.reddit.com/r/geekosaur/comments/tbk50s/the_serpent_ost_record/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": null,
+      "reply_to": null,
       "title": "The Serpent OST Record",
       "content": "\nYesterday I received the OST for The Serpent, a show I enjoyed a lot and that has a great soundtrack. My wife and I binged the show, and I listened to the soundtrack during most of the time I was reading [The Lighthouse Witches](https://geekosaur.com/post/the-lighthouse-witches-book-notes/).\n\n\nI pre-ordered it a long time ago and the release was postponed so many times I though I was not going to get it anymore. But I’m happy it’s here now. And it looks BEAUTIFUL!\n\n\nYou can see the trailer [here](https://www.youtube.com/watch?v=TgB7rMuxY-s) and listen to the soundtrack [here](https://www.youtube.com/watch?v=ZgJeWP_vw8M&list=PLuF78wm0RiGZlDiRBcCa06LCQLBC4T938).\n\n"
     },
@@ -432,13 +713,17 @@
       "tags": [
         "German"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [
-        "/img/notion/cd6f98b1-1814-411e-8399-ede231748153/Q6kjDR6AnQ-1170.jpeg"
+        "/img/notion/cd6f98b1-1814-411e-8399-ede231748153/MSAAx2Ax8R-1170.jpeg"
       ],
+      "toot": null,
       "tweet": null,
       "reddit": "https://www.reddit.com/r/geekosaur/comments/tbk50m/studying_german/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": null,
+      "reply_to": null,
       "title": "Studying German",
       "content": "\nFinally got to 300 words on Speakly and moved to Beginner II level. I’m really enjoying this app, as it gives you words based on the most used words in real life scenarios, instead of giving a dozen words from a different category each time.\n\n\nThe phrases are also more meaningful and realistic, so I’m probably keep using it to slowly build vocabulary, since I don’t have a lot of time and energy for more focused study and longer sessions.\n\n"
     },
@@ -450,11 +735,15 @@
       "icon": null,
       "format": "",
       "tags": [],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [],
+      "toot": null,
       "tweet": null,
       "reddit": "https://www.reddit.com/r/geekosaur/comments/tbk506/how_to_use_twitter/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": null,
+      "reply_to": null,
       "title": "How to use Twitter",
       "content": "\nToday I saw a post titled How To Use Twitter, which has some interesting thoughts on how to improve the Twitter experience. And I guess the most important thing is not using the main timeline, but instead relying on the lists feature.\n\n\nIt’s really a letdown that to have a good experience on the platform we should avoid the main user experience they are offering, but I guess that’s the only way of really avoiding so many suggestions, likes and topics.\n\n\nIt’s still doesn’t solve my gripe with having my likes to myself, but that’s maybe ok for now.\n\n\nThe article: [https://lee-phillips.org/howtotwitter/](https://lee-phillips.org/howtotwitter/)\n\n\nThis HackerNews comment (and following thread) also gives some indication that yeah, trying to mark those suggestions as ‘not interested’ is not gonna help in the long run, but just make Twitter suggest worse content every time [https://news.ycombinator.com/item?id=30271837](https://news.ycombinator.com/item?id=30271837) \n\n"
     },
@@ -470,11 +759,15 @@
         "Music",
         "Memories"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [],
+      "toot": null,
       "tweet": null,
       "reddit": "https://www.reddit.com/r/geekosaur/comments/tbk4zy/my_band_playlists/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": null,
+      "reply_to": null,
       "title": "My Band Playlists",
       "content": "\nThis Saturday night I was listening to some songs that reminded me of my bands back in Brazil. Since I don’t use Spotify anymore and have migrated to Youtube Music, I decided to recreate my playlists there.\n\n\nI never finished those playlists on Spotify, so I’ll see if someday I find the setlists so I can have complete playlists there. I also want to create setlist for other bands I’ve played with, and also my big band. But that’s for another time. They are both below:\n\n- [Trivial](https://music.youtube.com/playlist?list=PLZIaVOUaxLAOpQvzJCeugpYgRpPlnA8m2&feature=share)\n- [The Mad Mavericks](https://music.youtube.com/playlist?list=PLZIaVOUaxLAP7EK8JjXvc3FpWoM-LUVlI&feature=share)\n"
     },
@@ -489,11 +782,15 @@
         "Memories",
         "Sports"
       ],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [],
+      "toot": null,
       "tweet": null,
       "reddit": "https://www.reddit.com/r/geekosaur/comments/tbk4zl/figure_skating_2022/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": null,
+      "reply_to": null,
       "title": "Figure Skating 2022",
       "content": "\nIt’s kinda crazy how I got totally sucked in watching figure skating for the first time 12 years ago in Brazil, during Vancouver Olympics. And now here I am in Vancouver, watching the 2022 figure skating.\n\n"
     },
@@ -505,163 +802,19 @@
       "icon": null,
       "format": "text",
       "tags": [],
+      "thread": "",
+      "thread_mastodon": null,
       "images": [
-        "/img/notion/96a049dc-2184-4c66-9fb2-aac00b6b0c02/XLOAeAqI4I-900.jpeg"
+        "/img/notion/96a049dc-2184-4c66-9fb2-aac00b6b0c02/RjVqgTvlFG-900.jpeg"
       ],
+      "toot": null,
       "tweet": null,
       "reddit": "https://www.reddit.com/r/geekosaur/comments/tbk4zd/now_with_notes/",
-      "reply_to": null,
+      "thread_twitter": null,
       "embed": null,
+      "reply_to": null,
       "title": "Now with Notes",
       "content": "\nThis is a first note to test this new feature I added! Just to have some quick thoughts that I can add to [Notion](http://notion.so) and get it published here!\n\n"
-    },
-    "aa3ab16d-e4f6-4070-8878-da3b63614716": {
-      "id": "aa3ab16d-e4f6-4070-8878-da3b63614716",
-      "created_time": "2022-07-25T03:21:00.000Z",
-      "last_edited_time": "2022-07-25T04:50:00.000Z",
-      "cover": null,
-      "icon": null,
-      "format": "",
-      "tags": [
-        "Books"
-      ],
-      "images": [
-        "/img/notion/aa3ab16d-e4f6-4070-8878-da3b63614716/-HDR2-dj53-1200.jpeg"
-      ],
-      "tweet": "https://twitter.com/FalconSensei/status/1551419325269131265",
-      "reddit": "https://www.reddit.com/r/geekosaur/comments/w7ffsx/new_fantasy_hardcover_books/",
-      "reply_to": null,
-      "embed": null,
-      "title": "New Fantasy Hardcover Books",
-      "content": "\nQuick stop at Indigo on Friday and ended up with two new books, by Judy I. Lin and Silvia Moreno-Garcia.\n\n\nStarted A Magic Steeped In Poison yesterday and it seems cool so far. Also excited to read The Daughter Of Doctor Moreau later on. (I absolutely loved Mexican Gothic by her)\n\n"
-    },
-    "f888901f-e6f5-4070-9f55-27f84375f7b7": {
-      "id": "f888901f-e6f5-4070-9f55-27f84375f7b7",
-      "created_time": "2022-08-08T05:51:00.000Z",
-      "last_edited_time": "2022-08-08T18:59:00.000Z",
-      "cover": null,
-      "icon": null,
-      "format": "quote",
-      "tags": [
-        "Quote",
-        "Anime & Manga Quote"
-      ],
-      "images": [
-        "/img/notion/f888901f-e6f5-4070-9f55-27f84375f7b7/na2sl4Fk6--944.jpeg"
-      ],
-      "tweet": "https://twitter.com/geeko_saur/status/1556688948650541057",
-      "reddit": "https://www.reddit.com/r/geekosaur/comments/wjev9j/quote_call_of_the_night/",
-      "reply_to": "https://twitter.com/FalconSensei/status/1551270899130712064",
-      "embed": null,
-      "title": "Quote: Call Of The Night",
-      "content": "\nStarted watching Call Of The Night, and liked this quote:\n\n\n> People sleep well when they’re satisfied with their day\n\n"
-    },
-    "2fa963da-1db5-40f5-ad22-1536ee722b57": {
-      "id": "2fa963da-1db5-40f5-ad22-1536ee722b57",
-      "created_time": "2022-09-01T06:02:00.000Z",
-      "last_edited_time": "2022-09-01T17:32:00.000Z",
-      "cover": null,
-      "icon": null,
-      "format": "",
-      "tags": [
-        "Books",
-        "Reading"
-      ],
-      "images": [],
-      "tweet": "https://twitter.com/geeko_saur/status/1565235165944750081",
-      "reddit": "https://www.reddit.com/r/geekosaur/comments/x30csi/finished_keeper_of_the_lost_cities_nightfall/",
-      "reply_to": "https://twitter.com/FalconSensei/status/1533661985887461378",
-      "embed": "https://www.goodreads.com/book/show/34884513",
-      "title": "Finished Keeper of the Lost Cities: Nightfall ",
-      "content": "\nJust finished Keeper Of The Lost Cities: Nightfall (book 6). It’s so good!!!\n\n\nA tiny bit annoyed with the romantic square/triangle, but other than that it was a great read. Excited for the next couple ones already released, and book 9 that’ll be releasing later this\n\n"
-    },
-    "3da9cc88-b385-4b97-a33e-2797528078ee": {
-      "id": "3da9cc88-b385-4b97-a33e-2797528078ee",
-      "created_time": "2022-09-20T23:41:00.000Z",
-      "last_edited_time": "2022-09-21T17:32:00.000Z",
-      "cover": null,
-      "icon": null,
-      "format": "",
-      "tags": [
-        "New Books",
-        "New Things",
-        "Books",
-        "Middle Grade"
-      ],
-      "images": [
-        "/img/notion/3da9cc88-b385-4b97-a33e-2797528078ee/YO2Mpb56Pi-965.jpeg"
-      ],
-      "tweet": "https://twitter.com/geeko_saur/status/1572392426073100288",
-      "reddit": "https://www.reddit.com/r/geekosaur/comments/xjpn23/got_the_mapmakers_on_audible/",
-      "reply_to": "https://twitter.com/geeko_saur/status/1571610278348849156",
-      "embed": null,
-      "title": "Got The Mapmakers On Audible",
-      "content": "\nJust saw that Audible is giving 3 months for free, so I had to go in and grab The Mapmaker (Cordelia Hatmaker #2), written and narrated by Tamzin Merchant!\n\n\nI still have to finish listening to the first volume (I’m terrible with audiobooks), but I’m sure I was going to get it someday anyway. And maybe I’ll get both books either in print or e-Book so I can read along 🙂\n\n\n[bookmark](https://www.goodreads.com/book/show/58999209-the-mapmakers)\n\n"
-    },
-    "f313a361-05dc-4757-878d-e85495ea4cc7": {
-      "id": "f313a361-05dc-4757-878d-e85495ea4cc7",
-      "created_time": "2022-09-26T06:53:00.000Z",
-      "last_edited_time": "2022-09-26T17:31:00.000Z",
-      "cover": null,
-      "icon": null,
-      "format": "",
-      "tags": [
-        "Reading",
-        "Books"
-      ],
-      "images": [],
-      "tweet": "https://twitter.com/geeko_saur/status/1574310219173302272",
-      "reddit": "https://www.reddit.com/r/geekosaur/comments/xocfpt/finished_nevermoor_the_trials_of_morrigan_crow/",
-      "reply_to": "https://twitter.com/geeko_saur/status/1565235165944750081",
-      "embed": "https://www.goodreads.com/book/show/37946448",
-      "title": "Finished Nevermoor: The Trials Of Morrigan Crow",
-      "content": "\nJust finished reading Nevermoor: The Trials Of Morrigan Crow. It’s the first book in a middle gra\n\n"
-    },
-    "231cbafa-09d4-4b8c-a15e-33a4c960b569": {
-      "id": "231cbafa-09d4-4b8c-a15e-33a4c960b569",
-      "created_time": "2022-10-07T23:44:00.000Z",
-      "last_edited_time": "2022-10-08T06:17:00.000Z",
-      "cover": null,
-      "icon": null,
-      "format": "",
-      "tags": [
-        "Reading",
-        "Manga",
-        "Delicious In Dungeon"
-      ],
-      "images": [
-        "/img/notion/231cbafa-09d4-4b8c-a15e-33a4c960b569/x3D5LsFPdC-1200.jpeg",
-        "/img/notion/231cbafa-09d4-4b8c-a15e-33a4c960b569/nFYGAS-mk7-1200.jpeg",
-        "/img/notion/231cbafa-09d4-4b8c-a15e-33a4c960b569/yX7GaYNh8Z-1200.jpeg",
-        "/img/notion/231cbafa-09d4-4b8c-a15e-33a4c960b569/i65eUmk8kQ-1200.jpeg"
-      ],
-      "tweet": "https://twitter.com/geeko_saur/status/1578553366128791552",
-      "reddit": "https://www.reddit.com/r/geekosaur/comments/xyet26/read_delicious_in_dungeon_7/",
-      "reply_to": "https://twitter.com/geeko_saur/status/1574310219173302272",
-      "embed": null,
-      "title": "Read Delicious In Dungeon 7",
-      "content": "\nToday I finished Delicious In Dungeon Vol. 7. This is such a cool manga series that I started reading back when I was in Toronto. \n\n\nThis volume was really cool, and we learn quite a bit about the lunatic magician, the dungeon, and Senshi. That last chapter was just awesome.\n\n"
-    },
-    "65968750-57c8-40f3-b0b1-8a1cc54de011": {
-      "id": "65968750-57c8-40f3-b0b1-8a1cc54de011",
-      "created_time": "2022-10-17T06:12:00.000Z",
-      "last_edited_time": "2022-10-23T17:31:00.000Z",
-      "cover": null,
-      "icon": null,
-      "format": "",
-      "tags": [
-        "German"
-      ],
-      "thread": "german studies",
-      "images": [
-        "/img/notion/65968750-57c8-40f3-b0b1-8a1cc54de011/0PybWMpvmw-1170.jpeg"
-      ],
-      "tweet": "https://twitter.com/geeko_saur/status/1581904963303002113",
-      "reddit": "https://www.reddit.com/r/geekosaur/comments/y64l0p/german_progress/",
-      "reply_to": "https://twitter.com/geeko_saur/status/1581904963303002113",
-      "embed": null,
-      "title": "German progress",
-      "content": "\nAfter a couple months, finally back to it\n\n"
     }
   }
 }

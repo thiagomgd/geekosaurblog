@@ -20,12 +20,16 @@ function isVertical(width, height) {
 
 
 async function imageShortcode(src, alt, options = {}) {
+    if (!src) return '';
+
     if (alt === undefined) {
         // You bet we throw an error on missing alt (alt="" works okay)
         throw new Error(`Missing \`alt\` on myImage from: ${src}`);
     }
 
     const data = await optimizeImage(src)
+
+    // console.debug(src, data);
 
     const bridgyClass = options.shareBridgy ? "u-photo" : "";
     const isVerticalClassname =

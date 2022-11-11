@@ -19,11 +19,15 @@
     "email": "geekosaur@falcon.moe",
     "url": "https://geekosaur.com/about-me/",
     "twitter_handle": "geeko_saur",
-    "mastodon_url": "https://mastodon.social/@falcon"
+    "mastodon_url": "https://mastodon.social/@falcon",
+    "mastodon_instance": "mastodon.social",
+    "mastodon_user": "falcon",
+    "mastodon_id": "000200642"
   },
   "subreddit": "geekosaur",
   "cloudflare_beacon": "0282bdd3b68748aba686aabfce19dc6c",
   "bridgy_twitter": true,
+  "bridgy_mastodon": true,
   "twitter_reply_to": [
     "Journal",
     "Personal",

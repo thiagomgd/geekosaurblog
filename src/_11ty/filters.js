@@ -142,6 +142,33 @@ module.exports = {
     }
     return content.substr(0, content.lastIndexOf(" ", maxLength)) + "...";
   },
+  mastodonExerpt: (text) => {
+    // TODO: should I add hashtags to the exerpt?
+    const maxLength = 490;
+    md.use(plainText);
+    md.render(text);
+    const content = md.plainText;
+    if (content.length <= maxLength) {
+      return content;
+    }
+    return content.substr(0, content.lastIndexOf(" ", maxLength)) + "...";
+  },
+  mastodonShareDescription: (text, hashtags=[]) => {
+    const maxLength = 490;
+
+    const tagsText = hashtags.map(tag => `#${tag.replace(' ', '')}`).join(' ') || '';
+    // console.debug(tagsText);
+    // console.debug(tagsText.length());
+    const available = maxLength - tagsText.length;
+
+    md.use(plainText);
+    md.render(text);
+    const content = md.plainText;
+    if (content.length <= available) {
+      return content + ' ' + tagsText;
+    }
+    return content.substr(0, content.lastIndexOf(" ", available)) + "... " + tagsText;
+  },
   size: (mentions) => {
     return !mentions ? 0 : mentions.length;
   },
