@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-11-11T19:00:55.509Z",
+  "lastFetched": "2022-11-13T22:29:49.539Z",
   "children": [
     {
       "type": "entry",
@@ -5950,6 +5950,180 @@
       "wm-target": "https://geekosaur.com/post/november-book-haul/",
       "repost-of": "https://geekosaur.com/post/november-book-haul/",
       "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/53ec7a1d786bb3a10720f12d5853b318b49cfbcdc82de945c81f9fe1e754144a.png",
+        "url": "https://mastodon.social/@falcon"
+      },
+      "url": "https://mastodon.social/@falcon/109328365817398947",
+      "published": "2022-11-12T02:01:12",
+      "wm-received": "2022-11-12T07:08:51Z",
+      "wm-id": 1556724,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/109328017127134583/109328365817398947",
+      "wm-target": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://c.im/@PsychTink\" class=\"u-url\">@<span>PsychTink</span></a></span> it's soooo cozy, right??</p>",
+        "text": "@PsychTink it's soooo cozy, right??"
+      },
+      "in-reply-to": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Daphne",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/153e280b0b2cfb096bca8d74b88ed413831a4e74e52bb25abbce8d0493901e84.jpg",
+        "url": "https://mindly.social/@daphne"
+      },
+      "url": "https://mindly.social/@daphne/109329542303391710",
+      "published": "2022-11-12T07:00:24",
+      "wm-received": "2022-11-12T07:08:26Z",
+      "wm-id": 1556723,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/109328017127134583/109329542455043140",
+      "wm-target": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@falcon\" class=\"u-url\">@<span>falcon</span></a></span> A fun read! Enjoy! 😊</p>",
+        "text": "@falcon A fun read! Enjoy! 😊"
+      },
+      "in-reply-to": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Calvin",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/e34f13abcbe029c5936e8dab24e84e5211ba4e45875f16ab7363aff31659b7ef.jpg",
+        "url": "https://mas.to/@cpark2005"
+      },
+      "url": "https://mastodon.social/@falcon/109328017127134583#favorited-by-109293594181366878",
+      "published": null,
+      "wm-received": "2022-11-12T04:20:24Z",
+      "wm-id": 1556659,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mastodon.social/109328017127134583/109293594181366878",
+      "wm-target": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "like-of": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "amanda ☕️🍂📚",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/b3b35e0d49a82015524e37c0fdc0f93d5b3273f79097cbf18b4892cca3668edc.jpg",
+        "url": "https://mas.to/@bookishbrews"
+      },
+      "url": "https://mastodon.social/@falcon/109328017127134583#favorited-by-109323248304831194",
+      "published": null,
+      "wm-received": "2022-11-12T03:11:20Z",
+      "wm-id": 1556619,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mastodon.social/109328017127134583/109323248304831194",
+      "wm-target": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "like-of": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "PsychTink",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/11584c4879ca35a20aa827d02c35880dc022079ed7537e13b04b12a351b83e13.jpg",
+        "url": "https://c.im/@PsychTink"
+      },
+      "url": "https://mastodon.social/@falcon/109328017127134583#reblogged-by-109295039484448365",
+      "published": null,
+      "wm-received": "2022-11-12T01:48:07Z",
+      "wm-id": 1556572,
+      "wm-source": "https://brid.gy/repost/mastodon/@falcon@mastodon.social/109328017127134583/109295039484448365",
+      "wm-target": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "repost-of": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Keryn Weylan 🏳️‍🌈 - ❤️🥔",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/d82a4d420885e2a66448fbf7713b6b9ceeb6bbfcd419e496ef99e5a5ed479914.jpg",
+        "url": "https://mastodon.social/@KerynW"
+      },
+      "url": "https://mastodon.social/@falcon/109328017127134583#favorited-by-268557",
+      "published": null,
+      "wm-received": "2022-11-12T01:48:06Z",
+      "wm-id": 1556571,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mastodon.social/109328017127134583/268557",
+      "wm-target": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "like-of": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "PsychTink",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/11584c4879ca35a20aa827d02c35880dc022079ed7537e13b04b12a351b83e13.jpg",
+        "url": "https://c.im/@PsychTink"
+      },
+      "url": "https://mastodon.social/@falcon/109328017127134583#favorited-by-109295039484448365",
+      "published": null,
+      "wm-received": "2022-11-12T01:48:04Z",
+      "wm-id": 1556570,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mastodon.social/109328017127134583/109295039484448365",
+      "wm-target": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "like-of": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Leroy Kong",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/36e650c48eaf749c483900f6db2dc936fe8c9c61b08cb2ff10852b1978a92aa2.jpg",
+        "url": "https://c.im/@leroykong"
+      },
+      "url": "https://mastodon.social/@falcon/109328017127134583#favorited-by-109309987734226206",
+      "published": null,
+      "wm-received": "2022-11-12T01:48:02Z",
+      "wm-id": 1556569,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mastodon.social/109328017127134583/109309987734226206",
+      "wm-target": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "like-of": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "PsychTink",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/11584c4879ca35a20aa827d02c35880dc022079ed7537e13b04b12a351b83e13.jpg",
+        "url": "https://c.im/@PsychTink"
+      },
+      "url": "https://c.im/@PsychTink/109328159421099148",
+      "published": "2022-11-12T01:08:43",
+      "wm-received": "2022-11-12T01:48:01Z",
+      "wm-id": 1556568,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/109328017127134583/109328159429884331",
+      "wm-target": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@falcon\" class=\"u-url\">@<span>falcon</span></a></span> I enjoyed this quick book. Super cozy ☺️☕ and just enough escape. 📚</p>",
+        "text": "@falcon I enjoyed this quick book. Super cozy ☺️☕ and just enough escape. 📚"
+      },
+      "in-reply-to": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "wm-property": "in-reply-to",
       "wm-private": false
     }
   ]
