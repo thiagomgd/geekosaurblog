@@ -30,7 +30,7 @@ templateClass: tmpl-post
         <a class="u-in-reply-to" href="{{ threadMastodon }}"></a>
       {% endif %}
       {% if description %}
-        <p class="p-bridgy-mastodon-content">{{ description | mastodonShareDescription(tags | filterTagList) }}</p>
+        <p class="p-bridgy-mastodon-content" style="display: none;">{{ description | mastodonShareDescription(tags | filterTagList) }}</p>
       {% endif %}
     {% endif %}
     {% if metadata.bridgy_twitter %}
@@ -39,7 +39,7 @@ templateClass: tmpl-post
         <a class="u-in-reply-to" href="{{ threadTwitter }}"></a>
       {% endif %}
       {% if description %}
-        <p class="p-bridgy-twitter-content">{{ description }}</p>
+        <p class="p-bridgy-twitter-content" style="display: none;">{{ description }}</p>
       {% endif %}
     {% endif %}
   </div>
