@@ -44,9 +44,8 @@
   	<link href="https://twitter.com/{{ metadata.author.twitter_handle }}" rel="me" />
   {% endif %}
   {% if metadata.author.mastodon_url %}
-    <link rel="me" href="{{ metadata.author.mastodon_url }}" />
+    <link href="{{ metadata.author.mastodon_url }}" rel="me" />
   {% endif %}
-  <link rel="me" href="https://mindly.social/@falcon"/>
   
   <!-- Cloudflare Web Analytics -->
   {% if metadata.cloudflare_beacon %}
