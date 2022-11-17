@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-11-13T22:29:45.786Z",
+  "lastFetched": "2022-11-17T05:46:37.049Z",
   "data": {
     "8fc9dd85-da28-4d6a-b0ba-54b69a3a90a4": {
       "title": "Nevermoor: The Trials of Morrigan Crow (Nevermoor, #1)",
@@ -2367,6 +2367,28 @@
       "review": null,
       "date_read": "2021-09-08T00:00:00.000-07:00",
       "year_read": 2021
+    },
+    "b5995f7e-4516-4fc1-ae00-ce4853933205": {
+      "title": "Legacy (Keeper of the Lost Cities, #8)",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557767041l/44150974._SY475_.jpg"
+      ],
+      "rating": 4,
+      "tier": "",
+      "review": null,
+      "date_read": "2022-11-03T00:00:00.000-07:00",
+      "year_read": 2022
+    },
+    "d175b29c-5db1-484f-aab4-ea5bf9645568": {
+      "title": "I Choose Darkness",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662587428l/62330020._SY475_.jpg"
+      ],
+      "rating": 5,
+      "tier": "",
+      "review": null,
+      "date_read": "2022-10-20T00:00:00.000-07:00",
+      "year_read": 2022
     }
   }
 }

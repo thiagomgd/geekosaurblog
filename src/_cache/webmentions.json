@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-11-13T22:29:49.539Z",
+  "lastFetched": "2022-11-17T05:46:41.162Z",
   "children": [
     {
       "type": "entry",
@@ -6121,6 +6121,156 @@
       "content": {
         "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@falcon\" class=\"u-url\">@<span>falcon</span></a></span> I enjoyed this quick book. Super cozy ☺️☕ and just enough escape. 📚</p>",
         "text": "@falcon I enjoyed this quick book. Super cozy ☺️☕ and just enough escape. 📚"
+      },
+      "in-reply-to": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Seth Halleway",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/3d825eed76bb5489bb0ec9c15ee2fffdd09daa7a42a82040eac41de873151e43.jpg",
+        "url": "https://mastodon.online/@sethhalleway"
+      },
+      "url": "https://mindly.social/@falcon/109357413463120230#favorited-by-109052127363185293",
+      "published": null,
+      "wm-received": "2022-11-17T05:21:07Z",
+      "wm-id": 1561084,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109357413463120230/109052127363185293",
+      "wm-target": "https://geekosaur.com/note/af514034-719a-46a2-90fc-c9fa90566727/",
+      "like-of": "https://geekosaur.com/note/af514034-719a-46a2-90fc-c9fa90566727/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/53ec7a1d786bb3a10720f12d5853b318b49cfbcdc82de945c81f9fe1e754144a.png",
+        "url": "https://mastodon.social/@falcon"
+      },
+      "url": "https://mastodon.social/@falcon/109329709921511778",
+      "published": "2022-11-12T07:43:01",
+      "wm-received": "2022-11-14T05:58:54Z",
+      "wm-id": 1558896,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/109328017127134583/109329709921511778",
+      "wm-target": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mindly.social/@daphne\" class=\"u-url\">@<span>daphne</span></a></span> thank you</p>",
+        "text": "@daphne thank you"
+      },
+      "in-reply-to": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "JackalLantern",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/73babd23c806146a9f7ca75128bbf71be531e72f51e9d1936ebb927831ec7f58.png",
+        "url": "https://tech.lgbt/@JackalLantern"
+      },
+      "url": "https://tech.lgbt/@JackalLantern/109340469625466152",
+      "published": "2022-11-14T05:19:22",
+      "wm-received": "2022-11-14T05:58:35Z",
+      "wm-id": 1558895,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/109328017127134583/109340469680091969",
+      "wm-target": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@KerynW\" class=\"u-url\">@<span>KerynW</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@falcon\" class=\"u-url\">@<span>falcon</span></a></span> i think the brute squad is on your way now, because you invoked the forbidden bird site.  I forgive you though, but i’m new here and never really did the Twitters</p>",
+        "text": "@KerynW @falcon i think the brute squad is on your way now, because you invoked the forbidden bird site.  I forgive you though, but i’m new here and never really did the Twitters"
+      },
+      "in-reply-to": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Keryn Weylan 🏳️‍🌈 - ❤️🥔",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/d82a4d420885e2a66448fbf7713b6b9ceeb6bbfcd419e496ef99e5a5ed479914.jpg",
+        "url": "https://mastodon.social/@KerynW"
+      },
+      "url": "https://mastodon.social/@KerynW/109340376441619362",
+      "published": "2022-11-14T04:55:40",
+      "wm-received": "2022-11-14T05:58:34Z",
+      "wm-id": 1558894,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/109328017127134583/109340376441619362",
+      "wm-target": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://tech.lgbt/@JackalLantern\" class=\"u-url\">@<span>JackalLantern</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@falcon\" class=\"u-url\">@<span>falcon</span></a></span> Directly from the author himself!</p><p>\"I turned in my current draft of Bookshops &amp; Bonedust today - a sort-of-prequel to Legends &amp; Lattes set 20 years prior. \"</p><p><a href=\"https://twitter.com/TravisBaldree/status/1585074166575038464\"><span>https://</span><span>twitter.com/TravisBaldree/stat</span><span>us/1585074166575038464</span></a></p><p>He has posted some Book2 art in his Twitter feed as well.</p>\n<a href=\"https://twitter.com/travisbaldree/status/1585074166575038464\">Travis Baldree on Twitter</a>",
+        "text": "@JackalLantern @falcon Directly from the author himself!\"I turned in my current draft of Bookshops & Bonedust today - a sort-of-prequel to Legends & Lattes set 20 years prior. \"https://twitter.com/TravisBaldree/status/1585074166575038464He has posted some Book2 art in his Twitter feed as well.\nTravis Baldree on Twitter"
+      },
+      "in-reply-to": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "JackalLantern",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/73babd23c806146a9f7ca75128bbf71be531e72f51e9d1936ebb927831ec7f58.png",
+        "url": "https://tech.lgbt/@JackalLantern"
+      },
+      "url": "https://tech.lgbt/@JackalLantern/109340304731799551",
+      "published": "2022-11-14T04:37:25",
+      "wm-received": "2022-11-14T05:58:30Z",
+      "wm-id": 1558893,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/109328017127134583/109340305021866127",
+      "wm-target": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@KerynW\" class=\"u-url\">@<span>KerynW</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@falcon\" class=\"u-url\">@<span>falcon</span></a></span> what?  Where?  Who said?</p>",
+        "text": "@KerynW @falcon what?  Where?  Who said?"
+      },
+      "in-reply-to": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Keryn Weylan 🏳️‍🌈 - ❤️🥔",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/d82a4d420885e2a66448fbf7713b6b9ceeb6bbfcd419e496ef99e5a5ed479914.jpg",
+        "url": "https://mastodon.social/@KerynW"
+      },
+      "url": "https://mastodon.social/@KerynW/109340244414559142",
+      "published": "2022-11-14T04:22:05",
+      "wm-received": "2022-11-14T05:58:29Z",
+      "wm-id": 1558892,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/109328017127134583/109340244414559142",
+      "wm-target": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://tech.lgbt/@JackalLantern\" class=\"u-url\">@<span>JackalLantern</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@falcon\" class=\"u-url\">@<span>falcon</span></a></span> There is another book coming!  A sort-of prequel, rather than a sequel, but it stars Viv!</p>",
+        "text": "@JackalLantern @falcon There is another book coming!  A sort-of prequel, rather than a sequel, but it stars Viv!"
+      },
+      "in-reply-to": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "JackalLantern",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/73babd23c806146a9f7ca75128bbf71be531e72f51e9d1936ebb927831ec7f58.png",
+        "url": "https://tech.lgbt/@JackalLantern"
+      },
+      "url": "https://tech.lgbt/@JackalLantern/109340219374575459",
+      "published": "2022-11-14T04:15:43",
+      "wm-received": "2022-11-14T05:58:28Z",
+      "wm-id": 1558891,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mastodon.social/109328017127134583/109340219647634774",
+      "wm-target": "https://geekosaur.com/post/friday-reads-2022-11-11/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@falcon\" class=\"u-url\">@<span>falcon</span></a></span>  <a href=\"https://tech.lgbt/tags/LegendsandLattes\">#<span>LegendsandLattes</span></a> is a great book.  Needs a sequel or something like that.  Don’t want to say much more and spoil it.  Enjoy!</p>\n<a class=\"p-category\" href=\"https://mastodon.social/tags/LegendsandLattes\">LegendsandLattes</a>",
+        "text": "@falcon  #LegendsandLattes is a great book.  Needs a sequel or something like that.  Don’t want to say much more and spoil it.  Enjoy!\nLegendsandLattes"
       },
       "in-reply-to": "https://geekosaur.com/post/friday-reads-2022-11-11/",
       "wm-property": "in-reply-to",

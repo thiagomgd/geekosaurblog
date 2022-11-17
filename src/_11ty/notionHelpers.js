@@ -502,9 +502,9 @@ function updateReplyToByThread(notion, posts) {
 
     const toUpdate = {};
 
-    toUpdate["threadTwitter"] =
+    toUpdate["Thread Twitter"] =
       previousPost.data.notion_post?.tweet || previousPost.data.note?.tweet;
-    toUpdate["threadMastodon"] =
+    toUpdate["Thread Mastodon"] =
       previousPost.data.notion_post?.toot || previousPost.data.note?.toot;
 
     updateNotion(notion, id, toUpdate);

@@ -1,10 +1,10 @@
 {
-  "lastFetched": "2022-11-13T22:29:46.412Z",
+  "lastFetched": "2022-11-17T05:46:38.578Z",
   "data": {
     "c2f069e6-0e8d-461f-abf5-ed3a6e2b941a": {
       "id": "c2f069e6-0e8d-461f-abf5-ed3a6e2b941a",
       "created_time": "2022-11-04T06:29:00.000Z",
-      "last_edited_time": "2022-11-09T17:32:00.000Z",
+      "last_edited_time": "2022-11-15T00:09:00.000Z",
       "cover": null,
       "icon": null,
       "format": "",
@@ -16,9 +16,9 @@
       "thread": "books finished",
       "thread_mastodon": null,
       "images": [
-        "/img/notion/c2f069e6-0e8d-461f-abf5-ed3a6e2b941a/iDmNhZt3PM-1200.jpeg"
+        "/img/notion/c2f069e6-0e8d-461f-abf5-ed3a6e2b941a/mfkXLtqK0W-1200.jpeg"
       ],
-      "toot": null,
+      "toot": "https://mastodon.social/@falcon/109284528581675419",
       "tweet": "https://twitter.com/geeko_saur/status/1588443777127141376",
       "reddit": "https://www.reddit.com/r/geekosaur/comments/ylstsf/finished_legacy_keeper_of_the_lost_cities_8/",
       "thread_twitter": "https://twitter.com/geeko_saur/status/1588443777127141376",
@@ -30,7 +30,7 @@
     "65968750-57c8-40f3-b0b1-8a1cc54de011": {
       "id": "65968750-57c8-40f3-b0b1-8a1cc54de011",
       "created_time": "2022-10-17T06:12:00.000Z",
-      "last_edited_time": "2022-10-23T17:31:00.000Z",
+      "last_edited_time": "2022-11-15T00:09:00.000Z",
       "cover": null,
       "icon": null,
       "format": "",
@@ -40,9 +40,9 @@
       "thread": "german studies",
       "thread_mastodon": null,
       "images": [
-        "/img/notion/65968750-57c8-40f3-b0b1-8a1cc54de011/L2GJuGxk71-1170.jpeg"
+        "/img/notion/65968750-57c8-40f3-b0b1-8a1cc54de011/CBgdpeIOe0-1170.jpeg"
       ],
-      "toot": null,
+      "toot": "https://mastodon.social/@falcon/109182363990248156",
       "tweet": "https://twitter.com/geeko_saur/status/1581904963303002113",
       "reddit": "https://www.reddit.com/r/geekosaur/comments/y64l0p/german_progress/",
       "thread_twitter": "https://twitter.com/geeko_saur/status/1581904963303002113",
@@ -815,6 +815,30 @@
       "reply_to": null,
       "title": "Now with Notes",
       "content": "\nThis is a first note to test this new feature I added! Just to have some quick thoughts that I can add to [Notion](http://notion.so) and get it published here!\n\n"
+    },
+    "af514034-719a-46a2-90fc-c9fa90566727": {
+      "id": "af514034-719a-46a2-90fc-c9fa90566727",
+      "created_time": "2022-11-17T04:37:00.000Z",
+      "last_edited_time": "2022-11-17T05:15:00.000Z",
+      "cover": null,
+      "icon": null,
+      "format": "",
+      "tags": [
+        "Journal",
+        "Learning",
+        "Note Taking"
+      ],
+      "thread": "journal",
+      "thread_mastodon": null,
+      "images": [],
+      "toot": "https://mindly.social/@falcon/109357413463120230",
+      "tweet": "https://twitter.com/geeko_saur/status/1593108777225826305",
+      "reddit": null,
+      "thread_twitter": null,
+      "embed": null,
+      "reply_to": null,
+      "title": "Reading Fast, Memory, Improvements",
+      "content": "\nToday I was chatting with work folks, and we talked a bit about speed reading. One of my co-workers is starting to study a bit more about it, which reminded me that I also should be looking into it. There’s just so much to learn, and being faster/better at it definitely helps.\n\n\nWe also talked a little bit about memory, as I was remembering Moonwalking With Einstein - that I still need to finish.\n\n\nWe also talked about Notion and Obsidian, and I’m looking into Obsidian, to have those evergreen notes that are linked and have a connection graph :) \n\n\nI will still keep notion for blog, books, and a lot else though. All that I use as database, and not notes.\n\n\nBelow is a part of Moonwalking With Einstein where he talks about the poetry step on the memory competitions.\n\n\n![](/img/notion/af514034-719a-46a2-90fc-c9fa90566727/OfOv3TF81d-586.jpeg)\n\n"
     }
   }
 }

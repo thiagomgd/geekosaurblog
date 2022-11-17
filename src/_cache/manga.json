@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-11-13T22:29:46.260Z",
+  "lastFetched": "2022-11-17T05:46:38.441Z",
   "data": {
     "d967447a-7c41-47b8-882c-f466fe3199f3": {
       "title": "Jujutsu Kaisen 0: Blinding Darkness",
@@ -3534,6 +3534,42 @@
       "volume": 7,
       "date_read": "2019-12-29T00:00:00.000-08:00",
       "year_read": 2019
+    },
+    "e2e79f07-913f-4c36-8865-8a42c0bfc5e3": {
+      "title": "Delicious in Dungeon Vol. 8",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588834205l/48748129._SX318_.jpg"
+      ],
+      "rating": 4,
+      "review": null,
+      "series": "ダンジョン飯 / Delicious in Dungeon",
+      "volume": 8,
+      "date_read": "2022-10-10T00:00:00.000-07:00",
+      "year_read": 2022
+    },
+    "50aa00bc-44a8-45e0-8145-89adf6acfbe1": {
+      "title": "Delicious in Dungeon, Vol. 9",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610821380l/55321477._SX318_.jpg"
+      ],
+      "rating": 4,
+      "review": null,
+      "series": "ダンジョン飯 / Delicious in Dungeon",
+      "volume": 9,
+      "date_read": "2022-10-10T00:00:00.000-07:00",
+      "year_read": 2022
+    },
+    "ab67f051-c037-4944-a4a5-b741f39743d5": {
+      "title": "Delicious in Dungeon Vol. 10",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646809975l/58703468.jpg"
+      ],
+      "rating": 4,
+      "review": null,
+      "series": "ダンジョン飯 / Delicious in Dungeon",
+      "volume": 10,
+      "date_read": "2022-10-10T00:00:00.000-07:00",
+      "year_read": 2022
     }
   }
 }
