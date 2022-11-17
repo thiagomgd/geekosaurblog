@@ -1,0 +1,1 @@
+{%- for tag in tagslist | filterTagList -%}{% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}<a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>{%- endfor -%}
