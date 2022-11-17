@@ -11,7 +11,7 @@ eleventyComputed:
   tags_string: "{{ note.tags }}"
   title: "{{ note.title }}"
   # date: "{{ note.created_time }}"
-  description: "{{ note.content | mastodonExerpt }}"
+  description: "{{ note.content }}"
   thumbnail:  "{{ note | getNoteThumbnail | getOptimizedImageUrl }}"
   created_time: "{{ note.created_time }}"
   id: "{{ note.id }}"
