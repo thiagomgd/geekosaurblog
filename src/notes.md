@@ -25,6 +25,9 @@ pagination:
 
 [{{ note.title }}](/note/{{ note.id }}/) - {{ note.created_time | readableDate }}
 
+<div>{% set tagslist = note.tags %}{% include "tagslist.njk" %}</div>
+
+
 {% anyEmbed note.embed %}
 
 {{ note.content | safe }}
