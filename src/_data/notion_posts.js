@@ -85,6 +85,8 @@ async function fetchPage(pageId) {
 // TODO: this won't delete posts deleted on notion
 async function fetchPosts(since) {
   // If we dont have a domain name or token, abort
+  if (process.env.ELEVENTY_ENV === "development") return {};
+  
   if (!metadata["notion_posts"] || !TOKEN) {
     console.warn(">>> unable to fetch posts: missing token or db id");
     return null;

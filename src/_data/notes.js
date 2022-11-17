@@ -70,6 +70,8 @@ async function fetchPage(pageId) {
 }
 
 async function fetchNotes(since) {
+  if (process.env.ELEVENTY_ENV === "development") return {};
+
   if (!metadata["notion_notes"] || !TOKEN) {
     console.warn(">>> unable to fetch notes: missing token or db id");
     return null;
@@ -113,7 +115,7 @@ function processAndReturn(notes) {
   return Object.values(notes).sort(function (a, b) {
     const timeA = a.created_time ? new Date(a.created_time).getTime() : 0;
     const timeB = b.created_time ? new Date(b.created_time).getTime() : 0;
-    return timeA - timeB;
+    return timeB - timeA;
   });
 }
 
