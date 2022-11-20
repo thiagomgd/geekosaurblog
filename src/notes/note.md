@@ -16,6 +16,8 @@ eleventyComputed:
   created_time: "{{ note.created_time }}"
   id: "{{ note.id }}"
   tweetId: "{{ note.tweet | getTwitterId }}"
+  toot: "{{ note.toot }}"
+  reddit: "{{ note.reddit }}"
   replyTo: "{{ note.reply_to }}"
   thread: "{{ note.thread }}"
   permalink: "note/{{ note.id }}/"

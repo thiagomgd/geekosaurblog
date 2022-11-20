@@ -60,6 +60,8 @@ class NotionPost {
           return `/post/${slug}/`;
         },
         tweetId: (data) => getTwitterId(data.notion_post.tweet),
+        toot: (data) => data.notion_post.toot,
+        reddit: (data) => data.notion_post.reddit,
         replyTo: (data) => data.notion_post.reply_to,
         thread: (data) => data.notion_post.thread
       },

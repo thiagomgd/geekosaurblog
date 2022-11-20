@@ -33,14 +33,14 @@ async function fetchLinks(since) {
         and: [
           { property: "Edited", date: { after: since } },
           {
-            property: "Private",
-            checkbox: {equals: false},
+            property: "Publish",
+            checkbox: {equals: true},
           },
         ],
       }
     : {
-      property: "Private",
-      checkbox: {equals: false},
+      property: "Publish",
+      checkbox: {equals: true},
     };
 
   const results = await fetchFromNotion(
