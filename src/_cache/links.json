@@ -1,10 +1,10 @@
 {
-  "lastFetched": "2022-11-20T04:34:06.663Z",
+  "lastFetched": "2022-12-04T23:07:56.768Z",
   "links": {
     "15c452cc-c480-48be-a930-ddb1048a4cb2": {
       "id": "15c452cc-c480-48be-a930-ddb1048a4cb2",
       "created_time": "2022-09-16T20:19:00.000Z",
-      "last_edited_time": "2022-11-20T04:20:00.000Z",
+      "last_edited_time": "2022-11-20T04:46:00.000Z",
       "cover": null,
       "icon": null,
       "type": "",
@@ -14,7 +14,7 @@
       "publish": true,
       "comments": "",
       "tweet": null,
-      "status": "",
+      "status": "Ready to Start",
       "tags": [],
       "discussion": "https://news.ycombinator.com/item?id=32870353",
       "title": "Why Do So Many Kids Need Glasses Now?"
@@ -43,7 +43,7 @@
     "244ee7a9-6f72-4f6d-ba8e-83374340f711": {
       "id": "244ee7a9-6f72-4f6d-ba8e-83374340f711",
       "created_time": "2022-07-25T22:25:00.000Z",
-      "last_edited_time": "2022-11-20T04:20:00.000Z",
+      "last_edited_time": "2022-11-20T04:46:00.000Z",
       "cover": null,
       "icon": null,
       "type": "YouTube",
@@ -53,7 +53,7 @@
       "publish": true,
       "comments": "",
       "tweet": null,
-      "status": "",
+      "status": "Ready to Start",
       "tags": [
         "Books"
       ],
@@ -63,7 +63,7 @@
     "abb31e3b-f4cb-4903-ad30-5965eae95d80": {
       "id": "abb31e3b-f4cb-4903-ad30-5965eae95d80",
       "created_time": "2022-07-15T06:22:00.000Z",
-      "last_edited_time": "2022-11-20T04:20:00.000Z",
+      "last_edited_time": "2022-11-20T04:46:00.000Z",
       "cover": null,
       "icon": null,
       "type": "YouTube",
@@ -73,7 +73,7 @@
       "publish": true,
       "comments": "",
       "tweet": null,
-      "status": "",
+      "status": "Ready to Start",
       "tags": [
         "Books"
       ],
@@ -105,7 +105,7 @@
     "921b2ff4-e562-4915-a425-99dabeb84ff9": {
       "id": "921b2ff4-e562-4915-a425-99dabeb84ff9",
       "created_time": "2022-05-13T00:21:00.000Z",
-      "last_edited_time": "2022-11-20T04:20:00.000Z",
+      "last_edited_time": "2022-11-20T04:46:00.000Z",
       "cover": null,
       "icon": null,
       "type": "Article",
@@ -115,7 +115,7 @@
       "publish": true,
       "comments": "Awesome to see CGMs and insulin pumps getting more visibility, like in Turning Red!",
       "tweet": "https://twitter.com/dailymailceleb/status/1524409378954268675?s=24&t=FHK3SFELu6B-eFkC6RQB_g",
-      "status": "",
+      "status": "Ready to Start",
       "tags": [
         "Diabetes"
       ],
@@ -125,7 +125,7 @@
     "2d82cead-d135-4dd9-b395-ba79e1642274": {
       "id": "2d82cead-d135-4dd9-b395-ba79e1642274",
       "created_time": "2022-05-12T05:33:00.000Z",
-      "last_edited_time": "2022-11-20T04:20:00.000Z",
+      "last_edited_time": "2022-11-20T04:46:00.000Z",
       "cover": null,
       "icon": null,
       "type": "Article",
@@ -135,7 +135,7 @@
       "publish": true,
       "comments": "Nice article about the TV show Columbo ",
       "tweet": "https://twitter.com/falconsensei/status/1524624564986073088",
-      "status": "",
+      "status": "Ready to Start",
       "tags": [
         "TV",
         "Mystery",
@@ -147,7 +147,7 @@
     "1a37bbb0-d809-41c0-8d5c-764d940b5e28": {
       "id": "1a37bbb0-d809-41c0-8d5c-764d940b5e28",
       "created_time": "2022-05-04T04:12:00.000Z",
-      "last_edited_time": "2022-11-20T04:20:00.000Z",
+      "last_edited_time": "2022-11-20T04:46:00.000Z",
       "cover": null,
       "icon": null,
       "type": "Blog Post",
@@ -157,7 +157,7 @@
       "publish": true,
       "comments": "",
       "tweet": null,
-      "status": "",
+      "status": "Ready to Start",
       "tags": [
         "Health"
       ],

@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-11-20T04:34:06.054Z",
+  "lastFetched": "2022-12-04T23:07:56.664Z",
   "data": {
     "8fc9dd85-da28-4d6a-b0ba-54b69a3a90a4": {
       "title": "Nevermoor: The Trials of Morrigan Crow (Nevermoor, #1)",
@@ -2388,6 +2388,17 @@
       "tier": "",
       "review": null,
       "date_read": "2022-10-20T00:00:00.000-07:00",
+      "year_read": 2022
+    },
+    "0a15bda7-6e88-4ea7-8341-a986cc52e521": {
+      "title": "Legends & Lattes",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658829729l/61219635.jpg"
+      ],
+      "rating": 5,
+      "tier": "",
+      "review": null,
+      "date_read": "2022-11-19T00:00:00.000-08:00",
       "year_read": 2022
     }
   }
