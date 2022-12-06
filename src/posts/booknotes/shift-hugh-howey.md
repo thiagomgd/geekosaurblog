@@ -6,6 +6,7 @@ lead: "A book that teaches us a lot about ourselves, our society, and makes us t
 draft: false
 thumbnail: https://m.media-amazon.com/images/I/41Jm4kBSD-L._SY346_.jpg
 slug: 'book-notes-shift-hugh-howey'
+series: 'silo'
 tags:
 - Sci-Fi
 # reddit: 

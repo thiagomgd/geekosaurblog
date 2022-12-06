@@ -6,6 +6,7 @@ lead: "A fantastic sci-fi novel that stands on its own"
 draft: false
 thumbnail: /img/books/wool.jpeg
 slug: 'book-notes-wool-silo-1'
+series: 'silo'
 tags:
 - Sci-Fi
 reddit: https://www.reddit.com/r/geekosaur/comments/s5h535/book_notes_wool_silo_1_by_hugh_howey/
