@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2022-12-04T23:08:04.293Z",
+  "lastFetched": "2022-12-19T23:26:34.579Z",
   "children": [
     {
       "type": "entry",
@@ -6397,6 +6397,569 @@
       "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109402996628015644/109304101325355848",
       "wm-target": "https://geekosaur.com/post/music-corner-18/",
       "like-of": "https://geekosaur.com/post/music-corner-18/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lory Widmer Hess",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/33a8f5a011a3cae085e4017b32bc0dc89327d5e99ce0eb507de81f10b209f0fb.jpg",
+        "url": "https://bookstodon.com/@lorywidmerhess"
+      },
+      "url": "https://mindly.social/@falcon/109470569237323611#favorited-by-109422746768830606",
+      "published": null,
+      "wm-received": "2022-12-07T18:10:05Z",
+      "wm-id": 1576657,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109470569237323611/109422746768830606",
+      "wm-target": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "like-of": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Geri 🐱🌲📚",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/15f93591c2008eec43e5c119170fa25d8530c23a44646b507d7b70b28c8dcd64.jpg",
+        "url": "https://mastodon.sdf.org/@geriruth"
+      },
+      "url": "https://mindly.social/@falcon/109470569237323611#reblogged-by-109354740223435157",
+      "published": null,
+      "wm-received": "2022-12-07T14:32:55Z",
+      "wm-id": 1576547,
+      "wm-source": "https://brid.gy/repost/mastodon/@falcon@mindly.social/109470569237323611/109354740223435157",
+      "wm-target": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "repost-of": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "A Blue Box Full of Books",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/4b342a9a26938469e4bf45d788f914566b03b7e9cea25d073c111b415c93fe9d.png",
+        "url": "https://mastodon.social/@ablueboxfullofbooks"
+      },
+      "url": "https://mindly.social/@falcon/109470569237323611#reblogged-by-109367677486470175",
+      "published": null,
+      "wm-received": "2022-12-07T13:20:58Z",
+      "wm-id": 1576496,
+      "wm-source": "https://brid.gy/repost/mastodon/@falcon@mindly.social/109470569237323611/109367677486470175",
+      "wm-target": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "repost-of": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "A Blue Box Full of Books",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/4b342a9a26938469e4bf45d788f914566b03b7e9cea25d073c111b415c93fe9d.png",
+        "url": "https://mastodon.social/@ablueboxfullofbooks"
+      },
+      "url": "https://mindly.social/@falcon/109470569237323611#favorited-by-109367677486470175",
+      "published": null,
+      "wm-received": "2022-12-07T13:20:55Z",
+      "wm-id": 1576495,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109470569237323611/109367677486470175",
+      "wm-target": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "like-of": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Adam Lui :verified:",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/8bb511231491416705b80af81298eb9561c1d255812873ac220e3bc9082f5b6b.png",
+        "url": "https://elonsucks.org/@adam"
+      },
+      "url": "https://mindly.social/@falcon/109465340677043486#favorited-by-109388985233003764",
+      "published": null,
+      "wm-received": "2022-12-07T11:51:01Z",
+      "wm-id": 1576456,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109465340677043486/109388985233003764",
+      "wm-target": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "like-of": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "KatSpoonanana",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/72fda8be0434dec488923371f2402c05ccdc82c34478f8c53f4736a5baa77bfa.png",
+        "url": "https://toot.community/@KatSpoonanana"
+      },
+      "url": "https://mindly.social/@falcon/109470569237323611#favorited-by-109318561418661446",
+      "published": null,
+      "wm-received": "2022-12-07T10:43:44Z",
+      "wm-id": 1576442,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109470569237323611/109318561418661446",
+      "wm-target": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "like-of": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "the trouble with mia",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/316dd02f6cb3ef95525873f0cec8b6384b312c20a2ea74768b2796b3bfac32bf.jpg",
+        "url": "https://mastodon.social/@fkamiah17"
+      },
+      "url": "https://mindly.social/@falcon/109470569237323611#favorited-by-109319623982466844",
+      "published": null,
+      "wm-received": "2022-12-07T10:43:44Z",
+      "wm-id": 1576443,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109470569237323611/109319623982466844",
+      "wm-target": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "like-of": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Tim",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/bce6340d2897f3fa56b461c95e3eb0057a5e278477db79962efad5e632fc594c.jpg",
+        "url": "https://mastodon.scot/@subtleshiftinemphasis"
+      },
+      "url": "https://mindly.social/@falcon/109470569237323611#favorited-by-109319819670215275",
+      "published": null,
+      "wm-received": "2022-12-07T09:11:00Z",
+      "wm-id": 1576412,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109470569237323611/109319819670215275",
+      "wm-target": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "like-of": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Weebdeluxe",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/622ed6481fcb1c5efb088d53cee25e9dd13f4ad46390ba9794dcb32081dbb181.jpg",
+        "url": "https://mastodon.social/@weebdeluxe"
+      },
+      "url": "https://mindly.social/@falcon/109470569237323611#favorited-by-109318437030893184",
+      "published": null,
+      "wm-received": "2022-12-07T06:26:12Z",
+      "wm-id": 1576381,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109470569237323611/109318437030893184",
+      "wm-target": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "like-of": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Weebdeluxe",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/622ed6481fcb1c5efb088d53cee25e9dd13f4ad46390ba9794dcb32081dbb181.jpg",
+        "url": "https://mastodon.social/@weebdeluxe"
+      },
+      "url": "https://mastodon.social/@weebdeluxe/109470799834369461",
+      "published": "2022-12-07T05:44:03",
+      "wm-received": "2022-12-07T06:26:11Z",
+      "wm-id": 1576380,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mindly.social/109470569237323611/109470799892269812",
+      "wm-target": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mindly.social/@falcon\" class=\"u-url\">@<span>falcon</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/bookstodon\" class=\"u-url\">@<span>bookstodon</span></a></span> oh this sounds interesting!</p>",
+        "text": "@falcon @bookstodon oh this sounds interesting!"
+      },
+      "in-reply-to": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/2adf71d0ac14801941465abf5a7c227ea33c2d656496f0cfa2a03c6c0276224c.jpg",
+        "url": "https://mindly.social/@falcon"
+      },
+      "url": "https://mindly.social/@falcon/109470803101299573",
+      "published": "2022-12-07T05:44:53",
+      "wm-received": "2022-12-07T06:26:10Z",
+      "wm-id": 1576379,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mindly.social/109470569237323611/109470803101299573",
+      "wm-target": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@weebdeluxe\" class=\"u-url\">@<span>weebdeluxe</span></a></span> it's soooooooo good, right?</p>",
+        "text": "@weebdeluxe it's soooooooo good, right?"
+      },
+      "in-reply-to": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Weebdeluxe",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/622ed6481fcb1c5efb088d53cee25e9dd13f4ad46390ba9794dcb32081dbb181.jpg",
+        "url": "https://mastodon.social/@weebdeluxe"
+      },
+      "url": "https://mastodon.social/@weebdeluxe/109470796841484863",
+      "published": "2022-12-07T05:43:17",
+      "wm-received": "2022-12-07T06:26:09Z",
+      "wm-id": 1576378,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mindly.social/109470569237323611/109470796905839058",
+      "wm-target": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mindly.social/@falcon\" class=\"u-url\">@<span>falcon</span></a></span> So happy to see you enjoyed it! I loved loved loved this book so much when I read it a couple of months back!</p>",
+        "text": "@falcon So happy to see you enjoyed it! I loved loved loved this book so much when I read it a couple of months back!"
+      },
+      "in-reply-to": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/2adf71d0ac14801941465abf5a7c227ea33c2d656496f0cfa2a03c6c0276224c.jpg",
+        "url": "https://mindly.social/@falcon"
+      },
+      "url": "https://mindly.social/@falcon/109470623157352529",
+      "published": "2022-12-07T04:59:07",
+      "wm-received": "2022-12-07T05:21:35Z",
+      "wm-id": 1576362,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mindly.social/109465340677043486/109470623157352529",
+      "wm-target": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "photo": [
+        "https://cdn.mindly.social/media_attachments/files/109/470/622/807/974/003/original/775bc2807cae6ec9.png"
+      ],
+      "content": {
+        "html": "<p>Mexican Gothic: This book is SO AMAZING that I really wanted to forget all about it just so I could read it again.</p><p>It's a slow burn historical horror set in... Mexico, that totally picks up as it approaches the end that you won't be able to put it down as you get past a point.</p><p>LOVED the antagonist/thing, and I think it was genius. Sadly, can't talk much because spoilers.</p><p>Goodreads: <a href=\"https://www.goodreads.com/book/show/53152636-mexican-gothic\"><span>https://www.</span><span>goodreads.com/book/show/531526</span><span>36-mexican-gothic</span></a></p><p><a href=\"https://mindly.social/tags/MexicanGothic\">#<span>MexicanGothic</span></a> <a href=\"https://mindly.social/tags/BookishAdvent\">#<span>BookishAdvent</span></a> <a href=\"https://mindly.social/tags/bookstodon\">#<span>bookstodon</span></a> <a href=\"https://mindly.social/tags/GothicHorror\">#<span>GothicHorror</span></a></p>\n<a class=\"p-category\" href=\"https://mindly.social/tags/bookishadvent\">bookishadvent</a>\n<a class=\"p-category\" href=\"https://mindly.social/tags/bookstodon\">bookstodon</a>\n<a class=\"p-category\" href=\"https://mindly.social/tags/gothichorror\">gothichorror</a>\n<a class=\"p-category\" href=\"https://mindly.social/tags/mexicangothic\">mexicangothic</a>\n<a href=\"https://www.goodreads.com/book/show/53152636-mexican-gothic\">Goodreads</a>",
+        "text": "Mexican Gothic: This book is SO AMAZING that I really wanted to forget all about it just so I could read it again.It's a slow burn historical horror set in... Mexico, that totally picks up as it approaches the end that you won't be able to put it down as you get past a point.LOVED the antagonist/thing, and I think it was genius. Sadly, can't talk much because spoilers.Goodreads: https://www.goodreads.com/book/show/53152636-mexican-gothic#MexicanGothic #BookishAdvent #bookstodon #GothicHorror\nbookishadvent\nbookstodon\ngothichorror\nmexicangothic\nGoodreads"
+      },
+      "in-reply-to": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/2adf71d0ac14801941465abf5a7c227ea33c2d656496f0cfa2a03c6c0276224c.jpg",
+        "url": "https://mindly.social/@falcon"
+      },
+      "url": "https://mindly.social/@falcon/109470623157352529",
+      "published": "2022-12-07T04:59:07",
+      "wm-received": "2022-12-07T05:21:35Z",
+      "wm-id": 1576363,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mindly.social/109470569237323611/109470623157352529",
+      "wm-target": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "photo": [
+        "https://cdn.mindly.social/media_attachments/files/109/470/622/807/974/003/original/775bc2807cae6ec9.png"
+      ],
+      "content": {
+        "html": "<p>Mexican Gothic: This book is SO AMAZING that I really wanted to forget all about it just so I could read it again.</p><p>It's a slow burn historical horror set in... Mexico, that totally picks up as it approaches the end that you won't be able to put it down as you get past a point.</p><p>LOVED the antagonist/thing, and I think it was genius. Sadly, can't talk much because spoilers.</p><p>Goodreads: <a href=\"https://www.goodreads.com/book/show/53152636-mexican-gothic\"><span>https://www.</span><span>goodreads.com/book/show/531526</span><span>36-mexican-gothic</span></a></p><p><a href=\"https://mindly.social/tags/MexicanGothic\">#<span>MexicanGothic</span></a> <a href=\"https://mindly.social/tags/BookishAdvent\">#<span>BookishAdvent</span></a> <a href=\"https://mindly.social/tags/bookstodon\">#<span>bookstodon</span></a> <a href=\"https://mindly.social/tags/GothicHorror\">#<span>GothicHorror</span></a></p>\n<a class=\"p-category\" href=\"https://mindly.social/tags/bookishadvent\">bookishadvent</a>\n<a class=\"p-category\" href=\"https://mindly.social/tags/bookstodon\">bookstodon</a>\n<a class=\"p-category\" href=\"https://mindly.social/tags/gothichorror\">gothichorror</a>\n<a class=\"p-category\" href=\"https://mindly.social/tags/mexicangothic\">mexicangothic</a>\n<a href=\"https://www.goodreads.com/book/show/53152636-mexican-gothic\">Goodreads</a>",
+        "text": "Mexican Gothic: This book is SO AMAZING that I really wanted to forget all about it just so I could read it again.It's a slow burn historical horror set in... Mexico, that totally picks up as it approaches the end that you won't be able to put it down as you get past a point.LOVED the antagonist/thing, and I think it was genius. Sadly, can't talk much because spoilers.Goodreads: https://www.goodreads.com/book/show/53152636-mexican-gothic#MexicanGothic #BookishAdvent #bookstodon #GothicHorror\nbookishadvent\nbookstodon\ngothichorror\nmexicangothic\nGoodreads"
+      },
+      "in-reply-to": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MonaT",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/b67046227ecab2681677d99aafa4fa52990a4d6ae6a5459adefdb3fca6d0183d.jpg",
+        "url": "https://toad.social/@monatemchin"
+      },
+      "url": "https://mindly.social/@falcon/109470569237323611#favorited-by-109383771506146052",
+      "published": null,
+      "wm-received": "2022-12-07T05:20:37Z",
+      "wm-id": 1576361,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109470569237323611/109383771506146052",
+      "wm-target": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "like-of": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Elizabeth Morgan",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/a08891d13cef88576062bafe9c7d3ce75e6f3c73e654ebd1c529b85827e754fa.jpg",
+        "url": "https://aus.social/@elzbethmrgn"
+      },
+      "url": "https://aus.social/@elzbethmrgn/109470579234659711",
+      "published": "2022-12-07T04:47:57",
+      "wm-received": "2022-12-07T05:20:36Z",
+      "wm-id": 1576360,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mindly.social/109470569237323611/109470579349456041",
+      "wm-target": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mindly.social/@falcon\" class=\"u-url\">@<span>falcon</span></a></span> not gonna lie I would also pick this up just for the cover</p>",
+        "text": "@falcon not gonna lie I would also pick this up just for the cover"
+      },
+      "in-reply-to": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Frances J Key",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/7a35bea2489c240596dd3162e9746f64052198976c4fbc7c2c094b73863fbfae.png",
+        "url": "https://aus.social/@francesjkey"
+      },
+      "url": "https://mindly.social/@falcon/109470569237323611#favorited-by-109369028435960133",
+      "published": null,
+      "wm-received": "2022-12-07T05:20:35Z",
+      "wm-id": 1576358,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109470569237323611/109369028435960133",
+      "wm-target": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "like-of": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Elizabeth Morgan",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/a08891d13cef88576062bafe9c7d3ce75e6f3c73e654ebd1c529b85827e754fa.jpg",
+        "url": "https://aus.social/@elzbethmrgn"
+      },
+      "url": "https://aus.social/@elzbethmrgn/109470579234659711",
+      "published": "2022-12-07T04:47:57",
+      "wm-received": "2022-12-07T05:20:35Z",
+      "wm-id": 1576359,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mindly.social/109465340677043486/109470579349456041",
+      "wm-target": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mindly.social/@falcon\" class=\"u-url\">@<span>falcon</span></a></span> not gonna lie I would also pick this up just for the cover</p>",
+        "text": "@falcon not gonna lie I would also pick this up just for the cover"
+      },
+      "in-reply-to": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/2adf71d0ac14801941465abf5a7c227ea33c2d656496f0cfa2a03c6c0276224c.jpg",
+        "url": "https://mindly.social/@falcon"
+      },
+      "url": "https://mindly.social/@falcon/109470593665128463",
+      "published": "2022-12-07T04:51:37",
+      "wm-received": "2022-12-07T05:20:33Z",
+      "wm-id": 1576357,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mindly.social/109470569237323611/109470593665128463",
+      "wm-target": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "photo": [
+        "https://cdn.mindly.social/media_attachments/files/109/470/591/852/463/116/original/cb00ba8ae37244f4.png"
+      ],
+      "content": {
+        "html": "<p>Now, some fantasy with dragons: Seraphina, by Rachel Hartman.</p><p>It's a good not-so-battle fantasy with a slight different take on dragons. And the main character is a half dragon.</p><p>I had so much fun with this one years ago!! It's the first in a duology, but works perfectly as a standalone, as the second book explores more about the half-dragons, but it's not continuing the exact plot</p><p>Goodreads: <a href=\"https://www.goodreads.com/book/show/19549841-seraphina\"><span>https://www.</span><span>goodreads.com/book/show/195498</span><span>41-seraphina</span></a></p><p><a href=\"https://mindly.social/tags/seraphina\">#<span>seraphina</span></a> <a href=\"https://mindly.social/tags/fantasy\">#<span>fantasy</span></a> <a href=\"https://mindly.social/tags/BookishAdvent\">#<span>BookishAdvent</span></a> <a href=\"https://mindly.social/tags/dragons\">#<span>dragons</span></a></p>\n<a class=\"p-category\" href=\"https://mindly.social/tags/bookishadvent\">bookishadvent</a>\n<a class=\"p-category\" href=\"https://mindly.social/tags/dragons\">dragons</a>\n<a class=\"p-category\" href=\"https://mindly.social/tags/fantasy\">fantasy</a>\n<a class=\"p-category\" href=\"https://mindly.social/tags/seraphina\">seraphina</a>\n<a href=\"https://www.goodreads.com/book/show/19549841-seraphina\">Goodreads</a>",
+        "text": "Now, some fantasy with dragons: Seraphina, by Rachel Hartman.It's a good not-so-battle fantasy with a slight different take on dragons. And the main character is a half dragon.I had so much fun with this one years ago!! It's the first in a duology, but works perfectly as a standalone, as the second book explores more about the half-dragons, but it's not continuing the exact plotGoodreads: https://www.goodreads.com/book/show/19549841-seraphina#seraphina #fantasy #BookishAdvent #dragons\nbookishadvent\ndragons\nfantasy\nseraphina\nGoodreads"
+      },
+      "in-reply-to": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/2adf71d0ac14801941465abf5a7c227ea33c2d656496f0cfa2a03c6c0276224c.jpg",
+        "url": "https://mindly.social/@falcon"
+      },
+      "url": "https://mindly.social/@falcon/109470593665128463",
+      "published": "2022-12-07T04:51:37",
+      "wm-received": "2022-12-07T05:20:32Z",
+      "wm-id": 1576356,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mindly.social/109465340677043486/109470593665128463",
+      "wm-target": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "photo": [
+        "https://cdn.mindly.social/media_attachments/files/109/470/591/852/463/116/original/cb00ba8ae37244f4.png"
+      ],
+      "content": {
+        "html": "<p>Now, some fantasy with dragons: Seraphina, by Rachel Hartman.</p><p>It's a good not-so-battle fantasy with a slight different take on dragons. And the main character is a half dragon.</p><p>I had so much fun with this one years ago!! It's the first in a duology, but works perfectly as a standalone, as the second book explores more about the half-dragons, but it's not continuing the exact plot</p><p>Goodreads: <a href=\"https://www.goodreads.com/book/show/19549841-seraphina\"><span>https://www.</span><span>goodreads.com/book/show/195498</span><span>41-seraphina</span></a></p><p><a href=\"https://mindly.social/tags/seraphina\">#<span>seraphina</span></a> <a href=\"https://mindly.social/tags/fantasy\">#<span>fantasy</span></a> <a href=\"https://mindly.social/tags/BookishAdvent\">#<span>BookishAdvent</span></a> <a href=\"https://mindly.social/tags/dragons\">#<span>dragons</span></a></p>\n<a class=\"p-category\" href=\"https://mindly.social/tags/bookishadvent\">bookishadvent</a>\n<a class=\"p-category\" href=\"https://mindly.social/tags/dragons\">dragons</a>\n<a class=\"p-category\" href=\"https://mindly.social/tags/fantasy\">fantasy</a>\n<a class=\"p-category\" href=\"https://mindly.social/tags/seraphina\">seraphina</a>\n<a href=\"https://www.goodreads.com/book/show/19549841-seraphina\">Goodreads</a>",
+        "text": "Now, some fantasy with dragons: Seraphina, by Rachel Hartman.It's a good not-so-battle fantasy with a slight different take on dragons. And the main character is a half dragon.I had so much fun with this one years ago!! It's the first in a duology, but works perfectly as a standalone, as the second book explores more about the half-dragons, but it's not continuing the exact plotGoodreads: https://www.goodreads.com/book/show/19549841-seraphina#seraphina #fantasy #BookishAdvent #dragons\nbookishadvent\ndragons\nfantasy\nseraphina\nGoodreads"
+      },
+      "in-reply-to": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/2adf71d0ac14801941465abf5a7c227ea33c2d656496f0cfa2a03c6c0276224c.jpg",
+        "url": "https://mindly.social/@falcon"
+      },
+      "url": "https://mindly.social/@falcon/109470569237323611",
+      "published": "2022-12-07T04:45:24",
+      "wm-received": "2022-12-07T05:20:31Z",
+      "wm-id": 1576355,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mindly.social/109465340677043486/109470569237323611",
+      "wm-target": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "photo": [
+        "https://cdn.mindly.social/media_attachments/files/109/470/556/275/248/433/original/f911dcc9a7a5073a.png"
+      ],
+      "content": {
+        "html": "<p>This time it's a gothic mystery with witches: The Lighthouse Witches. It's a great read that starts as a more slow-burn mystery. <br />The story is told from different PoVs at different times. Picked up because it had a beautiful cover, and ended up totally involved.</p><p>I posted my notes here: <a href=\"https://geekosaur.com/post/the-lighthouse-witches-book-notes/\"><span>https://</span><span>geekosaur.com/post/the-lightho</span><span>use-witches-book-notes/</span></a></p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/bookstodon\" class=\"u-url\">@<span>bookstodon</span></a></span> <a href=\"https://mindly.social/tags/BookishAdvent\">#<span>BookishAdvent</span></a> <a href=\"https://mindly.social/tags/bookstodon\">#<span>bookstodon</span></a> <a href=\"https://mindly.social/tags/mystery\">#<span>mystery</span></a> <a href=\"https://mindly.social/tags/gothic\">#<span>gothic</span></a> <a href=\"https://mindly.social/tags/witches\">#<span>witches</span></a></p>\n<a class=\"p-category\" href=\"https://mindly.social/tags/Gothic\">Gothic</a>\n<a class=\"p-category\" href=\"https://mindly.social/tags/bookishadvent\">bookishadvent</a>\n<a class=\"p-category\" href=\"https://mindly.social/tags/bookstodon\">bookstodon</a>\n<a class=\"p-category\" href=\"https://mindly.social/tags/mystery\">mystery</a>\n<a class=\"p-category\" href=\"https://mindly.social/tags/witches\">witches</a>\n<a href=\"https://geekosaur.com/post/the-lighthouse-witches-book-notes/\">Book Notes: The Lighthouse Witches (C. J. Cooke)</a>",
+        "text": "This time it's a gothic mystery with witches: The Lighthouse Witches. It's a great read that starts as a more slow-burn mystery. \nThe story is told from different PoVs at different times. Picked up because it had a beautiful cover, and ended up totally involved.I posted my notes here: https://geekosaur.com/post/the-lighthouse-witches-book-notes/@bookstodon #BookishAdvent #bookstodon #mystery #gothic #witches\nGothic\nbookishadvent\nbookstodon\nmystery\nwitches\nBook Notes: The Lighthouse Witches (C. J. Cooke)"
+      },
+      "in-reply-to": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Frances J Key",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/7a35bea2489c240596dd3162e9746f64052198976c4fbc7c2c094b73863fbfae.png",
+        "url": "https://aus.social/@francesjkey"
+      },
+      "url": "https://mindly.social/@falcon/109470569237323611#reblogged-by-109369028435960133",
+      "published": null,
+      "wm-received": "2022-12-07T05:20:08Z",
+      "wm-id": 1576353,
+      "wm-source": "https://brid.gy/repost/mastodon/@falcon@mindly.social/109470569237323611/109369028435960133",
+      "wm-target": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "repost-of": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "bookstodon group",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/2bea8d5b4f87bb98592376373f65f585a22c11df42021ff53c0eff9832d63843.png",
+        "url": "https://a.gup.pe/u/bookstodon"
+      },
+      "url": "https://mindly.social/@falcon/109470569237323611#reblogged-by-109316563566825822",
+      "published": null,
+      "wm-received": "2022-12-07T05:20:08Z",
+      "wm-id": 1576354,
+      "wm-source": "https://brid.gy/repost/mastodon/@falcon@mindly.social/109470569237323611/109316563566825822",
+      "wm-target": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "repost-of": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mapo Dofu",
+        "photo": "https://cdn.mindly.social/cache/accounts/avatars/109/295/323/020/475/338/original/6beb77a413c4f4ea.webp",
+        "url": "https://ieji.de/@mapodofu"
+      },
+      "url": "https://mindly.social/@falcon/109465340677043486#favorited-by-109295323020475338",
+      "published": null,
+      "wm-received": "2022-12-06T15:44:49Z",
+      "wm-id": 1575902,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109465340677043486/109295323020475338",
+      "wm-target": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "like-of": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lavinia",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/3e1dd7b2c13cdc88db7ba539657bf8c40080c01bcdda010363477bbc71ec4cb1.png",
+        "url": "https://mindly.social/@PlatinumWarlock"
+      },
+      "url": "https://mindly.social/@falcon/109465340677043486#favorited-by-109365750608202911",
+      "published": null,
+      "wm-received": "2022-12-06T11:23:26Z",
+      "wm-id": 1575746,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109465340677043486/109365750608202911",
+      "wm-target": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "like-of": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Lavinia",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/3e1dd7b2c13cdc88db7ba539657bf8c40080c01bcdda010363477bbc71ec4cb1.png",
+        "url": "https://mindly.social/@PlatinumWarlock"
+      },
+      "url": "https://mindly.social/@PlatinumWarlock/109465430852154305",
+      "published": "2022-12-06T06:58:39",
+      "wm-received": "2022-12-06T11:23:25Z",
+      "wm-id": 1575744,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mindly.social/109465340677043486/109465430852154305",
+      "wm-target": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mindly.social/@falcon\" class=\"u-url\">@<span>falcon</span></a></span> Oooh, interesting to hear that Apple TV+ is adapting it! Can’t wait to see how that goes. It was a really interesting book.</p>",
+        "text": "@falcon Oooh, interesting to hear that Apple TV+ is adapting it! Can’t wait to see how that goes. It was a really interesting book."
+      },
+      "in-reply-to": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Inhae",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/2e568be58305351a6974bcf7007984bd9e1339e51a19814dcf92d49e9f2b959b.jpg",
+        "url": "https://mindly.social/@Inhae"
+      },
+      "url": "https://mindly.social/@falcon/109465340677043486#favorited-by-109305572170714271",
+      "published": null,
+      "wm-received": "2022-12-06T11:23:25Z",
+      "wm-id": 1575745,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109465340677043486/109305572170714271",
+      "wm-target": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "like-of": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carmela",
+        "photo": "https://webmention.io/avatar/cdn.mindly.social/080f1d44158c9851a58090deb858e92bcd729f8f12db8956bad531cacf6f4510.png",
+        "url": "https://mstdn.social/@DocCarms"
+      },
+      "url": "https://mindly.social/@falcon/109465340677043486#favorited-by-109291730119195040",
+      "published": null,
+      "wm-received": "2022-12-06T11:22:56Z",
+      "wm-id": 1575742,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109465340677043486/109291730119195040",
+      "wm-target": "https://geekosaur.com/post/book-notes-wool-silo-1/",
+      "like-of": "https://geekosaur.com/post/book-notes-wool-silo-1/",
       "wm-property": "like-of",
       "wm-private": false
     }
