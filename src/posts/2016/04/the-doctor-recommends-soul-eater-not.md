@@ -13,7 +13,7 @@ menu: ""
 tags:
 - Manga
 - Review
-- TheDoctorRecommends
+- Recommendations
 title: 'The Doctor Recommends: Soul Eater Not'
 url: 2016/04/the-doctor-recommends-soul-eater-not.html
 ---
