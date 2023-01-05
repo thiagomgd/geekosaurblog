@@ -11,7 +11,7 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/hiye2n/personal_updates_for_october_2017/
 tags:
 - Personal
-- Light Novel
+- LightNovels
 - Anime
 - TV
 - Music

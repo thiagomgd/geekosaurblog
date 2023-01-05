@@ -22,7 +22,7 @@ reviewrating: ""
 reviewsameas: []
 slug: weekly-updates-5
 tags:
-- Blog Memes
+- BlogMemes
 title: 'Weekly Updates #5'
 ---
 

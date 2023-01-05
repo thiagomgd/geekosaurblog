@@ -9,7 +9,7 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/jbu58o/im_playing_animal_crossing/
 tags:
 - Games
-- Nintendo Switch
+- NintendoSwitch
 title: I'm Playing Animal Crossing
 tweetId: "1316824554363334657"
 ---

@@ -10,8 +10,8 @@ images:
 - banners/Friday-Finds3.jpg
 menu: ""
 tags:
-- Blog Memes
-- Friday Finds
+- BlogMemes
+- FridayFinds
 - Books
 title: Friday Finds 3
 url: 2016/07/friday-finds-3.html

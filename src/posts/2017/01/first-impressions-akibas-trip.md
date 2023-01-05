@@ -23,7 +23,7 @@ reviewsameas:
 - http://myanimelist.net/anime/34051/Akibas_Trip_The_Animation
 tags:
 - Anime
-- First Impressions
+- FirstImpressions
 title: 'First Impressions: Akiba''s Trip'
 ---
 

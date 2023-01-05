@@ -10,7 +10,7 @@ images:
 - http://i.imgur.com/oJePSna.jpg
 menu: ""
 tags:
-- Dungeons and Dragons
+- DungeonsAndDragons
 title: Finished Lost Mine of Phandelver
 url: 2016/06/finished-lost-mine-of-phandelver.html
 ---

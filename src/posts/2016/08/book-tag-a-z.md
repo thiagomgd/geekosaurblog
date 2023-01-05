@@ -10,8 +10,8 @@ images:
 menu: ""
 tags:
 - Books
-- tags
-- Blog Memes
+- Tags
+- BlogMemes
 title: '[TAG] Book Tag: A-Z'
 url: posts/tag-book-tag-a-z
 ---

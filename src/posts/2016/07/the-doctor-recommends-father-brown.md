@@ -12,9 +12,9 @@ menu: ""
 tags:
 - BBC
 - Review
-- The Doctor Recommends
-- TV Shows
-title: 'The Doctor Recommends: Father Brown'
+- Recommendations
+- TV
+title: 'Recommendations: Father Brown'
 url: 2016/07/the-doctor-recommends-father-brown.html
 ---
 

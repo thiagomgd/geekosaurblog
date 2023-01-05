@@ -13,7 +13,7 @@ images:
 menu: ""
 tags:
 - Anime
-- First Impressions
+- FirstImpressions
 title: 'First Impressions: ReLIFE'
 url: 2016/07/first-impressions-relife.html
 ---

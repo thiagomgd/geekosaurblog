@@ -8,8 +8,8 @@ draft: true
 images:
 - banners/top3-shows-to-finish.jpg
 tags:
-- TV Shows
-- Top X
+- TV
+- Lists
 title: Top 3 Shows I Need to Finish
 url: 2016/08/top-3-shows-i-need-to-finish.html
 ---

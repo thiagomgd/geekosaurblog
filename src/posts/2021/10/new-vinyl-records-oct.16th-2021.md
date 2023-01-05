@@ -11,7 +11,7 @@ reddit: ""
 series: ""
 slug: new-vinyl-records-2021-10-16
 tags:
-- My Record Collection
+- MyRecordCollection
 - Music
 thumbnail: /img/morphine.jpeg
 title: 'New vinyl records: Oct. 16th 2021'

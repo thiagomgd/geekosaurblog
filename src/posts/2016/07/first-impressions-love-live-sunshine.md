@@ -12,7 +12,7 @@ images:
 menu: ""
 tags:
 - Anime
-- First Impressions
+- FirstImpressions
 title: 'First impressions: Love Live! Sunshine!!'
 url: 2016/07/first-impressions-love-live-sunshine.html
 ---

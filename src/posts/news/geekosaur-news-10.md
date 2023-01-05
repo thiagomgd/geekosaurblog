@@ -7,7 +7,7 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/msvozd/geekosaur_weekly_10/
 slug: geekosaur-weekly-10
 tags:
-- Light Novels
+- LightNovels
 - Anime
 title: 'Geekosaur News #10'
 toc: true

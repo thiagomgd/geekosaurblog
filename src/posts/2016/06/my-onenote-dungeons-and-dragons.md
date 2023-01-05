@@ -9,7 +9,7 @@ images:
 - http://i.imgur.com/PY8XAdh.png
 menu: ""
 tags:
-- Dungeons and Dragons
+- DungeonsAndDragons
 title: My OneNote Dungeons and Dragons character sheet
 url: 2016/06/my-onenote-dungeons-and-dragons.html
 ---

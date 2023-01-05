@@ -9,7 +9,7 @@ images:
 - http://i.imgur.com/RrsiR0U.png
 menu: ""
 tags:
-- Dungeons and Dragons
+- DungeonsAndDragons
 title: 'Dungeons and Dragons: Our second session'
 slug: dungeons-and-dragons-our-second-session
 ---

@@ -20,8 +20,7 @@ reviewitemtype: ""
 reviewrating: ""
 reviewsameas: []
 tags:
-- Dungeons and Dragons
-- Unearthed Arcana
+- DungeonsAndDragons
 title: Reviewing the new Ranger class
 ---
 

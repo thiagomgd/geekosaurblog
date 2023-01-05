@@ -14,7 +14,7 @@ tags:
 - Anime
 - Recommendations
 - Lists
-- Commenting Other Blogs
+- CommentingOtherBlogs
 thumbnail: /img/dragon-maid.jpeg
 title: Checking Your Anime Recs And Favorites (Oct. 2021)
 toc: false

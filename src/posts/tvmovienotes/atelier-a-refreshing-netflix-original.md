@@ -10,7 +10,7 @@ reddit: ""
 series: ""
 slug: atelier-refreshing-netflix-original
 tags:
-- TV Review
+- TV
 - J-Drama
 thumbnail: /img/atelier.jpeg
 title: 'Atelier: A Refreshing Netflix Original'

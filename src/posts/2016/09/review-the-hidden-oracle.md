@@ -23,7 +23,6 @@ reviewsameas:
 - http://rickriordan.com/book/the-hidden-oracle/
 slug: review-the-hidden-oracle-the-trials-of-apollo
 tags:
-- Rick Riordan
 - Review
 - Books
 title: 'Review: The Hidden Oracle (The Trials of Apollo #1)'
