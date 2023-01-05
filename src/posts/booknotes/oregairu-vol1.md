@@ -1,5 +1,5 @@
 ---
-tags: ["Review", "Light Novels", "Books"]
+tags: ["Review", "LightNovels", "Books"]
 draft: false
 categories: ["Books"]
 description: "Review of  My Youth Romantic Comedy Is Wrong as I Expected (light novel), Vol. 1 by Wataru Watari (Author), Ponkan 8 (Artist)"

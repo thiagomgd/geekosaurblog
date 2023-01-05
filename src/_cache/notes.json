@@ -1,22 +1,22 @@
 {
-  "lastFetched": "2022-12-24T23:45:23.318Z",
+  "lastFetched": "2023-01-05T01:40:01.433Z",
   "data": {
     "c2f069e6-0e8d-461f-abf5-ed3a6e2b941a": {
       "id": "c2f069e6-0e8d-461f-abf5-ed3a6e2b941a",
       "created_time": "2022-11-04T06:29:00.000Z",
-      "last_edited_time": "2022-11-15T00:09:00.000Z",
+      "last_edited_time": "2023-01-05T01:36:00.000Z",
       "cover": null,
       "icon": null,
       "format": "",
       "tags": [
         "Books",
-        "Middle Grade",
+        "MiddleGrade",
         "Reading"
       ],
       "thread": "books finished",
       "thread_mastodon": null,
       "images": [
-        "/img/notion/c2f069e6-0e8d-461f-abf5-ed3a6e2b941a/mfkXLtqK0W-1200.jpeg"
+        "/img/notion/c2f069e6-0e8d-461f-abf5-ed3a6e2b941a/ZFIHjMpNSv-1200.jpeg"
       ],
       "toot": "https://mastodon.social/@falcon/109284528581675419",
       "tweet": "https://twitter.com/geeko_saur/status/1588443777127141376",
@@ -54,22 +54,22 @@
     "231cbafa-09d4-4b8c-a15e-33a4c960b569": {
       "id": "231cbafa-09d4-4b8c-a15e-33a4c960b569",
       "created_time": "2022-10-07T23:44:00.000Z",
-      "last_edited_time": "2022-10-08T06:17:00.000Z",
+      "last_edited_time": "2023-01-05T01:36:00.000Z",
       "cover": null,
       "icon": null,
       "format": "",
       "tags": [
         "Reading",
         "Manga",
-        "Delicious In Dungeon"
+        "DeliciousInDungeon"
       ],
       "thread": "",
       "thread_mastodon": null,
       "images": [
-        "/img/notion/231cbafa-09d4-4b8c-a15e-33a4c960b569/zHhe6isweJ-1200.jpeg",
-        "/img/notion/231cbafa-09d4-4b8c-a15e-33a4c960b569/nViyzF2aKf-1200.jpeg",
-        "/img/notion/231cbafa-09d4-4b8c-a15e-33a4c960b569/7XqXHrCd6t-1200.jpeg",
-        "/img/notion/231cbafa-09d4-4b8c-a15e-33a4c960b569/anI08uNPya-1200.jpeg"
+        "/img/notion/231cbafa-09d4-4b8c-a15e-33a4c960b569/9VE0M5JkKQ-1200.jpeg",
+        "/img/notion/231cbafa-09d4-4b8c-a15e-33a4c960b569/KmF5DrVaVT-1200.jpeg",
+        "/img/notion/231cbafa-09d4-4b8c-a15e-33a4c960b569/GNekVEIUo_-1200.jpeg",
+        "/img/notion/231cbafa-09d4-4b8c-a15e-33a4c960b569/tEF0KQb3OM-1200.jpeg"
       ],
       "toot": null,
       "tweet": "https://twitter.com/geeko_saur/status/1578553366128791552",
@@ -106,20 +106,20 @@
     "3da9cc88-b385-4b97-a33e-2797528078ee": {
       "id": "3da9cc88-b385-4b97-a33e-2797528078ee",
       "created_time": "2022-09-20T23:41:00.000Z",
-      "last_edited_time": "2022-09-21T17:32:00.000Z",
+      "last_edited_time": "2023-01-05T01:36:00.000Z",
       "cover": null,
       "icon": null,
       "format": "",
       "tags": [
-        "New Books",
-        "New Things",
+        "NewBooks",
+        "NewThings",
         "Books",
-        "Middle Grade"
+        "MiddleGrade"
       ],
       "thread": "",
       "thread_mastodon": null,
       "images": [
-        "/img/notion/3da9cc88-b385-4b97-a33e-2797528078ee/s17KFWcMvC-965.jpeg"
+        "/img/notion/3da9cc88-b385-4b97-a33e-2797528078ee/XrtYC2EciQ-965.jpeg"
       ],
       "toot": null,
       "tweet": "https://twitter.com/geeko_saur/status/1572392426073100288",
@@ -156,18 +156,18 @@
     "f888901f-e6f5-4070-9f55-27f84375f7b7": {
       "id": "f888901f-e6f5-4070-9f55-27f84375f7b7",
       "created_time": "2022-08-08T05:51:00.000Z",
-      "last_edited_time": "2022-08-08T18:59:00.000Z",
+      "last_edited_time": "2023-01-05T01:39:00.000Z",
       "cover": null,
       "icon": null,
       "format": "quote",
       "tags": [
         "Quote",
-        "Anime & Manga Quote"
+        "AnimeMangaQuote"
       ],
       "thread": "",
       "thread_mastodon": null,
       "images": [
-        "/img/notion/f888901f-e6f5-4070-9f55-27f84375f7b7/humuauhCQM-944.jpeg"
+        "/img/notion/f888901f-e6f5-4070-9f55-27f84375f7b7/PgZCDIzN9K-944.jpeg"
       ],
       "toot": null,
       "tweet": "https://twitter.com/geeko_saur/status/1556688948650541057",
@@ -327,20 +327,20 @@
     "c14972fb-0484-43e8-8b0c-ec796856708e": {
       "id": "c14972fb-0484-43e8-8b0c-ec796856708e",
       "created_time": "2022-04-25T04:53:00.000Z",
-      "last_edited_time": "2022-07-24T18:18:00.000Z",
+      "last_edited_time": "2023-01-05T01:35:00.000Z",
       "cover": null,
       "icon": null,
       "format": "",
       "tags": [
         "Reading",
         "Manga",
-        "One Piece"
+        "OnePiece"
       ],
       "thread": "",
       "thread_mastodon": null,
       "images": [
-        "/img/notion/c14972fb-0484-43e8-8b0c-ec796856708e/jeEwHQodEw-1200.jpeg",
-        "/img/notion/c14972fb-0484-43e8-8b0c-ec796856708e/vwqAClW9vN-1200.jpeg"
+        "/img/notion/c14972fb-0484-43e8-8b0c-ec796856708e/DuQ72qW-rr-1200.jpeg",
+        "/img/notion/c14972fb-0484-43e8-8b0c-ec796856708e/sxzT6c9_XR-1200.jpeg"
       ],
       "toot": null,
       "tweet": "https://twitter.com/FalconSensei/status/1518458059969994753",
@@ -354,18 +354,18 @@
     "bd5055ef-933d-4685-becc-f675e0e36477": {
       "id": "bd5055ef-933d-4685-becc-f675e0e36477",
       "created_time": "2022-04-21T05:37:00.000Z",
-      "last_edited_time": "2022-07-24T18:18:00.000Z",
+      "last_edited_time": "2023-01-05T01:35:00.000Z",
       "cover": null,
       "icon": null,
       "format": "",
       "tags": [
         "Reading",
-        "Non-Fiction"
+        "NonFiction"
       ],
       "thread": "",
       "thread_mastodon": null,
       "images": [
-        "/img/notion/bd5055ef-933d-4685-becc-f675e0e36477/WL8LbaRGRJ-1200.jpeg"
+        "/img/notion/bd5055ef-933d-4685-becc-f675e0e36477/KprrOqTz6u-1200.jpeg"
       ],
       "toot": null,
       "tweet": "https://twitter.com/FalconSensei/status/1517037636749299712",
@@ -403,22 +403,22 @@
     "98ebcb91-3a20-429b-ab99-94d9db1b5f9d": {
       "id": "98ebcb91-3a20-429b-ab99-94d9db1b5f9d",
       "created_time": "2022-04-13T04:47:00.000Z",
-      "last_edited_time": "2022-07-16T22:50:00.000Z",
+      "last_edited_time": "2023-01-05T01:35:00.000Z",
       "cover": null,
       "icon": null,
       "format": "",
       "tags": [
         "Reading",
         "Manga",
-        "One Piece"
+        "OnePiece"
       ],
       "thread": "",
       "thread_mastodon": null,
       "images": [
-        "/img/notion/98ebcb91-3a20-429b-ab99-94d9db1b5f9d/35KJkuIJjO-1200.jpeg",
-        "/img/notion/98ebcb91-3a20-429b-ab99-94d9db1b5f9d/NagOFAhCWP-1200.jpeg",
-        "/img/notion/98ebcb91-3a20-429b-ab99-94d9db1b5f9d/5exRWy8yJK-1200.jpeg",
-        "/img/notion/98ebcb91-3a20-429b-ab99-94d9db1b5f9d/cdLq08uG5Y-1200.jpeg"
+        "/img/notion/98ebcb91-3a20-429b-ab99-94d9db1b5f9d/vifugIdI4D-1200.jpeg",
+        "/img/notion/98ebcb91-3a20-429b-ab99-94d9db1b5f9d/08sRyWvOs--1200.jpeg",
+        "/img/notion/98ebcb91-3a20-429b-ab99-94d9db1b5f9d/rLRBQnE5Ti-1200.jpeg",
+        "/img/notion/98ebcb91-3a20-429b-ab99-94d9db1b5f9d/aAdYABrR34-1200.jpeg"
       ],
       "toot": null,
       "tweet": "https://twitter.com/FalconSensei/status/1514274966707056646",
@@ -432,13 +432,13 @@
     "33e8d98e-c116-44e8-9f6b-1093db736086": {
       "id": "33e8d98e-c116-44e8-9f6b-1093db736086",
       "created_time": "2022-04-07T06:27:00.000Z",
-      "last_edited_time": "2022-07-16T22:50:00.000Z",
+      "last_edited_time": "2023-01-05T01:35:00.000Z",
       "cover": null,
       "icon": null,
       "format": "",
       "tags": [
         "German",
-        "New Things"
+        "NewThings"
       ],
       "thread": "",
       "thread_mastodon": null,
@@ -679,20 +679,20 @@
     "0a9d42b3-a9e2-43b9-bb00-497769b21a2f": {
       "id": "0a9d42b3-a9e2-43b9-bb00-497769b21a2f",
       "created_time": "2022-02-13T04:09:00.000Z",
-      "last_edited_time": "2022-07-16T22:50:00.000Z",
+      "last_edited_time": "2023-01-05T01:35:00.000Z",
       "cover": null,
       "icon": null,
       "format": "",
       "tags": [
         "Personal",
-        "New Things"
+        "NewThings"
       ],
       "thread": "",
       "thread_mastodon": null,
       "images": [
-        "/img/notion/0a9d42b3-a9e2-43b9-bb00-497769b21a2f/amrCAJ3Dup-1200.jpeg",
-        "/img/notion/0a9d42b3-a9e2-43b9-bb00-497769b21a2f/gzeNwfLq8c-1200.jpeg",
-        "/img/notion/0a9d42b3-a9e2-43b9-bb00-497769b21a2f/UVBXDZtQyC-1200.jpeg"
+        "/img/notion/0a9d42b3-a9e2-43b9-bb00-497769b21a2f/_LBty8R6DZ-1200.jpeg",
+        "/img/notion/0a9d42b3-a9e2-43b9-bb00-497769b21a2f/7RKX9tMNwT-1200.jpeg",
+        "/img/notion/0a9d42b3-a9e2-43b9-bb00-497769b21a2f/JRx3HRtLlg-1200.jpeg"
       ],
       "toot": null,
       "tweet": null,
@@ -819,14 +819,14 @@
     "af514034-719a-46a2-90fc-c9fa90566727": {
       "id": "af514034-719a-46a2-90fc-c9fa90566727",
       "created_time": "2022-11-17T04:37:00.000Z",
-      "last_edited_time": "2022-11-23T17:32:00.000Z",
+      "last_edited_time": "2023-01-05T01:36:00.000Z",
       "cover": null,
       "icon": null,
       "format": "",
       "tags": [
         "Journal",
         "Learning",
-        "Note Taking"
+        "NoteTaking"
       ],
       "thread": "journal",
       "thread_mastodon": "https://mindly.social/@falcon/109357413463120230",
@@ -838,7 +838,7 @@
       "embed": null,
       "reply_to": null,
       "title": "Reading Fast, Memory, Improvements",
-      "content": "\nToday I was chatting with work folks, and we talked a bit about speed reading. One of my co-workers is starting to study a bit more about it, which reminded me that I also should be looking into it. There’s just so much to learn, and being faster/better at it definitely helps.\n\n\nWe also talked a little bit about memory, as I was remembering Moonwalking With Einstein - that I still need to finish.\n\n\nWe also talked about Notion and Obsidian, and I’m looking into Obsidian, to have those evergreen notes that are linked and have a connection graph :) \n\n\nI will still keep notion for blog, books, and a lot else though. All that I use as database, and not notes.\n\n\nBelow is a part of Moonwalking With Einstein where he talks about the poetry step on the memory competitions.\n\n\n![](/img/notion/af514034-719a-46a2-90fc-c9fa90566727/CpQ1T-AmSk-586.jpeg)\n\n"
+      "content": "\nToday I was chatting with work folks, and we talked a bit about speed reading. One of my co-workers is starting to study a bit more about it, which reminded me that I also should be looking into it. There’s just so much to learn, and being faster/better at it definitely helps.\n\n\nWe also talked a little bit about memory, as I was remembering Moonwalking With Einstein - that I still need to finish.\n\n\nWe also talked about Notion and Obsidian, and I’m looking into Obsidian, to have those evergreen notes that are linked and have a connection graph :) \n\n\nI will still keep notion for blog, books, and a lot else though. All that I use as database, and not notes.\n\n\nBelow is a part of Moonwalking With Einstein where he talks about the poetry step on the memory competitions.\n\n\n![](/img/notion/af514034-719a-46a2-90fc-c9fa90566727/1EXHewtFfU-586.jpeg)\n\n"
     }
   }
 }

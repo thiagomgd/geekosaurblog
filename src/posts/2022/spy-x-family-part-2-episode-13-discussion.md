@@ -7,9 +7,9 @@ draft: false
 # thumbnail: /img/
 slug: 'spy-x-family-part-2-episode-1-discussion'
 tags: 
-- Fall 2022 Anime 
+- Fall2022Anime 
 - Anime 
-- Spy x Family 
+- SpyXFamily 
 # reddit: 
 tweetId: '1578646599781306368'
 thread: 'spy x family season 2'
