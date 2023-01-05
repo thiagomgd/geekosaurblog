@@ -1,7 +1,7 @@
 ---
 banner: http://i.imgur.com/sMLfTY9.jpg
 categories:
-- Movies & TV
+- MoviesTV
 date: "2016-08-22T15:29:29-03:00"
 description: There's still a couple of interesting shows to premiere during August,
   and here I'm to share it with you!

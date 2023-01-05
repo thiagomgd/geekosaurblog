@@ -1,7 +1,7 @@
 ---
 banner: http://i.imgur.com/Uu07MI5.png
 categories:
-- Movies & TV
+- MoviesTV
 date: "2016-07-04T09:39:00-03:00"
 description: Based on the eponymous comics, Wynonna Earp promised a fun weird-western
   show, with action and a strong female lead. And it delivered much more than that.

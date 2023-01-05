@@ -1,6 +1,6 @@
 ---
 categories:
-- Movies & TV
+- MoviesTV
 date: "2020-09-27T12:33:00-07:00"
 description: 'When I started this show, the first 2 season were out already. AND I
   BINGED BOTH SO QUICKLY. It became of of those series I absolutely love (almost)

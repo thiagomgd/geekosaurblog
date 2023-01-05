@@ -1,6 +1,6 @@
 ---
 categories:
-- Movies & TV
+- MoviesTV
 date: "2020-12-29T23:13:52-08:00"
 description: The month (and the year) is almost over, so I though I would share what
   I watched during December.

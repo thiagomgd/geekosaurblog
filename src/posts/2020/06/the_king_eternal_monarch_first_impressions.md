@@ -1,6 +1,6 @@
 ---
 categories:
-- Movies & TV
+- MoviesTV
 date: "2020-06-09T10:00:19-03:00"
 description: 'This weekend I started two new Korean dramas: The King: Eternal Monarch
   and Strangers From Hell. Let''s see my first impressions on the first show.'

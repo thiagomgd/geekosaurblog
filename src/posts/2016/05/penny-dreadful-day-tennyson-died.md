@@ -1,7 +1,7 @@
 ---
 banner: http://i.imgur.com/3Wjxggp.jpg
 categories:
-- Movies & TV
+- MoviesTV
 date: "2016-05-05T17:58:00-03:00"
 description: Penny Dreadful is back for another season, and after watching the season
   premiere, I can't help but have high hopes for this season

@@ -1,6 +1,6 @@
 ---
 categories:
-- Movies & TV
+- MoviesTV
 date: "2021-10-17T17:30:00Z"
 description: Let's talk a bit about what I've been watching!
 images:

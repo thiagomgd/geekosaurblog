@@ -1,6 +1,6 @@
 ---
 categories:
-- Movies & TV
+- MoviesTV
 date: "2020-06-05T09:20:53-03:00"
 description: What movies and series I've watched this week
 draft: false

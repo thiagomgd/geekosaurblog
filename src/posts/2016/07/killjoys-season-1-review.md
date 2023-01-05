@@ -1,7 +1,7 @@
 ---
 banner: http://i.imgur.com/8sjA9tr.jpg
 categories:
-- Movies & TV
+- MoviesTV
 date: "2016-07-15T16:57:00-03:00"
 description: Killjoys have everything you need to entertain the audience and keep
   us stuck with it, wanting to know what will happen next

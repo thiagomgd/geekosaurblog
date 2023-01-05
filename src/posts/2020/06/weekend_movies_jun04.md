@@ -1,6 +1,6 @@
 ---
 categories:
-- Movies & TV
+- MoviesTV
 date: "2020-06-04T02:44:25-03:00"
 description: Another weekend watching some cool movies!
 draft: false

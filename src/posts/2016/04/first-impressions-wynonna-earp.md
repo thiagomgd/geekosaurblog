@@ -1,7 +1,7 @@
 ---
 banner: http://i.imgur.com/baSp9tw.jpg
 categories:
-- Movies & TV
+- MoviesTV
 date: "2016-04-18T17:42:00-03:00"
 description: Wynonna Earp is a show based on a weird western comic book, and it was
   made to be fun.

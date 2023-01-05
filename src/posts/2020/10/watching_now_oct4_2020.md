@@ -3,7 +3,7 @@ aliases:
 - /post/fall_2020_anime/
 - /post/20/11/fall_2020_anime/
 categories:
-- Movies & TV
+- MoviesTV
 date: "2020-10-05T13:10:24-07:00"
 description: What I've been watching lately, including korean dramas and cartoons.
 draft: false

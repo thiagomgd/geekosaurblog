@@ -6,7 +6,7 @@ categories:
   - Etc
   - Games
   
-  - Movies & TV
+  - MoviesTV
   - Music
   - Pesonal
 date: 2021-11-04T05:00:36.000Z
