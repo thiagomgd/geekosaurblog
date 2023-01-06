@@ -4,10 +4,10 @@ slug: music-monday-8
 tumblr:
 reddit:
 tweet:
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - MusicCorner
@@ -17,6 +17,7 @@ description: For something chill and different, Sara Watkins, Sarah Jarosz and S
   Martin and the Steep Canyon Rangers!
 thread: ''
 title: 'Music Corner 8: Folk Tiny Desk Concerts'
+createdTime: '2022-03-12T19:26:00.000Z'
 thumbnail: /img/notion/e93ecd2e-1a0a-4fea-a69a-c5402e0d3006/3js3qS9Q0d-1200.jpeg
 ---
 

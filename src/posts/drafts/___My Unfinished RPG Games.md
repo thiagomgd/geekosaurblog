@@ -4,10 +4,10 @@ slug: ''
 tumblr:
 reddit:
 tweet:
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - Games
@@ -16,5 +16,6 @@ date:
 description: ''
 thread: ''
 title: My Unfinished RPG Games
+createdTime: '2022-03-12T19:49:00.000Z'
 thumbnail:
 ---

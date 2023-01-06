@@ -217,5 +217,10 @@ module.exports = {
       }
     }
     return [];
+  },
+  log: (value) => {
+    // console.log(value.data.slug, value.data.title);
+    
+    console.log(value)
   }
 };

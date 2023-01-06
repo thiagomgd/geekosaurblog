@@ -4,10 +4,10 @@ slug: music-monday-5
 tumblr:
 reddit:
 tweet:
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - MusicCorner
@@ -17,6 +17,7 @@ description: "Recently I got a new record: Sam Smith live at Abbey Road Studios.
   like Sam Smith, but absolutely loved this album."
 thread: ''
 title: 'Music '
+createdTime: '2022-04-16T18:46:00.000Z'
 thumbnail: /img/notion/eb3465aa-30db-4dd6-8529-d40d9f194c6d/Nsem3Gb6NS-1080.jpeg
 ---
 

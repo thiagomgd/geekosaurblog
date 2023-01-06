@@ -4,10 +4,10 @@ slug: music-monday-2
 tumblr:
 reddit:
 tweet:
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - MusicCorner
@@ -17,6 +17,7 @@ description: 'Another Monday, another #MusicMonday for you! Today, featuring som
   J-Pop: LELLE, Necry Talkie and Mirei Touyama.'
 thread: ''
 title: 'Music Corner 2: Some J-Pop'
+createdTime: '2022-04-16T18:38:00.000Z'
 thumbnail: https://i.imgur.com/vsvu8zA.jpg
 ---
 

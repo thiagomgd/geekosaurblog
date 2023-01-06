@@ -4,10 +4,10 @@ slug: music-corner-16
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/v1jzdi/music_corner_16_running_up_that_hill/
 tweet: https://twitter.com/FalconSensei/status/1531533187792490496
-thread_twitter: https://twitter.com/FalconSensei/status/1529616259247132673
+threadTwitter: https://twitter.com/FalconSensei/status/1529616259247132673
 replyTo:
 lead: Yes, everybody’s talking about it, but it’s because it’s AMAZING!
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - MusicCorner
@@ -18,6 +18,7 @@ description: This weekend was time to watch Stranger Things S4 (part 1). And if 
   Hill from Kate Bush was there. And WHAT AN AMAZING CHOICE.
 thread: ''
 title: 'Music Corner 16: Running Up That Hill! Stranger Things S4'
+createdTime: '2022-05-31T05:36:00.000Z'
 thumbnail: /img/notion/ce9bddcb-e5bd-4371-9b13-d67c16a61a78/zkW5GchgzO-1200.jpeg
 ---
 

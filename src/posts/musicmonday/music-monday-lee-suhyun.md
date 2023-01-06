@@ -4,10 +4,10 @@ slug: music-monday-lee-suhyun
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/qkipcu/music_monday_lee_suhyun/
 tweet:
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - MusicCorner
@@ -17,6 +17,7 @@ description: This weekend my wife and I were listening to some k-pop again, incl
   Lee Suhyun.
 thread: ''
 title: 'Music Corner 6: Lee Suhyun'
+createdTime: '2022-03-12T19:33:00.000Z'
 thumbnail:
 ---
 

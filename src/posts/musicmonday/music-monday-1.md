@@ -4,10 +4,10 @@ slug: music-monday-1
 tumblr:
 reddit:
 tweet:
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - MusicCorner
@@ -17,6 +17,7 @@ description: "Today I was listening to Kero Kero Bonito's playlist on Spotify. S
   here we have a few recommendations. Enjoy!"
 thread: ''
 title: 'Music Corner 1: Kero Kero Bonito'
+createdTime: '2022-04-16T18:34:00.000Z'
 thumbnail: https://i.imgur.com/OXuy768.jpg
 ---
 

@@ -4,10 +4,10 @@ slug: friday-reads-2022-11-11
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/ysryi9/friday_reads_nov_11th_legends_lattes/
 tweet: https://twitter.com/geeko_saur/status/1591236518194343937
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: Reading it and having some coffee, of course!
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - FridayReads
@@ -19,6 +19,7 @@ description: This Friday I’m reading Legends & Latte, which I got this week. I
   100 pages in, and so far really liking it 🙂
 thread: friday reads
 title: 'Friday Reads (Nov. 11th): Legends & Lattes'
+createdTime: '2022-11-11T23:58:00.000Z'
 thumbnail: /img/notion/7ec3c4fc-f624-4b3b-9358-0adee9ef8e80/akhZroJoVF-1000.jpeg
 ---
 

@@ -4,10 +4,10 @@ slug: book-preorders-sept-2022
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/xo7xf4/book_preorders_im_waiting_for_sept_2022/
 tweet: https://twitter.com/geeko_saur/status/1574235010185428993
-thread_twitter: https://twitter.com/geeko_saur/status/1570274554030837760
+threadTwitter: https://twitter.com/geeko_saur/status/1570274554030837760
 replyTo:
 lead: Because of course my TBR is going to keep growing
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - Books
@@ -19,6 +19,7 @@ description: I recently posted a bunch of new fiction books I got recently, and 
   guess now’s the time to share books I preordered and I’m waiting to receive!
 thread: ''
 title: Book Preorders I’m Waiting For (Sept, 2022)
+createdTime: '2022-09-26T02:14:00.000Z'
 thumbnail: https://mpd-biblio-covers.imgix.net/9781250886095.jpg?w=900
 ---
 

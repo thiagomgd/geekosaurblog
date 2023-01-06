@@ -4,10 +4,10 @@ slug: april-reading-may-plans-2022
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/uir8x8/april_reading_wrap_up_and_may_plans/
 tweet: https://twitter.com/FalconSensei/status/1522096883446992899
-thread_twitter: https://twitter.com/FalconSensei/status/1510837825255534593
+threadTwitter: https://twitter.com/FalconSensei/status/1510837825255534593
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - Reading
@@ -18,6 +18,7 @@ date: '2022-05-04T21:00:00.000-07:00'
 description: Let’s see how April went and what I’m planning to read on May
 thread: ''
 title: April Reading Wrap Up And May Plans
+createdTime: '2022-05-05T04:07:00.000Z'
 thumbnail: /img/notion/43dadffe-557d-492e-8087-5c1ee578a524/5aGQJlsb6D-1200.jpeg
 ---
 

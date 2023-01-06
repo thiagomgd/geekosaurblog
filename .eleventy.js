@@ -158,6 +158,17 @@ module.exports = function(eleventyConfig) {
       });
   });
 
+  eleventyConfig.addCollection('notes', collection => {
+    return collection.getFilteredByTag('note')
+      // .filter(post => post.data.eleventyExcludeFromCollections !== true)
+      .sort(function(a, b) {
+        const timeA = a.data.createdDate ? a.data.createdDate.getTime() : 0;
+        const timeB = b.data.createdDate ? b.data.createdDate.getTime() : 0;
+        // console.log(a.data.title, b.data.title, timeA, timeB);
+        return timeB - timeA;
+      });
+  });
+
   eleventyConfig.addCollection('allthings', collection => {
     const posts = collection.getFilteredByTag('post');
     const notes = collection.getFilteredByTag('note');

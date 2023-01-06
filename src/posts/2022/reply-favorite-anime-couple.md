@@ -4,10 +4,10 @@ slug: reply-favorite-anime-couple
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/tby4x3/favorite_anime_couple/
 tweet: https://twitter.com/FalconSensei/status/1502356209331949568
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: The best characters from best anime also make for a wonderful couple
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - Anime
@@ -17,6 +17,7 @@ date: '2022-03-11T00:00:00.000-08:00'
 description: The best characters from best anime also make for a wonderful couple
 thread: ''
 title: Favorite Anime Couple
+createdTime: '2022-03-11T18:16:00.000Z'
 thumbnail: /img/notion/c3bccb26-39af-48d5-af8b-4b5faf25bcf1/4-mab7Vs57-480.jpeg
 ---
 

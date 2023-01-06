@@ -4,10 +4,10 @@ slug: appletv-quality-over-quantity
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/trzc19/appletv_quality_over_quantity/
 tweet: https://twitter.com/FalconSensei/status/1509023966773465093
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - Streaming
@@ -18,6 +18,7 @@ description: As a result from CODA getting 3 Oscars this weekend, AppleTV+ is ge
   even more positive attention, and that’s great!
 thread: ''
 title: 'AppleTV+: Quality Over Quantity'
+createdTime: '2022-03-30T03:51:00.000Z'
 thumbnail: /img/notion/1d1604cd-6cd2-41dc-88a3-d3f7a9f4b51c/3j96eUYhBE-1200.jpeg
 ---
 

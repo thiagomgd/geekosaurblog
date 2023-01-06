@@ -4,10 +4,10 @@ slug: ''
 tumblr:
 reddit:
 tweet:
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - MusicCorner
@@ -16,6 +16,7 @@ date:
 description: ''
 thread: ''
 title: 'Music Monday ??: Show Openings'
+createdTime: '2022-03-11T04:09:00.000Z'
 thumbnail:
 ---
 

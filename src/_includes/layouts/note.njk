@@ -11,14 +11,20 @@ templateClass: tmpl-post
   {% endif %}
 
 
-  <time datetime="{{ created_date | htmlDateString }}">{{ created_date | readableDate }}</time>
+  <time datetime="{{ createdDate | htmlDateString }}">{{ createdDate | readableDate }}</time>
   {%- for tag in tags | filterTagList -%}
     {%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset -%}
     <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
   {%- endfor %}
 
   <div class="e-content flow">
+    {% anyEmbed embed %}
+
     {{ content | safe }}
+
+    {% for image in images %}
+      {% figure image %}
+    {% endfor %}
 
     {% if replyTo %}
       <a class="u-in-reply-to" href="{{ replyTo }}"></a>

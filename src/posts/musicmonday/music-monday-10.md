@@ -4,10 +4,10 @@ slug: music-monday-10
 tumblr:
 reddit:
 tweet:
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - MusicCorner
@@ -17,6 +17,7 @@ description: This time we are listening to Luli Lee, a Korean singer/bass player
   I really enjoy!
 thread: ''
 title: 'Music Corner 10: Luli Lee'
+createdTime: '2022-03-12T19:17:00.000Z'
 thumbnail: https://i3.ytimg.com/vi/p4rHTk2oayk/maxresdefault.jpg
 ---
 

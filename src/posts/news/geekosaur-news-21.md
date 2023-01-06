@@ -4,10 +4,10 @@ slug: geekosaur-news-21
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/tfqw5f/geekosaur_news_21_games/
 tweet: https://twitter.com/FalconSensei/status/1504235003768582144
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: Having a real good time with Triangle Strategy
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - GeekosaurNews
@@ -17,6 +17,7 @@ description: It’s been a long time since the last Geekosaur News - but let’s
   a bit about games!
 thread: ''
 title: 'Geekosaur News 21: Games!'
+createdTime: '2022-03-11T02:25:00.000Z'
 thumbnail: /img/notion/ea101be8-24e6-43e0-9ece-9377fe9e1553/rGnrxBrdk9-1200.jpeg
 ---
 

@@ -4,10 +4,10 @@ slug: manga-reading-mid-year-check-2022
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/vyp5sw/manga_reading_midyear_check/
 tweet: https://twitter.com/FalconSensei/status/1547449965198430209
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: Shonen Jump app + One Piece and an iPad is a dangerous combination
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - Reading
@@ -18,6 +18,7 @@ description: Just doing a quick check on what I’ve read so far this year in te
   on manga and comics!
 thread: ''
 title: 'Manga Reading: Mid-Year Check'
+createdTime: '2022-07-14T04:35:00.000Z'
 thumbnail: /img/notion/cef1d8a6-4b41-4e1e-a1ea-8723a3e570bd/Znk_P79XC--781.jpeg
 ---
 

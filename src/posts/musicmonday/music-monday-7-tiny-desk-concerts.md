@@ -4,10 +4,10 @@ slug: music-monday-7-tiny-desk-concerts
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/qpinhz/music_monday_7_tiny_desk_concerts/
 tweet:
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - MusicCorner
@@ -17,6 +17,7 @@ description: Another week, another Music Monday, this time with some Tiny Desk c
   which I love.
 thread: ''
 title: 'Music Corner 7: Tiny Desk Concerts'
+createdTime: '2022-03-12T19:30:00.000Z'
 thumbnail: /img/notion/0d102fdb-1b86-4a9e-9e69-d031f7807120/psAFTFV028-1200.jpeg
 ---
 

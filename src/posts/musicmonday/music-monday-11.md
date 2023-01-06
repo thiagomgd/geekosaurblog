@@ -4,10 +4,10 @@ slug: music-monday-11
 tumblr:
 reddit:
 tweet: https://twitter.com/FalconSensei/status/1500909864901431299
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: I just can’t stop vibing to Can't Get You out of My Head
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - MusicCorner
@@ -17,6 +17,7 @@ date: '2022-03-07T00:00:00.000-08:00'
 description: Very cool cover songs by AnnenMayKantereit
 thread: ''
 title: 'Music Corner 11: AnnenMayKantereit Covers'
+createdTime: '2022-03-02T03:53:00.000Z'
 thumbnail: /img/notion/834a3691-3439-4e59-a64d-43bc09007922/Pggskp7J66-1200.jpeg
 ---
 

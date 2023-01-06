@@ -4,10 +4,10 @@ slug: music-corner-18
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/z4670m/music_corner_18_wednesday/
 tweet: https://twitter.com/geeko_saur/status/1596026099078766593
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - MusicCorner
@@ -21,6 +21,7 @@ description: I’m watching Wednesday with my wife, and one of the things that I
   cool versions of songs like Paint It Black and Nothing Else Matters.
 thread: music-corner
 title: 'Music Corner 18: Wednesday'
+createdTime: '2022-11-25T05:41:00.000Z'
 thumbnail: /img/notion/5e17a5c9-a043-458e-8402-fec8b5183528/lWEDv6x_vS-750.jpeg
 ---
 

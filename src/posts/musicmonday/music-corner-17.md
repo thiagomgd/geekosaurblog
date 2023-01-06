@@ -4,10 +4,10 @@ slug: music-corner-17
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/wjeva5/music_corner_17_songs_from_anime_im_watching/
 tweet: https://twitter.com/geeko_saur/status/1556689637313314816
-thread_twitter: https://twitter.com/geeko_saur/status/1556689637313314816
+threadTwitter: https://twitter.com/geeko_saur/status/1556689637313314816
 replyTo:
 lead: Just some banger anime songs!
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - MusicCorner
@@ -19,6 +19,7 @@ description: This week I finally started some anime again, after a few months wi
   and then watching the 1st season of Spy x Family!
 thread: ''
 title: 'Music Corner 17: Songs From Anime I’m Watching'
+createdTime: '2022-08-08T01:57:00.000Z'
 thumbnail: /img/notion/95a24363-0ebc-4ded-8219-1f056d7cf621/rRyd0znxmH-800.jpeg
 ---
 

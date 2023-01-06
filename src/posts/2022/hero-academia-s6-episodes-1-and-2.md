@@ -4,10 +4,10 @@ slug: hero-academia-s6-episodes-1-and-2
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/y3iuv7/my_hero_academia_season_6_eps_1_2/
 tweet: https://twitter.com/geeko_saur/status/1580758411771531264
-thread_twitter: https://twitter.com/geeko_saur/status/1580758411771531264
+threadTwitter: https://twitter.com/geeko_saur/status/1580758411771531264
 replyTo:
 lead: So basically, everyone is thirsty for Mirko
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - MyHeroAcademia
@@ -19,6 +19,7 @@ date: '2022-10-13T19:00:00.000-07:00'
 description: As always, I’m late. But anyways… let’s have a quick check!
 thread: my hero academia season 6
 title: My Hero Academia Season 6 - Eps 1 & 2
+createdTime: '2022-10-12T04:32:00.000Z'
 thumbnail: https://i.imgur.com/TtV8S0u.jpg
 ---
 

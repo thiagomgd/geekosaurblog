@@ -4,10 +4,10 @@ slug: book-notes-sawkill-girls
 tumblr:
 reddit:
 tweet:
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - BookNotes
@@ -16,6 +16,7 @@ date:
 description: ''
 thread: ''
 title: 'Book Notes: Sawkill Girls'
+createdTime: '2022-03-06T20:59:00.000Z'
 thumbnail:
 ---
 

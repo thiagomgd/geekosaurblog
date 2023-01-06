@@ -4,10 +4,10 @@ slug: november-book-haul
 tumblr: https://www.tumblr.com/geekosaur/700507282904170496/small-november-book-haul
 reddit: https://www.reddit.com/r/geekosaur/comments/yr6fg5/small_november_book_haul/
 tweet: https://twitter.com/geeko_saur/status/1590572860711788545
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - Books
@@ -21,6 +21,7 @@ date: '2022-11-09T20:00:00.000-08:00'
 description: Got 3 preordered books on the same day. Of course I’m happy!!
 thread: new books
 title: Small November Book Haul
+createdTime: '2022-11-10T04:03:00.000Z'
 thumbnail: /img/notion/332fe7cb-3c38-4d65-95cc-2e80c51ee1f9/v7p6Za9lA3-1200.jpeg
 ---
 

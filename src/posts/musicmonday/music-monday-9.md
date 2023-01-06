@@ -4,10 +4,10 @@ slug: music-monday-9
 tumblr:
 reddit:
 tweet:
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - MusicCorner
@@ -16,6 +16,7 @@ date: '2022-02-07T00:00:00.000-08:00'
 description: Some Blues Brothers!
 thread: ''
 title: 'Music Corner 9: Blues Brothers'
+createdTime: '2022-03-12T19:21:00.000Z'
 thumbnail:
 ---
 

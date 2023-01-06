@@ -4,10 +4,10 @@ slug: ''
 tumblr:
 reddit:
 tweet:
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags: []
 toot:
@@ -15,6 +15,7 @@ date:
 description: ''
 thread: ''
 title: Twitter And Mastodon
+createdTime: '2022-04-26T17:17:00.000Z'
 thumbnail:
 ---
 

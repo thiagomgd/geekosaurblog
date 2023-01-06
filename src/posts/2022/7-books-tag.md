@@ -4,10 +4,10 @@ slug: 7-books-tag
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/zc3l5a/7_books_tag/
 tweet: https://twitter.com/geeko_saur/status/1599293521940324352
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: 7 books that tell you about me
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - 7Books
@@ -20,6 +20,7 @@ description: ' I’m late to the thing as always, but let’s see my 7 books, in
   order.'
 thread: internet tags
 title: 7 books tag
+createdTime: '2022-12-04T05:40:00.000Z'
 thumbnail: /img/notion/13d55304-7f1c-4823-8044-0275352af8f9/BXRZLv15O--399.jpeg
 ---
 

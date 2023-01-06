@@ -4,10 +4,10 @@ slug: spy-x-family-s2e2-review
 tumblr:
 reddit:
 tweet:
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: Spy X Family Season 2
 tags:
 - Anime
@@ -19,6 +19,7 @@ description: Finally got the time to watch the 2nd episode of this season’s Sp
   Family, and had a lot of fun with it.
 thread: spy x family season 2
 title: Spy X Family Season 2 Ep. 2
+createdTime: '2022-10-15T19:28:00.000Z'
 thumbnail:
 ---
 

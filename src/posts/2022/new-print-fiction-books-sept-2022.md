@@ -4,10 +4,10 @@ slug: new-print-fiction-books-sept-2022
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/xelzve/new_print_fiction_books_sept_2022/
 tweet: https://twitter.com/geeko_saur/status/1570274554030837760
-thread_twitter: https://twitter.com/geeko_saur/status/1569147435821441025
+threadTwitter: https://twitter.com/geeko_saur/status/1569147435821441025
 replyTo:
 lead: Like I need even more books
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - Books
@@ -19,6 +19,7 @@ description: Huge TBR, small apartment, but this past week I still got some new 
   to my shelves.
 thread: ''
 title: New Print Fiction Books (Sept, 2022)
+createdTime: '2022-09-15T00:22:00.000Z'
 thumbnail: /img/notion/8854fd23-0e40-4156-a92b-b30d5c79ae80/AmD5i9lCSE-1200.jpeg
 ---
 

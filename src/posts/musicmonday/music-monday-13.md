@@ -4,10 +4,10 @@ slug: music-monday-13
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/twki3i/music_monday_13_brazilian_music_vinyl_sets/
 tweet: https://twitter.com/FalconSensei/status/1511162029247242241
-thread_twitter: https://twitter.com/FalconSensei/status/1503440696757284864
+threadTwitter: https://twitter.com/FalconSensei/status/1503440696757284864
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - MusicCorner
@@ -18,6 +18,7 @@ description: 'Recently I’ve discovered My Analog Journal channel on Youtube, a
   countries. '
 thread: ''
 title: 'Music Corner 13: Brazilian Music Vinyl Sets'
+createdTime: '2022-04-05T01:44:00.000Z'
 thumbnail: /img/notion/7423555c-91eb-46ec-8964-36cb715671ac/nlF72vbSKh-1200.jpeg
 ---
 

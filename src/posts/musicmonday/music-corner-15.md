@@ -4,10 +4,10 @@ slug: music-corner-15
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/uxvav1/music_corner_15_king_gizzard_and_the_lizard_wizard/
 tweet: https://twitter.com/FalconSensei/status/1529616259247132673
-thread_twitter: https://twitter.com/FalconSensei/status/1515921539119697921
+threadTwitter: https://twitter.com/FalconSensei/status/1515921539119697921
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - MusicCorner
@@ -16,6 +16,7 @@ date: '2022-05-25T12:00:00.000-07:00'
 description: This weekend I went to VanCaf (
 thread: ''
 title: 'Music Corner 15: King Gizzard And The Lizard Wizard'
+createdTime: '2022-05-25T21:37:00.000Z'
 thumbnail: /img/notion/587ea582-9521-45e6-b0ea-d932f9e8b542/nJmxChy53z-1200.jpeg
 ---
 

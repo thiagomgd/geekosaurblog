@@ -4,10 +4,10 @@ slug: ''
 tumblr:
 reddit:
 tweet:
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags: []
 toot:
@@ -15,6 +15,7 @@ date:
 description: This week we have some news about Netflix. Let’s talk a bit about it!
 thread: ''
 title: Netflix!
+createdTime: '2022-04-20T19:23:00.000Z'
 thumbnail:
 ---
 

@@ -4,10 +4,10 @@ slug: music-monday-4
 tumblr:
 reddit:
 tweet:
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - MusicCorner
@@ -17,6 +17,7 @@ description: "This past week I've listened a few times to the new Katy Perry''s 
   Smile"
 thread: ''
 title: 'Music Corner 4: Katy Perry'
+createdTime: '2022-04-16T18:49:00.000Z'
 thumbnail: https://i.imgur.com/N7CUNPf.jpg
 ---
 

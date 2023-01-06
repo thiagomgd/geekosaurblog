@@ -4,10 +4,10 @@ slug: music-monday-12
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/te4chw/music_monday_12_nao_yoshioka/
 tweet:
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - MusicCorner
@@ -17,6 +17,7 @@ description: How about some R&B and Soul music from Japan? Nao Yoshioka delivers
   great songs and nice live performance at Tokyo Funk Sessions.
 thread: ''
 title: 'Music Corner 12: Nao Yoshioka'
+createdTime: '2022-03-10T22:29:00.000Z'
 thumbnail: https://i.ytimg.com/vi/nQufZEijRmc/maxresdefault.jpg
 ---
 

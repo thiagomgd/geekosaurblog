@@ -4,10 +4,10 @@ slug: book-notes-broken
 tumblr:
 reddit:
 tweet:
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - BookNotes
@@ -16,5 +16,6 @@ date:
 description: ''
 thread: ''
 title: 'book notes: broken'
+createdTime: '2022-03-09T06:20:00.000Z'
 thumbnail:
 ---

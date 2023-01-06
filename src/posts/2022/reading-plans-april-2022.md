@@ -4,10 +4,10 @@ slug: reading-plans-april-2022
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/tvs78l/reading_plans_for_april_2022/
 tweet: https://twitter.com/FalconSensei/status/1510837825255534593
-thread_twitter: https://twitter.com/FalconSensei/status/1505762762718281729
+threadTwitter: https://twitter.com/FalconSensei/status/1505762762718281729
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - Books
@@ -20,6 +20,7 @@ description: I think posting my reading goals for this month might be a good way
   movies and TV shows. Let’s see!
 thread: ''
 title: Reading Plans For April 2022
+createdTime: '2022-04-03T21:45:00.000Z'
 thumbnail: /img/notion/fdbf3131-4d52-442a-a70a-959f38472d2f/mbAV3FOWfY-1200.jpeg
 ---
 

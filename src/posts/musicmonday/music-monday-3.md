@@ -4,10 +4,10 @@ slug: music-monday-3
 tumblr:
 reddit:
 tweet:
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - MusicCorner
@@ -17,6 +17,7 @@ description: "Last week I started checking some random music on Youtube, and wen
   \ down\nthe rabbit hole (as always). Here's some of the things I checked, enjoy!"
 thread: ''
 title: 'Music '
+createdTime: '2022-04-16T18:41:00.000Z'
 thumbnail:
 ---
 

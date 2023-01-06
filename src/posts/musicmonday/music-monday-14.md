@@ -4,10 +4,10 @@ slug: music-monday-14
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/u65oqa/music_monday_14_the_blue_hearts_jmusic/
 tweet: https://twitter.com/FalconSensei/status/1515921539119697921
-thread_twitter: https://twitter.com/FalconSensei/status/1511162029247242241
+threadTwitter: https://twitter.com/FalconSensei/status/1511162029247242241
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - MusicCorner
@@ -17,6 +17,7 @@ description: A couple decades ago, a friend introduced me to The Blue Hearts, a 
   punk-rock band from late 80s/early 90s.
 thread: ''
 title: 'Music Corner 14: The Blue Hearts (J-Music)'
+createdTime: '2022-04-17T21:10:00.000Z'
 thumbnail: /img/notion/2f9189aa-b8b7-4338-824e-2ccde7336da0/nod8Sntcij-640.jpeg
 ---
 

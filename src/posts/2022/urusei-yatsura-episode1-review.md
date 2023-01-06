@@ -4,10 +4,10 @@ slug: urusei-yatsura-episode1-review
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/y50m87/urusei_yatsura_ep_1_review/
 tweet: https://twitter.com/geeko_saur/status/1581421825984454657
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: The GOAT?
-thread_mastodon:
+threadMastodon:
 series: Urusei Yatsura Season 1
 tags:
 - Fall2022Anime
@@ -20,6 +20,7 @@ description: First episode of Urusei Yatsura was GREAT! Check out my impressions
   some images
 thread: urusei yatsura season 1
 title: Urusei Yatsura Ep 1 Review
+createdTime: '2022-10-15T19:40:00.000Z'
 thumbnail: https://i.imgur.com/r6Kna40.png
 ---
 

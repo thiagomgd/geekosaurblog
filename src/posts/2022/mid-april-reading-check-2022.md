@@ -4,10 +4,10 @@ slug: mid-april-reading-check-2022
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/u6qta0/midapril_reading_check/
 tweet: https://twitter.com/FalconSensei/status/1516192752303849477
-thread_twitter: https://twitter.com/FalconSensei/status/1510837825255534593
+threadTwitter: https://twitter.com/FalconSensei/status/1510837825255534593
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags:
 - Reading
@@ -17,6 +17,7 @@ description: Let’s have a look at how I’m doing so far this month regarding 
   goals!
 thread: ''
 title: Mid-April Reading Check
+createdTime: '2022-04-18T18:26:00.000Z'
 thumbnail: /img/notion/995e6d0d-6198-4568-917a-cb1127e96ad8/xonzMHNSdO-1200.jpeg
 ---
 

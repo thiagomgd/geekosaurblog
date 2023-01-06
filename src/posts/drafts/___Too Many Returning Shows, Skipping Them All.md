@@ -4,10 +4,10 @@ slug: ''
 tumblr:
 reddit:
 tweet:
-thread_twitter:
+threadTwitter:
 replyTo:
 lead: ''
-thread_mastodon:
+threadMastodon:
 series: ''
 tags: []
 toot:
@@ -15,6 +15,7 @@ date:
 description: ''
 thread: ''
 title: Too Many Returning Shows, Skipping Them All
+createdTime: '2022-05-26T19:49:00.000Z'
 thumbnail:
 ---
 
