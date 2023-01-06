@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-01-05T01:49:04.741Z",
+  "lastFetched": "2023-01-05T06:07:15.110Z",
   "data": {
     "8fc9dd85-da28-4d6a-b0ba-54b69a3a90a4": {
       "title": "Nevermoor: The Trials of Morrigan Crow (Nevermoor, #1)",
@@ -2399,6 +2399,17 @@
       "tier": "",
       "review": null,
       "date_read": "2022-11-19T00:00:00.000-08:00",
+      "year_read": 2022
+    },
+    "701704a6-1d53-42c5-afec-8d03f9b6128a": {
+      "title": "Wundersmith: The Calling of Morrigan Crow",
+      "cover": [
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568303622l/44286528.jpg"
+      ],
+      "rating": 4,
+      "tier": "",
+      "review": null,
+      "date_read": "2022-12-03T00:00:00.000-08:00",
       "year_read": 2022
     }
   }

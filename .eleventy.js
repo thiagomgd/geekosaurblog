@@ -64,6 +64,8 @@ async function imgToFigure(content, options) {
     for (let i = 0; i < images.length; i++) {
       const img = images[i];
       const attrs = $(img).attr();
+      
+      if (!attrs.alt) attrs.alt = '';
 
       const caption = attrs.alt.startsWith('(blur)') ? attrs.alt.replace('(blur)','').trim() : attrs.alt;
 
@@ -271,7 +273,9 @@ module.exports = function(eleventyConfig) {
 
   // Copy the `img` and `css` folders to the output
   eleventyConfig.addPassthroughCopy("src/img");
+  eleventyConfig.addPassthroughCopy({"src/posts/attachments": "attachments"});
 
+  let markdownItObsidian = require("markdown-it-obsidian")();
   // Customize Markdown library and settings:
   const markdownLibrary = markdownIt({
     html: true,
@@ -285,7 +289,7 @@ module.exports = function(eleventyConfig) {
       level: [1,2,3,4],
     }),
     slugify: eleventyConfig.getFilter("slugify")
-  }).use(markdownItFootnote);
+  }).use(markdownItFootnote).use(markdownItObsidian);
 
   eleventyConfig.setLibrary("md", markdownLibrary);
 

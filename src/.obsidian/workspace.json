@@ -1,21 +1,20 @@
 {
   "main": {
-    "id": "3c3c2dd336e78f1b",
+    "id": "4a881750019da8ad",
     "type": "split",
     "children": [
       {
-        "id": "93b87bd85b58edc0",
+        "id": "5970a7d0baf1b388",
         "type": "tabs",
         "children": [
           {
-            "id": "87670519d83c6d81",
+            "id": "104c76fc66683117",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "booknotes/oregairu-vol1.md",
+                "file": "posts/2023/new-post-test.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -26,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9a950bcded34f28e",
+    "id": "67955517c18accec",
     "type": "split",
     "children": [
       {
-        "id": "0f47b45a7cf8026f",
+        "id": "39aa721629b54750",
         "type": "tabs",
         "children": [
           {
-            "id": "7ce89b95958f38f1",
+            "id": "618f791e53a7e726",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +43,12 @@
             }
           },
           {
-            "id": "533107482ff7fb39",
+            "id": "45b779cc93c0038d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,35 +58,34 @@
             }
           },
           {
-            "id": "71a3d91c74105518",
+            "id": "18324c4b70a53c4c",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "1e98669cf09a7ddb",
+    "id": "93bf5b1cc5d3661f",
     "type": "split",
     "children": [
       {
-        "id": "1155154c971d599d",
+        "id": "6dfefce5477be4cd",
         "type": "tabs",
         "children": [
           {
-            "id": "74f3193dbdc90a84",
+            "id": "ae531153a83cdfb2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "booknotes/oregairu-vol1.md",
+                "file": "posts/2023/new-post-test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,19 +97,19 @@
             }
           },
           {
-            "id": "25bcc48849e57125",
+            "id": "897c74bffc569202",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "booknotes/oregairu-vol1.md",
+                "file": "posts/2023/new-post-test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "53be1878925d4ab4",
+            "id": "0833f14fb268d3db",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,12 +120,12 @@
             }
           },
           {
-            "id": "b47afff97014bcb0",
+            "id": "aed1aa7381cc01dd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "booknotes/oregairu-vol1.md"
+                "file": "posts/2023/new-post-test.md"
               }
             }
           }
@@ -145,18 +143,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "533107482ff7fb39",
-  "lastOpenFiles": [
-    "booknotes/magpie-murders-anthony-horowitz.md",
-    "booknotes/oregairu-vol1.md",
-    "booknotes/lets-pretend-this-never-happened-jenny-lawson.md",
-    "booknotes/kokoro-connect-hito-random.md",
-    "booknotes/black-water-sister.md",
-    "booknotes/assassins-curse-duology.md",
-    "2022/changing-reading-tracking.md"
-  ]
+  "active": "104c76fc66683117",
+  "lastOpenFiles": []
 }

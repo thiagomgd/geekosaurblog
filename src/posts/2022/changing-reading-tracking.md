@@ -1,7 +1,7 @@
 ---
 date: '2022-01-03T16:00:00Z'
 title: "Changing How I Track My Reading"
-description: "Trying to ind a better way of tracking my reading habits"
+description: "Trying to find a better way of tracking my reading habits"
 lead: ""
 draft: false
 thumbnail: /img/notion_weekly_journal.png

@@ -1,0 +1,18 @@
+{
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "/img",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "_11ty/",
+    "_cache/",
+    "_data/",
+    "_includes/",
+    "about/",
+    "booksperyear/",
+    "feed/",
+    "foreignlanguage/",
+    "mangaperyear/",
+    "notion_posts/"
+  ],
+  "showLineNumber": true
+}

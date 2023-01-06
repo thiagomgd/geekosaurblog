@@ -6,7 +6,6 @@ description: "Review of  My Youth Romantic Comedy Is Wrong as I Expected (light 
 slug: "review-oregairu-vol1"
 banner: "https://i.imgur.com/4EX0v2i.jpg"
 images: ["https://i.imgur.com/4EX0v2i.jpg", "https://i.imgur.com/cgN1S7t.png"]
-
 title: "Review: My Youth Romantic Comedy Is Wrong as I Expected, Vol. 1"
 date: 2017-10-23T11:01:59-02:00
 reddit: https://www.reddit.com/r/geekosaur/comments/hiyf3c/review_my_youth_romantic_comedy_is_wrong_as_i/
