@@ -1,12 +1,10 @@
 ---
-cover:
+draft: true
 slug: ''
 tumblr:
 reddit:
 tweet:
-thumbnail:
 thread_twitter:
-draft: true
 replyTo:
 lead: ''
 thread_mastodon:
@@ -18,4 +16,5 @@ date:
 description: ''
 thread: ''
 title: My Unfinished RPG Games
+thumbnail:
 ---

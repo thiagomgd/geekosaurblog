@@ -1,12 +1,10 @@
 ---
-cover:
+draft: true
 slug: ''
 tumblr:
 reddit:
 tweet:
-thumbnail:
 thread_twitter:
-draft: true
 replyTo:
 lead: ''
 thread_mastodon:
@@ -17,7 +15,7 @@ date:
 description: ''
 thread: ''
 title: Twitter And Mastodon
+thumbnail:
 ---
 
 [bookmark](https://news.ycombinator.com/item?id=31089366)
-

@@ -1,12 +1,10 @@
 ---
-cover:
+draft: false
 slug: appletv-quality-over-quantity
 tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/trzc19/appletv_quality_over_quantity/
 tweet: https://twitter.com/FalconSensei/status/1509023966773465093
-thumbnail: /img/notion/1d1604cd-6cd2-41dc-88a3-d3f7a9f4b51c/3j96eUYhBE-1200.jpeg
 thread_twitter:
-draft: false
 replyTo:
 lead: ''
 thread_mastodon:
@@ -20,22 +18,18 @@ description: As a result from CODA getting 3 Oscars this weekend, AppleTV+ is ge
   even more positive attention, and that’s great!
 thread: ''
 title: 'AppleTV+: Quality Over Quantity'
+thumbnail: /img/notion/1d1604cd-6cd2-41dc-88a3-d3f7a9f4b51c/3j96eUYhBE-1200.jpeg
 ---
 
 As a result from CODA getting 3 Oscars this weekend, AppleTV+ is getting even more positive attention, and that’s great!
 
-
 I think their general approach to quality over quantity is awesome, and the fact that they are not outright cancelling all their shows is even better. Of course not everything is a big hit, but overall I would say that their balance of good vs crap content is way better than others.
-
 
 > Apple TV+ has more than 250 wins in award ceremonies and almost 1,000 nominations over its two years of existence. ([9to5mac](https://9to5mac.com/2022/03/29/wsj-apple-tv-praised-by-quality-over-quantity-nearly-doubled-its-revenue-in-2021/))
 
-
 While they do have a limited catalog, I have to say that Dickinson, Ted Lasso, Servant and Central Park are amazing, and they have so many interesting shows, that you sure are going to find something for you!
 
-
 ![](/img/notion/1d1604cd-6cd2-41dc-88a3-d3f7a9f4b51c/lOJkxs5vWH-480.gif)
-
 
 Already Watched and Currently Watching:
 
@@ -48,7 +42,6 @@ Already Watched and Currently Watching:
 
 	![](/img/notion/1d1604cd-6cd2-41dc-88a3-d3f7a9f4b51c/lHjyfZ4gmB-600.gif)
 
-
 To Watch:
 
 - Pachinko: The original book is in my TBR list, but this adaptation, looks FANTASTIC! I’m going to start watching it this weekend!
@@ -60,6 +53,4 @@ To Watch:
 
 [bookmark](https://9to5mac.com/2022/03/29/wsj-apple-tv-praised-by-quality-over-quantity-nearly-doubled-its-revenue-in-2021/)
 
-
 [bookmark](https://www.wsj.com/articles/apples-quality-over-quantity-approach-pays-off-at-oscars-11648499685)
-
