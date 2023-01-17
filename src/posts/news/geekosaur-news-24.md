@@ -5,7 +5,7 @@ lead: ''
 tags:
 description: Some music, moving to Obsidian and to Pathfinder
 thread: ''
-title: 'Geekosaur News 24: ???'
+title: 'Geekosaur News 24: Music, Obsidian and Pathfinder'
 createdTime: '2023-04-18T03:29:00.000Z'
 thumbnail: 
 ---
