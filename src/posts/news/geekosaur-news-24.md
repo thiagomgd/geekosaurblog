@@ -1,6 +1,6 @@
 ---
 slug: geekosaur-news-24
-date: '2022-01-16T18:00:00.000-07:00'
+date: '2023-01-16T18:00:00.000-07:00'
 lead: ''
 tags:
 description: Some music, moving to Obsidian and to Pathfinder
@@ -34,6 +34,8 @@ So, I went out and bought the Pathfinder 2e rulebook - the paperback version, si
 Legal Eagle made a cool video about the lawyer PoV of this issue. But I guess regardless of OGL being necessary or not, and what happens with D&D in the future, it just shows us not to trust WotC, and just go to Paizo or any other publisher for TTRPGs.
 
 [embed](https://www.youtube.com/watch?v=iZQJQYqhAgY)
+
+If you (like me) are new to Pathfinder, check these class summaries: https://www.reddit.com/r/Pathfinder2e/comments/xhtc2u/class_summaries_for_new_players_updated_again/ 
 
 Some nice tweets on this (links in the image captions)
 
