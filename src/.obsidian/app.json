@@ -14,5 +14,6 @@
     "mangaperyear/",
     "notion_posts/"
   ],
-  "showLineNumber": true
+  "showLineNumber": true,
+  "livePreview": false
 }

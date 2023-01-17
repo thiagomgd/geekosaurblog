@@ -118,7 +118,7 @@ lite-youtube {--flow-space: var(--size-700)}
 .tmpl-post :is(h2, h3) + * {--flow-space: var(--size-400);} */
 .tmpl-post figure, .tmpl-post figure + * {--flow-space: var(--size-900);}
 
-.tmpl-post figure { margin: 2.5em 0; text-align: center; }
+.tmpl-post figure { margin: 1.25em 0; text-align: center; }
 .tmpl-post img { margin: auto; }
 .tmpl-post figcaption {
   color: var(--grey-60);
@@ -947,7 +947,7 @@ figure.vertical, img.vertical {
 }
 
 /* DONT SHOW TWITTER TEXT */
-p.p-bridgy-twitter-content, .hidden {
+p.p-bridgy-twitter-content, p.p-bridgy-mastodon-content, .hidden {
   display: none;
 }
 

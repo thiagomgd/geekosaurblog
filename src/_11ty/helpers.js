@@ -187,8 +187,10 @@ async function optimizeImage(src, outputDir = "_site/img",) {
         return src;
     }
 
-    const fileSource = src.startsWith("/img") 
+    const fileSource = src.startsWith("/img/") 
     ? `./src${src}` 
+    : src.startsWith("img/") 
+    ? `./src/${src}` 
     :  src.startsWith("/src/") 
     ?  `.${src}` 
     :src;
