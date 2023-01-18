@@ -22,15 +22,11 @@
             }
           },
           {
-            "id": "c0323b5ce84aa731",
+            "id": "78e173f690eda5fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/2022/urusei-yatsura-episode1-review.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -63,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Blur",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2022/urusei-yatsura-episode1-review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2022/urusei-yatsura-episode1-review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "posts/2022/urusei-yatsura-episode1-review.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,9 +151,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0323b5ce84aa731",
+  "active": "618f791e53a7e726",
   "lastOpenFiles": [
     "posts/news/geekosaur-news-24.md",
+    "posts/2022/urusei-yatsura-episode1-review.md",
     "img/dragon-maid.jpeg",
     "img/coffee-newsletter.jpeg",
     "img/244743271_840397100007577_364151050713337246_n.jpg",
@@ -170,7 +162,6 @@
     "img/244464316_1210475762776332_6027649036626848770_n.jpg",
     "img/1494341-asoLcvJ.jpg",
     "img/Pasted image 20230116173332.png",
-    "img/Pasted image 20230105171245.png",
-    "posts/2020/11/anime_controversies.md"
+    "img/Pasted image 20230105171245.png"
   ]
 }

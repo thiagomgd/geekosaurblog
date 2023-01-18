@@ -39,10 +39,10 @@ If you (like me) are new to Pathfinder, check these class summaries: https://www
 
 Some nice tweets on this (links in the image captions)
 
-{% figure "https://i.imgur.com/AGHJeBq.png", "I NEED to play this ([source](https://twitter.com/LluisAbadias/status/1614710664546631680))" %}
+![I NEED to play this|https://twitter.com/LluisAbadias/status/1614710664546631680](https://i.imgur.com/AGHJeBq.png)
 
-{% figure "img/Pasted image 20230116173545.png", "Excellent thread about how the community is awesome ([source](https://twitter.com/Rulelord2E/status/1612514268418813954))" %}
+![Excellent thread about how the community is awesome|https://twitter.com/Rulelord2E/status/1612514268418813954](img/Pasted%20image%2020230116173545.png)
 
-{% figure "img/Pasted image 20230116173700.png", "OMG, a goose-hydra? ([source](https://twitter.com/SpookyStirfry/status/1614370590244147200))" %}
+![OMG, a goose-hydra?|https://twitter.com/SpookyStirfry/status/1614370590244147200](img/Pasted%20image%2020230116173700.png)
 
-{% figure "img/Pasted image 20230116173843.png", "Ranger is back on table! ([source](https://twitter.com/LluisAbadias/status/1614599137688682500))" %}
+![Ranger is back on table!|https://twitter.com/LluisAbadias/status/1614599137688682500](img/Pasted%20image%2020230116173843.png)

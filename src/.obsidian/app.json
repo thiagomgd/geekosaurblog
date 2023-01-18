@@ -15,5 +15,6 @@
     "notion_posts/"
   ],
   "showLineNumber": true,
-  "livePreview": false
+  "livePreview": false,
+  "useMarkdownLinks": true
 }
