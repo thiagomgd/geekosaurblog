@@ -11,7 +11,7 @@ thumbnail:
 ---
 
 _Currently Reading: Hollowpox (Nevermoor #3)
-Currently Watching: Bob’s Burgers, Ghosts, Columbo_
+Currently Watching: Ghosts, Columbo_
 
 Wow, last time I wrote this 'newsletter' was April 2022, when I got my Sony a6400. Time definitely flies!
 

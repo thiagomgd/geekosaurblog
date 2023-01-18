@@ -15,6 +15,7 @@ const {anyEmbed, figure, blur, tweet} = require('./src/_11ty/asyncShortcodes');
 const {updateReplyToByThreadStartNotion} = require('./src/_11ty/notionHelpers');
 
 const cheerio = require("cheerio");
+const { forEach } = require("lodash");
 
 function hasBodyTag(content) {
   const hasBody = /<\s*body(\w|\s|=|"|-)*>/gm;
@@ -67,9 +68,30 @@ async function imgToFigure(content, options) {
       
       if (!attrs.alt) attrs.alt = '';
 
-      const caption = attrs.alt.startsWith('(blur)') ? attrs.alt.replace('(blur)','').trim() : attrs.alt;
 
-      if (attrs.alt.startsWith('(blur)')) {
+      
+      const splitCaption = attrs.alt.split('|');
+      let caption = splitCaption.shift();
+      let shouldBlur = false;
+      let source = "";
+
+      splitCaption.forEach((itm) => {
+        if (itm === "blur") {
+          shouldBlur = true;
+        } else if (itm.startsWith("http")) {
+          source = itm
+        } else {
+          attrs.alt = itm
+        }
+      })
+
+      if (source) {
+        caption = `${caption} ([source](${source}))`
+      }
+    
+      // attrs.alt.startsWith('(blur)') ? attrs.alt.replace('(blur)','').trim() : attrs.alt;
+
+      if (shouldBlur) {
         promises[i] = blur(attrs.src, caption, "", "");
       } else {
         promises[i] = figure(attrs.src, caption, "", "");   

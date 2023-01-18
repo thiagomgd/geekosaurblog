@@ -25,11 +25,16 @@
             "id": "c0323b5ce84aa731",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "posts/2022/urusei-yatsura-episode1-review.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Blur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/news/geekosaur-news-24.md",
+                "file": "posts/2022/urusei-yatsura-episode1-review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/news/geekosaur-news-24.md",
+                "file": "posts/2022/urusei-yatsura-episode1-review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/news/geekosaur-news-24.md"
+                "file": "posts/2022/urusei-yatsura-episode1-review.md"
               }
             }
           }
@@ -154,15 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "104c76fc66683117",
+  "active": "c0323b5ce84aa731",
   "lastOpenFiles": [
+    "posts/news/geekosaur-news-24.md",
+    "img/dragon-maid.jpeg",
+    "img/coffee-newsletter.jpeg",
+    "img/244743271_840397100007577_364151050713337246_n.jpg",
+    "img/244627543_1213333155836129_2079068633666561123_n-1.jpg",
+    "img/244464316_1210475762776332_6027649036626848770_n.jpg",
+    "img/1494341-asoLcvJ.jpg",
     "img/Pasted image 20230116173332.png",
     "img/Pasted image 20230105171245.png",
-    "posts/news/geekosaur-news-24.md",
-    "posts/2020/11/anime_controversies.md",
-    "posts/drafts/___Recently Watched (Nov. 15 2022).md",
-    "posts/drafts/___Music Monday 1X Central Park.md",
-    "posts/drafts/___Music Monday Show Openings.md",
-    "posts/2023/new-post-test.md"
+    "posts/2020/11/anime_controversies.md"
   ]
 }

@@ -64,7 +64,7 @@ And a couple stitches
 
 ![](https://i.imgur.com/pL4Agho.jpg)
 
-![(blur) Seems in the original they actually show her breasts](https://i.imgur.com/FnnbCnV.png)
+![Seems in the original they actually show her breasts|blur](https://i.imgur.com/FnnbCnV.png)
 
 ## Online Discussions
 
