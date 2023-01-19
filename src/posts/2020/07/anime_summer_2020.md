@@ -21,7 +21,7 @@ tweetId: "1289252748832182273"
 
 We are a few weeks into summer 2020 season, and it's time to talk about which anime I'm watching this time. Let's see!
 
-{% figure "https://i.imgur.com/ZsMJ8Tk.jpg", "This is the true ship!" %}
+![This is the true ship!](https://i.imgur.com/ZsMJ8Tk.jpg)
 
 <!--more-->
 
@@ -31,13 +31,13 @@ We are a few weeks into summer 2020 season, and it's time to talk about which an
 
 This anime is so fun! Great to relax and watch the main character's relationship (?) evolve as Uzaki starts hanging out more with Sakurai. Just plain fun and nothing to complain here.
 
-{% figure "https://i.imgur.com/7NY5v3d.png", "Snarky Uzaki" %}
+![Snarky Uzaki](https://i.imgur.com/7NY5v3d.png)
 
 ### Rent-a-Girlfriend
 
 I like the premise a lot, and the first episode was GREAT. But Kazuya is dumb and a bit annoying occasionally, and his ex-girlfriend is just mean and I hate her. Still watching because I like the plot, and it has Ichinose!
 
-{% figure "https://i.imgur.com/YISrc8a.png" %}
+![](https://i.imgur.com/YISrc8a.png)
 
 ## Starting Soon
 

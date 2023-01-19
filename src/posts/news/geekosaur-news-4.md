@@ -16,7 +16,7 @@ tweetId: "1363228938978222080"
 
 Another weekly updates, thoughts, music and internet things!
 
-{% figure "https://i.imgur.com/mhmo7Be.jpg" %}
+![](https://i.imgur.com/mhmo7Be.jpg)
 
 <!--more-->
 
@@ -34,7 +34,7 @@ My wife started watching Start-Up, a Korean drama that ended recently, and it's 
 
 I'm not watching it yet, but Sisyphus: The Myth premiered on Netflix, with weekly episodes (2 per week). Im going to wait a bit, as I don't do that well with ongoing shows. The drama has Park Shin-hye in it (The Call, Memories of Alhambra, Pinocchio), so of course I'm going to give it a try.
 
-{% figure "https://i.imgur.com/ZAUfGo4.jpg" %}
+![](https://i.imgur.com/ZAUfGo4.jpg)
 
 ### Reading
 
@@ -46,7 +46,7 @@ On the bright side, I read a little bit of Fire Force, a manga that I stopped a 
 
 The profile Aliens About Humans has an interesting explanation about regret. 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Regret is a human mental process entirely dedicated to assessing the possible outcomes from options that are no longer available.</p>&mdash; Aliens About Humans (@HumansExplained) <a href="https://twitter.com/HumansExplained/status/1361373449919356929?ref_src=twsrc%5Etfw">February 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[embed](https://twitter.com/HumansExplained/status/1361373449919356929)
 
 ### Ditching RSS feeds for emails
 

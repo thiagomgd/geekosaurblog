@@ -51,11 +51,11 @@ Yesterday I watched The Woman In The Window ([trakt.tv link](https://trakt.tv/mo
 
 Currently I want a couple books from Silvia Moreno-Garcia, who wrote Mexican Gothic and Gods of Jade And Shadow. The books are: 
 
-{% figure "https://m.media-amazon.com/images/I/516eKXho+iS.jpg", "Velvet Was The Nigt", "vertical" %}
+![Velvet Was The Night](https://m.media-amazon.com/images/I/516eKXho+iS.jpg)
 
 > From the New York Times bestselling author of Mexican Gothic comes a “delicious, twisted treat for lovers of noir” about a daydreaming secretary, a lonesome enforcer, and the mystery of a missing woman they’re both desperate to find.
 
-{% figure "https://images-na.ssl-images-amazon.com/images/I/51pIp66bJXL._SX325_BO1,204,203,200_.jpg", "Untamed Shore", "vertical" %}
+![Untamed Shore](https://images-na.ssl-images-amazon.com/images/I/51pIp66bJXL._SX325_BO1,204,203,200_.jpg)
 
 > Renowned author Silvia Moreno-Garcia's first thriller, Untamed Shore, is a coming-of-age story set in Mexico which quickly turns dark when a young woman meets three enigmatic tourists. 
 

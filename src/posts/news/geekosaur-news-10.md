@@ -47,7 +47,7 @@ Right now I'm playing Katana Zero, and I think after that I'm going to play Cosm
 
 Last weekend I went for a walk with my wife to see the cherry blossoms. They are lovely, as always, and it's unfortunate that the pandemic is still strong here so we are not comfortable staying outdoors for hours and having a picnic there.
 
-{% figure "https://i.imgur.com/wjrqaUI.jpg", "", "vertical" %}
+![](https://i.imgur.com/wjrqaUI.jpg)
 
 I also got my first Moderna shot on Monday 😄. I'm very happy with that!
 

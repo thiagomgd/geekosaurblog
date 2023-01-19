@@ -42,7 +42,7 @@ Anything goes, and I ave to say this is kinda working for me: some weeks I reall
 
 I started reading [Mythos: The Greek Myths Reimagined](https://www.goodreads.com/book/show/46228086-mythos) by Stephen Fry. It's the first in a serie of mythology books, and I already have the second volume on my Kindle: *Heroes: Mortals and Monsters, Quests and Adventures.* I started to read it now partly inspired by Blood of Zeus, which I resumed watching recently on Netflix. I'm at 20% at the moment.
 
-{% figure "https://i.imgur.com/zZF2VeG.jpg" %}
+![](https://i.imgur.com/zZF2VeG.jpg)
 
 ## Watching
 

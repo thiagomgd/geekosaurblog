@@ -13,7 +13,7 @@ tweetId: "1386036659297214471"
 
 This week I have a few blog posts to recommend, besides the usual music and what I've been watching and reading!
 
-{% figure "https://i.imgur.com/Wl9zDCx.jpg" %}
+![](https://i.imgur.com/Wl9zDCx.jpg)
 
 <!--more-->
 

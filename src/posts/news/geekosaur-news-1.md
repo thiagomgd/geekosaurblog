@@ -17,7 +17,7 @@ For a while, I was thinking about returning with the weekly updates. And this we
 
 This is not actually a newsletter, as it's been posted on the blog, but the idea is the same: having a commitment to write a weekly list of personal updates, interesting things that I found on the internet, and random thoughts/questions for online discussion that might result in a separate blog post later on.
 
-{% figure "https://i.imgur.com/Gng2Fkk.png" %}
+![](https://i.imgur.com/Gng2Fkk.png)
 
 <!--more-->
 
@@ -70,4 +70,4 @@ _Pretty Please_ follows the groove vibe, but starting to get more cozy and relax
 
 ## Random
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;And what about all the people who won&#39;t be able to join the community because they&#39;re terrible at making helpful and constructive co-- ... oh.&quot;<br>src: <a href="https://t.co/fwcH3ifHUc">https://t.co/fwcH3ifHUc</a> <a href="https://t.co/tu2PE48Kkb">pic.twitter.com/tu2PE48Kkb</a></p>&mdash; Falcon | Geekosaur 🍥 (@FalconSensei) <a href="https://twitter.com/FalconSensei/status/1353807578879258624?ref_src=twsrc%5Etfw">January 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[embed](https://xkcd.com/810/)

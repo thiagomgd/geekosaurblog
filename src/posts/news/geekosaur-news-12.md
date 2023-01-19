@@ -37,11 +37,11 @@ Cari is a vlogger that lives in South Korea, but also has a separate channel abo
 
 I'm still reading Ranma 1/2, and recently finished the 3rd omnibus (vols. 5 & 6), and got the 4th omnibus, with the 5th coming up anytime soon (Amazon doesn't have a delivery date yet). It's being fun and lighthearted, kind of a cozy harem/fighting manga.
 
-{% figure "https://i.imgur.com/HIG69l5.jpg", "", "vertical" %}
+![](https://i.imgur.com/HIG69l5.jpg)
 
 Also, after seeing a post about Mieruko-chan on Irina's blog and the comments section, I decided to give it a go, and also test my wife's iPad to read. The first volume is fun, but it leaves the impression that it could get repetitive soon. But the comments I've seen say that it gets better and changes from a comedy manga to a more compelling mystery and horror blend. I'll get the second volume soon and see how it goes!
 
-{% figure "https://i.imgur.com/kO9BYST.jpg?1", "", "vertical" %}
+![](https://i.imgur.com/kO9BYST.jpg?1)
 
 ## Books
 
@@ -57,9 +57,9 @@ I started a daily tweet thread on Twitter. Although I might not post on some day
 
 This week me and my wife repotted our plants to new self-watering pots with water level indicators. Our living room feels so cozy now. We also have a terrarium.
 
-{% figure "https://i.imgur.com/TiPDJId.jpg", "vertical" %}
+![](https://i.imgur.com/TiPDJId.jpg)
 
-{% figure "https://i.imgur.com/fJoK1cx.jpg", "", "vertical" %}
+![](https://i.imgur.com/fJoK1cx.jpg)
 
 ---
 

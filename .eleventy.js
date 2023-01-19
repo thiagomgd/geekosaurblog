@@ -93,10 +93,10 @@ async function imgToFigure(content, options) {
 
       if (shouldBlur) {
         // replace is for images from obsidian.
-        promises[i] = blur(attrs.src.replaceAll('%20', ' '), caption, "", "");
+        promises[i] = blur(attrs.src.replaceAll('%20', ' '), caption, "", attrs.all);
       } else {
         // replace is for images from obsidian.
-        promises[i] = figure(attrs.src.replaceAll('%20', ' '), caption, "", "");   
+        promises[i] = figure(attrs.src.replaceAll('%20', ' '), caption, "", attrs.alt);   
       }
     }
   

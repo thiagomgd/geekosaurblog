@@ -28,7 +28,7 @@ I can also play games and watch great shows and movies, of course, but I think r
 
 I haven't read A LOT, by any standards, but is great to be tracking that nonetheless, as if you don't measure, it's harder to know how you are doing.
 
-{% figure "https://i.imgur.com/dNDIcVG.png" %}
+![](https://i.imgur.com/dNDIcVG.png)
 
 I knew April didn't go well, but I didn't think it was going to be like that. It's important to note that I wasn't actually tracking manga until the last day of April, so those 3 Ranma 1/2 omnibuses that I read weren't accounted for.
 

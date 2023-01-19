@@ -51,8 +51,8 @@ More K-Pop music (and some gifs) for you!
 
 ## Pics and Gifs
 
-{% figure "http://i.imgur.com/c2xY6kZ.gif", "Dia - Mr. Potter" %}
+![Dia - Mr. Potter](http://i.imgur.com/c2xY6kZ.gif)
 
-{% figure "http://thumbs.gfycat.com/SardonicFineBaleenwhale-size_restricted.gif", "MRW I notice a camera" %}
+![MRW I notice a camera](http://thumbs.gfycat.com/SardonicFineBaleenwhale-size_restricted.gif)
 
-{% figure "http://i.giphy.com/R2vQ5QDS13x6g.gif", "Miss A - Jia Fei", "vertical" %}
+![Miss A - Jia Fei](http://i.giphy.com/R2vQ5QDS13x6g.gif)

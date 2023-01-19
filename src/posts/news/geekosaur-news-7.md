@@ -37,7 +37,9 @@ With lyrics, they still make sense when thinking in Portuguese, of course. But i
 Nabe made a great post on webtoons: [7 Comfy and Relaxing Webtoon Recommendation](https://geeknabe.com/blog/7-comfy-and-relaxing-webtoon-recommendation/). The one featured in the banner is ReLIFE, which is an anime that I really liked, and I absolutely loved the webtoon. I still need to write about it, but maybe in another opportunity. The post got me interested on Roland Roland. I'm not sure *when* I'll be able to read it - my readlist is kinda enormous right now - but it sure seems pretty interesting.
 
 The author is now currently doing [Blue Hearts](https://anilist.co/manga/105281/Blue-Hearts), which I read a few chapters a couple years ago and I enjoyed it. I stopped reading because the translation had stopped, but now might be time to continue reading it. Considering that ReLIFE features a lot of old Japanese rock and punk songs, I wonder if Blue Hearts comes from the band The Blue Hearts.  
+
 {% youtube "YivPA-TT_eE" %}  
+
 ## Reading
 
 Not much reading this week. Was a bit lazy, and also worked a bit more to wrap up stuff. But maybe this upcoming week will be better :)
@@ -48,7 +50,7 @@ Last weekend I watched the first episode of Vincenzo on Netflix. It was really c
 
 Me and my wife finished rewatching Brooklyn 99 on Netflix, and after a couple episodes of Family Guy, decided to get Disney+ so we can watch Futurama and some other stuff, including Simpsons. Me particularly: Star vs the Forces of Evil. I stopped on season 4 a couple years ago and never finished the show. Now it's my opportunity. It's a GREAT cartoon, and I highly recommend it!
 
-{% figure "https://i.imgur.com/7W4NOvX.jpg" %}
+![](https://i.imgur.com/7W4NOvX.jpg)
 
 I also started watching Great Pretender on Netflix, after 4 episodes I'm enjoying it a lot. But I'm probably going to pause it for a bit so I can finish Star. I also rewatched a couple of the first episodes of Community on Netflix. I LOVE that show, and it's still very fun on a rewatch.
 

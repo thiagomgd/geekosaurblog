@@ -52,7 +52,7 @@ This week I continued reading Mythos, by Stephen Fry. I read around 3 hours, and
 
 Last Sunday I put on a couple shelves on my home office, to display some books and Funkos. There's also a cool Inuyasha poster. What do you think about it? Looks good?
 
-{% figure "https://i.imgur.com/0QZnA5N.jpg" %}
+![](https://i.imgur.com/0QZnA5N.jpg)
 
 The Einstein Funko is new, along with Rei and a Dalek. Check the twitter thread below to see me unboxing them!
 

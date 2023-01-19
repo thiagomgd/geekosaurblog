@@ -22,7 +22,7 @@ So, I decided to make a way for me to write my thoughts directly on Notion (noti
 
 This part is basically creating a new database on Notion so I can use it to write the posts on.
 
-{% figure "https://i.imgur.com/mM5djrF.png", "Notion database and fields" %}
+![Notion database and fields](https://i.imgur.com/mM5djrF.png)
 
 As columns you have Title (renamed from Name), Tags, Images, Embed, Format and Created. Tags are not yet used to filter on the blog, but at least what I have is already organized. Format is not yet used, but I guess in the future I might want to do something like some Tumblr templates and have different layouts for gallery and music for example. Created is a calculated field that is just when the note was created. This is because I couldn't find how to filter by *created_time*, which is the internal value. Then I just need to write the notes normally in each page, since I load then as markdown later.
 
@@ -213,7 +213,7 @@ I created a `notes` folder with 2 files: `notes.md` and `note.md`. One for the w
 
 For the `notes.md`[^notes] file, this is how I show everything:
 
-{% figure "https://i.imgur.com/m9DZZoh.png" %}
+![](https://i.imgur.com/m9DZZoh.png)
 
 _update: currently there's a bug with `eleventyComputed.date`. You need to use `created_date`, and use `{{ page.data.created_date or page.date }}` on the template_
 
@@ -223,7 +223,7 @@ _Another thing I didn't mention originally: I use the **embed** field in notion 
 
 The only difference to the individual `note.md` on that, is that I don't cycle through all notes. This is the frontmatter for the individual pages, to enable it being generated on for all notes, with the correct thumbnails and everything:
 
-{% figure "https://i.imgur.com/6nw0vl8.png", "Frontmatter (for some reason, embedding frontmatter code breaks the post" %}
+![Frontmatter (for some reason, embedding frontmatter code breaks the post](https://i.imgur.com/6nw0vl8.png)
 
 You can see my filters file[^filters] for those filters, but what they do is basically: generate the twitter exerpt from the content, and get the thumbnail, which would be the first image (if any).
 
@@ -235,7 +235,7 @@ That's it! You should have it working like mine!
 
 Now, I can write the notes on my phone, but I still need to trigger a build. My blog only rebuilds automatically once a day, and I don't want to go to the computer to call the webhook. Since I use Cloudflare Pages, I have a webhook that I can POST to to trigger a rebuild. With iOS shortcuts, I can call it from my phone. See below for example:
 
-{% figure "https://i.imgur.com/rs8n76D.png" %}
+![](https://i.imgur.com/rs8n76D.png)
 
 I cut off the first step, which is just defining the URL for the webhook (copied from cloudflare pages), but then add a second step to load the contents of a URL, using the POST method and it's done!
 

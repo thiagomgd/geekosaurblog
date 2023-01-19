@@ -26,7 +26,7 @@ There are some good reasons for me to recommend this show. The first is that the
 
 Another thing is that, while many shows will focus on the kings, the knights, this one features a simple peasant that has to work hard to survive, and them at some point manages to be a successful merchant. It's a different POV than usual, and also allows the story to be different than your usual medieval era story.
 
-{% figure "https://i.imgur.com/QdYSaai.jpg" %}
+![](https://i.imgur.com/QdYSaai.jpg)
 
 The production is also damn good! The scenery, costumes, music and acting are great, and it has that 'big budget feel' that comes from the production design and the awesome aesthetic of the show.
 
@@ -38,7 +38,7 @@ This might be a bit off-putting to some or at least make the show non-bingeable,
 
 Another thing that is a *maybe* is that, while the show is only 8 episodes long, some parts have a slow pacing. Not that the shows drags too much, but it's definitely not action-fueled.
 
-{% figure "https://i.imgur.com/phQIAIT.jpg" %}
+![](https://i.imgur.com/phQIAIT.jpg)
 
 ## The Bad
 

@@ -39,7 +39,7 @@ This is a world filled with pirates, wizards, assassins and more, but everything
 and not even for a moment does it feel like a bunch of fantasy stereotypes that were just thrown together randomly in a story. 
 For me, the author united many different types of characters and myths (some really surprising) in a fantastic way.
 
-{% figure "http://i.imgur.com/zezw1Tn.jpg" %}
+![](http://i.imgur.com/zezw1Tn.jpg)
 
 The book also has a fair share of humor and romance, but in a way that it doesn't overlaps the adventure and magic. 
 It's a pleasure to sit down and follow them as they travel through the desert, sail the high seas, 

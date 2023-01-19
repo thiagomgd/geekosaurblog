@@ -17,7 +17,7 @@ tweetId: "1396327854648946691"
 
 These past couple weeks have been busy, but I hope things are going to fall back into schedule soon. 
 
-{% figure "https://i.imgur.com/H0RpY1H.png", "Fanfic as old as time", "vertical" %}
+![Fanfic as old as time](https://i.imgur.com/H0RpY1H.png)
 
 <!--more-->
 
@@ -53,7 +53,7 @@ I'm still slowly watching Snowpiercer Season 2 on Netflix, and I started watchin
 
 I read vol. 2 of Mieruko-chan, which was fun and hinted that the manga might be starting to get a bit more into it's horror side, and also focus more on a plot instead of self-contained chapters. Hope vol. 3 is great!
 
-{% figure "/img/mieruko-chan-vol2.jpg", "Nothing to see here", "vertical" %}
+![Nothing to see here](/img/mieruko-chan-vol2.jpg)
 
 Not reading anything ATM, but THIS is some cool news. Loved reading the original Perry Rhodan series years ago, and I highly recommend everyone to try NEO!
 

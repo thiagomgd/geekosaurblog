@@ -18,7 +18,7 @@ Another busy week at work, but now things will settle down for a while. And whil
 
 I think starting next week I can start having content recommendations and comments again :)
 
-{% figure "https://media1.giphy.com/media/UtV2anPu7ryuRQ4DmQ/giphy.gif", "", "vertical" %}
+![](https://media1.giphy.com/media/UtV2anPu7ryuRQ4DmQ/giphy.gif)
 
 <!--more-->
 

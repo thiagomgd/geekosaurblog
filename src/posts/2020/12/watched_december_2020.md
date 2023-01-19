@@ -15,7 +15,7 @@ tweetId: "1344532396364894208"
 
 The month (and the year) is almost over, so I though I would share what I watched during December. Hopefully I'll remember to do that every month :)
 
-{% figure "https://i.imgur.com/X0Qkjqi.jpg" %}
+![](https://i.imgur.com/X0Qkjqi.jpg)
 
 <!--more-->
 

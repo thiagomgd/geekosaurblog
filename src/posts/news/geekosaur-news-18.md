@@ -65,7 +65,7 @@ A bit late to share maybe, but still useful: November is the National Novel Writ
 
 I discovered [Hypnogram](https://hypnogram.xyz/), a site where you type what you want to see in a picture, and it creates a nice image that might make you think you are on magic shrooms. It takes a while to generate it, but it is fun to try.
 
-{% figure "https://i.imgur.com/hjOHORJ.jpg", "Fear And Loathing in Las Vegas", "vertical", "Hypnogram image for Fear and Loathing in Las Vegas" %}
+![Fear And Loathing in Las Vegas|Hypnogram image for Fear and Loathing in Las Vegas](https://i.imgur.com/hjOHORJ.jpg)
 
 ## Random
 

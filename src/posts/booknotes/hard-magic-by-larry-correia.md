@@ -24,7 +24,7 @@ Despite always being interested in the Urban Fantasy genre, I don't remember hav
 
 I was supposed to start my journey with the first book in The Dresden Files series: Storm Front by Jim Butcher. My Want-To-Read shelf on GoodReads was filled with other interesting books too, but then I discovered Hard Magic by Larry Correia, the first book on The Grimnoir Chronicles series and decided to buy and read it. And I'm REALLY glad that I did.
 
-{% figure "/img/hard-magic.jpeg", "French Edition Cover", "vertical" %}
+![French Edition Cover](/img/hard-magic.jpeg)
 
 This is a mix of Urban Fantasy, Steampunk, Alternate History and Science Fiction, with a bit of Dark Fantasy too. Here, the magic is called Power, and everyone has one kind: alter gravity, healing, teleport, control the weather, just to name a few. Jake Sullivan, our hero (not that he really wants to be one), is a Heavy, being able to control the pull and intensity of gravity. He's a really good one, knowing more about the Power than almost anyone.
 

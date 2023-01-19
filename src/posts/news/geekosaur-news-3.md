@@ -44,8 +44,7 @@ A few quotes from it
 
 > He wanted to tell Luke that he loved him. But there were no words, and maybe no need of them. Or telepathy. Sometimes a hug was telepathy.
 
-{% figure "https://i.imgur.com/EBqj56I.jpg", "", "vertical" %}
-
+![](https://i.imgur.com/EBqj56I.jpg)
 
 ## Music
 

@@ -25,7 +25,7 @@ I'm very glad I continued reading it, as it was so much fun. The sense of humor 
 
 Being a long book, it took me a while to finish it: I've only finished it on January 25th. Then, I proceeded to return to H is for Hawk, another book that I put aside for a while. This one I started reading on my flight to Brazil last year, and was planning to continue on my flight back. But I was too stressed to read it.
 
-{% figure "https://i.imgur.com/Bi1i8sD.jpg", "", "medium" %}
+![](https://i.imgur.com/Bi1i8sD.jpg)
 
 My reading stats are down below, grouped per week. As you can see, I've started the year better, but somethings kept me away from books later on. I also suspect I forgot to input a few days on Notion - that's why I moved to the phone timer.
 

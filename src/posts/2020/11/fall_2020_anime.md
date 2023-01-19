@@ -19,7 +19,7 @@ A bit late to the party, but let's talk seasonal anime. This is going to be a sl
 
 I guess I can start with the things I'm behind, which is mainly 2: Re:Zero and Is It Wrong to Try to Pick Up Girls in a Dungeon?. For obvious reasons, I can't start Danmachi's 3rd season, even though I'm not sure I'm in the mood for it right now, and Re:Zero is something that interests me more/has a higher priority than most seasonal anime for fall 2020. I should also add that I have all Sound! Euphonium movies in my backlog. whew
 
-{% figure "https://i.imgur.com/BJIc6sd.jpg" %}
+![](https://i.imgur.com/BJIc6sd.jpg)
 
 <!--more-->
 
