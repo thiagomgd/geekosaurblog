@@ -18,7 +18,7 @@ tweetId: "1362619825898487810"
 
 Today I received a new vinyl record: Babylon Berlin Vol. 2. This is the soundtrack for the 3rd season of the show, which is odd, but the first volume contained the OST for the first two seasons.
 
-{% figure "https://i.imgur.com/BYvu8p7.jpg", "", "vertical" %}
+![](https://i.imgur.com/BYvu8p7.jpg)
 
 <!--more-->
 

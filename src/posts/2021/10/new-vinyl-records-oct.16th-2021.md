@@ -22,9 +22,9 @@ Recently I've got a few more records. Let's check them!
 
 <!--more-->
 
-{% figure "/img/halsey-wallows.jpeg", "", "vertical", "Vinyl records: Halsey and Wallows" %}
+![Vinyl records: Halsey and Wallows](/img/halsey-wallows.jpeg)
 
-{% figure "/img/morphine.jpeg", "", "vertical", "Vinyl record: Morphine, Cure for Pain" %}
+![Vinyl record: Morphine, Cure for Pain](/img/morphine.jpeg)
 
 I ended up deciding to get _Halsey - If I Can't Have Love, I Want Power_. I never paid too much attention to Halsey before, but was curious, and after listening to her new album, I got hooked. It's great, so I ended up getting it.
 

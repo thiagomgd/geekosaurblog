@@ -11,7 +11,7 @@ tweetId: "1346636060873220097"
 
 With a very interesting timing, To The Lake  is a Russian show about a deadly epidemic that released on Netflix in late 2020. I'm not sure if this unfortunate coincidence kept some people away from it, but I'm glad I wasn't put off.
 
-{% figure "https://i.imgur.com/xhtfSxG.jpg" %}
+![](https://i.imgur.com/xhtfSxG.jpg)
 
 <!--more-->
 

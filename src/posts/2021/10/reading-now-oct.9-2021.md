@@ -28,7 +28,7 @@ Then I've started **The Meaning of It All: Thoughts of a Citizen-Scientist**, wh
 
 I was thinking about what to start next for my fiction reading, and like my mind was being read, I've got an email from Indigo with the new releases and staff picks, which included The Lighthouse Witches, a book that just released and OMG, it looks so beautiful and interesting.
 
-{% figure "/img/244627543_1213333155836129_2079068633666561123_n-1.jpg", "", "vertical" %}
+![](/img/244627543_1213333155836129_2079068633666561123_n-1.jpg)
 
 {% myembed {title:"The Lighthouse Witches", author:"C.J.  Cooke", url:"https://www.goodreads.com/book/show/57310655-the-lighthouse-witches", image:"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621523851i/57310655.jpg"} %}
 Two sisters go missing on a remote Scottish island. Twenty years later, one is found--but she's still the same age as when she disappeared. The secrets of witches have reached across the centuries in this chilling Gothic thriller from the author of the acclaimed The Nesting.

@@ -18,7 +18,7 @@ Then, fast forward to a year or so ago, and I was reading The Magpie Murders, my
 
 After that excellent first impression on an exceptional mystery novel, of course I was going to get another Horowitz novel. So I got The Word Is Murder, the first book on the Detective Daniel Hawthorne series, published in 2017.
 
-{% figure "https://i.imgur.com/5vePw9f.jpeg", "", "vertical" %}
+![](https://i.imgur.com/5vePw9f.jpeg)
 
 <!--more-->
 

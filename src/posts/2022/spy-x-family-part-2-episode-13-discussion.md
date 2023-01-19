@@ -26,21 +26,21 @@ I just love seeing them together, and those bits outside of school are usually a
 
 ### Images
 
-{% figure "https://i.imgur.com/4tbK8zj.jpeg","Best response image", "", "", "True" %}
+![Best response image](https://i.imgur.com/4tbK8zj.jpeg)
 
-{% figure "https://i.imgur.com/R1UCxAv.jpg","*Yor panic*", "", "", "True" %}
+![*Yor panic*](https://i.imgur.com/R1UCxAv.jpg)
 
-{% figure "https://i.imgur.com/HsZ42QJ.jpg","They are just so cure together!!!", "", "", "True" %}
+![They are just so cure together!!!](https://i.imgur.com/HsZ42QJ.jpg)
 
-{% figure "https://i.imgur.com/zI1pJQa.jpg","Damn... those are really flexing", "", "", "True" %}
+![Damn... those are really flexing](https://i.imgur.com/zI1pJQa.jpg)
 
-{% figure "https://i.imgur.com/WCvxqDK.jpg","Best mom keep giving", "", "", "True" %}
+![Best mom keeps giving](https://i.imgur.com/WCvxqDK.jpg)
 
-{% figure "https://i.imgur.com/vK5g2qT.png","Yor is really terrifying, specially when it comes to Anya", "", "", "True" %}
+![Yor is really terrifying, specially when it comes to Anya](https://i.imgur.com/vK5g2qT.png)
 
-{% figure "https://cdn.discordapp.com/attachments/1025837974702800947/1025838048174420218/unknown.png","I see we're gonna have a fun time again", "", "", "True" %}
+![I see we're gonna have a fun time again](https://cdn.discordapp.com/attachments/1025837974702800947/1025838048174420218/unknown.png)
 
-{% figure "https://i.imgur.com/gP7QqDt.jpg","Starlight Anya", "", "", "True" %}
+![Starlight Anya](https://i.imgur.com/gP7QqDt.jpg)
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="14kGQFr"><a href="//imgur.com/14kGQFr"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 

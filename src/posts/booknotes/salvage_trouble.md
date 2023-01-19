@@ -12,7 +12,7 @@ reddit: "https://www.reddit.com/r/geekosaur/comments/gzaiio/review_salvage_troub
 
 This is a short science fiction book that also has a bit of fantasy. It's the first in a series, but can be read as a standalone story.
 
-{% figure "https://i.imgur.com/ZmPRdsh.jpg", "", "vertical" %}
+![](https://i.imgur.com/ZmPRdsh.jpg)
 
 <!--more-->
 

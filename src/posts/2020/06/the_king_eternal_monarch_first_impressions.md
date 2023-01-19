@@ -20,12 +20,11 @@ This weekend I started two new Korean dramas: The King: Eternal Monarch and Stra
 
 <!--more-->
 
-
 > Story about a Korean emperor Lee Gon who tries to close the doors to a parallel world which was opened by demons who were unleashed by a deity into the human world, and a detective Jung Tae-eul who tries to protect the people and the one she loves.
 
 The premise is interesting: the king of an alternate Korea comes to our world. The alternate world is not entirely different from ours, the main difference being that they still have a king, while in our world Korea is a democracy.
 
-{% figure "https://i.imgur.com/dtdXqa6.gif", "Its cool to see a modern toy in this kind of setting", "", "giving his friend a toy sword"  %}
+![Its cool to see a modern toy in this kind of setting|giving his friend a toy sword|](https://i.imgur.com/dtdXqa6.gif)
 
 I liked the references to Alice in Wonderland / Through the Looking-Glass. It was cool seeing it being read in the alternate world! Also, I would enjoy having crazy, weid things happening as in Alice.
 
