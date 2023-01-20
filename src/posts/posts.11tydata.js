@@ -1,5 +1,5 @@
 // const { process } = require("clean-css");
-const { getLocalImageLink, getOptimizedUrl } = require("../_11ty/helpers");
+const { getOptimizedUrl } = require("../_11ty/helpers");
 
 const isDevEnv = process.env.ELEVENTY_ENV === 'development';
 const todaysDate = new Date();
@@ -30,8 +30,7 @@ module.exports = function() {
 				}
 			},
 			thumbnail: async function(data) {
-				const src = await getLocalImageLink(data.thumbnail);
-				return await getOptimizedUrl(src);
+				return await getOptimizedUrl(data.thumbnail);
 			},
 			created_date: function(data) {
 				return data.page.date;

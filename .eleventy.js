@@ -50,15 +50,54 @@ async function replaceSpecialLinks(content, options) {
     $(links[i]).replaceWith(embed);
   });
 
-  return hasBodyTag(content) ? $.html() : $("body").html();
+  return $.html();
 }
 
-async function imgToFigure(content, options) {
+// async function imgToFigure(token) {
+//   alt = token.content;
+//   url = token.attrs[token.attrIndex('src')][1];
+//   console.debug(alt);
+//   console.debug(url);
+    
+//   const splitCaption = alt.split('|');
+//   let caption = splitCaption.shift();
+//   let shouldBlur = false;
+//   let source = "";
+
+//   splitCaption.forEach((itm) => {
+//     if (itm === "blur") {
+//       shouldBlur = true;
+//     } else if (itm.startsWith("http")) {
+//       source = itm
+//     } else {
+//       alt = itm
+//     }
+//   })
+
+//   if (source) {
+//     caption = `${caption} ([source](${source}))`
+//   }
+
+//   // attrs.alt.startsWith('(blur)') ? attrs.alt.replace('(blur)','').trim() : attrs.alt;
+
+//   if (shouldBlur) {
+//     // replace is for images from obsidian.
+//     return await blur(url.replaceAll('%20', ' '), caption, "", alt);
+//   } 
+//     // replace is for images from obsidian.
+//   return await figure(url.replaceAll('%20', ' '), caption, "", alt);   
+      
+    
+  
+// }
+
+
+async function imgToFigure(content) {
   const $ = cheerio.load(content);
   // TODO: only block links
   // TODO: images from notion are surrounded by empty paragraphs. Eliminate them
-  let images = $("p img")
-    .not("picture img"); // Ignore images wrapped in <picture>
+  let images = $("p > img")
+    // .not("picture img"); // Ignore images wrapped in <picture>
     // .not("[data-img2picture-ignore]") // Ignore excluded images
 
     const promises = [];
@@ -103,10 +142,14 @@ async function imgToFigure(content, options) {
     const pictures = await Promise.all(promises);
   
     pictures.forEach((picture, i) => {
+      // console.debug('-------------');
+      // console.debug(images[i]);
+      // console.debug(picture);
       $(images[i]).replaceWith(picture);
     });
 
-  return hasBodyTag(content) ? $.html() : $("body").html();
+    return $.html();
+  // return hasBodyTag(content) ? $.html() : $("body").html();
 }
 
 module.exports = function(eleventyConfig) {
@@ -300,7 +343,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addTransform('img2figure', async function(content){
     if (this.outputPath && this.outputPath.endsWith(".html")) {
-      return await imgToFigure(content, {});
+      return await imgToFigure(content);
     }
 
     return content;
@@ -325,6 +368,17 @@ module.exports = function(eleventyConfig) {
     }),
     slugify: eleventyConfig.getFilter("slugify")
   }).use(markdownItFootnote).use(markdownItObsidian);
+
+    // markdownLibrary.renderer.rules.image = function (tokens, idx, options, env, slf) {
+    //   const token = tokens[idx]
+    //   console.debug(token);
+
+    //   return imgToFigure(token);
+    // //   return `<figure>
+    // //   ${slf.renderToken(tokens, idx, options)}
+    // //   <figcaption>${token.attrs[token.attrIndex('alt')][1]}</figcaption>
+    // // </figure>`
+    // }
 
   eleventyConfig.setLibrary("md", markdownLibrary);
 

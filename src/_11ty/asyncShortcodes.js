@@ -2,7 +2,7 @@ const markdownIt = require("markdown-it");
 const EleventyFetch = require("@11ty/eleventy-fetch");
 const outdent = require("outdent")({newline: " "});
 
-const {getLocalImageLink, optimizeImage} = require("../_11ty/helpers");
+const {optimizeImage} = require("../_11ty/helpers");
 const {youtube, youtube_parser, reddit, video, gfycat, imgurEmbed} = require("./shortcodes");
 const {
     defaultTweet,
@@ -17,7 +17,6 @@ function isVertical(width, height) {
     // square and slightly wide counts as vertical for style purposes
     return width / height <= 1.25;
 }
-
 
 async function imageShortcode(src, alt, options = {}) {
     if (!src) return '';
@@ -58,14 +57,14 @@ function isVideo(url) {
     return false;
 }
 
-async function figure(image, caption = "", className = "", alt = "", noLocal="False") {
+async function figure(image, caption = "", className = "", alt = "") {
     if (!image) return '';
     
     if (isVideo(image)) {
         return video(image);
     }
 
-    const localSrc = noLocal === "True" ? image : getLocalImageLink(image);
+    // const localSrc = getLocalImageLink(image);
 
     const mdCaption = caption ? markdownIt().renderInline(caption) : EMPTY;
     const classMarkup =
@@ -73,7 +72,7 @@ async function figure(image, caption = "", className = "", alt = "", noLocal="Fa
     const captionMarkup = caption ? `<figcaption>${mdCaption}</figcaption>` : "";
     const imgOptions =
         className && className === "u-photo" ? {shareBridgy: true} : {};
-    const imgTag = await imageShortcode(localSrc, alt, imgOptions);
+    const imgTag = await imageShortcode(image, alt, imgOptions);
     return `<figure${classMarkup}>${imgTag}${captionMarkup}</figure>`;
 }
 
@@ -90,11 +89,11 @@ async function card(title, imgParam, rating, review_link, goodreads) {
         img = imgParam?.length > 0 ? imgParam[0] : "";
     }
 
-    const localImg = getLocalImageLink(img);
+    // const localImg = getLocalImageLink(img);
 
     const badge = rating ? `<div class="card-badge">${rating}</div>` : EMPTY;
-    const imgTagInner = localImg
-        ? await imageShortcode(localImg, "", {novertical: true})
+    const imgTagInner = img
+        ? await imageShortcode(img, "", {novertical: true})
         : EMPTY;
     const imgTag = imgTagInner
         ? `<div class="card-image-div">${imgTagInner}</div>`

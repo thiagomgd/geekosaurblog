@@ -90,49 +90,49 @@ function getFolder(imgUrl, folder, slug) {
     return folder;
 }
 
-function getLocalImageLink(imgUrl, fileName = "") {
-    if (!imgUrl) return "";
+// function getLocalImageLink(imgUrl, fileName = "") {
+//     if (!imgUrl) return "";
 
-    if (process.env.ELEVENTY_ENV !== "devbuild") return imgUrl;
+//     if (process.env.ELEVENTY_ENV !== "devbuild") return imgUrl;
 
-    // skip local images, notion images
-    // there shouldn't be any notion images at this point anymore
-    if (!external.test(imgUrl)) { //|| isNotionImage(imgUrl)) {
-        return imgUrl;
-    }
+//     // skip local images, notion images
+//     // there shouldn't be any notion images at this point anymore
+//     if (!external.test(imgUrl)) { //|| isNotionImage(imgUrl)) {
+//         return imgUrl;
+//     }
 
-    const cache = readFromCache(IMG_CACHE_FILE_PATH);
+//     // const cache = readFromCache(IMG_CACHE_FILE_PATH);
 
-    if (cache[imgUrl]) {
-        const filePath = `./src${cache[imgUrl].url}`
-        if (fs.existsSync(filePath)) {
-            return cache[imgUrl].url;
-        }
-        // it's probably downloading, fallback to remote url
-        return imgUrl;
-    }
+//     if (cache[imgUrl]) {
+//         const filePath = `./src${cache[imgUrl].url}`
+//         if (fs.existsSync(filePath)) {
+//             return cache[imgUrl].url;
+//         }
+//         // it's probably downloading, fallback to remote url
+//         return imgUrl;
+//     }
 
-    // for now, don't download more images
-    return;
-    // const folder = getFolder(imgUrl, "ext");
+//     // for now, don't download more images
+//     return;
+//     // const folder = getFolder(imgUrl, "ext");
 
-    // const fn = fileName || getFileName(imgUrl);
-    // const imagePath = `/img/${folder}/${fn}`;
-    // const path = `./src${imagePath}`;
+//     // const fn = fileName || getFileName(imgUrl);
+//     // const imagePath = `/img/${folder}/${fn}`;
+//     // const path = `./src${imagePath}`;
 
-    // console.debug('@@@@', imgUrl);
-    // if (!fs.existsSync(path)) {
-    //     fetch(imgUrl).then((res) => res.body.pipe(fs.createWriteStream(path)));
-    //     cache[imgUrl] = {url: imagePath};
-    //     writeToCache(cache, IMG_CACHE_FILE_PATH, "images");
-    //     // TODO: return local. For now, since download is async, first run needs to use external url
-    //     return imgUrl;
-    // } else {
-    //     console.error("> collision downloading image", imgUrl);
-    // }
+//     // console.debug('@@@@', imgUrl);
+//     // if (!fs.existsSync(path)) {
+//     //     fetch(imgUrl).then((res) => res.body.pipe(fs.createWriteStream(path)));
+//     //     cache[imgUrl] = {url: imagePath};
+//     //     writeToCache(cache, IMG_CACHE_FILE_PATH, "images");
+//     //     // TODO: return local. For now, since download is async, first run needs to use external url
+//     //     return imgUrl;
+//     // } else {
+//     //     console.error("> collision downloading image", imgUrl);
+//     // }
 
-    // return imagePath;
-}
+//     // return imagePath;
+// }
 
 // function downloadImage(url, filepath) {
 //     if (!fs.existsSync(filepath)) {
@@ -146,26 +146,6 @@ function getLocalImageLink(imgUrl, fileName = "") {
 //     }
 //     console.error("> collision downloading image", url, filepath);
 // }
-
-async function downloadNotionImage(notionId, imgUrl) {
-    if (!imgUrl || !isNotionImage(imgUrl)) return imgUrl;
-
-    const folder = getFolder(imgUrl, "", notionId);
-
-    const fn = getFileName(imgUrl);
-    const imagePath = `/img/${folder}/${fn}`;
-    const path = `./src${imagePath}`;
-    const dir = `./src/img/${folder}`;
-
-    if (!fs.existsSync(dir)) {
-        fs.mkdirSync(dir);
-    }
-
-    // since the original images are on Notion, no need to keep original here
-    const res = await getOptimizedUrl(imgUrl, dir, "outputPath");
-    // console.log("RES", res);
-    return res.replace('src', '');
-}
 
 function getOptimizeMetadata(metadata) {
     let outputs;
@@ -239,10 +219,10 @@ module.exports = {
     // replaceNotionMarkdown,
     readFromCache,
     writeToCache,
-    getLocalImageLink,
+    // getLocalImageLink,
     getOptimizeMetadata,
     getOptimizedUrl,
     optimizeImage,
     deleteNotionLocalImages,
-    downloadNotionImage
+    // downloadNotionImage
 };

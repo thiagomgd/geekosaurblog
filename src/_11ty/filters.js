@@ -4,7 +4,6 @@ const metadata = require("../_data/metadata.json");
 const MarkdownIt = require("markdown-it");
 const plainText = require("markdown-it-plain-text");
 
-const { getLocalImageLink } = require("../_11ty/helpers");
 const {sortBy} = require("lodash/collection");
 
 const md = new MarkdownIt();
@@ -180,9 +179,9 @@ module.exports = {
     }
     return null;
   },
-  getLocalImgUrl: (url) => {
-    return getLocalImageLink(url);
-  },
+  // getLocalImgUrl: (url) => {
+  //   return getLocalImageLink(url);
+  // },
   toArray: (thing) => {
     if (typeof thing === "string") {
       thing.split(",");
