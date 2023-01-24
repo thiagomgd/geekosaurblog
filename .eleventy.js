@@ -12,7 +12,6 @@ const shortcodes = require('./src/_11ty/shortcodes');
 const pairedShortcodes = require('./src/_11ty/pairedShortcodes');
 const asyncShortcodes = require('./src/_11ty/asyncShortcodes');
 const {anyEmbed, figure, blur, tweet} = require('./src/_11ty/asyncShortcodes');
-const {updateReplyToByThreadStartNotion} = require('./src/_11ty/notionHelpers');
 
 const cheerio = require("cheerio");
 const { forEach } = require("lodash");
@@ -260,9 +259,10 @@ module.exports = function(eleventyConfig) {
       return timeA - timeB;
     });
 
-    const updated = updateReplyToByThreadStartNotion(sorted);
+    return sorted;
+    // const updated = updateReplyToByThreadStartNotion(sorted);
 
-    return updated;
+    // return updated;
   });
 
   // Create an array of all tags
