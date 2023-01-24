@@ -1,5 +1,5 @@
 const fs = require("fs");
-const fetch = require("node-fetch");
+// const fetch = require("node-fetch");
 const Image = require("@11ty/eleventy-img");
 
 // const IMG_CACHE_FILE_PATH = "src/_cache/images.json";
@@ -167,13 +167,15 @@ async function optimizeImage(src, outputDir = "_site/img",) {
         return src;
     }
 
-    const fileSource = src.startsWith("/img/") 
+    let fileSource = src.startsWith("/img/") 
     ? `./src${src}` 
     : src.startsWith("img/") 
     ? `./src/${src}` 
     :  src.startsWith("/src/") 
     ?  `.${src}` 
     :src;
+
+    fileSource = fileSource.replaceAll('%20', ' ');
 
     const extraProps = src.includes(".gif")
         ? {

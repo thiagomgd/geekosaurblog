@@ -13,7 +13,7 @@ images:
 - http://i.giphy.com/R2vQ5QDS13x6g.gif
 slug: k-pop-dump-2
 tags:
-- Kpop
+- KPop
 - Personal
 - Music
 title: 'K-Pop Dump #2'

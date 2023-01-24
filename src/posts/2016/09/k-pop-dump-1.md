@@ -13,7 +13,7 @@ slug: k-pop-dump-1
 tags:
 - Personal
 - Music
-- Kpop
+- KPop
 title: 'K-Pop Dump #1'
 ---
 
