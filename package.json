@@ -5,10 +5,10 @@
   "scripts": {
     "start": "ELEVENTY_ENV=development TWITTER_API_KEY=$TWITTER_API_KEY npx @11ty/eleventy --serve",
     "start:prod": "npx @11ty/eleventy --serve",
-    "build:local": "ELEVENTY_ENV=devbuild NOTION_API_KEY=$ENV_NOTION_TOKEN TWITTER_API_KEY=$TWITTER_API_KEY npx @11ty/eleventy",
-    "build": "NOTION_API_KEY=$ENV_NOTION_TOKEN TWITTER_API_KEY=$TWITTER_API_KEY npx @11ty/eleventy",
+    "build:local": "ELEVENTY_ENV=devbuild TWITTER_API_KEY=$TWITTER_API_KEY npx @11ty/eleventy",
+    "build": "TWITTER_API_KEY=$TWITTER_API_KEY npx @11ty/eleventy",
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
-    "debug:serve": "ELEVENTY_ENV=development NOTION_API_KEY=$ENV_NOTION_TOKEN TWITTER_API_KEY=$TWITTER_API_KEY DEBUG=Eleventy* npx @11ty/eleventy --serve",
+    "debug:serve": "ELEVENTY_ENV=development TWITTER_API_KEY=$TWITTER_API_KEY DEBUG=Eleventy* npx @11ty/eleventy --serve",
     "debug:all": "DEBUG=* npx @11ty/eleventy"
   },
   "repository": {

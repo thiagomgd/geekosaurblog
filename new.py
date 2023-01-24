@@ -38,32 +38,20 @@ def get_slug(folder, path):
     return slug, slug, slug
 
 
-folders = ["2022","drafts","booknotes","foreignlanguage","musicmonday","news","tvmovienotes"]
+folders = ["2023","drafts","booknotes","foreignlanguage","musicmonday","news","tvmovienotes"]
 
 metadata = """---
 date: '{}T16:00:00Z'
 title: "{}"
 description: ""
 lead: ""
-draft: true
 # thumbnail: /img/
 slug: '{}'
 tags:
-# reddit: 
-# tweetId: ''
+- Draft
 ---
 
-{{% figure "src","caption","vertical","alt" %}}
 
-{{% blur "src","caption","vertical","alt" %}}
-
-{{% youtube '' %}}
-
-{{% reddit '' %}}
-
-<div class="cards">
-{{% card "title","cover","rating","review","goodreads" %}}
-</div>
 """
 
 print_menu(folders)
