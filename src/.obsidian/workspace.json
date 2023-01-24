@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "6d7f6ba76a990bf6",
+            "id": "1ca5d6dffca8c7f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2017/11/updates-7.md",
+                "file": "posts/musicmonday/music-corner-19.md",
                 "mode": "source",
                 "source": true
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "{% figure",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2017/11/updates-7.md",
+                "file": "posts/musicmonday/music-corner-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2017/11/updates-7.md",
+                "file": "posts/musicmonday/music-corner-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2017/11/updates-7.md"
+                "file": "posts/musicmonday/music-corner-19.md"
               }
             }
           }
@@ -160,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d7f6ba76a990bf6",
+  "active": "1ca5d6dffca8c7f8",
   "lastOpenFiles": [
+    "posts/news/geekosaur-news-24.md",
+    "posts/2017/11/updates-7.md",
     "posts/foreignlanguage/to_the_lake_netflix_review.md",
     "posts/2020/06/the_king_eternal_monarch_first_impressions.md",
     "posts/booknotes/the_word_is_murder.md",
@@ -169,8 +170,6 @@
     "posts/2020/12/spotify_wrapped_2020.md",
     "posts/booknotes/salvage_trouble.md",
     "posts/2021/10/reading-now-oct.9-2021.md",
-    "posts/2021/10/new-vinyl-records-oct.16th-2021.md",
-    "posts/2021/02/new-record-babylon-berlin-vol2.md",
-    "posts/2021/10/new-mechanical-keyboard-dygma-raise.md"
+    "posts/2021/10/new-vinyl-records-oct.16th-2021.md"
   ]
 }
