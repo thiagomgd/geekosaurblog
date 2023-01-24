@@ -12,7 +12,7 @@ toc: true
 _Currently Reading: Hollowpox (Nevermoor #3), How To: Absurd Scientific Advice for Common Real-World Problems
 Currently Watching: Ghosts, Columbo, Servant_
 
-Wow, last time I wrote this 'newsletter' was April 2022, when I got my Sony a6400. Time definitely flies!
+A short one, but let's see if I can keep it alive at least!
 
 ## Music
 
