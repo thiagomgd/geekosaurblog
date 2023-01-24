@@ -8,25 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "104c76fc66683117",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/news/geekosaur-news-24.md",
-                "mode": "source",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "1ca5d6dffca8c7f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "posts/news/geekosaur-news-25.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/news/geekosaur-news-24.md",
+                "file": "posts/news/geekosaur-news-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/news/geekosaur-news-24.md",
+                "file": "posts/news/geekosaur-news-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/news/geekosaur-news-24.md"
+                "file": "posts/news/geekosaur-news-25.md"
               }
             }
           }
@@ -154,10 +144,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "104c76fc66683117",
+  "active": "1ca5d6dffca8c7f8",
   "lastOpenFiles": [
-    "posts/musicmonday/music-corner-19.md",
     "posts/news/geekosaur-news-24.md",
+    "posts/musicmonday/music-corner-19.md",
     "posts/2017/11/updates-7.md",
     "posts/foreignlanguage/to_the_lake_netflix_review.md",
     "posts/2020/06/the_king_eternal_monarch_first_impressions.md",

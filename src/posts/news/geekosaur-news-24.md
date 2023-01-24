@@ -25,7 +25,7 @@ I just love Poly-Ritmo's Brazilian music mixes, and here's a really cool new one
 
 I have started using Obsidian instead of Notion for most things, and this weekend I also officially migrated from using Notion to using Obsidian for my book notes - I mean, I still use GoodReads for status tracking, but now I export everything to markdown files inside my personal Obsidian vault. That seems to be working fine. I'll make a post later on with a couple iOS shortcuts that I use with Obsidian
 
-## Moving from D&D5e  to Pathfinder 2e
+## Moving from D&D5e to Pathfinder 2e
 
 One of the big news/focuses now for nerd folks is how badly Wizards of the Coast is screwing up with the new OGL. While I haven't been playing since I moved to Canada, I was meaning to return, but this news also gave me a reason to go with Pathfinder instead.
 
