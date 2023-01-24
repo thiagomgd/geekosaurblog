@@ -10,8 +10,6 @@ lead: ''
 threadMastodon:
 series: ''
 tags:
-- MusicCorner
-- Music
 - Soundtrack
 - Wednesday
 toot: https://mindly.social/@falcon/109402996628015644

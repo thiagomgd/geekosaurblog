@@ -10,7 +10,6 @@ lead: ''
 threadMastodon:
 series: ''
 tags:
-- MusicCorner
 toot:
 date: '2022-04-04T00:00:00.000-07:00'
 description: 'Recently I’ve discovered My Analog Journal channel on Youtube, and it’s

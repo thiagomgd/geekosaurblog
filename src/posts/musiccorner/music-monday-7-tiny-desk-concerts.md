@@ -10,7 +10,6 @@ lead: ''
 threadMastodon:
 series: ''
 tags:
-- MusicCorner
 toot:
 date: '2021-11-08T00:00:00.000-08:00'
 description: Another week, another Music Monday, this time with some Tiny Desk concerts,

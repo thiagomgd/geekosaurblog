@@ -10,7 +10,6 @@ lead: ''
 threadMastodon:
 series: ''
 tags:
-- MusicCorner
 toot:
 date: '2021-11-01T00:00:00.000-07:00'
 description: This weekend my wife and I were listening to some k-pop again, including

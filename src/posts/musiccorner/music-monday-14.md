@@ -10,7 +10,6 @@ lead: ''
 threadMastodon:
 series: ''
 tags:
-- MusicCorner
 toot:
 date: '2022-04-18T00:00:00.000-07:00'
 description: A couple decades ago, a friend introduced me to The Blue Hearts, a Japanese

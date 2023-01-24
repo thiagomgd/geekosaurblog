@@ -10,7 +10,6 @@ lead: ''
 threadMastodon:
 series: ''
 tags:
-- MusicCorner
 toot:
 date: '2020-06-15T00:00:00.000-07:00'
 description: 'Another Monday, another #MusicMonday for you! Today, featuring some

@@ -10,7 +10,6 @@ lead: ''
 threadMastodon:
 series: ''
 tags:
-- MusicCorner
 toot:
 date: '2020-06-08T00:00:00.000-07:00'
 description: "Today I was listening to Kero Kero Bonito's playlist on Spotify. So,\n\

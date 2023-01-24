@@ -1,9 +1,7 @@
 ---
 slug: music-corner-19
 tags:
-- MusicCorner
 - MusicMonday
-- Music
 - KPop
 date: '2023-01-23T04:00:00.000-08:00'
 description: 'Listening to some K-Pop again. New Jeans is a fun group to listen to'
@@ -14,7 +12,7 @@ thumbnail: /img/Pasted%20image%2020230123170150.png
 
 I haven't been listening to much k-pop "recently", but a couple weeks ago my wife put on a long Youtube playlist with MVs, and we ended up discovering New Jeans. While nothing too new in terms of music (when is it anyway?), the songs are fun to listen too, so here it is!
 
-![For some reason this gif reminded me of Baby V.O.X's Get Up MV](https://qph.cf2.quoracdn.net/main-qimg-155ac45de72d784dea05a46d5c73791e)
+![For some reason this gif reminded me of Baby V.O.X's Get Up MV](https://media.tenor.com/YCq2sjq1OJcAAAAC/haerin-new-jeans.gif)
 
 [embed](https://www.youtube.com/watch?v=js1CtxSY38I)
 

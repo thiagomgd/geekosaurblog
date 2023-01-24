@@ -10,7 +10,6 @@ lead: ''
 threadMastodon:
 series: ''
 tags:
-- MusicCorner
 toot:
 date: '2020-09-07T00:00:00.000-07:00'
 description: "This past week I've listened a few times to the new Katy Perry''s album:\n\

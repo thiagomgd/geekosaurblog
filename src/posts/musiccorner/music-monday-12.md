@@ -10,7 +10,6 @@ lead: ''
 threadMastodon:
 series: ''
 tags:
-- MusicCorner
 toot:
 date: '2022-03-14T00:00:00.000-07:00'
 description: How about some R&B and Soul music from Japan? Nao Yoshioka delivers some

@@ -175,7 +175,7 @@ async function optimizeImage(src, outputDir = "_site/img",) {
     ?  `.${src}` 
     :src;
 
-    fileSource = fileSource.replaceAll('%20', ' ');
+    fileSource = fileSource.replace(/%20/g, ' ');
 
     const extraProps = src.includes(".gif")
         ? {

@@ -10,7 +10,6 @@ lead: ''
 threadMastodon:
 series: ''
 tags:
-- MusicCorner
 toot:
 date: '2021-10-11T00:00:00.000-07:00'
 description: "Recently I got a new record: Sam Smith live at Abbey Road Studios. I\n\

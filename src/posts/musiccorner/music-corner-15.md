@@ -10,7 +10,6 @@ lead: ''
 threadMastodon:
 series: ''
 tags:
-- MusicCorner
 toot:
 date: '2022-05-25T12:00:00.000-07:00'
 description: This weekend I went to VanCaf (

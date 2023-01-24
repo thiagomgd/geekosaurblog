@@ -10,7 +10,6 @@ lead: Just some banger anime songs!
 threadMastodon:
 series: ''
 tags:
-- MusicCorner
 - AnimeSongs
 toot:
 date: '2022-08-08T08:45:00.000-07:00'

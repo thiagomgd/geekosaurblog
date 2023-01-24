@@ -1,6 +1,6 @@
 ---
 slug: geekosaur-news-24
-date: '2023-01-16T18:00:00.000-07:00'
+date: '2023-01-24T01:30:31.012Z'
 lead: ''
 tags:
 description: Some music, moving to Obsidian and to Pathfinder
