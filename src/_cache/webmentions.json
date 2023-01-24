@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-01-24T01:18:39.794Z",
+  "lastFetched": "2023-01-24T21:58:54.655Z",
   "children": [
     {
       "type": "entry",
@@ -7011,6 +7011,60 @@
       },
       "in-reply-to": "https://geekosaur.com/post/the-lighthouse-witches-book-notes/",
       "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "M F ∆ W :verified:",
+        "photo": "https://webmention.io/avatar/a.mindlycdn.click/d9b35f6d4bc41530c6be16c7d84202ca5ca6e49d8d4d2e6a73b18ebae2e335b0.jpg",
+        "url": "https://mindly.social/@fitriabwahid"
+      },
+      "url": "https://mindly.social/@falcon/109745540618069222#favorited-by-109366070809456213",
+      "published": null,
+      "wm-received": "2023-01-24T19:06:33Z",
+      "wm-id": 1605216,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109745540618069222/109366070809456213",
+      "wm-target": "https://geekosaur.com/tags/geekosaurnews/",
+      "like-of": "https://geekosaur.com/tags/geekosaurnews/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Deezy :steam:",
+        "photo": "https://webmention.io/avatar/a.mindlycdn.click/163c3ffd970d74847eef43ed4d9fae7d284507cc309857ad1aae30ee10489eed.png",
+        "url": "https://mindly.social/@dizzydeezy"
+      },
+      "url": "https://mindly.social/@falcon/109742323431565032#favorited-by-109472139147150016",
+      "published": null,
+      "wm-received": "2023-01-24T08:48:08Z",
+      "wm-id": 1604800,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109742323431565032/109472139147150016",
+      "wm-target": "https://geekosaur.com/post/music-corner-19/",
+      "like-of": "https://geekosaur.com/post/music-corner-19/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Seojun Kirana",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/e8d49e75d691d82b0b6b4515807c18a44c76b3464babcf900d4fa0d467a505bf.jpg",
+        "url": "https://twitter.com/KiranaSeojun"
+      },
+      "url": "https://twitter.com/geeko_saur/status/1617706368193945600#favorited-by-1617699029453864962",
+      "published": null,
+      "wm-received": "2023-01-24T04:47:36Z",
+      "wm-id": 1604755,
+      "wm-source": "https://brid.gy/like/twitter/geeko_saur/1617706368193945600/1617699029453864962",
+      "wm-target": "https://geekosaur.com/post/music-corner-19/",
+      "like-of": "https://geekosaur.com/post/music-corner-19/",
+      "wm-property": "like-of",
       "wm-private": false
     }
   ]
