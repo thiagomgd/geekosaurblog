@@ -1,13 +1,10 @@
 ---
-categories: 
 date: 2021-12-22T14:15:48Z
 description: Time for another Geekosaur Weekly, were I share some news, thoughts and
   random links.
 images:
 - "/img/estee-janssens-aqfhbxailcs-unsplash.jpg"
 lead: ''
-reddit: ''
-series: ''
 slug: geekosaur-news-20
 summary: ''
 tags: 

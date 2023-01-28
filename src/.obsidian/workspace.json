@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/news/geekosaur-news-25.md",
+                "file": "posts/2023/jan-2023-reading.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "464645091d9be55c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/2023/friday-finds-1.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/news/geekosaur-news-25.md",
+                "file": "posts/2023/friday-finds-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/news/geekosaur-news-25.md",
+                "file": "posts/2023/friday-finds-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/news/geekosaur-news-25.md"
+                "file": "posts/2023/friday-finds-1.md"
               }
             }
           }
@@ -144,17 +157,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ca5d6dffca8c7f8",
+  "active": "464645091d9be55c",
   "lastOpenFiles": [
+    "posts/news/geekosaur-news-26.md",
+    "posts/2023/friday-finds-1.md",
+    "posts/2023/jan-2023-reading.md",
+    "posts/news/geekosaur-news-25.md",
     "posts/news/geekosaur-news-24.md",
     "posts/musicmonday/music-corner-19.md",
     "posts/2017/11/updates-7.md",
     "posts/foreignlanguage/to_the_lake_netflix_review.md",
     "posts/2020/06/the_king_eternal_monarch_first_impressions.md",
-    "posts/booknotes/the_word_is_murder.md",
-    "posts/2022/spy-x-family-part-2-episode-13-discussion.md",
-    "posts/2020/12/spotify_wrapped_2020.md",
-    "posts/booknotes/salvage_trouble.md",
-    "posts/2021/10/reading-now-oct.9-2021.md"
+    "posts/booknotes/the_word_is_murder.md"
   ]
 }

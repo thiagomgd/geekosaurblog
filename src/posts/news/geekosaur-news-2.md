@@ -2,7 +2,6 @@
 date: "2021-02-06T13:42:28-08:00"
 description: Another week, another Geekosaur Weekly. This weeks, let's talk about
   spending money, and taking naps. Also some music to enjoy over the weekend.
-draft: false
 images:
 - https://i.imgur.com/1M8w1jb.png
 reddit: https://www.reddit.com/r/geekosaur/comments/lea7v4/geekosaur_2_buy_what_you_want_not_whats_cheap/

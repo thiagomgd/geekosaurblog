@@ -1,20 +1,14 @@
 ---
-draft: false
 slug: geekosaur-news-22
-tumblr:
 reddit: https://www.reddit.com/r/geekosaur/comments/tyr2r1/geekosaur_news_22_twitter_comedy_and_more/
 tweet: https://twitter.com/FalconSensei/status/1512272740501405704
 threadTwitter: https://twitter.com/FalconSensei/status/1504235003768582144
-replyTo:
 lead: ''
-threadMastodon:
 series: ''
 tags:
-- GeekosaurNews
 toot:
 date: '2022-04-07T00:00:00.000-07:00'
 description: Another round of updates, news, thoughts
-thread: ''
 title: 'Geekosaur News 22: Twitter, Comedy And More'
 createdTime: '2022-04-07T00:29:00.000Z'
 thumbnail:

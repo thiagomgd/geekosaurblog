@@ -4,7 +4,6 @@ date: '2023-01-24T08:00:00.000-07:00'
 lead: ''
 tags:
 description: 'Watching TV, interested in Pathfinder, and studying German'
-thread: ''
 title: 'Geekosaur News 25: TV, Pathfinder, German'
 toc: true
 ---

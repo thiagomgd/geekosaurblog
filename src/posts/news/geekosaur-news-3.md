@@ -2,7 +2,6 @@
 date: "2021-02-13T10:45:14-08:00"
 description: Welcome to the 3rd issue of Geekosaur Weekly, wishing everyone a great
   lunar new year!
-draft: false
 images:
 - https://i.imgur.com/EBqj56I.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/lj6wgo/geekosaur_weekly_3_its_not_a_backlog_its_a/
