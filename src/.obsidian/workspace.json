@@ -11,28 +11,11 @@
             "id": "1ca5d6dffca8c7f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/2023/jan-2023-reading.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "464645091d9be55c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/2023/friday-finds-1.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2023/friday-finds-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2023/friday-finds-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "posts/2023/friday-finds-1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,17 +136,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "464645091d9be55c",
+  "active": "618f791e53a7e726",
   "lastOpenFiles": [
-    "posts/news/geekosaur-news-26.md",
-    "posts/2023/friday-finds-1.md",
     "posts/2023/jan-2023-reading.md",
-    "posts/news/geekosaur-news-25.md",
-    "posts/news/geekosaur-news-24.md",
-    "posts/musicmonday/music-corner-19.md",
-    "posts/2017/11/updates-7.md",
-    "posts/foreignlanguage/to_the_lake_netflix_review.md",
-    "posts/2020/06/the_king_eternal_monarch_first_impressions.md",
-    "posts/booknotes/the_word_is_murder.md"
+    "img/jan-2023-reading.png",
+    "img/jan-2023-reading-1.png",
+    "img/atelier.jpeg",
+    "img/horror-books-1.jpeg",
+    "img/horror-books.jpeg",
+    "img/hard-magic.jpeg",
+    "img/hard-magic-1.jpeg",
+    "img/Pasted image 20230127180333.png.md",
+    "img/Pasted image 20230116173516.png"
   ]
 }
