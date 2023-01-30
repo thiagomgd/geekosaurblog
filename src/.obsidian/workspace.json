@@ -11,8 +11,12 @@
             "id": "1ca5d6dffca8c7f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "posts/musiccorner/music-corner-20.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/musiccorner/music-corner-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "posts/musiccorner/music-corner-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "posts/musiccorner/music-corner-20.md"
+              }
             }
           }
         ]
@@ -136,8 +144,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "618f791e53a7e726",
+  "active": "1ca5d6dffca8c7f8",
   "lastOpenFiles": [
+    "img/jan-2023-reading-3.png",
     "posts/2023/jan-2023-reading.md",
     "img/jan-2023-reading.png",
     "img/jan-2023-reading-1.png",
@@ -146,7 +155,6 @@
     "img/horror-books.jpeg",
     "img/hard-magic.jpeg",
     "img/hard-magic-1.jpeg",
-    "img/Pasted image 20230127180333.png.md",
-    "img/Pasted image 20230116173516.png"
+    "img/Pasted image 20230127180333.png.md"
   ]
 }
