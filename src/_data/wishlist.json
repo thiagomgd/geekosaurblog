@@ -1,31 +1,7 @@
 [
     {
-        "title": "Fractal Noise",
-        "price": 0,
-        "cover": "https://kbimages1-a.akamaihd.net/052f3ed3-e9ef-4950-9e44-8a7a9549c19a/353/569/90/False/fractal-noise.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/fractal-noise",
-        "preorder": "Available May 16, 2023",
-        "isPlus": false
-    },
-    {
-        "title": "Ghostly Echoes",
-        "price": 2.99,
-        "cover": "https://kbimages1-a.akamaihd.net/72c21de9-2f94-4a26-bb7e-a2b43bf1d825/353/569/90/False/ghostly-echoes-5.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/ghostly-echoes-5",
-        "preorder": "",
-        "isPlus": false
-    },
-    {
-        "title": "Dandadan, Vol. 2",
-        "price": 7.99,
-        "cover": "https://kbimages1-a.akamaihd.net/d04e3502-b794-431d-a742-5b196976349c/353/569/90/False/dandadan-vol-2.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/dandadan-vol-2",
-        "preorder": "",
-        "isPlus": false
-    },
-    {
         "title": "Mieruko-chan, Vol. 7",
-        "price": 8.99,
+        "price": 0,
         "cover": "https://kbimages1-a.akamaihd.net/Images/00000000-0000-0000-0000-000000000000/353/569/90/False/empty_book_cover.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/mieruko-chan-vol-7",
         "preorder": "Available Apr 18, 2023",
@@ -36,6 +12,14 @@
         "price": 8.99,
         "cover": "https://kbimages1-a.akamaihd.net/8eab101b-1e6d-4704-9b67-7df23d019522/353/569/90/False/delicious-in-dungeon-vol-11.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/delicious-in-dungeon-vol-11",
+        "preorder": "",
+        "isPlus": false
+    },
+    {
+        "title": "Last Stand of Dead Men (Skulduggery Pleasant, Book 8)",
+        "price": 9.99,
+        "cover": "https://kbimages1-a.akamaihd.net/ef05b481-c8af-4bb6-9863-89c13d6038f5/353/569/90/False/last-stand-of-dead-men-skulduggery-pleasant-book-8.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/last-stand-of-dead-men-skulduggery-pleasant-book-8",
         "preorder": "",
         "isPlus": false
     },
@@ -104,6 +88,14 @@
         "isPlus": false
     },
     {
+        "title": "Silverborn: The Mystery of Morrigan Crow",
+        "price": 12.99,
+        "cover": "https://kbimages1-a.akamaihd.net/00b4f3fe-7565-4742-85df-d289d3c4bcdd/353/569/90/False/silverborn-the-mystery-of-morrigan-crow.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/silverborn-the-mystery-of-morrigan-crow",
+        "preorder": "Available Oct 10, 2023",
+        "isPlus": false
+    },
+    {
         "title": "Wild and Wicked Things",
         "price": 12.99,
         "cover": "https://kbimages1-a.akamaihd.net/e92ddb3d-83b5-4c68-9b28-de5890e5e554/353/569/90/False/wild-and-wicked-things-1.jpg",
@@ -160,11 +152,27 @@
         "isPlus": false
     },
     {
+        "title": "The Design of Everyday Things",
+        "price": 16.99,
+        "cover": "https://kbimages1-a.akamaihd.net/c16dc133-3c48-4421-9fff-9b74b4da5438/353/569/90/False/the-design-of-everyday-things-6.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-design-of-everyday-things-6",
+        "preorder": "",
+        "isPlus": false
+    },
+    {
         "title": "Convenience Store Woman",
         "price": 16.99,
         "cover": "https://kbimages1-a.akamaihd.net/b12c8d36-defd-4a2d-bc3b-cbc0346e8276/353/569/90/False/convenience-store-woman-6.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/convenience-store-woman-6",
         "preorder": "",
+        "isPlus": false
+    },
+    {
+        "title": "Fractal Noise",
+        "price": 16.99,
+        "cover": "https://kbimages1-a.akamaihd.net/052f3ed3-e9ef-4950-9e44-8a7a9549c19a/353/569/90/False/fractal-noise.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/fractal-noise",
+        "preorder": "Available May 16, 2023",
         "isPlus": false
     },
     {
@@ -180,6 +188,22 @@
         "price": 19.99,
         "cover": "https://kbimages1-a.akamaihd.net/b79c762e-cea1-479a-a827-dfc9576fd794/353/569/90/False/monstrous-heart-the-deepwater-trilogy-book-1-1.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/monstrous-heart-the-deepwater-trilogy-book-1-1",
+        "preorder": "",
+        "isPlus": false
+    },
+    {
+        "title": "The Best Interface Is No Interface",
+        "price": 27.99,
+        "cover": "https://kbimages1-a.akamaihd.net/acf92684-6cd8-4fca-905e-4ea6b676f419/353/569/90/False/the-best-interface-is-no-interface.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-best-interface-is-no-interface",
+        "preorder": "",
+        "isPlus": false
+    },
+    {
+        "title": "Don't Make Me Think: A Common Sense Approach to Web Usability",
+        "price": 31.99,
+        "cover": "https://kbimages1-a.akamaihd.net/16fee10c-bec8-40fe-8694-790b7a7ce16a/353/569/90/False/don-t-make-me-think-a-common-sense-approach-to-web-usability-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/don-t-make-me-think-a-common-sense-approach-to-web-usability-1",
         "preorder": "",
         "isPlus": false
     }
