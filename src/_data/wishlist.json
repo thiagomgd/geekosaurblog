@@ -1,21 +1,5 @@
 [
     {
-        "title": "Wildblood",
-        "price": 0,
-        "cover": "https://kbimages1-a.akamaihd.net/4437e51c-a3c6-4e11-a45e-66b9c72d3f86/353/569/90/False/wildblood-2.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/wildblood-2",
-        "preorder": "Available Feb 7, 2023",
-        "isPlus": false
-    },
-    {
-        "title": "Children of Time",
-        "price": 0,
-        "cover": "https://kbimages1-a.akamaihd.net/c97871e4-49b3-40ac-955f-bec125ae9c8a/353/569/90/False/children-of-time-3.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/children-of-time-3",
-        "preorder": "",
-        "isPlus": false
-    },
-    {
         "title": "Mieruko-chan, Vol. 7",
         "price": 8.99,
         "cover": "https://kbimages1-a.akamaihd.net/Images/00000000-0000-0000-0000-000000000000/353/569/90/False/empty_book_cover.jpg",
@@ -120,6 +104,14 @@
         "isPlus": false
     },
     {
+        "title": "Wildblood",
+        "price": 12.99,
+        "cover": "https://kbimages1-a.akamaihd.net/4437e51c-a3c6-4e11-a45e-66b9c72d3f86/353/569/90/False/wildblood-2.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/wildblood-2",
+        "preorder": "Available Feb 7, 2023",
+        "isPlus": false
+    },
+    {
         "title": "Paradise-1",
         "price": 12.99,
         "cover": "https://kbimages1-a.akamaihd.net/90763c9d-56a3-4e8d-a773-e010e17b7efd/353/569/90/False/paradise-1-1.jpg",
@@ -140,6 +132,14 @@
         "price": 12.99,
         "cover": "https://kbimages1-a.akamaihd.net/e92ddb3d-83b5-4c68-9b28-de5890e5e554/353/569/90/False/wild-and-wicked-things-1.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/wild-and-wicked-things-1",
+        "preorder": "",
+        "isPlus": false
+    },
+    {
+        "title": "Children of Time",
+        "price": 12.99,
+        "cover": "https://kbimages1-a.akamaihd.net/c97871e4-49b3-40ac-955f-bec125ae9c8a/353/569/90/False/children-of-time-3.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/children-of-time-3",
         "preorder": "",
         "isPlus": false
     },
