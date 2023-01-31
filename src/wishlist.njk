@@ -1,0 +1,23 @@
+---
+layout: layouts/home.njk
+permalink: /wishlist/
+eleventyNavigation:
+  key: Kobo Wishlist
+  order: 10
+---
+
+<section class="content-780">
+  <h1>Wishlist</h1>
+
+  {# <ol reversed class="postlist" style="counter-reset: start-from {{ (links.length) + 1 }}"> #}
+    <ol reversed>
+{% for book in wishlist %}
+  {# <li class="postlist-item{% if book.url == url %} postlist-item-active{% endif %}"> #}
+    <li>
+    <a href="{{ book.url | url }}" class="postlist-link">{% if book.title %}{{ book.title }}{% else %}<code>{{ book.url }}</code>{% endif %}</a>
+    | {{ book.price }} | {{ book.preorder }} | {{ book.isPlus }}
+  </li>
+{% endfor %}
+</ol>
+
+</section>
