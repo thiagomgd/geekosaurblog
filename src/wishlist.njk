@@ -10,15 +10,11 @@ eleventyNavigation:
   <h1>Wishlist</h1>
 
 <p>Kobo doesn't allow sorting wishlist by price, and doesn't show if something is available on Kobo Plus. So this is more for myself to keep track of things</p>
-  {# <ol reversed class="postlist" style="counter-reset: start-from {{ (links.length) + 1 }}"> #}
-    <ol reversed>
+
 {% for book in wishlist %}
-  {# <li class="postlist-item{% if book.url == url %} postlist-item-active{% endif %}"> #}
-    <li>{% if book.isPlus %}K+{% endif %}
-    <a href="{{ book.url | url }}" class="postlist-link">{{ book.title }}</a>
-    {{ book.price }} | {{ book.preorder }} 
-  </li>
+  {% wishlistCard book.title, book.url, book.cover, book.price, book.preorder, book.isPlus %}
+  {% endwishlistCard %}
 {% endfor %}
-</ol>
+
 
 </section>

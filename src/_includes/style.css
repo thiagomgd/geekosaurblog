@@ -530,6 +530,10 @@ div.blog-card:hover .details {
   }
 }
 
+div.blog-card-alert > div.description{
+  background-color: #d6dbfc;
+}
+
 
 div.blurDiv {
   position: relative;

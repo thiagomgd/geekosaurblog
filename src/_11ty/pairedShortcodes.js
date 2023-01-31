@@ -7,7 +7,7 @@ const EMPTY = ``;
 
 const myembed = (content, props = {}) => {
   // TODO: default image?
-  const { title, image, url, author, siteName, year, date, tags } = props;
+  const { title, image, url, author, siteName, year, date, tags, extraClass } = props;
 
   const metaDataInner =
     date || tags
@@ -43,7 +43,7 @@ const myembed = (content, props = {}) => {
 </p>`
     : EMPTY;
 
-  return `<div class="blog-card">
+  return `<div class="blog-card ${extraClass}">
 <div class="meta">
 <div class="photo" style='background-image: url(${image})'></div>
 ${metaDataInner}
@@ -59,8 +59,17 @@ ${readMoreSection}
 </div>`;
 };
 
+const wishlistCard = (_content, title, url, image, price, preorder, isPlus) => {
+
+  const koboPlus = isPlus === true ? "K+ " : "" ;
+  const extraClass = isPlus === true ? "blog-card-alert" : "" ;
+  const content = `${koboPlus} ${price} | ${preorder} | ${isPlus}`
+  return myembed(content, {title: title, image: image, url: url, extraClass: extraClass})
+}
+
 module.exports = {
-  myembed
+  myembed,
+  wishlistCard
 };
 
 
