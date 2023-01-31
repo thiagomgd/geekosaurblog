@@ -63,7 +63,7 @@ const wishlistCard = (_content, title, url, image, price, preorder, isPlus) => {
 
   const koboPlus = isPlus === true ? "K+ " : "" ;
   const extraClass = isPlus === true ? "blog-card-alert" : "" ;
-  const content = `${koboPlus} ${price} | ${preorder} | ${isPlus}`
+  const content = `${koboPlus} ${price} ${preorder}`
   return myembed(content, {title: title, image: image, url: url, extraClass: extraClass})
 }
 
