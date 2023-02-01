@@ -5,7 +5,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/Images/00000000-0000-0000-0000-000000000000/353/569/90/False/empty_book_cover.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/mieruko-chan-vol-7",
         "preorder": "Available Apr 18, 2023",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Tomoki Izumi"
     },
     {
         "title": "Delicious in Dungeon, Vol. 11",
@@ -13,7 +14,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/8eab101b-1e6d-4704-9b67-7df23d019522/353/569/90/False/delicious-in-dungeon-vol-11.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/delicious-in-dungeon-vol-11",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Ryoko Kui"
     },
     {
         "title": "Last Stand of Dead Men (Skulduggery Pleasant, Book 8)",
@@ -21,7 +23,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/ef05b481-c8af-4bb6-9863-89c13d6038f5/353/569/90/False/last-stand-of-dead-men-skulduggery-pleasant-book-8.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/last-stand-of-dead-men-skulduggery-pleasant-book-8",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Derek Landy"
     },
     {
         "title": "An Accident of Stars",
@@ -29,7 +32,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/184fccd8-43a5-48d7-9373-90b6dd1426c4/353/569/90/False/an-accident-of-stars.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/an-accident-of-stars",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Foz Meadows"
     },
     {
         "title": "Ghost Girl",
@@ -37,7 +41,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/11adb5ef-bebd-4f87-af0d-9459666bf769/353/569/90/False/ghost-girl-17.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/ghost-girl-17",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Ally Malinenko"
     },
     {
         "title": "Monster Club",
@@ -45,7 +50,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/b659c88e-b8cb-4a15-abae-1e8f83d5c35b/353/569/90/False/monster-club-1-1.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/monster-club-1-1",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Darren Aronofsky"
     },
     {
         "title": "The Lake House",
@@ -53,7 +59,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/0f598b04-1a46-4ca0-91b0-063218f202dc/353/569/90/False/the-lake-house-22.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/the-lake-house-22",
         "preorder": "Available Apr 25, 2023",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Sarah Beth Durst"
     },
     {
         "title": "House of Suns",
@@ -61,7 +68,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/067a6479-ebe1-4425-8f99-fd1fd4f5c5fd/353/569/90/False/house-of-suns-2.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/house-of-suns-2",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Alastair Reynolds"
     },
     {
         "title": "The Sacrifice",
@@ -69,7 +77,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/30d82ba3-83c6-4172-ae66-18255fcc3950/353/569/90/False/the-sacrifice-79.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/the-sacrifice-79",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Rin Chupeco"
     },
     {
         "title": "Catfish Rolling",
@@ -77,7 +86,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/Images/00000000-0000-0000-0000-000000000000/353/569/90/False/empty_book_cover.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/catfish-rolling-2",
         "preorder": "Available Oct 17, 2023",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Clara Kumagai"
     },
     {
         "title": "On the Edge of Gone",
@@ -85,7 +95,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/e7066f19-d66c-4e76-ad3b-f1b06f790b45/353/569/90/False/on-the-edge-of-gone.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/on-the-edge-of-gone",
         "preorder": "",
-        "isPlus": true
+        "isPlus": true,
+        "author": "Corinne Duyvis"
     },
     {
         "title": "Black Tide",
@@ -93,7 +104,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/6674f4ab-76fc-492a-9d72-6eb1c2d61d32/353/569/90/False/black-tide-27.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/black-tide-27",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "KC Jones"
     },
     {
         "title": "Ghostlight",
@@ -101,7 +113,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/791ea275-bff2-460c-aabd-7afd5fee0b1a/353/569/90/False/ghostlight-6.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/ghostlight-6",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Kenneth Oppel"
     },
     {
         "title": "Wildblood",
@@ -109,7 +122,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/4437e51c-a3c6-4e11-a45e-66b9c72d3f86/353/569/90/False/wildblood-2.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/wildblood-2",
         "preorder": "Available Feb 7, 2023",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Lauren Blackwood"
     },
     {
         "title": "Paradise-1",
@@ -117,7 +131,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/90763c9d-56a3-4e8d-a773-e010e17b7efd/353/569/90/False/paradise-1-1.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/paradise-1-1",
         "preorder": "Available Apr 4, 2023",
-        "isPlus": false
+        "isPlus": false,
+        "author": "David Wellington"
     },
     {
         "title": "Silverborn: The Mystery of Morrigan Crow",
@@ -125,7 +140,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/00b4f3fe-7565-4742-85df-d289d3c4bcdd/353/569/90/False/silverborn-the-mystery-of-morrigan-crow.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/silverborn-the-mystery-of-morrigan-crow",
         "preorder": "Available Oct 10, 2023",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Jessica Townsend"
     },
     {
         "title": "Wild and Wicked Things",
@@ -133,7 +149,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/e92ddb3d-83b5-4c68-9b28-de5890e5e554/353/569/90/False/wild-and-wicked-things-1.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/wild-and-wicked-things-1",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Francesca May"
     },
     {
         "title": "Children of Time",
@@ -141,7 +158,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/c97871e4-49b3-40ac-955f-bec125ae9c8a/353/569/90/False/children-of-time-3.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/children-of-time-3",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Adrian Tchaikovsky"
     },
     {
         "title": "THE MASTER AND MARGARITA",
@@ -149,7 +167,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/a4a3c078-7afd-4565-b7f2-d1a1e6d44cef/353/569/90/False/the-master-and-margarita-9.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/the-master-and-margarita-9",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Mikhail Bulgakov"
     },
     {
         "title": "She Is a Haunting",
@@ -157,7 +176,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/95174ccf-5df1-45cd-916f-f65c1db25ee9/353/569/90/False/she-is-a-haunting-1.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/she-is-a-haunting-1",
         "preorder": "Available Feb 28, 2023",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Trang Thanh Tran"
     },
     {
         "title": "Unseelie",
@@ -165,7 +185,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/49b09205-a6fe-488f-8c7e-be0c64fe45ce/353/569/90/False/unseelie-2.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/unseelie-2",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Ivelisse Housman"
     },
     {
         "title": "Home Before Dark",
@@ -173,7 +194,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/f082817c-9c47-4adf-bb33-1ca150af1e3c/353/569/90/False/home-before-dark-22.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/home-before-dark-22",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Riley Sager"
     },
     {
         "title": "Dust",
@@ -181,7 +203,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/ed683ead-e8a5-4318-a9db-4f25b9b04b72/353/569/90/False/dust-109.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/dust-109",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Hugh Howey"
     },
     {
         "title": "Stellarlune",
@@ -189,7 +212,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/613922cc-b7bf-4a2c-9e7a-3d0885a8eae2/353/569/90/False/stellarlune-1.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/stellarlune-1",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Shannon Messenger"
     },
     {
         "title": "Dead Silence",
@@ -197,7 +221,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/93c09eb6-d296-411b-8683-b7cd32f84c31/353/569/90/False/dead-silence-27.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/dead-silence-27",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "S.A. Barnes"
     },
     {
         "title": "Gory Details",
@@ -205,7 +230,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/267cda6d-758b-434d-9756-93b2122008b4/353/569/90/False/gory-details-2.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/gory-details-2",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Erika Engelhaupt"
     },
     {
         "title": "Antimatter Blues",
@@ -213,7 +239,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/29a9ac0a-e85a-4413-9087-0c94fe7c7011/353/569/90/False/antimatter-blues-1.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/antimatter-blues-1",
         "preorder": "Available Mar 14, 2023",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Edward Ashton"
     },
     {
         "title": "The Design of Everyday Things",
@@ -221,7 +248,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/c16dc133-3c48-4421-9fff-9b74b4da5438/353/569/90/False/the-design-of-everyday-things-6.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/the-design-of-everyday-things-6",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Don Norman"
     },
     {
         "title": "Convenience Store Woman",
@@ -229,7 +257,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/b12c8d36-defd-4a2d-bc3b-cbc0346e8276/353/569/90/False/convenience-store-woman-6.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/convenience-store-woman-6",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Sayaka Murata"
     },
     {
         "title": "Fractal Noise",
@@ -237,7 +266,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/052f3ed3-e9ef-4950-9e44-8a7a9549c19a/353/569/90/False/fractal-noise.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/fractal-noise",
         "preorder": "Available May 16, 2023",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Christopher Paolini"
     },
     {
         "title": "Earthlings",
@@ -245,7 +275,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/af364c10-e532-4007-bdf9-68e270ddf022/353/569/90/False/earthlings-3.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/earthlings-3",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Sayaka Murata"
     },
     {
         "title": "Monstrous Heart (The Deepwater Trilogy, Book 1)",
@@ -253,7 +284,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/b79c762e-cea1-479a-a827-dfc9576fd794/353/569/90/False/monstrous-heart-the-deepwater-trilogy-book-1-1.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/monstrous-heart-the-deepwater-trilogy-book-1-1",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Claire McKenna"
     },
     {
         "title": "The Best Interface Is No Interface",
@@ -261,7 +293,8 @@
         "cover": "https://kbimages1-a.akamaihd.net/acf92684-6cd8-4fca-905e-4ea6b676f419/353/569/90/False/the-best-interface-is-no-interface.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/the-best-interface-is-no-interface",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Golden Krishna"
     },
     {
         "title": "Don't Make Me Think: A Common Sense Approach to Web Usability",
@@ -269,6 +302,7 @@
         "cover": "https://kbimages1-a.akamaihd.net/16fee10c-bec8-40fe-8694-790b7a7ce16a/353/569/90/False/don-t-make-me-think-a-common-sense-approach-to-web-usability-1.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/don-t-make-me-think-a-common-sense-approach-to-web-usability-1",
         "preorder": "",
-        "isPlus": false
+        "isPlus": false,
+        "author": "Steve Krug"
     }
 ]

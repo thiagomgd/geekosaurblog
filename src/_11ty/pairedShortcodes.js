@@ -66,17 +66,18 @@ ${readMoreSection}
 </div>`;
 };
 
-const wishlistCard = (_content, title, link, image, price, preorder, isPlus) => {
+const wishlistCard = (_content, title, author, link, image, price, preorder, isPlus) => {
 
   const koboPlus = isPlus === true ? "K+ <br/>" : "";
   const extraClass = isPlus === true ? "blog-card-alert" : "";
   const content = `${koboPlus}${price}<br/>${preorder}`
   // const a = url(title)
   // TODO - add author
-  const searchIndigoLink = `https://www.chapters.indigo.ca/en-ca/home/search/?keywords=${encodeUrl(title)}`;
+  const searchText = `${title} ${author}`
+  const searchIndigoLink = `https://www.chapters.indigo.ca/en-ca/home/search/?keywords=${encodeUrl(searchText)}`;
 
   return myembed(content, { 
-    title: title, 
+    title: `${title} (${author})`, 
     image: image,
     url: link, 
     // extraClass: extraClass,
