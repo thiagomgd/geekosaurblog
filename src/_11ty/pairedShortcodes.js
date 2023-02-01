@@ -1,13 +1,14 @@
 const outdent = require("outdent")({ newline: " " });
 const markdownIt = require("markdown-it")();
-
+const encodeUrl = require('encodeurl')
+// const {url} = require("./filters.js");
 // const shortcodes = require("./shortcodes.js");
 
 const EMPTY = ``;
 
 const myembed = (content, props = {}) => {
   // TODO: default image?
-  const { title, image, url, author, siteName, year, date, tags, extraClass } = props;
+  const { title, image, author, siteName, year, date, tags, extraClass, extraCTALink, extraCTAText="See Also" } = props;
 
   const metaDataInner =
     date || tags
@@ -37,9 +38,15 @@ const myembed = (content, props = {}) => {
   const authorSection = author
     ? `<h5 class="myEmbed">${author}${yearText}</h5>`
     : EMPTY;
-  const readMoreSection = url
+
+  const extraCTASection = extraCTALink 
+  ? `<a href='${extraCTALink}'>${extraCTAText}</a>`
+  : EMPTY;
+
+  const readMoreSection = props.url
     ? `<p class="read-more">
-<a href='${url}'>Go To Link</a>
+<a href='${props.url}'>Go To Link</a>
+${extraCTASection}
 </p>`
     : EMPTY;
 
@@ -59,12 +66,23 @@ ${readMoreSection}
 </div>`;
 };
 
-const wishlistCard = (_content, title, url, image, price, preorder, isPlus) => {
+const wishlistCard = (_content, title, link, image, price, preorder, isPlus) => {
 
-  const koboPlus = isPlus === true ? "K+ " : "" ;
-  const extraClass = isPlus === true ? "blog-card-alert" : "" ;
-  const content = `${koboPlus} ${price} ${preorder}`
-  return myembed(content, {title: title, image: image, url: url, extraClass: extraClass})
+  const koboPlus = isPlus === true ? "K+ <br/>" : "";
+  const extraClass = isPlus === true ? "blog-card-alert" : "";
+  const content = `${koboPlus}${price}<br/>${preorder}`
+  // const a = url(title)
+  // TODO - add author
+  const searchIndigoLink = `https://www.chapters.indigo.ca/en-ca/home/search/?keywords=${encodeUrl(title)}`;
+
+  return myembed(content, { 
+    title: title, 
+    image: image,
+    url: link, 
+    // extraClass: extraClass,
+    extraCTALink: searchIndigoLink, 
+    extraCTAText: "Search Indigo" 
+  })
 }
 
 module.exports = {

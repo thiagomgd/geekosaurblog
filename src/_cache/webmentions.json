@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-01-31T01:34:18.404Z",
+  "lastFetched": "2023-02-01T01:33:55.107Z",
   "children": [
     {
       "type": "entry",
@@ -7184,6 +7184,24 @@
       "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109765222154527513/109419566286250189",
       "wm-target": "https://geekosaur.com/books-per-year/",
       "like-of": "https://geekosaur.com/books-per-year/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "sariash",
+        "photo": "https://webmention.io/avatar/a.mindlycdn.click/51b44fbb8ed098fb70e3b20394b3651007bf756ed1a9d23c98ee76b170aaa0ab.jpg",
+        "url": "https://mastodon.social/@sariash"
+      },
+      "url": "https://mindly.social/@falcon/109780710506577483#favorited-by-109340862816749140",
+      "published": null,
+      "wm-received": "2023-01-31T23:13:01Z",
+      "wm-id": 1612790,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109780710506577483/109340862816749140",
+      "wm-target": "https://geekosaur.com/post/music-corner-20/",
+      "like-of": "https://geekosaur.com/post/music-corner-20/",
       "wm-property": "like-of",
       "wm-private": false
     }
