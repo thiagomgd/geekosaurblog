@@ -4,7 +4,7 @@ date: '2023-02-01T08:00:00.000-07:00'
 lead: 'Of course I found a reason to buy more stuff'
 tags:
 description: 'Another week, another round of quick updates and fun things.'
-title: 'Geekosaur News 26: Migrating To Kobo, '
+title: 'Geekosaur News 26: Migrating To Kobo'
 toc: true
 ---
 
