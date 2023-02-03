@@ -36,17 +36,17 @@ One of them I ordered this Friday, and should be arriving tomorrow. It’s Coura
 
 The other one is a science book I got last year: The End of Everything (Astrophisically Speaking) by Katie Mack. I always wanted to read more about space and astrophysics, and this one sounds so good. Also, be sure to [follow Katie on Twitter](https://twitter.com/AstroKatie), it’s great!
 
-[bookmark](https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked)
+[bookmark](https://app.thestorygraph.com/books/28473aa9-7e42-4ce1-9cb2-2534d9629ccd)
 
-[bookmark](https://www.goodreads.com/book/show/52767659-the-end-of-everything)
+[bookmark](https://app.thestorygraph.com/books/8c784b55-c3e6-4e6b-8221-a8da7bf632d4)
 
 ### Fiction
 
 I’m “currently reading” Strange Weather In Tokyo, but I think I need something more adventure, fun and relaxing, specially since I’m going to try to read some non-fiction, and want to try ramping up on my German learning. So I’m going with Death Masks (The Dresden Files #5) by Jim Butcher. This is a highly entertaining Urban Fantasy series, with lots of action, some fun scenes and cool plot and world.
 
-[bookmark](https://www.goodreads.com/book/show/91479.Death_Masks)
+[bookmark](https://app.thestorygraph.com/books/637832e0-4f75-44e6-961b-6f301081feb5)
 
-[bookmark](https://www.goodreads.com/book/show/18283207-strange-weather-in-tokyo)
+[bookmark](https://app.thestorygraph.com/books/f393a525-bdd2-4659-a456-946595d3fcc2)
 
 ## Manga
 

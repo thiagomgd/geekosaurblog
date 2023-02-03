@@ -909,6 +909,7 @@ figure.vertical, img.vertical {
   max-width: 35rem;
   font-family: -apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica neue,helvetica,Ubuntu,roboto,noto,segoe ui,arial,sans-serif;
   color: #2c2d30;
+  grid-template-rows: 1.5em 2em 8em; /* added by me */
 }
 .unfurl::before {
   content: "";

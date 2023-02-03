@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/news/geekosaur-news-26.md",
+                "file": "posts/2023/2023-anticipated-books-ya.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mexican gothic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/news/geekosaur-news-26.md",
+                "file": "posts/2023/2023-anticipated-books-ya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/news/geekosaur-news-26.md",
+                "file": "posts/2023/2023-anticipated-books-ya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/news/geekosaur-news-26.md"
+                "file": "posts/2023/2023-anticipated-books-ya.md"
               }
             }
           }
@@ -144,17 +144,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "618f791e53a7e726",
+  "active": "1ca5d6dffca8c7f8",
   "lastOpenFiles": [
+    "posts/2023/friday-finds-1.md",
+    "posts/2023/2023-anticipated-books-ya.md",
+    "posts/booknotes/mexican-gothic-silvia-moreno-garcia.md",
+    "posts/2023/jan-2023-reading.md",
+    "posts/news/geekosaur-news-26.md",
     "posts/musiccorner/music-corner-20.md",
     "img/jan-2023-reading-3.png",
-    "posts/2023/jan-2023-reading.md",
     "img/jan-2023-reading.png",
     "img/jan-2023-reading-1.png",
-    "img/atelier.jpeg",
-    "img/horror-books-1.jpeg",
-    "img/horror-books.jpeg",
-    "img/hard-magic.jpeg",
-    "img/hard-magic-1.jpeg"
+    "img/atelier.jpeg"
   ]
 }
