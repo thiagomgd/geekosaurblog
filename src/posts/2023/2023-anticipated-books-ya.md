@@ -4,7 +4,7 @@ tags:
 - Lists
 - YA
 date: '2023-02-02T18:30:00.000-07:00'
-title: "Antiticaped 2023 YA Book Releases"
+title: "Anticipated 2023 YA Book Releases"
 description: "I should have done this sooner, but here it is: a look at those 'Most Anticipated Books' lists. This time checking some 2023 YA releases that I might like."
 lead: ""
 thumbnail: /img/2023-anticipated-books-ya.png
