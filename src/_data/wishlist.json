@@ -1,5 +1,14 @@
 [
     {
+        "title": "Wildblood",
+        "price": 0,
+        "cover": "https://kbimages1-a.akamaihd.net/4437e51c-a3c6-4e11-a45e-66b9c72d3f86/353/569/90/False/wildblood-2.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/wildblood-2",
+        "preorder": "Available Feb 7, 2023",
+        "isPlus": false,
+        "author": "Lauren Blackwood"
+    },
+    {
         "title": "The Satanic Verses",
         "price": 4.99,
         "cover": "https://kbimages1-a.akamaihd.net/33b0945f-7176-4d45-8e91-d8ad11fff736/353/569/90/False/the-satanic-verses.jpg",
@@ -142,15 +151,6 @@
         "preorder": "",
         "isPlus": false,
         "author": "Kenneth Oppel"
-    },
-    {
-        "title": "Wildblood",
-        "price": 12.99,
-        "cover": "https://kbimages1-a.akamaihd.net/4437e51c-a3c6-4e11-a45e-66b9c72d3f86/353/569/90/False/wildblood-2.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/wildblood-2",
-        "preorder": "Available Feb 7, 2023",
-        "isPlus": false,
-        "author": "Lauren Blackwood"
     },
     {
         "title": "Paradise-1",
