@@ -1,5 +1,14 @@
 [
     {
+        "title": "The Satanic Verses",
+        "price": 4.99,
+        "cover": "https://kbimages1-a.akamaihd.net/33b0945f-7176-4d45-8e91-d8ad11fff736/353/569/90/False/the-satanic-verses.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-satanic-verses",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Salman Rushdie"
+    },
+    {
         "title": "Mieruko-chan, Vol. 7",
         "price": 8.99,
         "cover": "https://kbimages1-a.akamaihd.net/Images/00000000-0000-0000-0000-000000000000/353/569/90/False/empty_book_cover.jpg",
@@ -54,6 +63,15 @@
         "author": "Darren Aronofsky"
     },
     {
+        "title": "Flowerheart",
+        "price": 10.99,
+        "cover": "https://kbimages1-a.akamaihd.net/0854c009-09a7-405e-aea2-c191520c2eef/353/569/90/False/flowerheart-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/flowerheart-1",
+        "preorder": "Available Mar 14, 2023",
+        "isPlus": false,
+        "author": "Catherine Bakewell"
+    },
+    {
         "title": "The Lake House",
         "price": 10.99,
         "cover": "https://kbimages1-a.akamaihd.net/0f598b04-1a46-4ca0-91b0-063218f202dc/353/569/90/False/the-lake-house-22.jpg",
@@ -70,6 +88,15 @@
         "preorder": "",
         "isPlus": false,
         "author": "Alastair Reynolds"
+    },
+    {
+        "title": "Midnight's Children",
+        "price": 11.99,
+        "cover": "https://kbimages1-a.akamaihd.net/03240bbe-2ae1-41e3-bb39-c00305e30573/353/569/90/False/midnight-s-children-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/midnight-s-children-1",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Salman Rushdie"
     },
     {
         "title": "The Sacrifice",
