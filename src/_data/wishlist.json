@@ -1,14 +1,5 @@
 [
     {
-        "title": "Wildblood",
-        "price": 0,
-        "cover": "https://kbimages1-a.akamaihd.net/4437e51c-a3c6-4e11-a45e-66b9c72d3f86/353/569/90/False/wildblood-2.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/wildblood-2",
-        "preorder": "Available Feb 7, 2023",
-        "isPlus": false,
-        "author": "Lauren Blackwood"
-    },
-    {
         "title": "The Satanic Verses",
         "price": 4.99,
         "cover": "https://kbimages1-a.akamaihd.net/33b0945f-7176-4d45-8e91-d8ad11fff736/353/569/90/False/the-satanic-verses.jpg",
@@ -72,6 +63,33 @@
         "author": "Darren Aronofsky"
     },
     {
+        "title": "Ranma 1/2 (2-in-1 Edition), Vol. 6",
+        "price": 10.99,
+        "cover": "https://kbimages1-a.akamaihd.net/41091451-55d0-4b0d-9c5d-6ad74dbc79f1/353/569/90/False/ranma-1-2-2-in-1-edition-vol-6.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/ranma-1-2-2-in-1-edition-vol-6",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Rumiko Takahashi"
+    },
+    {
+        "title": "Spineless",
+        "price": 10.99,
+        "cover": "https://kbimages1-a.akamaihd.net/1f353c4d-44e3-4cf7-a82b-53de606ab011/353/569/90/False/spineless-8.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/spineless-8",
+        "preorder": "",
+        "isPlus": true,
+        "author": "Samantha San Miguel"
+    },
+    {
+        "title": "Death Masks",
+        "price": 10.99,
+        "cover": "https://kbimages1-a.akamaihd.net/59770fcb-8b45-4a1d-ae88-ea94ecda2bb7/353/569/90/False/death-masks-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/death-masks-1",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Jim Butcher"
+    },
+    {
         "title": "Flowerheart",
         "price": 10.99,
         "cover": "https://kbimages1-a.akamaihd.net/0854c009-09a7-405e-aea2-c191520c2eef/353/569/90/False/flowerheart-1.jpg",
@@ -97,6 +115,15 @@
         "preorder": "",
         "isPlus": false,
         "author": "Alastair Reynolds"
+    },
+    {
+        "title": "Pretty Guardian Sailor Moon Eternal Edition 1",
+        "price": 11.99,
+        "cover": "https://kbimages1-a.akamaihd.net/b4f5be8b-1492-4526-9ed9-5021ccf21de3/353/569/90/False/pretty-guardian-sailor-moon-eternal-edition-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/pretty-guardian-sailor-moon-eternal-edition-1",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Naoko Takeuchi"
     },
     {
         "title": "Midnight's Children",
@@ -151,6 +178,15 @@
         "preorder": "",
         "isPlus": false,
         "author": "Kenneth Oppel"
+    },
+    {
+        "title": "Wildblood",
+        "price": 12.99,
+        "cover": "https://kbimages1-a.akamaihd.net/4437e51c-a3c6-4e11-a45e-66b9c72d3f86/353/569/90/False/wildblood-2.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/wildblood-2",
+        "preorder": "Available Feb 7, 2023",
+        "isPlus": false,
+        "author": "Lauren Blackwood"
     },
     {
         "title": "Paradise-1",
@@ -261,6 +297,15 @@
         "author": "Erika Engelhaupt"
     },
     {
+        "title": "The Body Keeps the Score",
+        "price": 16.99,
+        "cover": "https://kbimages1-a.akamaihd.net/eefd9e54-ccb8-439d-8eef-c8bdbf153da4/353/569/90/False/the-body-keeps-the-score.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-body-keeps-the-score",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Bessel van der Kolk M.D."
+    },
+    {
         "title": "Antimatter Blues",
         "price": 16.99,
         "cover": "https://kbimages1-a.akamaihd.net/29a9ac0a-e85a-4413-9087-0c94fe7c7011/353/569/90/False/antimatter-blues-1.jpg",
@@ -313,6 +358,15 @@
         "preorder": "",
         "isPlus": false,
         "author": "Claire McKenna"
+    },
+    {
+        "title": "Immortal Longings",
+        "price": 20.99,
+        "cover": "https://kbimages1-a.akamaihd.net/f63eb541-9a5f-42a6-a9b4-40ffbb099f64/353/569/90/False/immortal-longings-5.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/immortal-longings-5",
+        "preorder": "Available Jul 25, 2023",
+        "isPlus": false,
+        "author": "Chloe Gong"
     },
     {
         "title": "The Best Interface Is No Interface",
