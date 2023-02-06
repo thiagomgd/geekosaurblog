@@ -1,14 +1,5 @@
 [
     {
-        "title": "Catfish Rolling",
-        "price": 0,
-        "cover": "https://kbimages1-a.akamaihd.net/Images/00000000-0000-0000-0000-000000000000/353/569/90/False/empty_book_cover.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/catfish-rolling-2",
-        "preorder": "Available Oct 17, 2023",
-        "isPlus": false,
-        "author": "Clara Kumagai"
-    },
-    {
         "title": "The Satanic Verses",
         "price": 4.99,
         "cover": "https://kbimages1-a.akamaihd.net/33b0945f-7176-4d45-8e91-d8ad11fff736/353/569/90/False/the-satanic-verses.jpg",
@@ -151,6 +142,15 @@
         "preorder": "",
         "isPlus": false,
         "author": "Rin Chupeco"
+    },
+    {
+        "title": "Catfish Rolling",
+        "price": 11.99,
+        "cover": "https://kbimages1-a.akamaihd.net/Images/00000000-0000-0000-0000-000000000000/353/569/90/False/empty_book_cover.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/catfish-rolling-2",
+        "preorder": "Available Oct 17, 2023",
+        "isPlus": false,
+        "author": "Clara Kumagai"
     },
     {
         "title": "On the Edge of Gone",
