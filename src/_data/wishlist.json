@@ -1,5 +1,14 @@
 [
     {
+        "title": "Durarara!!, Vol. 1 (light novel)",
+        "price": 4.99,
+        "cover": "https://kbimages1-a.akamaihd.net/bf061966-5d31-4c04-9bc1-71847ead2799/353/569/90/False/durarara-vol-1-light-novel-2.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/durarara-vol-1-light-novel-2",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Ryohgo Narita"
+    },
+    {
         "title": "The Satanic Verses",
         "price": 4.99,
         "cover": "https://kbimages1-a.akamaihd.net/33b0945f-7176-4d45-8e91-d8ad11fff736/353/569/90/False/the-satanic-verses.jpg",
@@ -7,6 +16,33 @@
         "preorder": "",
         "isPlus": false,
         "author": "Salman Rushdie"
+    },
+    {
+        "title": "How We Learn",
+        "price": 7.99,
+        "cover": "https://kbimages1-a.akamaihd.net/fbff58c4-d41c-4f64-8830-c9840b449253/353/569/90/False/how-we-learn-3.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/how-we-learn-3",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Benedict Carey"
+    },
+    {
+        "title": "Spellcasting In Silk",
+        "price": 7.99,
+        "cover": "https://kbimages1-a.akamaihd.net/ddea333e-772e-4d2e-833a-5c0ee3d4d914/353/569/90/False/spellcasting-in-silk.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/spellcasting-in-silk",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Juliet Blackwell"
+    },
+    {
+        "title": "One Dark Window",
+        "price": 8.99,
+        "cover": "https://kbimages1-a.akamaihd.net/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Rachel Gillig"
     },
     {
         "title": "Mieruko-chan, Vol. 7",
@@ -25,6 +61,51 @@
         "preorder": "",
         "isPlus": false,
         "author": "Ryoko Kui"
+    },
+    {
+        "title": "Perry Rhodan NEO (English Edition): Volume 1",
+        "price": 9.97,
+        "cover": "https://kbimages1-a.akamaihd.net/aa541acb-3440-49af-b5c5-5560a2fc4a09/353/569/90/False/perry-rhodan-neo-english-edition-volume-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/perry-rhodan-neo-english-edition-volume-1",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Frank Borsch"
+    },
+    {
+        "title": "Perry Rhodan NEO: Volume 2 (English Edition)",
+        "price": 9.97,
+        "cover": "https://kbimages1-a.akamaihd.net/14751d4f-f61e-4886-b07f-b43b39a6fd88/353/569/90/False/perry-rhodan-neo-volume-2-english-edition.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/perry-rhodan-neo-volume-2-english-edition",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Leo Lukas"
+    },
+    {
+        "title": "But you don't look autistic at all",
+        "price": 9.99,
+        "cover": "https://kbimages1-a.akamaihd.net/77c2aa7e-316d-4d09-afeb-d44ca43f6d4a/353/569/90/False/but-you-don-t-look-autistic-at-all.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/but-you-don-t-look-autistic-at-all",
+        "preorder": "",
+        "isPlus": true,
+        "author": "Bianca Toeps"
+    },
+    {
+        "title": "Durarara!!, Vol. 2 (light novel)",
+        "price": 9.99,
+        "cover": "https://kbimages1-a.akamaihd.net/05a50ba0-dada-4ea8-a635-9092688b0aa7/353/569/90/False/durarara-vol-2-light-novel-2.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/durarara-vol-2-light-novel-2",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Ryohgo Narita"
+    },
+    {
+        "title": "Bottom-Tier Character Tomozaki, Vol. 4 (light novel)",
+        "price": 9.99,
+        "cover": "https://kbimages1-a.akamaihd.net/6db2be94-b157-4bd6-94d7-070854d799bb/353/569/90/False/bottom-tier-character-tomozaki-vol-4-light-novel.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/bottom-tier-character-tomozaki-vol-4-light-novel",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Yuki Yaku"
     },
     {
         "title": "Last Stand of Dead Men (Skulduggery Pleasant, Book 8)",
@@ -79,15 +160,6 @@
         "preorder": "",
         "isPlus": true,
         "author": "Samantha San Miguel"
-    },
-    {
-        "title": "Death Masks",
-        "price": 10.99,
-        "cover": "https://kbimages1-a.akamaihd.net/59770fcb-8b45-4a1d-ae88-ea94ecda2bb7/353/569/90/False/death-masks-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/death-masks-1",
-        "preorder": "",
-        "isPlus": false,
-        "author": "Jim Butcher"
     },
     {
         "title": "Flowerheart",
@@ -234,6 +306,15 @@
         "author": "S.A. Barnes"
     },
     {
+        "title": "Until the End of Time",
+        "price": 13.99,
+        "cover": "https://kbimages1-a.akamaihd.net/fa067559-ab6e-4765-ae75-f50981575c35/353/569/90/False/until-the-end-of-time-20.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/until-the-end-of-time-20",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Brian Greene"
+    },
+    {
         "title": "THE MASTER AND MARGARITA",
         "price": 13.99,
         "cover": "https://kbimages1-a.akamaihd.net/a4a3c078-7afd-4565-b7f2-d1a1e6d44cef/353/569/90/False/the-master-and-margarita-9.jpg",
@@ -297,6 +378,15 @@
         "author": "Erika Engelhaupt"
     },
     {
+        "title": "NeuroTribes",
+        "price": 16.99,
+        "cover": "https://kbimages1-a.akamaihd.net/34de7b60-6d4a-449a-9c04-2db2a3370d07/353/569/90/False/neurotribes.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/neurotribes",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Steve Silberman"
+    },
+    {
         "title": "The Body Keeps the Score",
         "price": 16.99,
         "cover": "https://kbimages1-a.akamaihd.net/eefd9e54-ccb8-439d-8eef-c8bdbf153da4/353/569/90/False/the-body-keeps-the-score.jpg",
@@ -358,6 +448,15 @@
         "preorder": "",
         "isPlus": false,
         "author": "Claire McKenna"
+    },
+    {
+        "title": "Letters to a Young Poet: The Norton Centenary Edition",
+        "price": 20.99,
+        "cover": "https://kbimages1-a.akamaihd.net/Images/00000000-0000-0000-0000-000000000000/353/569/90/False/empty_book_cover.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/letters-to-a-young-poet-the-norton-centenary-edition",
+        "preorder": "Available May 2, 2023",
+        "isPlus": false,
+        "author": "Rainer Maria Rilke"
     },
     {
         "title": "Immortal Longings",
