@@ -32,7 +32,7 @@ templateClass: tmpl-post
         <a class="u-in-reply-to" href="{{ replyTo }}"></a>
       {% endif %}
       {% if description %}
-        <p class="p-bridgy-mastodon-content">{{ description | mastodonShareDescription(tags | filterTagList) }}</p>
+        <p class="p-bridgy-mastodon-content">{{ description | mastodonShareDescription(tags | filterTagList, socialTags) }}</p>
       {% endif %}
     {% endif %}
     {% if metadata.bridgy_twitter %}

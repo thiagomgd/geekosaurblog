@@ -153,10 +153,10 @@ module.exports = {
   //   }
   //   return content.substr(0, content.lastIndexOf(" ", maxLength)) + "...";
   // },
-  mastodonShareDescription: (text, hashtags=[]) => {
+  mastodonShareDescription: (text, hashtags=[], socialHashtags=[]) => {
     const maxLength = 450;
-
-    const tagsText = hashtags.map(tag => `#${tag.replace(' ', '')}`).join(' ') || '';
+    const tagsList = hashtags.concat(socialHashtags)
+    const tagsText = tagsList.map(tag => `#${tag.replace(' ', '')}`).join(' ') || '';
     // console.debug(tagsText);
     // console.debug(tagsText.length());
     const available = maxLength - tagsText.length;
