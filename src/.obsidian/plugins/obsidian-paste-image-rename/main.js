@@ -62,7 +62,7 @@ var require_package = __commonJS({
   "package.json"(exports, module2) {
     module2.exports = {
       name: "obsidian-paste-image-rename",
-      version: "1.5.2",
+      version: "1.6.1",
       main: "main.js",
       scripts: {
         start: "node esbuild.config.mjs",
@@ -177,10 +177,6 @@ function lockInputMethodComposition(el) {
     state.lock = false;
   });
   return state;
-}
-function getVaultConfig(app) {
-  const vault = app.vault;
-  return vault.config;
 }
 
 // src/batch.ts
@@ -417,20 +413,32 @@ var ConfirmModal = class extends import_obsidian.Modal {
 
 // src/template.ts
 var dateTmplRegex = /{{DATE:([^}]+)}}/gm;
+var frontmatterTmplRegex = /{{frontmatter:([^}]+)}}/gm;
 var replaceDateVar = (s, date) => {
   const m = dateTmplRegex.exec(s);
   if (!m)
     return s;
   return s.replace(m[0], date.format(m[1]));
 };
-var renderTemplate = (tmpl, data) => {
+var replaceFrontmatterVar = (s, frontmatter) => {
+  if (!frontmatter)
+    return s;
+  const m = frontmatterTmplRegex.exec(s);
+  if (!m)
+    return s;
+  return s.replace(m[0], frontmatter[m[1]] || "");
+};
+var renderTemplate = (tmpl, data, frontmatter) => {
   const now = window.moment();
   let text = tmpl;
   let newtext;
   while ((newtext = replaceDateVar(text, now)) != text) {
     text = newtext;
   }
-  text = text.replace(/{{imageNameKey}}/gm, data.imageNameKey).replace(/{{fileName}}/gm, data.fileName);
+  while ((newtext = replaceFrontmatterVar(text, frontmatter)) != text) {
+    text = newtext;
+  }
+  text = text.replace(/{{imageNameKey}}/gm, data.imageNameKey).replace(/{{fileName}}/gm, data.fileName).replace(/{{dirName}}/gm, data.dirName).replace(/{{firstHeading}}/gm, data.firstHeading);
   return text;
 };
 
@@ -439,6 +447,7 @@ var DEFAULT_SETTINGS = {
   imageNamePattern: "{{fileName}}",
   dupNumberAtStart: false,
   dupNumberDelimiter: "-",
+  dupNumberAlways: false,
   autoRename: false,
   handleAllAttachments: false,
   excludeExtensionPattern: "",
@@ -522,16 +531,10 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
   }
   renameFile(file, inputNewName, sourcePath, replaceCurrentLine) {
     return __async(this, null, function* () {
-      const { name: newName, stem: newNameStem } = yield this.deduplicateNewName(inputNewName, file);
+      const { name: newName } = yield this.deduplicateNewName(inputNewName, file);
       debugLog("deduplicated newName:", newName);
       const originName = file.name;
-      const originStem = file.basename;
-      const ext = file.extension;
-      const vaultConfig = getVaultConfig(this.app);
-      let useMarkdownLinks = false;
-      if (vaultConfig && vaultConfig.useMarkdownLinks) {
-        useMarkdownLinks = true;
-      }
+      const linkText = this.app.fileManager.generateMarkdownLink(file, sourcePath);
       const newPath = path.join(file.parent.path, newName);
       try {
         yield this.app.fileManager.renameFile(file, newPath);
@@ -542,15 +545,8 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
       if (!replaceCurrentLine) {
         return;
       }
-      let linkTextRegex, newLinkText;
-      if (useMarkdownLinks) {
-        linkTextRegex = new RegExp("!\\[\\]\\(([^[\\]]*\\/)?${originStem}\\.${ext}\\)");
-        newLinkText = `![]($1${newNameStem}.${ext}])`;
-      } else {
-        linkTextRegex = new RegExp(`!\\[\\[([^[\\]]*\\/)?${originStem}\\.${ext}\\]\\]`);
-        newLinkText = `![[$1${newNameStem}.${ext}]]`;
-      }
-      debugLog("replace text", linkTextRegex, newLinkText);
+      const newLinkText = this.app.fileManager.generateMarkdownLink(file, sourcePath);
+      debugLog("replace text", linkText, newLinkText);
       const editor = this.getActiveEditor();
       if (!editor) {
         new import_obsidian2.Notice(`Failed to rename ${newName}: no active editor`);
@@ -558,7 +554,7 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
       }
       const cursor = editor.getCursor();
       const line = editor.getLine(cursor.line);
-      const replacedLine = line.replace(linkTextRegex, newLinkText);
+      const replacedLine = line.replace(linkText, newLinkText);
       debugLog("current line -> replaced line", line, replacedLine);
       editor.transaction({
         changes: [
@@ -634,19 +630,28 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
   }
   // returns a new name for the input file, with extension
   generateNewName(file, activeFile) {
-    var _a;
     let imageNameKey = "";
+    let firstHeading = "";
+    let frontmatter;
     const fileCache = this.app.metadataCache.getFileCache(activeFile);
     if (fileCache) {
       debugLog("frontmatter", fileCache.frontmatter);
-      imageNameKey = ((_a = fileCache.frontmatter) == null ? void 0 : _a.imageNameKey) || "";
+      frontmatter = fileCache.frontmatter;
+      imageNameKey = (frontmatter == null ? void 0 : frontmatter.imageNameKey) || "";
+      firstHeading = getFirstHeading(fileCache.headings);
     } else {
       console.warn("could not get file cache from active file", activeFile.name);
     }
-    const stem = renderTemplate(this.settings.imageNamePattern, {
-      imageNameKey,
-      fileName: activeFile.basename
-    });
+    const stem = renderTemplate(
+      this.settings.imageNamePattern,
+      {
+        imageNameKey,
+        fileName: activeFile.basename,
+        dirName: activeFile.parent.name,
+        firstHeading
+      },
+      frontmatter
+    );
     const meaninglessRegex = new RegExp(`[${this.settings.dupNumberDelimiter}\\s]`, "gm");
     return {
       stem,
@@ -685,7 +690,7 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
           continue;
         dupNameNumbers.push(parseInt(m.groups.number));
       }
-      if (isNewNameExist) {
+      if (isNewNameExist || this.settings.dupNumberAlways) {
         const newNumber = dupNameNumbers.length > 0 ? Math.max(...dupNameNumbers) + 1 : 1;
         if (this.settings.dupNumberAtStart) {
           newName = `${newNumber}${delimiter}${newNameStem}.${newNameExt}`;
@@ -730,6 +735,16 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
     });
   }
 };
+function getFirstHeading(headings) {
+  if (headings && headings.length > 0) {
+    for (const heading of headings) {
+      if (heading.level === 1) {
+        return heading.heading;
+      }
+    }
+  }
+  return "";
+}
 function isPastedImage(file) {
   if (file instanceof import_obsidian2.TFile) {
     if (file.name.startsWith(PASTED_IMAGE_PREFIX)) {
@@ -886,6 +901,12 @@ var SettingTab = class extends import_obsidian2.PluginSettingTab {
     new import_obsidian2.Setting(containerEl).setName("Duplicate number delimiter").setDesc(`The delimiter to generate the number prefix/suffix for duplicated names. For example, if the value is "-", the suffix will be like "-1", "-2", "-3", and the prefix will be like "1-", "2-", "3-". Only characters that are valid in file names are allowed.`).addText((text) => text.setValue(this.plugin.settings.dupNumberDelimiter).onChange(
       (value) => __async(this, null, function* () {
         this.plugin.settings.dupNumberDelimiter = sanitizer.delimiter(value);
+        yield this.plugin.saveSettings();
+      })
+    ));
+    new import_obsidian2.Setting(containerEl).setName("Always add duplicate number").setDesc(`If enabled, duplicate number will always be added to the image name. Otherwise, it will only be added when the name is duplicated.`).addToggle((toggle) => toggle.setValue(this.plugin.settings.dupNumberAlways).onChange(
+      (value) => __async(this, null, function* () {
+        this.plugin.settings.dupNumberAlways = value;
         yield this.plugin.saveSettings();
       })
     ));

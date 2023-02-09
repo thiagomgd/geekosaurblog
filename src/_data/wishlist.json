@@ -1,5 +1,14 @@
 [
     {
+        "title": "A Funny Thing Happened on the Way to the Future",
+        "price": 2.99,
+        "cover": "https://kbimages1-a.akamaihd.net/9a347ce0-970b-455b-b989-fa068053cd9b/353/569/90/False/a-funny-thing-happened-on-the-way-to-the-future-2.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-funny-thing-happened-on-the-way-to-the-future-2",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Michael J. Fox"
+    },
+    {
         "title": "Durarara!!, Vol. 1 (light novel)",
         "price": 4.99,
         "cover": "https://kbimages1-a.akamaihd.net/bf061966-5d31-4c04-9bc1-71847ead2799/353/569/90/False/durarara-vol-1-light-novel-2.jpg",
@@ -234,6 +243,15 @@
         "author": "Kenneth Oppel"
     },
     {
+        "title": "No Time Like the Future",
+        "price": 12.99,
+        "cover": "https://kbimages1-a.akamaihd.net/ba52579a-c9a7-4dde-97d2-cb4db02e4256/353/569/90/False/no-time-like-the-future-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/no-time-like-the-future-1",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Michael J. Fox"
+    },
+    {
         "title": "Paradise-1",
         "price": 12.99,
         "cover": "https://kbimages1-a.akamaihd.net/90763c9d-56a3-4e8d-a773-e010e17b7efd/353/569/90/False/paradise-1-1.jpg",
@@ -268,6 +286,15 @@
         "preorder": "",
         "isPlus": false,
         "author": "S.A. Barnes"
+    },
+    {
+        "title": "Black Sun",
+        "price": 13.99,
+        "cover": "https://kbimages1-a.akamaihd.net/3d95e3ac-1ed8-469d-9b37-6ea24a37071c/353/569/90/False/black-sun-27.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/black-sun-27",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Rebecca Roanhorse"
     },
     {
         "title": "Until the End of Time",
@@ -322,6 +349,15 @@
         "preorder": "",
         "isPlus": false,
         "author": "Erika Engelhaupt"
+    },
+    {
+        "title": "Our Share of Night",
+        "price": 16.99,
+        "cover": "https://kbimages1-a.akamaihd.net/c1a6c7e9-bf35-4842-ad30-cec96803362d/353/569/90/False/our-share-of-night.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/our-share-of-night",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Mariana Enriquez"
     },
     {
         "title": "NeuroTribes",
