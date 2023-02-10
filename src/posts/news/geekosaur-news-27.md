@@ -33,7 +33,7 @@ I discovered this Youtube channel this week, and this video has some pretty cool
 
 I added City of Shattered Light to my list!
 
-[embed](https://fluxnow.com/product/city-of-shattered-light/)
+[embed](https://shepherd.com/book/city-of-shattered-light)
 
 ## Got a Kobo
 
