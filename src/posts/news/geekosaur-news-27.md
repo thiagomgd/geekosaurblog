@@ -12,14 +12,18 @@ title: 'Geekosaur News 27: Kobo, Movie News, Book Recs'
 thumbnail: /img/geekosaur-news-27.png
 ---
 
-_Currently Reading:  
-- Last Stand Of Dead Men (Skulduggery Pleasant #8)
-- Unlocked (Keeper of the Lost Cities #8.5)
-Currently Watching: That 70's Show, Kiling It_
-
 Back again to talk about random things and some personal updates!
 
 ![](img/geekosaur-news-27.png)
+
+Currently Reading:  
+- Last Stand Of Dead Men (Skulduggery Pleasant #8)
+- Unlocked (Keeper of the Lost Cities #8.5)
+
+Currently Watching: 
+- That 70's Show
+- Kiling It
+- Servant
 
 ## Book Recs
 
