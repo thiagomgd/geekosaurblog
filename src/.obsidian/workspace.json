@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/musiccorner/music-corner-20.md",
+                "file": "posts/news/geekosaur-news-27.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/musiccorner/music-corner-20.md",
+                "file": "posts/news/geekosaur-news-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/musiccorner/music-corner-20.md",
+                "file": "posts/news/geekosaur-news-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/musiccorner/music-corner-20.md"
+                "file": "posts/news/geekosaur-news-27.md"
               }
             }
           }
@@ -146,12 +146,12 @@
   },
   "active": "1ca5d6dffca8c7f8",
   "lastOpenFiles": [
+    "posts/musiccorner/music-corner-20.md",
     "posts/news/geekosaur-news-26.md",
     "posts/2023/2023-anticipated-books-ya.md",
     "posts/2023/friday-finds-1.md",
     "posts/2023/jan-2023-reading.md",
     "posts/booknotes/mexican-gothic-silvia-moreno-garcia.md",
-    "posts/musiccorner/music-corner-20.md",
     "img/jan-2023-reading-3.png",
     "img/jan-2023-reading.png",
     "img/jan-2023-reading-1.png",

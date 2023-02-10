@@ -27,6 +27,15 @@
         "author": "Salman Rushdie"
     },
     {
+        "title": "Bluebird",
+        "price": 7.99,
+        "cover": "https://kbimages1-a.akamaihd.net/533edbb4-62ba-48f2-9e54-540e061a7eac/353/569/90/False/bluebird-19.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/bluebird-19",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Ciel Pierlot"
+    },
+    {
         "title": "How We Learn",
         "price": 7.99,
         "cover": "https://kbimages1-a.akamaihd.net/fbff58c4-d41c-4f64-8830-c9840b449253/353/569/90/False/how-we-learn-3.jpg",
@@ -142,6 +151,15 @@
         "preorder": "",
         "isPlus": false,
         "author": "Darren Aronofsky"
+    },
+    {
+        "title": "Mindwalker",
+        "price": 10.99,
+        "cover": "https://kbimages1-a.akamaihd.net/552b7753-013a-4cd4-9077-e8335e07695b/353/569/90/False/mindwalker-5.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/mindwalker-5",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Kate Dylan"
     },
     {
         "title": "Ranma 1/2 (2-in-1 Edition), Vol. 6",
