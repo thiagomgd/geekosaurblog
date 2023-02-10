@@ -33,7 +33,7 @@ I discovered this Youtube channel this week, and this video has some pretty cool
 
 I added City of Shattered Light to my list!
 
-[embed](https://shepherd.com/book/city-of-shattered-light)
+[embed](https://app.thestorygraph.com/books/abd00467-9592-4ded-8c85-7aebceed3464)
 
 ## Got a Kobo
 
