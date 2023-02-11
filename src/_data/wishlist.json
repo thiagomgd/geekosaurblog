@@ -18,15 +18,6 @@
         "author": "Ryohgo Narita"
     },
     {
-        "title": "The Satanic Verses",
-        "price": 4.99,
-        "cover": "https://kbimages1-a.akamaihd.net/33b0945f-7176-4d45-8e91-d8ad11fff736/353/569/90/False/the-satanic-verses.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-satanic-verses",
-        "preorder": "",
-        "isPlus": false,
-        "author": "Salman Rushdie"
-    },
-    {
         "title": "Bluebird",
         "price": 7.99,
         "cover": "https://kbimages1-a.akamaihd.net/533edbb4-62ba-48f2-9e54-540e061a7eac/353/569/90/False/bluebird-19.jpg",
@@ -322,6 +313,15 @@
         "preorder": "",
         "isPlus": false,
         "author": "Brian Greene"
+    },
+    {
+        "title": "The Satanic Verses",
+        "price": 13.99,
+        "cover": "https://kbimages1-a.akamaihd.net/33b0945f-7176-4d45-8e91-d8ad11fff736/353/569/90/False/the-satanic-verses.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-satanic-verses",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Salman Rushdie"
     },
     {
         "title": "THE MASTER AND MARGARITA",
