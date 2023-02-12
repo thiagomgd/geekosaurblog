@@ -23,7 +23,7 @@ pagination:
 
 {% for note in pagination.items -%}
 
-[{{ note.data.title }}]({{ note.url }}/) - {{ note.data.createdDate | readableDate }}
+[{{ note.data.title }}]({{ note.url }}) - {{ note.data.createdDate | readableDate }}
 
 <div>{% set tagslist = note.data.tags %}{% include "tagslist.njk" %}</div>
 
