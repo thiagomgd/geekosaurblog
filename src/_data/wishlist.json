@@ -54,24 +54,6 @@
         "author": "Rachel Gillig"
     },
     {
-        "title": "Mieruko-chan, Vol. 7",
-        "price": 8.99,
-        "cover": "https://kbimages1-a.akamaihd.net/09352f46-7035-48c5-bf1b-5324ea390679/353/569/90/False/mieruko-chan-vol-7.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/mieruko-chan-vol-7",
-        "preorder": "Available Apr 18, 2023",
-        "isPlus": false,
-        "author": "Tomoki Izumi"
-    },
-    {
-        "title": "Delicious in Dungeon, Vol. 11",
-        "price": 8.99,
-        "cover": "https://kbimages1-a.akamaihd.net/8eab101b-1e6d-4704-9b67-7df23d019522/353/569/90/False/delicious-in-dungeon-vol-11.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/delicious-in-dungeon-vol-11",
-        "preorder": "",
-        "isPlus": false,
-        "author": "Ryoko Kui"
-    },
-    {
         "title": "Perry Rhodan NEO (English Edition): Volume 1",
         "price": 9.97,
         "cover": "https://kbimages1-a.akamaihd.net/aa541acb-3440-49af-b5c5-5560a2fc4a09/353/569/90/False/perry-rhodan-neo-english-edition-volume-1.jpg",
@@ -151,15 +133,6 @@
         "preorder": "",
         "isPlus": false,
         "author": "Kate Dylan"
-    },
-    {
-        "title": "Ranma 1/2 (2-in-1 Edition), Vol. 6",
-        "price": 10.99,
-        "cover": "https://kbimages1-a.akamaihd.net/41091451-55d0-4b0d-9c5d-6ad74dbc79f1/353/569/90/False/ranma-1-2-2-in-1-edition-vol-6.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/ranma-1-2-2-in-1-edition-vol-6",
-        "preorder": "",
-        "isPlus": false,
-        "author": "Rumiko Takahashi"
     },
     {
         "title": "Spineless",

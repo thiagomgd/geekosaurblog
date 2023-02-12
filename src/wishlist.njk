@@ -11,10 +11,18 @@ eleventyNavigation:
 
 <p>Kobo doesn't allow sorting wishlist by price, and doesn't show if something is available on Kobo Plus. So this is more for myself to keep track of things</p>
 
+<h2>Books</h2>
+
 {% for book in wishlist %}
   {% wishlistCard book.title, book.author, book.url, book.cover, book.price, book.preorder, book.isPlus %}
   {% endwishlistCard %}
 {% endfor %}
 
+<h2>Manga/Comics</h2>
+
+{% for book in manga_wishlist %}
+  {% wishlistCard book.title, book.author, book.url, book.cover, book.price, book.preorder, book.isPlus %}
+  {% endwishlistCard %}
+{% endfor %}
 
 </section>
