@@ -306,15 +306,6 @@
         "author": "Rebecca Roanhorse"
     },
     {
-        "title": "Until the End of Time",
-        "price": 13.99,
-        "cover": "https://kbimages1-a.akamaihd.net/fa067559-ab6e-4765-ae75-f50981575c35/353/569/90/False/until-the-end-of-time-20.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/until-the-end-of-time-20",
-        "preorder": "",
-        "isPlus": false,
-        "author": "Brian Greene"
-    },
-    {
         "title": "The Satanic Verses",
         "price": 13.99,
         "cover": "https://kbimages1-a.akamaihd.net/33b0945f-7176-4d45-8e91-d8ad11fff736/353/569/90/False/the-satanic-verses.jpg",
@@ -349,6 +340,15 @@
         "preorder": "",
         "isPlus": false,
         "author": "Riley Sager"
+    },
+    {
+        "title": "Until the End of Time",
+        "price": 14.99,
+        "cover": "https://kbimages1-a.akamaihd.net/fa067559-ab6e-4765-ae75-f50981575c35/353/569/90/False/until-the-end-of-time-20.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/until-the-end-of-time-20",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Brian Greene"
     },
     {
         "title": "Dust",
