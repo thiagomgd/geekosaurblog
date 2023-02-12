@@ -7,6 +7,6 @@ description:
 thread: 
 embed:
 images:
-createdTime: {{date}}T{{time}}.000-07:00
+createdTime: '<% new moment(tp.file.creation_date(), "YYYY-MM-DDTHHmmssZZ").utc().format("YYYY-MM-DDTHH:mm:ss[Z]") %>'
 ---
 

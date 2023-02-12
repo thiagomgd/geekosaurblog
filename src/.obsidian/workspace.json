@@ -24,16 +24,27 @@
           {
             "id": "ea010ccc26c903b4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/1eb0e85b-e557-41e3-84ff-7a372e21c4d5.md",
+                "file": "templates/note_template.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b01d9ab657a5a07e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/2023-02-12-02-44.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/2023-02-12-02-44.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/2023-02-12-02-44.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -153,24 +160,24 @@
   "left-ribbon": {
     "hiddenItems": {
       "zk-prefixer:Create new unique note": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "1ca5d6dffca8c7f8",
+  "active": "b01d9ab657a5a07e",
   "lastOpenFiles": [
+    "notes/2023-02-12-03-13.md",
+    "templates/note_template.md",
+    "notes/2023-02-12-03-11.md",
+    "notes/2023-02-12-02-44.md",
+    "notes/2023-02-12-03-10.md",
     "notes/1eb0e85b-e557-41e3-84ff-7a372e21c4d5.md",
     "notes/2ebe8523-ce76-4910-9573-f94d830c5c89.md",
     "notes/2fa963da-1db5-40f5-ad22-1536ee722b57.md",
     "notes/6e35ea03-1d8d-48fa-b34a-9ad050b23316.md",
-    "notes/33e8d98e-c116-44e8-9f6b-1093db736086.md",
-    "notes/2023-02-12-02-44.md",
-    "notes/3da9cc88-b385-4b97-a33e-2797528078ee.md",
-    "notes/2da86923-b26b-4133-925c-ad31a4394adf.md",
-    "templates/note_template.md",
-    "notes/2023-02-12-02-43.md"
+    "notes/33e8d98e-c116-44e8-9f6b-1093db736086.md"
   ]
 }
