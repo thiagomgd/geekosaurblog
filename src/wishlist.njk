@@ -20,8 +20,8 @@ eleventyNavigation:
 
 <h2>Manga/Comics</h2>
 
-{% for book in manga_wishlist %}
-  {% wishlistCard book.title, book.author, book.url, book.cover, book.price, book.preorder, book.isPlus %}
+{% for manga in manga_wishlist %}
+  {% wishlistCard manga.title, manga.author, manga.url, manga.cover, manga.price, manga.preorder, manga.isPlus %}
   {% endwishlistCard %}
 {% endfor %}
 
