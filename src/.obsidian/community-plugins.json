@@ -1,4 +1,6 @@
 [
   "simple-embeds",
-  "obsidian-paste-image-rename"
+  "obsidian-paste-image-rename",
+  "templater-obsidian",
+  "obsidian-frontmatter-tag-suggest"
 ]
