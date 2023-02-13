@@ -69,7 +69,7 @@ ${readMoreSection}
 const wishlistCard = (_content, title, author, link, image, price, preorder, isPlus) => {
 
   const koboPlus = isPlus === true ? "K+ <br/>" : "";
-  const extraClass = isPlus === true ? "blog-card-alert" : "";
+  const extraClass = isPlus === true ? "blog-card-koboPlus" : "";
   const content = `${koboPlus}${price}<br/>${preorder}`
   // const a = url(title)
   // TODO - add author
@@ -80,7 +80,7 @@ const wishlistCard = (_content, title, author, link, image, price, preorder, isP
     title: `${title} (${author})`, 
     image: image,
     url: link, 
-    // extraClass: extraClass,
+    extraClass: extraClass,
     extraCTALink: searchIndigoLink, 
     extraCTAText: "Search Indigo" 
   })
