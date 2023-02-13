@@ -36,6 +36,15 @@
         "author": "Ryoko Kui"
     },
     {
+        "title": "Oh My Goddess! Volume 1",
+        "price": 8.99,
+        "cover": "https://kbimages1-a.akamaihd.net/de52801e-0c95-49fb-a33f-f486827ea933/353/569/90/False/oh-my-goddess-volume-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/oh-my-goddess-volume-1",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Kosuke Fujishima"
+    },
+    {
         "title": "The Woods Vol. 6",
         "price": 9.97,
         "cover": "https://kbimages1-a.akamaihd.net/95533bf8-1316-4bd5-892c-d60bd52ea4c6/353/569/90/False/the-woods-vol-6.jpg",
@@ -43,6 +52,15 @@
         "preorder": "",
         "isPlus": true,
         "author": "James Tynion IV"
+    },
+    {
+        "title": "Yozakura Quartet 1",
+        "price": 9.99,
+        "cover": "https://kbimages1-a.akamaihd.net/afbde04f-8647-445e-961c-d98e24e7dd15/353/569/90/False/yozakura-quartet-1-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/yozakura-quartet-1-1",
+        "preorder": "",
+        "isPlus": true,
+        "author": "Suzuhito Yasuda"
     },
     {
         "title": "Ranma 1/2 (2-in-1 Edition), Vol. 6",
@@ -70,5 +88,14 @@
         "preorder": "",
         "isPlus": false,
         "author": "Eiji Masuda"
+    },
+    {
+        "title": "Air Gear Omnibus 3",
+        "price": 15.99,
+        "cover": "https://kbimages1-a.akamaihd.net/58211c4a-e8f2-4ee9-b6ec-a3db71c550f4/353/569/90/False/air-gear-omnibus-3-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/air-gear-omnibus-3-1",
+        "preorder": "",
+        "isPlus": true,
+        "author": "Oh!great"
     }
 ]
