@@ -5,11 +5,29 @@ eleventyNavigation:
   key: Kobo Wishlist
   order: 10
 ---
+<script>
+function toggleKoboPlus() {
+  console.debug("aaaa");
+  var divs = document.querySelectorAll(".blog-card:not(.blog-card-koboPlus)");
+
+  for (i = 0; i < divs.length; ++i) {
+    x = divs[i];
+    if (x?.style?.display === "none") {
+      x.style.display = "flex";
+    } else {
+      x.style.display = "none";
+    }
+  }
+  
+}
+</script>
 
 <section class="content-780">
   <h1>Wishlist</h1>
 
 <p>Kobo doesn't allow sorting wishlist by price, and doesn't show if something is available on Kobo Plus. So this is more for myself to keep track of things</p>
+
+<button onClick="toggleKoboPlus()">Toggle Kobo Plus</button>
 
 <h2>Books</h2>
 
