@@ -38,6 +38,8 @@ templateClass: tmpl-post
       {% endif %}
       {% if description %}
         <p class="p-bridgy-mastodon-content" style="display: none;">{{ description | mastodonShareDescription(tags | filterTagList, socialTags) }}</p>
+      {% else %}
+        <p class="p-bridgy-mastodon-content" style="display: none;">{{ content | safe | mastodonShareDescription(tags | filterTagList, socialTags) }}</p>
       {% endif %}
     {% endif %}
     {% if metadata.bridgy_twitter %}
