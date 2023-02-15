@@ -9,15 +9,6 @@
         "author": "Michael J. Fox"
     },
     {
-        "title": "Durarara!!, Vol. 1 (light novel)",
-        "price": 4.99,
-        "cover": "https://kbimages1-a.akamaihd.net/bf061966-5d31-4c04-9bc1-71847ead2799/353/569/90/False/durarara-vol-1-light-novel-2.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/durarara-vol-1-light-novel-2",
-        "preorder": "",
-        "isPlus": false,
-        "author": "Ryohgo Narita"
-    },
-    {
         "title": "Bluebird",
         "price": 7.99,
         "cover": "https://kbimages1-a.akamaihd.net/533edbb4-62ba-48f2-9e54-540e061a7eac/353/569/90/False/bluebird-19.jpg",
@@ -52,15 +43,6 @@
         "preorder": "",
         "isPlus": false,
         "author": "Rachel Gillig"
-    },
-    {
-        "title": "Perry Rhodan NEO (English Edition): Volume 1",
-        "price": 9.97,
-        "cover": "https://kbimages1-a.akamaihd.net/aa541acb-3440-49af-b5c5-5560a2fc4a09/353/569/90/False/perry-rhodan-neo-english-edition-volume-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/perry-rhodan-neo-english-edition-volume-1",
-        "preorder": "",
-        "isPlus": false,
-        "author": "Frank Borsch"
     },
     {
         "title": "Perry Rhodan NEO: Volume 2 (English Edition)",
@@ -171,6 +153,15 @@
         "author": "Alastair Reynolds"
     },
     {
+        "title": "A Natural History of Dragons",
+        "price": 11.99,
+        "cover": "https://kbimages1-a.akamaihd.net/5c9b8a9f-1230-46ca-92b9-43bd008aeac2/353/569/90/False/a-natural-history-of-dragons.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-natural-history-of-dragons",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Marie Brennan"
+    },
+    {
         "title": "Midnight's Children",
         "price": 11.99,
         "cover": "https://kbimages1-a.akamaihd.net/03240bbe-2ae1-41e3-bb39-c00305e30573/353/569/90/False/midnight-s-children-1.jpg",
@@ -223,6 +214,15 @@
         "preorder": "",
         "isPlus": false,
         "author": "Kenneth Oppel"
+    },
+    {
+        "title": "Swan Dive",
+        "price": 12.99,
+        "cover": "https://kbimages1-a.akamaihd.net/d3061fd6-43c3-4253-bf2c-3eb20e094054/353/569/90/False/swan-dive-14.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/swan-dive-14",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Georgina Pazcoguin"
     },
     {
         "title": "No Time Like the Future",
@@ -342,6 +342,15 @@
         "author": "Erika Engelhaupt"
     },
     {
+        "title": "Sweep of Stars",
+        "price": 16.99,
+        "cover": "https://kbimages1-a.akamaihd.net/387b2820-d290-42fe-be6c-1b17826204b6/353/569/90/False/sweep-of-stars.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/sweep-of-stars",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Maurice Broaddus"
+    },
+    {
         "title": "Our Share of Night",
         "price": 16.99,
         "cover": "https://kbimages1-a.akamaihd.net/c1a6c7e9-bf35-4842-ad30-cec96803362d/353/569/90/False/our-share-of-night.jpg",
@@ -371,7 +380,7 @@
     {
         "title": "Antimatter Blues",
         "price": 16.99,
-        "cover": "https://kbimages1-a.akamaihd.net/29a9ac0a-e85a-4413-9087-0c94fe7c7011/353/569/90/False/antimatter-blues-1.jpg",
+        "cover": "https://kbimages1-a.akamaihd.net/bcdb239e-0f75-4d0d-bc19-49d088b12a93/353/569/90/False/antimatter-blues-1.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/antimatter-blues-1",
         "preorder": "Available Mar 14, 2023",
         "isPlus": false,
@@ -403,6 +412,15 @@
         "preorder": "Available May 16, 2023",
         "isPlus": false,
         "author": "Christopher Paolini"
+    },
+    {
+        "title": "Dying of Politeness",
+        "price": 17.99,
+        "cover": "https://kbimages1-a.akamaihd.net/690c6add-db11-4439-9c54-417601d5e731/353/569/90/False/dying-of-politeness-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/dying-of-politeness-1",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Geena Davis"
     },
     {
         "title": "Earthlings",
