@@ -69,7 +69,12 @@ ${readMoreSection}
 const wishlistCard = (_content, title, author, link, image, price, preorder, isPlus) => {
 
   const koboPlus = isPlus === true ? "K+ <br/>" : "";
-  const extraClass = isPlus === true ? "blog-card-koboPlus" : "";
+  const extraClass = isPlus === true 
+      ? "blog-card-koboPlus" 
+      : preorder 
+      ? "blog-card-preorder" 
+      : "";
+      
   const content = `${koboPlus}${price}<br/>${preorder}`
   // const a = url(title)
   // TODO - add author

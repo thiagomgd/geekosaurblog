@@ -7,8 +7,21 @@ eleventyNavigation:
 ---
 <script>
 function toggleKoboPlus() {
-  console.debug("aaaa");
   var divs = document.querySelectorAll(".blog-card:not(.blog-card-koboPlus)");
+
+  for (i = 0; i < divs.length; ++i) {
+    x = divs[i];
+    if (x?.style?.display === "none") {
+      x.style.display = "flex";
+    } else {
+      x.style.display = "none";
+    }
+  }
+  
+}
+
+function toggleKoboPlus() {
+  var divs = document.querySelectorAll(".blog-card:not(.blog-card-preorder)");
 
   for (i = 0; i < divs.length; ++i) {
     x = divs[i];
