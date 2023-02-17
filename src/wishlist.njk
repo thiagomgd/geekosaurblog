@@ -20,7 +20,7 @@ function toggleKoboPlus() {
   
 }
 
-function toggleKoboPlus() {
+function togglePreorder() {
   var divs = document.querySelectorAll(".blog-card:not(.blog-card-preorder)");
 
   for (i = 0; i < divs.length; ++i) {
@@ -41,6 +41,8 @@ function toggleKoboPlus() {
 <p>Kobo doesn't allow sorting wishlist by price, and doesn't show if something is available on Kobo Plus. So this is more for myself to keep track of things</p>
 
 <button onClick="toggleKoboPlus()">Toggle Kobo Plus</button>
+
+<button onClick="togglePreorder()">Toggle Pre-Order</button>
 
 <h2>Books</h2>
 
