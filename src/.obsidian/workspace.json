@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1ca5d6dffca8c7f8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/2023-02-12-02-44.md",
-                "mode": "source",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "ea010ccc26c903b4",
             "type": "leaf",
             "pinned": true,
@@ -38,17 +24,19 @@
           {
             "id": "b01d9ab657a5a07e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2023/friday-finds-1.md",
+                "file": "posts/2023/2023-anticipated-books.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2023/friday-finds-1.md",
+                "file": "posts/2023/2023-anticipated-books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2023/friday-finds-1.md",
+                "file": "posts/2023/2023-anticipated-books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2023/friday-finds-1.md"
+                "file": "posts/2023/2023-anticipated-books.md"
               }
             }
           }
@@ -177,15 +165,15 @@
   },
   "active": "b01d9ab657a5a07e",
   "lastOpenFiles": [
-    "posts/2023/2023-anticipated-books-ya.md",
+    "templates/note_template.md",
     "notes/2023-02-12-02-44.md",
+    "posts/2023/2023-anticipated-books.md",
+    "posts/2023/2023-anticipated-books-ya.md",
+    "img/2023-anticipated-books-ya.png",
+    "posts/2023/friday-finds-1.md",
     "notes/54007b54-2344-45dd-a853-e4145708d834.md",
     "notes/2023-02-12-03-13.md",
-    "templates/note_template.md",
     "notes/2023-02-12-03-11.md",
-    "notes/2023-02-12-03-10.md",
-    "notes/1eb0e85b-e557-41e3-84ff-7a372e21c4d5.md",
-    "notes/2ebe8523-ce76-4910-9573-f94d830c5c89.md",
-    "notes/2fa963da-1db5-40f5-ad22-1536ee722b57.md"
+    "notes/2023-02-12-03-10.md"
   ]
 }

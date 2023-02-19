@@ -1,14 +1,5 @@
 [
     {
-        "title": "A Funny Thing Happened on the Way to the Future",
-        "price": 2.99,
-        "cover": "https://kbimages1-a.akamaihd.net/9a347ce0-970b-455b-b989-fa068053cd9b/353/569/90/False/a-funny-thing-happened-on-the-way-to-the-future-2.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/a-funny-thing-happened-on-the-way-to-the-future-2",
-        "preorder": "",
-        "isPlus": false,
-        "author": "Michael J. Fox"
-    },
-    {
         "title": "Bluebird",
         "price": 7.99,
         "cover": "https://kbimages1-a.akamaihd.net/533edbb4-62ba-48f2-9e54-540e061a7eac/353/569/90/False/bluebird-19.jpg",
@@ -434,7 +425,7 @@
     {
         "title": "Letters to a Young Poet: The Norton Centenary Edition",
         "price": 20.99,
-        "cover": "https://kbimages1-a.akamaihd.net/Images/00000000-0000-0000-0000-000000000000/353/569/90/False/empty_book_cover.jpg",
+        "cover": "https://kbimages1-a.akamaihd.net/263c9874-7a1b-4bb8-9058-3618abfbbfe2/353/569/90/False/letters-to-a-young-poet-the-norton-centenary-edition.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/letters-to-a-young-poet-the-norton-centenary-edition",
         "preorder": "Available May 2, 2023",
         "isPlus": false,
