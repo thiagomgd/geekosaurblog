@@ -202,7 +202,7 @@ module.exports = {
     }, 0)
   },
   sortAndFilterManga: (mangaList) => {
-    const sorted = sortBy(mangaList, 'volume');
+    const sorted = sortBy(mangaList, 'numberInSeries');
     if (sorted.length <= 4) return sorted;
 
     return [sorted[0], {title:"..."}, sorted[sorted.length - 2], sorted[sorted.length - 1]];

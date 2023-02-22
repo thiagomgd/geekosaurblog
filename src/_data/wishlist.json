@@ -306,6 +306,24 @@
         "author": "Riley Sager"
     },
     {
+        "title": "Of Manners and Murder",
+        "price": 14.99,
+        "cover": "https://kbimages1-a.akamaihd.net/793cb5ba-9d24-4084-ab2e-a7bfa48733f4/353/569/90/False/of-manners-and-murder.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/of-manners-and-murder",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Anastasia Hastings"
+    },
+    {
+        "title": "Tell Me I'm Worthless",
+        "price": 14.99,
+        "cover": "https://kbimages1-a.akamaihd.net/86b56c52-1966-4d26-9ebe-dfdbe6076e38/353/569/90/False/tell-me-i-m-worthless-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/tell-me-i-m-worthless-1",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Alison Rumfitt"
+    },
+    {
         "title": "Until the End of Time",
         "price": 14.99,
         "cover": "https://kbimages1-a.akamaihd.net/fa067559-ab6e-4765-ae75-f50981575c35/353/569/90/False/until-the-end-of-time-20.jpg",
@@ -333,9 +351,18 @@
         "author": "Erika Engelhaupt"
     },
     {
+        "title": "Silver Nitrate",
+        "price": 16.99,
+        "cover": "https://kbimages1-a.akamaihd.net/d2117b3c-e27d-414b-9e07-44a7727f0912/353/569/90/False/silver-nitrate-2.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/silver-nitrate-2",
+        "preorder": "Available Jul 18, 2023",
+        "isPlus": false,
+        "author": "Silvia Moreno-Garcia"
+    },
+    {
         "title": "Sweep of Stars",
         "price": 16.99,
-        "cover": "https://kbimages1-a.akamaihd.net/387b2820-d290-42fe-be6c-1b17826204b6/353/569/90/False/sweep-of-stars.jpg",
+        "cover": "https://kbimages1-a.akamaihd.net/61220694-7bd8-453f-93c5-c0ebce1fb14d/353/569/90/False/sweep-of-stars.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/sweep-of-stars",
         "preorder": "",
         "isPlus": false,
