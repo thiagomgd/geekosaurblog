@@ -34,9 +34,19 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "cdb6bbf0b77d6c49",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b01d9ab657a5a07e",
+  "active": "cdb6bbf0b77d6c49",
   "lastOpenFiles": [
     "notes/0b58c86a-cb14-4800-8dc2-ef7bbff64d00.md",
     "posts/2023/2023-anticipated-books.md",
