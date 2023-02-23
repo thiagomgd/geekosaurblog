@@ -25,18 +25,18 @@ Manga I'm reading by volume as they release!
 
 #### Waiting For Release
 
-- Mieruko-chan - Vol. 7 (Release 04/18/2023) - https://yenpress.com/9781975361891/mieruko-chan-vol-7/ 
-- DanDaDan - Vol. 3 (Release April 11, 2023) https://www.viz.com/read/manga/dandadan-volume-3/product/7405
-- Note: Chapters Available - https://www.viz.com/shonenjump/chapters/dandadan?locale=en
+- Mieruko-chan - Vol. 7 (Release April 18, 2023) [link](https://yenpress.com/9781975361891/mieruko-chan-vol-7/ )
+- DanDaDan - Vol. 3 (Release April 11, 2023) [link](https://www.viz.com/read/manga/dandadan-volume-3/product/7405)
+	- Note: Chapters Available on [Viz](https://www.viz.com/shonenjump/chapters/dandadan?locale=en)
 
 #### Catching Up
 
 Indicating next volume to read:
 
-- Delicious in Dungeon: Volume 11 - https://yenpress.com/9781975346720/delicious-in-dungeon-vol-11/
-- Miss Kobayashi’s Dragon Maid: Volume 12 - https://sevenseasentertainment.com/series/miss-kobayashis-dragon-maid/
-- Ranma 1/2: Volume 7 (Vol. 13 and 14) https://www.viz.com/ranma-1-2
-- Don't Toy With Me, Miss Nagatoro: Volume 4 - https://kodansha.us/series/dont-toy-with-me-miss-nagatoro/
+- Delicious in Dungeon: [Volume 11](https://yenpress.com/9781975346720/delicious-in-dungeon-vol-11/)
+- Miss Kobayashi’s Dragon Maid: [Volume 12](https://sevenseasentertainment.com/series/miss-kobayashis-dragon-maid/)
+- Ranma 1/2: [Volume 7 (Vol. 13 and 14)](https://www.viz.com/ranma-1-2) - it's a double-volume series.
+- Don't Toy With Me, Miss Nagatoro: [Volume 4](https://kodansha.us/series/dont-toy-with-me-miss-nagatoro/)
 
 ### Chapter Manga
 
