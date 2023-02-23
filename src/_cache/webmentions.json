@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-02-12T22:31:02.520Z",
+  "lastFetched": "2023-02-23T23:25:21.997Z",
   "children": [
     {
       "type": "entry",
@@ -7230,6 +7230,144 @@
       "rels": {
         "canonical": "https://geekosaur.com/post/geekosaur-news-26/"
       }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/a.mindlycdn.click/2adf71d0ac14801941465abf5a7c227ea33c2d656496f0cfa2a03c6c0276224c.jpg",
+        "url": "https://mindly.social/@falcon"
+      },
+      "url": "https://mindly.social/@falcon/109895831071549956",
+      "published": "2023-02-20T07:15:05",
+      "wm-received": "2023-02-20T12:20:15Z",
+      "wm-id": 1626772,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mindly.social/109894539358965081/109895831071549956",
+      "wm-target": "https://geekosaur.com/post/2023-anticipated-books/",
+      "content": {
+        "html": "<p>Found a cool anticipated 2023 Middle Grade book list: <a href=\"https://thenerddaily.com/2023-anticipated-middle-grade-fiction-releases/\"><span>https://</span><span>thenerddaily.com/2023-anticipa</span><span>ted-middle-grade-fiction-releases/</span></a></p><p>Might go through it tomorrow night and make another post :)</p><p><a href=\"https://mindly.social/tags/books\">#<span>books</span></a> <a href=\"https://mindly.social/tags/bookstodon\">#<span>bookstodon</span></a> <a href=\"https://mindly.social/tags/middleGrade\">#<span>middleGrade</span></a></p>\n<a class=\"p-category\" href=\"https://mindly.social/tags/books\">books</a>\n<a class=\"p-category\" href=\"https://mindly.social/tags/bookstodon\">bookstodon</a>\n<a class=\"p-category\" href=\"https://mindly.social/tags/middlegrade\">middlegrade</a>\n<a href=\"https://thenerddaily.com/2023-anticipated-middle-grade-fiction-releases/\">You Need These Highly Anticipated 2023 Middle Grade Fiction Releases | The Nerd Daily</a>",
+        "text": "Found a cool anticipated 2023 Middle Grade book list: https://thenerddaily.com/2023-anticipated-middle-grade-fiction-releases/Might go through it tomorrow night and make another post :)#books #bookstodon #middleGrade\nbooks\nbookstodon\nmiddlegrade\nYou Need These Highly Anticipated 2023 Middle Grade Fiction Releases | The Nerd Daily"
+      },
+      "in-reply-to": "https://geekosaur.com/post/2023-anticipated-books/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G-Nitro",
+        "photo": "https://webmention.io/avatar/a.mindlycdn.click/52a7d7383243d3084a93b62b7c2f47c400ba4f5ccc40522028eb23677317e934.png",
+        "url": "https://urusai.social/@gnitro"
+      },
+      "url": "https://mindly.social/@falcon/109894539358965081#reblogged-by-109377915810361578",
+      "published": null,
+      "wm-received": "2023-02-20T06:52:16Z",
+      "wm-id": 1626707,
+      "wm-source": "https://brid.gy/repost/mastodon/@falcon@mindly.social/109894539358965081/109377915810361578",
+      "wm-target": "https://geekosaur.com/post/2023-anticipated-books/",
+      "repost-of": "https://geekosaur.com/post/2023-anticipated-books/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carmela",
+        "photo": "https://webmention.io/avatar/a.mindlycdn.click/080f1d44158c9851a58090deb858e92bcd729f8f12db8956bad531cacf6f4510.png",
+        "url": "https://mstdn.social/@DocCarms"
+      },
+      "url": "https://mindly.social/@falcon/109894539358965081#favorited-by-109291730119195040",
+      "published": null,
+      "wm-received": "2023-02-20T06:52:14Z",
+      "wm-id": 1626705,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109894539358965081/109291730119195040",
+      "wm-target": "https://geekosaur.com/post/2023-anticipated-books/",
+      "like-of": "https://geekosaur.com/post/2023-anticipated-books/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "G-Nitro",
+        "photo": "https://webmention.io/avatar/a.mindlycdn.click/52a7d7383243d3084a93b62b7c2f47c400ba4f5ccc40522028eb23677317e934.png",
+        "url": "https://urusai.social/@gnitro"
+      },
+      "url": "https://mindly.social/@falcon/109894539358965081#favorited-by-109377915810361578",
+      "published": null,
+      "wm-received": "2023-02-20T06:52:14Z",
+      "wm-id": 1626706,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109894539358965081/109377915810361578",
+      "wm-target": "https://geekosaur.com/post/2023-anticipated-books/",
+      "like-of": "https://geekosaur.com/post/2023-anticipated-books/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://geekosaur.com/post/2023-anticipated-books/",
+      "published": null,
+      "wm-received": "2023-02-20T01:45:58Z",
+      "wm-id": 1626663,
+      "wm-source": "https://geekosaur.com/post/2023-anticipated-books/",
+      "wm-target": "https://geekosaur.com/post/2023-anticipated-books-ya/",
+      "name": "Anticipated 2023 Book Releases",
+      "content": {
+        "html": "<p>A couple weeks ago I posted some <a href=\"https://geekosaur.com/post/2023-anticipated-books-ya/\">anticipated YA book releases for 2023</a>. Now I'm back with a few more genres. Yeah, I know it's LATE for this kind of list, but here I'm anyway.</p>\n<p>All books come from the following Goodreads lists:</p>\n<ul><li><a href=\"https://www.goodreads.com/blog/show/2507-the-most-anticipated-horror-novels-of-2023\">Horror Novels</a></li>\n<li><a href=\"https://www.goodreads.com/blog/show/2440-2023-s-most-anticipated-mysteries-thrillers\">Mysteries</a></li>\n<li><a href=\"https://www.goodreads.com/blog/show/2514-2023-s-most-anticipated-new-fantasy-and-science-fiction\">Fantasy &amp; Sci-Fi</a></li>\n</ul><h2>Horror <a href=\"https://geekosaur.com/post/2023-anticipated-books/#horror\">#</a></h2>\n<p>We have two Silvia Moreno-Garcia book releases. They are kind of an instant TBR add. The first one, <em>Our Share of Night</em>, is a queer novel about vampires, and the one I'm most excited for. <em>Silver Nitrate</em> is a historical magical-realism story about making an horror movie.</p>\n<p><em>Our share of night is actually already released, BUT that's just because I'm late to this list, so I'll cheat?</em></p>\n<p></p>\n<h4><a href=\"https://www.publishersweekly.com/9780451495143\">Our Share of Night by Mariana Enriquez</a></h4>\n<img src=\"https://www.publishersweekly.com/cover/9780451495143\" width=\"331\" height=\"500\" alt=\"\" /><p>Enriquez (The Dangers of Smoking in Bed) twines sinister flights of occult imagination through the harsh realities of history in…</p>\n\n<img src=\"https://www.publishersweekly.com/marlin/images/logo-trans.png\" width=\"84\" height=\"84\" alt=\"\" /><span>publishersweekly.com</span>\n\n<p></p>\n<p></p>\n<h4><a href=\"https://www.penguinrandomhouse.com/books/668250/silver-nitrate-by-silvia-moreno-garcia/\">Silver Nitrate by Silvia Moreno-Garcia: 9780593355367 | PenguinRandomHouse.com: Books</a></h4>\n<img src=\"https://images4.penguinrandomhouse.com/cover/9780593355367\" width=\"296\" height=\"450\" alt=\"\" /><p>From the New York Times bestselling author of The Daughter of Doctor Moreau and Mexican Gothic comes a fabulous meld of Mexican horror movies and Nazi occultism: a dark thriller about the curse that haunts…</p>\n\n<img src=\"https://www.penguinrandomhouse.com/favicon.ico\" width=\"16\" height=\"16\" alt=\"\" /><span>PenguinRandomhouse.com</span>\n\n<p></p>\n<p><em>Tell Me I'm Worthless</em> is a sapphic (and transgender) horror book, with a HUGE plus that it's adult fiction, and not YA - nothing agains it, I absolutely loved Sawkill Girls, but it's just that most hyped sapphic horror seems to be all YA, so I'm glad for that! It's also short - only 259 pages!</p>\n<p></p>\n<h4><a href=\"https://tornightfire.com/catalog/tell-me-im-worthless-alison-rumfitt/\">Tell Me I’m Worthless - Tor Nightfire</a></h4>\n<img src=\"https://tornightfire.com/wp-content/uploads/2022/09/Tell-Me-Im-Worthless-666x1024.jpg\" width=\"666\" height=\"1024\" alt=\"\" /><p>Alison Rumfitt’s Tell Me I’m Worthless is a dark, unflinching haunted house story that confronts both supernatural and real-world horrors through the lens of the modern-day trans experience.</p>\n\n<img src=\"https://tornightfire.com/wp-content/uploads/2019/10/icon.png\" width=\"512\" height=\"512\" alt=\"\" /><span>Tor Nightfire</span>\n\n<p></p>\n<p><em>Episode Thirteen</em> is about ghost hunting, which is something that is always interesting.</p>\n<p></p>\n<h4><a href=\"https://www.publishersweekly.com/9780316443104\">Episode Thirteen by Craig Dilouie</a></h4>\n<img src=\"https://www.publishersweekly.com/cover/9780316443104\" width=\"333\" height=\"500\" alt=\"\" /><p>A classic horror plot—a team of ghostbusters investigates a house rumored to be haunted and finds more than they bargained for—i…</p>\n\n<img src=\"https://www.publishersweekly.com/marlin/images/logo-trans.png\" width=\"84\" height=\"84\" alt=\"\" /><span>publishersweekly.com</span>\n\n<p></p>\n<p><em>A House with Good Bones</em> is a southern-gothic. I don't remember reading any southern horror, so I guess it's nice to add to a \"maybe I'll read that\" list</p>\n<p></p>\n<h4><a href=\"https://tornightfire.com/catalog/a-house-with-good-bones-t-kingfisher/\">A House With Good Bones - Tor Nightfire</a></h4>\n<img src=\"https://tornightfire.com/wp-content/uploads/2022/09/a-house-with-good-bones-scaled.jpg\" width=\"1200\" height=\"1200\" alt=\"\" /><p>A contemporary Southern Gothic from award-winning master of modern horror T. Kingfisher, A House With Good Bones explores the deep, dark roots of family.</p>\n\n<img src=\"https://tornightfire.com/wp-content/uploads/2019/10/icon.png\" width=\"512\" height=\"512\" alt=\"\" /><span>Tor Nightfire</span>\n\n<p></p>\n<h2>Mystery <a href=\"https://geekosaur.com/post/2023-anticipated-books/#mystery\">#</a></h2>\n<p><em>Vera Wong's Unsolicited Advice for Murderers</em>: this title is basically my wife watching any crime drama or movie. Yeah, she is always pointing out how the assassin is screwing up when I'm watching Columbo, haha</p>\n<p></p>\n<h4><a href=\"https://www.penguinrandomhouse.com/books/707475/vera-wongs-unsolicited-advice-for-murderers-by-jesse-q-sutanto/\">Vera Wong’s Unsolicited Advice for Murderers by Jesse Q. Sutanto: 9780593546178 | PenguinRandomHouse.com: Books</a></h4>\n<img src=\"https://images3.penguinrandomhouse.com/cover/9780593546178\" width=\"290\" height=\"450\" alt=\"\" /><p>A lonely shopkeeper takes it upon herself to solve a murder in the most peculiar way in this captivating mystery by Jesse Q. Sutanto, bestselling author of Dial A for Aunties. Vera Wong is a lonely little…</p>\n\n<img src=\"https://www.penguinrandomhouse.com/favicon.ico\" width=\"16\" height=\"16\" alt=\"\" /><span>PenguinRandomhouse.com</span>\n\n<p></p>\n<p><em>Of Manners and Murder: A Dear Miss Hermione Mystery</em> is another cozy mystery, and this time, a historical mystery set in 1885 London. It sounds interesting, and blends two of my favorite mystery sub-genres, so it's a win in my book!</p>\n<p></p>\n<h4><a href=\"https://us.macmillan.com/books/9781250848567/ofmannersandmurder\">Of Manners and Murder</a></h4>\n<img src=\"https://mpd-biblio-covers.imgix.net/9781250848567.jpg\" width=\"1200\" height=\"1200\" alt=\"\" /><p>Of Manners and Murder is the first in the delightful new Dear Miss Hermione mystery series from Anastasia Hastings. “Evokes the shocking revelations of Wilki…</p>\n\n<img src=\"https://d3ialxc06lvqvq.cloudfront.net/wp-content/uploads/2021/09/07133421/cropped-mac-favicon-2.png\" width=\"512\" height=\"512\" alt=\"\" /><span>Macmillan</span>\n\n<p></p>\n<h2>Fantasy &amp; Sci-Fi <a href=\"https://geekosaur.com/post/2023-anticipated-books/#fantasy-and-sci-fi\">#</a></h2>\n<p><em>Immortal Longings</em>: I saw this one in one of Daniel Greene's video, where we showing the GORGEOUS cover.</p>\n<p>And even better: it's adult fantasy :). I saw that there's an Indigo Exclusive version listed on the author's website, but Indigo is partially offline now, so I can't see it :/</p>\n<p>The only sad thing is that the best cover is for the UK release, and not US-Canada. Whyyyyyy? I guess I'll have to import that one if I decide to get it in print.</p>\n<p></p>\n<h4><a href=\"https://www.hachette.co.uk/titles/chloe-gong/immortal-longings/9781399700429/\">Immortal Longings</a></h4>\n<img src=\"https://www.hachette.co.uk/wp-content/uploads/2023/01/hbg-title-9781399700429-3.jpg?fit=833%2C1250\" width=\"833\" height=\"1200\" alt=\"\" /><p>#1 New York Times bestselling author Chloe Gong’s adult epic fantasy debut, inspired by Shakespeare’s Antony and Cleopatra, is a fiery collision of power pla…</p>\n\n<img src=\"https://www.hachette.co.uk/wp-content/uploads/2020/02/cropped-Hachette-H-Transparent.png?fit=192%2C192\" width=\"192\" height=\"192\" alt=\"\" /><span>Hachette UK</span>\n\n<p></p>\n<p><em>The Archive Undying</em>: The premise reads: \"<em>War machines and AI gods run amok in <strong>The Archive Undying</strong></em>\". I guess I <em>had to</em> add it to my potential TBR?</p>\n<p></p>\n<h4><a href=\"https://us.macmillan.com/books/9781250821546/thearchiveundying\">The Archive Undying</a></h4>\n<img src=\"https://mpd-biblio-covers.imgix.net/9781250821546.jpg\" width=\"1200\" height=\"1200\" alt=\"\" /><p>War machines and AI gods run amok in The Archive Undying, national bestseller Emma Mieko Candon’s bold entry into the world of mecha fiction.WHEN AN AI DIES,…</p>\n\n<img src=\"https://d3ialxc06lvqvq.cloudfront.net/wp-content/uploads/2021/09/07133421/cropped-mac-favicon-2.png\" width=\"512\" height=\"512\" alt=\"\" /><span>Macmillan</span>\n\n<p></p>\n<a href=\"https://brid.gy/publish/mastodon\"></a>\n<p class=\"p-bridgy-mastodon-content\">A couple weeks ago I posted some anticipated YA book releases for 2023. Now I'm back with a few more genres. Yeah, I know it's LATE for this kind of list, but here I'm anyway. #Books #Lists</p>\n<a href=\"https://brid.gy/publish/twitter\"></a>\n<p class=\"p-bridgy-twitter-content\">A couple weeks ago I posted some anticipated YA book releases for 2023. Now I'm back with a few more genres. Yeah, I know it's LATE for this kind of list, but here I'm anyway.</p>",
+        "text": "A couple weeks ago I posted some anticipated YA book releases for 2023. Now I'm back with a few more genres. Yeah, I know it's LATE for this kind of list, but here I'm anyway.\nAll books come from the following Goodreads lists:\nHorror Novels\nMysteries\nFantasy & Sci-Fi\nHorror #\nWe have two Silvia Moreno-Garcia book releases. They are kind of an instant TBR add. The first one, Our Share of Night, is a queer novel about vampires, and the one I'm most excited for. Silver Nitrate is a historical magical-realism story about making an horror movie.\nOur share of night is actually already released, BUT that's just because I'm late to this list, so I'll cheat?\n\nOur Share of Night by Mariana Enriquez\nEnriquez (The Dangers of Smoking in Bed) twines sinister flights of occult imagination through the harsh realities of history in…\n\npublishersweekly.com\n\n\n\nSilver Nitrate by Silvia Moreno-Garcia: 9780593355367 | PenguinRandomHouse.com: Books\nFrom the New York Times bestselling author of The Daughter of Doctor Moreau and Mexican Gothic comes a fabulous meld of Mexican horror movies and Nazi occultism: a dark thriller about the curse that haunts…\n\nPenguinRandomhouse.com\n\n\nTell Me I'm Worthless is a sapphic (and transgender) horror book, with a HUGE plus that it's adult fiction, and not YA - nothing agains it, I absolutely loved Sawkill Girls, but it's just that most hyped sapphic horror seems to be all YA, so I'm glad for that! It's also short - only 259 pages!\n\nTell Me I’m Worthless - Tor Nightfire\nAlison Rumfitt’s Tell Me I’m Worthless is a dark, unflinching haunted house story that confronts both supernatural and real-world horrors through the lens of the modern-day trans experience.\n\nTor Nightfire\n\n\nEpisode Thirteen is about ghost hunting, which is something that is always interesting.\n\nEpisode Thirteen by Craig Dilouie\nA classic horror plot—a team of ghostbusters investigates a house rumored to be haunted and finds more than they bargained for—i…\n\npublishersweekly.com\n\n\nA House with Good Bones is a southern-gothic. I don't remember reading any southern horror, so I guess it's nice to add to a \"maybe I'll read that\" list\n\nA House With Good Bones - Tor Nightfire\nA contemporary Southern Gothic from award-winning master of modern horror T. Kingfisher, A House With Good Bones explores the deep, dark roots of family.\n\nTor Nightfire\n\n\nMystery #\nVera Wong's Unsolicited Advice for Murderers: this title is basically my wife watching any crime drama or movie. Yeah, she is always pointing out how the assassin is screwing up when I'm watching Columbo, haha\n\nVera Wong’s Unsolicited Advice for Murderers by Jesse Q. Sutanto: 9780593546178 | PenguinRandomHouse.com: Books\nA lonely shopkeeper takes it upon herself to solve a murder in the most peculiar way in this captivating mystery by Jesse Q. Sutanto, bestselling author of Dial A for Aunties. Vera Wong is a lonely little…\n\nPenguinRandomhouse.com\n\n\nOf Manners and Murder: A Dear Miss Hermione Mystery is another cozy mystery, and this time, a historical mystery set in 1885 London. It sounds interesting, and blends two of my favorite mystery sub-genres, so it's a win in my book!\n\nOf Manners and Murder\nOf Manners and Murder is the first in the delightful new Dear Miss Hermione mystery series from Anastasia Hastings. “Evokes the shocking revelations of Wilki…\n\nMacmillan\n\n\nFantasy & Sci-Fi #\nImmortal Longings: I saw this one in one of Daniel Greene's video, where we showing the GORGEOUS cover.\nAnd even better: it's adult fantasy :). I saw that there's an Indigo Exclusive version listed on the author's website, but Indigo is partially offline now, so I can't see it :/\nThe only sad thing is that the best cover is for the UK release, and not US-Canada. Whyyyyyy? I guess I'll have to import that one if I decide to get it in print.\n\nImmortal Longings\n#1 New York Times bestselling author Chloe Gong’s adult epic fantasy debut, inspired by Shakespeare’s Antony and Cleopatra, is a fiery collision of power pla…\n\nHachette UK\n\n\nThe Archive Undying: The premise reads: \"War machines and AI gods run amok in The Archive Undying\". I guess I had to add it to my potential TBR?\n\nThe Archive Undying\nWar machines and AI gods run amok in The Archive Undying, national bestseller Emma Mieko Candon’s bold entry into the world of mecha fiction.WHEN AN AI DIES,…\n\nMacmillan\n\n\n\nA couple weeks ago I posted some anticipated YA book releases for 2023. Now I'm back with a few more genres. Yeah, I know it's LATE for this kind of list, but here I'm anyway. #Books #Lists\n\nA couple weeks ago I posted some anticipated YA book releases for 2023. Now I'm back with a few more genres. Yeah, I know it's LATE for this kind of list, but here I'm anyway."
+      },
+      "mention-of": "https://geekosaur.com/post/2023-anticipated-books-ya/",
+      "wm-property": "mention-of",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://geekosaur.com/post/2023-anticipated-books/"
+      }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Ari S🏳️‍🌈🧑🏼‍🌾",
+        "photo": "https://webmention.io/avatar/a.mindlycdn.click/7eb55cf6f83926b1b26eddb58823faba91db8b03d0f510839c727824d2a715b0.png",
+        "url": "https://mstdn.social/@arisummerland"
+      },
+      "url": "https://mindly.social/@falcon/109916601136217834#favorited-by-109530387796804390",
+      "published": null,
+      "wm-received": "2023-02-23T23:24:39Z",
+      "wm-id": 1629154,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109916601136217834/109530387796804390",
+      "wm-target": "https://geekosaur.com/currentlyReading/",
+      "like-of": "https://geekosaur.com/currentlyReading/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Carmela",
+        "photo": "https://webmention.io/avatar/a.mindlycdn.click/080f1d44158c9851a58090deb858e92bcd729f8f12db8956bad531cacf6f4510.png",
+        "url": "https://mstdn.social/@DocCarms"
+      },
+      "url": "https://mindly.social/@falcon/109916601136217834#favorited-by-109291730119195040",
+      "published": null,
+      "wm-received": "2023-02-23T23:24:11Z",
+      "wm-id": 1629153,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109916601136217834/109291730119195040",
+      "wm-target": "https://geekosaur.com/currentlyReading/",
+      "like-of": "https://geekosaur.com/currentlyReading/",
+      "wm-property": "like-of",
+      "wm-private": false
     }
   ]
 }
