@@ -39,9 +39,11 @@
             "id": "cdb6bbf0b77d6c49",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.15"
+                "file": "currentlyReading/currentlyReading.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2023/2023-anticipated-books.md",
+                "file": "currentlyReading/currentlyReading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2023/2023-anticipated-books.md",
+                "file": "currentlyReading/currentlyReading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2023/2023-anticipated-books.md"
+                "file": "currentlyReading/currentlyReading.md"
               }
             }
           }
@@ -175,6 +177,11 @@
   },
   "active": "cdb6bbf0b77d6c49",
   "lastOpenFiles": [
+    "currentlyReading/currentlyReading.md",
+    "currentlyReading/index.md",
+    "currentlyReading",
+    "about copy/index.md",
+    "about copy",
     "notes/0b58c86a-cb14-4800-8dc2-ef7bbff64d00.md",
     "posts/2023/2023-anticipated-books.md",
     "templates/note_template.md",

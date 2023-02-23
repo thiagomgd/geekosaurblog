@@ -6,7 +6,7 @@ tags:
 socialTags:
 - Books
 - Kobo
-- Zootopia2
+- Zootopia
 description: 'Back again to talk about random things and some personal updates!'
 title: 'Geekosaur News 27: Kobo, Movie News, Book Recs'
 thumbnail: /img/geekosaur-news-27.png
