@@ -13,6 +13,8 @@ Current:
 - How To by Randall Munrow ([link](https://xkcd.com/how-to/))
 
 Next:
+- She is a Haunting by Trang Thanh Tran ([link](https://trangthanhtran.com/book/she-is-a-haunting/))
+	- Releases digitally on Feb. 28th
 - Immortality: A Love Story (Anatomy #2) by Dana Schwartz ([link](https://dana-schwartz.com/books/immortality-a-love-story/))
 	- Waiting to receive physical copy: March 7th
 - Stellarlune (Keeper of the Lost Cities #9) by Shannon Messenger ([link](https://www.simonandschuster.com/series/Keeper-of-the-Lost-Cities))
@@ -69,7 +71,6 @@ Manga I'm reading by chapters, mostly on Shonen Jump (except for Fire Force). In
 	- The anime didn't catch my attention, I think I don't even finished the first episode. But I wonder if I should give the manga a try
 
 ### Paused / On Hold
-
 
 - Would probably need to restart from zero:
 	- Sailor Moon
