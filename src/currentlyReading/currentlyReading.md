@@ -59,9 +59,26 @@ Manga I'm reading by chapters, mostly on Shonen Jump (except for Fire Force). In
 	- Anime was fun, BUT will probably end up just waiting for season 2 instead
 - Ayakashi Triangle
 	- Interested in the anime too, but haven't been watching anime recently
+- Kubo Won't Let Me Be Invisible
+	- Also not sure if I watch or read this one
 - Grand Blue
 	- Read first few chapters a loooooong time ago
 - My Hero Academia
 	- Since manga is ending, wanted to maybe read it along as it releases. Watched only a couple episodes of the current season, and stopped watching any anime at the moment
 - Kaguya-sama: Love Is War
 	- The anime didn't catch my attention, I think I don't even finished the first episode. But I wonder if I should give the manga a try
+
+### Paused / On Hold
+
+
+- Would probably need to restart from zero:
+	- Sailor Moon
+	- Video Girl Ai
+	- Card Captor Sakura: Clear Card Arc
+- Bungo Stray Dogs
+- New Game
+- We Never Learn
+- Air Gear
+- Oh! My Goddess
+- Yuuna And The Haunted Hot Springs
+- 

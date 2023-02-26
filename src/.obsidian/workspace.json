@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "cdb6bbf0b77d6c49",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "currentlyReading/currentlyReading.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "ea010ccc26c903b4",
             "type": "leaf",
             "pinned": true,
@@ -36,20 +50,6 @@
             }
           },
           {
-            "id": "cdb6bbf0b77d6c49",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "currentlyReading/currentlyReading.md",
-                "mode": "source",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "6d16d889df9b8b75",
             "type": "leaf",
             "state": {
@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/2023-02-25-05-22.md",
+                "file": "currentlyReading/currentlyReading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/2023-02-25-05-22.md",
+                "file": "currentlyReading/currentlyReading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/2023-02-25-05-22.md"
+                "file": "currentlyReading/currentlyReading.md"
               }
             }
           }
@@ -189,10 +188,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d16d889df9b8b75",
+  "active": "cdb6bbf0b77d6c49",
   "lastOpenFiles": [
-    "currentlyReading/currentlyReading.md",
     "notes/2023-02-25-05-22.md",
+    "currentlyReading/currentlyReading.md",
     "posts/2023/2023-anticipated-books.md",
     "currentlyReading/index.md",
     "currentlyReading",

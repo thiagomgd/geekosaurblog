@@ -324,6 +324,15 @@
         "author": "Alison Rumfitt"
     },
     {
+        "title": "Sweep of Stars",
+        "price": 14.99,
+        "cover": "https://kbimages1-a.akamaihd.net/a78ce689-ef98-4c81-947f-8de75931356d/353/569/90/False/sweep-of-stars.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/sweep-of-stars",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Maurice Broaddus"
+    },
+    {
         "title": "Until the End of Time",
         "price": 14.99,
         "cover": "https://kbimages1-a.akamaihd.net/fa067559-ab6e-4765-ae75-f50981575c35/353/569/90/False/until-the-end-of-time-20.jpg",
@@ -376,15 +385,6 @@
         "preorder": "Available Jul 18, 2023",
         "isPlus": false,
         "author": "Silvia Moreno-Garcia"
-    },
-    {
-        "title": "Sweep of Stars",
-        "price": 16.99,
-        "cover": "https://kbimages1-a.akamaihd.net/61220694-7bd8-453f-93c5-c0ebce1fb14d/353/569/90/False/sweep-of-stars.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/sweep-of-stars",
-        "preorder": "",
-        "isPlus": false,
-        "author": "Maurice Broaddus"
     },
     {
         "title": "Our Share of Night",
