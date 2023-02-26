@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-02-26T01:35:46.606Z",
+  "lastFetched": "2023-02-26T01:57:35.496Z",
   "children": [
     {
       "type": "entry",
@@ -7404,6 +7404,32 @@
       "like-of": "https://geekosaur.com/currentlyReading/",
       "wm-property": "like-of",
       "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "",
+        "url": ""
+      },
+      "url": "https://geekosaur.com/note/05-22/",
+      "published": null,
+      "wm-received": "2023-02-26T01:56:35Z",
+      "wm-id": 1630551,
+      "wm-source": "https://geekosaur.com/note/05-22/",
+      "wm-target": "https://geekosaur.com/currentlyReading/",
+      "name": "Reading Manga, Wanting More",
+      "content": {
+        "html": "<p>After catching up with Black Clover, I'm back to reading Ranma 1/2. Read a couple of the double volumes, and already started another one. Have also been checking the Manga Plus app to see what else is there.</p>\n<p>Yeah, I know, shouldn't be doing that considering how many I'm already \"currently reading\", or already have in my list. But, if anyone has a suggestion of a manga that's on Manga Plus and NOT on Shonen Jump app, let me know :)</p>\n<p>Also, updated my <a href=\"https://geekosaur.com/currentlyReading/\">currently reading page</a> with a few manga I'm interested in maybe starting later this year:</p>\n<ul><li>My Monster Secret / Jitsu wa Watashi wa\n<ul><li>Watched the anime years ago and it was fun. Wanna see the whole story</li>\n</ul></li>\n<li>Call Of The Night\n<ul><li>Anime was fun, BUT will probably end up just waiting for season 2 instead</li>\n</ul></li>\n<li>Ayakashi Triangle\n<ul><li>Interested in the anime too, but haven't been watching anime recently</li>\n</ul></li>\n<li>Grand Blue\n<ul><li>Read first few chapters a loooooong time ago</li>\n</ul></li>\n<li>My Hero Academia\n<ul><li>Since manga is ending, wanted to maybe read it along as it releases. Watched only a couple episodes of the current season, and stopped watching any anime at the moment</li>\n</ul></li>\n<li>Kaguya-sama: Love Is War\n<ul><li>The anime didn't catch my attention, I think I don't even finished the first episode. But I wonder if I should give the manga a try</li>\n</ul></li>\n</ul><a class=\"u-in-reply-to\" href=\"https://geekosaur.com/currentlyReading/\"></a>\n<a href=\"https://brid.gy/publish/mastodon\"></a>\n<p class=\"p-bridgy-mastodon-content\">&lt;p&gt;After catching up with Black Clover, I'm back to reading Ranma 1/2. Read a couple of the double volumes, and already started another one. Have also been checking the Manga Plus app to see what else is there.&lt;/p&gt;\n&lt;p&gt;Yeah, I know, shouldn't be doing that considering how many I'm already &amp;quot;currently reading&amp;quot;, or already have in my list. But, if anyone has a suggestion of a manga that's on Manga Plus and NOT on Shonen Jump... #Reading #Manga</p>\n<a href=\"https://brid.gy/publish/twitter\"></a>",
+        "text": "After catching up with Black Clover, I'm back to reading Ranma 1/2. Read a couple of the double volumes, and already started another one. Have also been checking the Manga Plus app to see what else is there.\nYeah, I know, shouldn't be doing that considering how many I'm already \"currently reading\", or already have in my list. But, if anyone has a suggestion of a manga that's on Manga Plus and NOT on Shonen Jump app, let me know :)\nAlso, updated my currently reading page with a few manga I'm interested in maybe starting later this year:\nMy Monster Secret / Jitsu wa Watashi wa\nWatched the anime years ago and it was fun. Wanna see the whole story\n\nCall Of The Night\nAnime was fun, BUT will probably end up just waiting for season 2 instead\n\nAyakashi Triangle\nInterested in the anime too, but haven't been watching anime recently\n\nGrand Blue\nRead first few chapters a loooooong time ago\n\nMy Hero Academia\nSince manga is ending, wanted to maybe read it along as it releases. Watched only a couple episodes of the current season, and stopped watching any anime at the moment\n\nKaguya-sama: Love Is War\nThe anime didn't catch my attention, I think I don't even finished the first episode. But I wonder if I should give the manga a try\n\n\n\n<p>After catching up with Black Clover, I'm back to reading Ranma 1/2. Read a couple of the double volumes, and already started another one. Have also been checking the Manga Plus app to see what else is there.</p>\n<p>Yeah, I know, shouldn't be doing that considering how many I'm already &quot;currently reading&quot;, or already have in my list. But, if anyone has a suggestion of a manga that's on Manga Plus and NOT on Shonen Jump... #Reading #Manga"
+      },
+      "in-reply-to": "https://geekosaur.com/currentlyReading/",
+      "wm-property": "in-reply-to",
+      "wm-private": false,
+      "rels": {
+        "canonical": "https://geekosaur.com/note/05-22/"
+      }
     }
   ]
 }
