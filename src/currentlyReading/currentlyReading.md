@@ -10,11 +10,11 @@ eleventyNavigation:
 ## Books
 
 Current:
-- The Anthropocene Reviewed by John Green ([link](https://www.johngreenbooks.com/the-anthropocene-reviewed-book))
+- How To by Randall Munrow ([link](https://xkcd.com/how-to/))
 
 Next:
-- The Poisoner's Ring (A Rip Through Time #2) by Kelley Armstrong ([link](https://www.kelleyarmstrong.com/book/the-poisoners-ring/))
-	- Waiting to receive physical copy
+- Immortality: A Love Story (Anatomy #2) by Dana Schwartz ([link](https://dana-schwartz.com/books/immortality-a-love-story/))
+	- Waiting to receive physical copy: March 7th
 - Stellarlune (Keeper of the Lost Cities #9) by Shannon Messenger ([link](https://www.simonandschuster.com/series/Keeper-of-the-Lost-Cities))
 
 ## Manga
@@ -35,7 +35,7 @@ Indicating next volume to read:
 
 - Delicious in Dungeon: [Volume 11](https://yenpress.com/9781975346720/delicious-in-dungeon-vol-11/)
 - Miss Kobayashi’s Dragon Maid: [Volume 12](https://sevenseasentertainment.com/series/miss-kobayashis-dragon-maid/)
-- Ranma 1/2: [Volume 7 (Vol. 13 and 14)](https://www.viz.com/ranma-1-2) - it's a double-volume series.
+- Ranma 1/2: [Volume 8 (Vol. 15 and 16)](https://www.viz.com/ranma-1-2) - it's a double-volume series.
 - Don't Toy With Me, Miss Nagatoro: [Volume 4](https://kodansha.us/series/dont-toy-with-me-miss-nagatoro/)
 
 ### Chapter Manga
@@ -50,3 +50,18 @@ Manga I'm reading by chapters, mostly on Shonen Jump (except for Fire Force). In
 - Kaiju No. 8: 54
 - Fire Force: 273 (of 305)
 - Ruri Dragon: 4 (is on hiatus)
+
+### Want To Start
+
+- My Monster Secret / Jitsu wa Watashi wa
+	- Watched the anime years ago and it was fun. Wanna see the whole story
+- Call Of The Night
+	- Anime was fun, BUT will probably end up just waiting for season 2 instead
+- Ayakashi Triangle
+	- Interested in the anime too, but haven't been watching anime recently
+- Grand Blue
+	- Read first few chapters a loooooong time ago
+- My Hero Academia
+	- Since manga is ending, wanted to maybe read it along as it releases. Watched only a couple episodes of the current season, and stopped watching any anime at the moment
+- Kaguya-sama: Love Is War
+	- The anime didn't catch my attention, I think I don't even finished the first episode. But I wonder if I should give the manga a try

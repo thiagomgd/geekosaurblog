@@ -38,17 +38,31 @@
           {
             "id": "cdb6bbf0b77d6c49",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "currentlyReading/currentlyReading.md",
                 "mode": "source",
                 "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6d16d889df9b8b75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/2023-02-25-05-22.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "currentlyReading/currentlyReading.md",
+                "file": "notes/2023-02-25-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "currentlyReading/currentlyReading.md",
+                "file": "notes/2023-02-25-05-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "currentlyReading/currentlyReading.md"
+                "file": "notes/2023-02-25-05-22.md"
               }
             }
           }
@@ -175,15 +189,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdb6bbf0b77d6c49",
+  "active": "6d16d889df9b8b75",
   "lastOpenFiles": [
     "currentlyReading/currentlyReading.md",
+    "notes/2023-02-25-05-22.md",
+    "posts/2023/2023-anticipated-books.md",
     "currentlyReading/index.md",
     "currentlyReading",
     "about copy/index.md",
     "about copy",
     "notes/0b58c86a-cb14-4800-8dc2-ef7bbff64d00.md",
-    "posts/2023/2023-anticipated-books.md",
     "templates/note_template.md",
     "notes/2023-02-12-02-44.md",
     "posts/2023/2023-anticipated-books-ya.md",

@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-02-23T23:25:21.997Z",
+  "lastFetched": "2023-02-26T01:35:46.606Z",
   "children": [
     {
       "type": "entry",
@@ -7364,6 +7364,42 @@
       "wm-received": "2023-02-23T23:24:11Z",
       "wm-id": 1629153,
       "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109916601136217834/109291730119195040",
+      "wm-target": "https://geekosaur.com/currentlyReading/",
+      "like-of": "https://geekosaur.com/currentlyReading/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Kay",
+        "photo": "https://webmention.io/avatar/pbs.twimg.com/f6b7f0bf7e8111c0bf70de717cd48b555d2e57331b9fb824b01e3873cdd2f7d4.jpg",
+        "url": "https://twitter.com/kaychain_"
+      },
+      "url": "https://twitter.com/geeko_saur/status/1628898291743072256#favorited-by-1307173167564075008",
+      "published": null,
+      "wm-received": "2023-02-25T02:18:05Z",
+      "wm-id": 1629913,
+      "wm-source": "https://brid.gy/like/twitter/geeko_saur/1628898291743072256/1307173167564075008",
+      "wm-target": "https://geekosaur.com/currentlyReading/",
+      "like-of": "https://geekosaur.com/currentlyReading/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "𝖂𝖗𝖆𝖙𝖍",
+        "photo": "https://webmention.io/avatar/a.mindlycdn.click/b3f3266da47124ab20f3d1fdbaff0fe3d5783cd9fb037b81c6899eec19a9b72a.png",
+        "url": "https://urusai.social/@wrath"
+      },
+      "url": "https://mindly.social/@falcon/109916601136217834#favorited-by-109837130100310243",
+      "published": null,
+      "wm-received": "2023-02-24T00:53:37Z",
+      "wm-id": 1629188,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109916601136217834/109837130100310243",
       "wm-target": "https://geekosaur.com/currentlyReading/",
       "like-of": "https://geekosaur.com/currentlyReading/",
       "wm-property": "like-of",
