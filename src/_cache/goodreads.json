@@ -17,7 +17,7 @@
         "dateAddedGR": "2023-02-25",
         "bookshelves": "owned-prob-not",
         "status": "owned-prob-not",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647551429i/60588456.jpg",
         "goodreadsId": 60588456,
         "goodreadsLink": "https://www.goodreads.com/book/show/60588456",
         "type": null
@@ -40,11 +40,12 @@
         "dateAddedGR": "2023-02-25",
         "bookshelves": "manga",
         "status": "finished",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415677271i/22609108.jpg",
         "goodreadsId": 22609108,
         "goodreadsLink": "https://www.goodreads.com/book/show/22609108",
         "type": "manga",
-        "yearRead": 2023
+        "yearRead": 2023,
+        "series": "Ranma \u00bd: 2-in-1 Edition"
     },
     "21412163": {
         "title": "Ranma 1/2 (2-in-1 Edition), Vol. 6: Includes Volumes 11 & 12",
@@ -64,7 +65,7 @@
         "dateAddedGR": "2023-02-20",
         "bookshelves": "currently-reading",
         "status": "finished",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1407719452i/21412163.jpg",
         "goodreadsId": 21412163,
         "goodreadsLink": "https://www.goodreads.com/book/show/21412163",
         "series": "Ranma \u00bd: 2-in-1 Edition",
@@ -284,7 +285,7 @@
         "dateAddedGR": "2023-01-21",
         "bookshelves": "tbr-owned",
         "status": "tbr/notOwned",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601062248i/55454042.jpg",
         "goodreadsId": 55454042,
         "goodreadsLink": "https://www.goodreads.com/book/show/55454042",
         "type": "book"
@@ -307,7 +308,7 @@
         "dateAddedGR": "2023-01-24",
         "bookshelves": "next",
         "status": "finished",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594228033i/51481198.jpg",
         "goodreadsId": 51481198,
         "goodreadsLink": "https://www.goodreads.com/book/show/51481198",
         "series": "Keeper of the Lost Cities",
@@ -332,10 +333,10 @@
         "dateAddedGR": "2023-01-15",
         "bookshelves": "",
         "status": "finished",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1672504936i/74824302.jpg",
         "goodreadsId": 74824302,
         "goodreadsLink": "https://www.goodreads.com/book/show/74824302",
-        "series": "\u30c0\u30f3\u30c0\u30c0\u30f3 [Dan Da Dan]",
+        "series": "DanDaDan",
         "type": "manga",
         "yearRead": 2023
     },
@@ -360,7 +361,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664893562l/62878811._SY475_.jpg",
         "goodreadsId": 62878811,
         "goodreadsLink": "https://www.goodreads.com/book/show/62878811",
-        "series": "\u30c0\u30f3\u30c0\u30c0\u30f3 [DanDaDan]",
+        "series": "DanDaDan",
         "numberInSeries": 1,
         "genres": [
             "Sequential Art",
@@ -1155,7 +1156,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519762179l/36681427._SY475_.jpg",
         "goodreadsId": 36681427,
         "goodreadsLink": "https://www.goodreads.com/book/show/36681427",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 15,
         "genres": [
             "Sequential Art",
@@ -1195,7 +1196,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512006352l/36324907._SY475_.jpg",
         "goodreadsId": 36324907,
         "goodreadsLink": "https://www.goodreads.com/book/show/36324907",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 14,
         "genres": [
             "Sequential Art",
@@ -1234,7 +1235,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506622722l/35835266._SY475_.jpg",
         "goodreadsId": 35835266,
         "goodreadsLink": "https://www.goodreads.com/book/show/35835266",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 13,
         "genres": [
             "Sequential Art",
@@ -1274,7 +1275,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501612326l/35012625._SY475_.jpg",
         "goodreadsId": 35012625,
         "goodreadsLink": "https://www.goodreads.com/book/show/35012625",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 12,
         "genres": [
             "Sequential Art",
@@ -1314,7 +1315,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493492247l/34506353._SY475_.jpg",
         "goodreadsId": 34506353,
         "goodreadsLink": "https://www.goodreads.com/book/show/34506353",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 11,
         "genres": [
             "Sequential Art",
@@ -1354,7 +1355,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488926944l/34350668._SY475_.jpg",
         "goodreadsId": 34350668,
         "goodreadsLink": "https://www.goodreads.com/book/show/34350668",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 10,
         "genres": [
             "Sequential Art",
@@ -1395,7 +1396,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487599572l/34350656._SY475_.jpg",
         "goodreadsId": 34350656,
         "goodreadsLink": "https://www.goodreads.com/book/show/34350656",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 9,
         "genres": [
             "Sequential Art",
@@ -1436,7 +1437,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477074960l/32720966._SY475_.jpg",
         "goodreadsId": 32720966,
         "goodreadsLink": "https://www.goodreads.com/book/show/32720966",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 8,
         "genres": [
             "Sequential Art",
@@ -1477,7 +1478,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488928302l/30837350._SY475_.jpg",
         "goodreadsId": 30837350,
         "goodreadsLink": "https://www.goodreads.com/book/show/30837350",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 7,
         "genres": [
             "Sequential Art",
@@ -1517,7 +1518,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488928188l/30837339._SY475_.jpg",
         "goodreadsId": 30837339,
         "goodreadsLink": "https://www.goodreads.com/book/show/30837339",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 6,
         "genres": [
             "Sequential Art",
@@ -1557,7 +1558,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488927499l/30837318._SY475_.jpg",
         "goodreadsId": 30837318,
         "goodreadsLink": "https://www.goodreads.com/book/show/30837318",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 5,
         "genres": [
             "Sequential Art",
@@ -1597,7 +1598,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449163261l/28093694._SY475_.jpg",
         "goodreadsId": 28093694,
         "goodreadsLink": "https://www.goodreads.com/book/show/28093694",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 4,
         "genres": [
             "Sequential Art",
@@ -1638,7 +1639,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444858209l/27205070._SY475_.jpg",
         "goodreadsId": 27205070,
         "goodreadsLink": "https://www.goodreads.com/book/show/27205070",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 3,
         "genres": [
             "Sequential Art",
@@ -1678,7 +1679,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488927916l/26062248._SY475_.jpg",
         "goodreadsId": 26062248,
         "goodreadsLink": "https://www.goodreads.com/book/show/26062248",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 2,
         "genres": [
             "Sequential Art",
@@ -1718,7 +1719,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433111097l/25482504._SY475_.jpg",
         "goodreadsId": 25482504,
         "goodreadsLink": "https://www.goodreads.com/book/show/25482504",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 1,
         "genres": [
             "Sequential Art",
@@ -1757,7 +1758,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524766058l/38821408._SY475_.jpg",
         "goodreadsId": 38821408,
         "goodreadsLink": "https://www.goodreads.com/book/show/38821408",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 16,
         "genres": [
             "Sequential Art",
@@ -1797,7 +1798,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533150142l/39965429._SY475_.jpg",
         "goodreadsId": 39965429,
         "goodreadsLink": "https://www.goodreads.com/book/show/39965429",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 17,
         "genres": [
             "Sequential Art",
@@ -1837,7 +1838,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540924688l/41005068._SY475_.jpg",
         "goodreadsId": 41005068,
         "goodreadsLink": "https://www.goodreads.com/book/show/41005068",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 18,
         "genres": [
             "Sequential Art",
@@ -1877,7 +1878,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546122041l/42440536._SY475_.jpg",
         "goodreadsId": 42440536,
         "goodreadsLink": "https://www.goodreads.com/book/show/42440536",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 19,
         "genres": [
             "Sequential Art",
@@ -1916,7 +1917,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554160393l/43359703._SY475_.jpg",
         "goodreadsId": 43359703,
         "goodreadsLink": "https://www.goodreads.com/book/show/43359703",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 20,
         "genres": [
             "Sequential Art",
@@ -1954,7 +1955,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562084773l/44652793._SY475_.jpg",
         "goodreadsId": 44652793,
         "goodreadsLink": "https://www.goodreads.com/book/show/44652793",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 21,
         "genres": [
             "Sequential Art",
@@ -1992,7 +1993,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570032832l/51019783._SX318_SY475_.jpg",
         "goodreadsId": 51019783,
         "goodreadsLink": "https://www.goodreads.com/book/show/51019783",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 22,
         "genres": [
             "Sequential Art",
@@ -2030,7 +2031,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577293511l/52086460._SX318_SY475_.jpg",
         "goodreadsId": 52086460,
         "goodreadsLink": "https://www.goodreads.com/book/show/52086460",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "numberInSeries": 23,
         "genres": [
             "Sequential Art",
@@ -2066,10 +2067,10 @@
         "dateAddedGR": "2023-01-24",
         "bookshelves": "",
         "status": "finished",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609805076i/56557097.jpg",
         "goodreadsId": 56557097,
         "goodreadsLink": "https://www.goodreads.com/book/show/56557097",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "type": "manga"
     },
     "57938917": {
@@ -2090,10 +2091,10 @@
         "dateAddedGR": "2023-01-24",
         "bookshelves": "",
         "status": "finished",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620083148i/57938917.jpg",
         "goodreadsId": 57938917,
         "goodreadsLink": "https://www.goodreads.com/book/show/57938917",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "type": "manga"
     },
     "58664201": {
@@ -2114,10 +2115,10 @@
         "dateAddedGR": "2023-01-24",
         "bookshelves": "",
         "status": "finished",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1627681337i/58664201.jpg",
         "goodreadsId": 58664201,
         "goodreadsLink": "https://www.goodreads.com/book/show/58664201",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "type": "manga"
     },
     "59522033": {
@@ -2138,10 +2139,10 @@
         "dateAddedGR": "2023-01-29",
         "bookshelves": "",
         "status": "finished",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635871414i/59522033.jpg",
         "goodreadsId": 59522033,
         "goodreadsLink": "https://www.goodreads.com/book/show/59522033",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "type": "manga",
         "yearRead": 2023
     },
@@ -2163,10 +2164,10 @@
         "dateAddedGR": "2023-01-29",
         "bookshelves": "",
         "status": "finished",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638020039i/59709176.jpg",
         "goodreadsId": 59709176,
         "goodreadsLink": "https://www.goodreads.com/book/show/59709176",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "type": "manga",
         "yearRead": 2023
     },
@@ -2188,10 +2189,10 @@
         "dateAddedGR": "2023-01-29",
         "bookshelves": "",
         "status": "finished",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638263162i/59728301.jpg",
         "goodreadsId": 59728301,
         "goodreadsLink": "https://www.goodreads.com/book/show/59728301",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "type": "manga",
         "yearRead": 2023
     },
@@ -2213,7 +2214,7 @@
         "dateAddedGR": "2023-02-20",
         "bookshelves": "tbr-owned",
         "status": "tbr/owned",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1334694138i/13606237.jpg",
         "goodreadsId": 13606237,
         "goodreadsLink": "https://www.goodreads.com/book/show/13606237",
         "series": "Liebermann Papers",
@@ -2237,7 +2238,7 @@
         "dateAddedGR": "2023-02-20",
         "bookshelves": "owned-prob-not",
         "status": "owned-prob-not",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1514096918i/36136118.jpg",
         "goodreadsId": 36136118,
         "goodreadsLink": "https://www.goodreads.com/book/show/36136118",
         "series": "Space Opera",
@@ -2299,7 +2300,7 @@
         "dateAddedGR": "2022-03-11",
         "bookshelves": "tbr-not-owned",
         "status": "tbr/notOwned",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633437192i/58659343.jpg",
         "goodreadsId": 58659343,
         "goodreadsLink": "https://www.goodreads.com/book/show/58659343",
         "type": "book"
@@ -2322,7 +2323,7 @@
         "dateAddedGR": "2023-02-17",
         "bookshelves": "tbr-not-owned",
         "status": "tbr/notOwned",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664915220i/60784414.jpg",
         "goodreadsId": 60784414,
         "goodreadsLink": "https://www.goodreads.com/book/show/60784414",
         "type": "book"
@@ -2345,10 +2346,10 @@
         "dateAddedGR": "2023-02-11",
         "bookshelves": "manga",
         "status": "finished",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667144866i/61273641.jpg",
         "goodreadsId": 61273641,
         "goodreadsLink": "https://www.goodreads.com/book/show/61273641",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "type": "manga"
     },
     "60321375": {
@@ -2369,10 +2370,10 @@
         "dateAddedGR": "2023-02-11",
         "bookshelves": "manga",
         "status": "finished",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660147877i/60321375.jpg",
         "goodreadsId": 60321375,
         "goodreadsLink": "https://www.goodreads.com/book/show/60321375",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "type": "manga"
     },
     "60321334": {
@@ -2393,10 +2394,10 @@
         "dateAddedGR": "2023-02-11",
         "bookshelves": "manga",
         "status": "finished",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1648408738i/60321334.jpg",
         "goodreadsId": 60321334,
         "goodreadsLink": "https://www.goodreads.com/book/show/60321334",
-        "series": "\u30d6\u30e9\u30c3\u30af\u30af\u30ed\u30fc\u30d0\u30fc [Black Clover]",
+        "series": "Black Clover",
         "type": "manga"
     },
     "57299975": {
@@ -2417,7 +2418,7 @@
         "dateAddedGR": "2023-02-11",
         "bookshelves": "owned-maybe",
         "status": "maybe",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614795135i/57299975.jpg",
         "goodreadsId": 57299975,
         "goodreadsLink": "https://www.goodreads.com/book/show/57299975",
         "series": "Bubbles In Space",
@@ -2441,7 +2442,7 @@
         "dateAddedGR": "2022-01-15",
         "bookshelves": "tbr-not-owned",
         "status": "tbr/notOwned",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614009640i/53962017.jpg",
         "goodreadsId": 53962017,
         "goodreadsLink": "https://www.goodreads.com/book/show/53962017",
         "series": "Requiem Dark",
@@ -2539,7 +2540,7 @@
         "dateAddedGR": "2023-02-06",
         "bookshelves": "owned-maybe",
         "status": "maybe",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663962429i/62697695.jpg",
         "goodreadsId": 62697695,
         "goodreadsLink": "https://www.goodreads.com/book/show/62697695",
         "series": "In Dying Starlight",
@@ -2636,7 +2637,7 @@
         "dateAddedGR": "2023-01-29",
         "bookshelves": "tbr-not-owned",
         "status": "tbr/notOwned",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663550249i/61232306.jpg",
         "goodreadsId": 61232306,
         "goodreadsLink": "https://www.goodreads.com/book/show/61232306",
         "type": "book"
@@ -2659,7 +2660,7 @@
         "dateAddedGR": "2023-01-29",
         "bookshelves": "tbr-not-owned",
         "status": "tbr/notOwned",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1625073548i/58340704.jpg",
         "goodreadsId": 58340704,
         "goodreadsLink": "https://www.goodreads.com/book/show/58340704",
         "type": "book"
@@ -2682,7 +2683,7 @@
         "dateAddedGR": "2023-01-27",
         "bookshelves": "tbr-not-owned",
         "status": "tbr/notOwned",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664373083i/60784841.jpg",
         "goodreadsId": 60784841,
         "goodreadsLink": "https://www.goodreads.com/book/show/60784841",
         "type": "book"
@@ -2705,7 +2706,7 @@
         "dateAddedGR": "2023-01-27",
         "bookshelves": "tbr-not-owned",
         "status": "tbr/notOwned",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670875300i/60840489.jpg",
         "goodreadsId": 60840489,
         "goodreadsLink": "https://www.goodreads.com/book/show/60840489",
         "type": "book"
@@ -2728,7 +2729,7 @@
         "dateAddedGR": "2023-01-24",
         "bookshelves": "next",
         "status": "tbr/next",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632016019i/59023398.jpg",
         "goodreadsId": 59023398,
         "goodreadsLink": "https://www.goodreads.com/book/show/59023398",
         "series": "Silo",
@@ -2752,7 +2753,7 @@
         "dateAddedGR": "2023-01-24",
         "bookshelves": "owned-maybe",
         "status": "maybe",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655473657i/60864419.jpg",
         "goodreadsId": 60864419,
         "goodreadsLink": "https://www.goodreads.com/book/show/60864419",
         "type": "book"
@@ -2775,7 +2776,7 @@
         "dateAddedGR": "2023-01-19",
         "bookshelves": "owned-maybe",
         "status": "maybe",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650359127i/59926050.jpg",
         "goodreadsId": 59926050,
         "goodreadsLink": "https://www.goodreads.com/book/show/59926050",
         "series": "Detective Kosuke Kindaichi",
@@ -2835,10 +2836,10 @@
         "dateAddedGR": "2023-01-15",
         "bookshelves": "",
         "status": "finished",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653534178i/61168036.jpg",
         "goodreadsId": 61168036,
         "goodreadsLink": "https://www.goodreads.com/book/show/61168036",
-        "series": "\u898b\u3048\u308b\u5b50\u3061\u3083\u3093",
+        "series": "Mieruko-chan",
         "type": "book"
     },
     "30371275": {
@@ -8191,7 +8192,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624949979l/56977710._SY475_.jpg",
         "goodreadsId": 56977710,
         "goodreadsLink": "https://www.goodreads.com/book/show/56977710",
-        "series": "\u898b\u3048\u308b\u5b50\u3061\u3083\u3093",
+        "series": "Mieruko-chan",
         "numberInSeries": 3,
         "genres": [
             "Sequential Art",
@@ -8429,7 +8430,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386044101l/19121592.jpg",
         "goodreadsId": 19121592,
         "goodreadsLink": "https://www.goodreads.com/book/show/19121592",
-        "series": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 [Wanpanman]",
+        "series": "One-Punch Man",
         "numberInSeries": 5,
         "genres": [
             "Sequential Art",
@@ -8468,7 +8469,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435109815l/25783832._SY475_.jpg",
         "goodreadsId": 25783832,
         "goodreadsLink": "https://www.goodreads.com/book/show/25783832",
-        "series": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 [Wanpanman]",
+        "series": "One-Punch Man",
         "numberInSeries": 1,
         "genres": [
             "Sequential Art",
@@ -8507,7 +8508,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364262394l/17694056.jpg",
         "goodreadsId": 17694056,
         "goodreadsLink": "https://www.goodreads.com/book/show/17694056",
-        "series": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 [Wanpanman]",
+        "series": "One-Punch Man",
         "numberInSeries": 2,
         "genres": [
             "Sequential Art",
@@ -8546,7 +8547,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365317178l/17694058.jpg",
         "goodreadsId": 17694058,
         "goodreadsLink": "https://www.goodreads.com/book/show/17694058",
-        "series": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 [Wanpanman]",
+        "series": "One-Punch Man",
         "numberInSeries": 3,
         "genres": [
             "Sequential Art",
@@ -8585,7 +8586,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375313937l/18273751.jpg",
         "goodreadsId": 18273751,
         "goodreadsLink": "https://www.goodreads.com/book/show/18273751",
-        "series": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 [Wanpanman]",
+        "series": "One-Punch Man",
         "numberInSeries": 4,
         "genres": [
             "Sequential Art",
@@ -8624,7 +8625,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398974988l/22029858.jpg",
         "goodreadsId": 22029858,
         "goodreadsLink": "https://www.goodreads.com/book/show/22029858",
-        "series": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 [Wanpanman]",
+        "series": "One-Punch Man",
         "numberInSeries": 6,
         "genres": [
             "Sequential Art",
@@ -8663,7 +8664,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417230660l/23401591.jpg",
         "goodreadsId": 23401591,
         "goodreadsLink": "https://www.goodreads.com/book/show/23401591",
-        "series": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 [Wanpanman]",
+        "series": "One-Punch Man",
         "numberInSeries": 7,
         "genres": [
             "Sequential Art",
@@ -8702,7 +8703,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427832322l/24971700.jpg",
         "goodreadsId": 24971700,
         "goodreadsLink": "https://www.goodreads.com/book/show/24971700",
-        "series": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 [Wanpanman]",
+        "series": "One-Punch Man",
         "numberInSeries": 8,
         "genres": [
             "Sequential Art",
@@ -8741,7 +8742,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438262089l/25784105._SY475_.jpg",
         "goodreadsId": 25784105,
         "goodreadsLink": "https://www.goodreads.com/book/show/25784105",
-        "series": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 [Wanpanman]",
+        "series": "One-Punch Man",
         "numberInSeries": 9,
         "genres": [
             "Sequential Art",
@@ -8780,7 +8781,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448649990l/25806183._SY475_.jpg",
         "goodreadsId": 25806183,
         "goodreadsLink": "https://www.goodreads.com/book/show/25806183",
-        "series": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 [Wanpanman]",
+        "series": "One-Punch Man",
         "numberInSeries": 10,
         "genres": [
             "Sequential Art",
@@ -8819,7 +8820,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464706272l/29456195._SY475_.jpg",
         "goodreadsId": 29456195,
         "goodreadsLink": "https://www.goodreads.com/book/show/29456195",
-        "series": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 [Wanpanman]",
+        "series": "One-Punch Man",
         "numberInSeries": 11,
         "genres": [
             "Sequential Art",
@@ -8858,7 +8859,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480435785l/30339859._SY475_.jpg",
         "goodreadsId": 30339859,
         "goodreadsLink": "https://www.goodreads.com/book/show/30339859",
-        "series": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 [Wanpanman]",
+        "series": "One-Punch Man",
         "numberInSeries": 12,
         "genres": [
             "Sequential Art",
@@ -8897,7 +8898,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490892468l/33148640._SY475_.jpg",
         "goodreadsId": 33148640,
         "goodreadsLink": "https://www.goodreads.com/book/show/33148640",
-        "series": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 [Wanpanman]",
+        "series": "One-Punch Man",
         "numberInSeries": 13,
         "genres": [
             "Sequential Art",
@@ -12690,7 +12691,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1653467120l/59901118.jpg",
         "goodreadsId": 59901118,
         "goodreadsLink": "https://www.goodreads.com/book/show/59901118",
-        "series": "\u898b\u3048\u308b\u5b50\u3061\u3083\u3093",
+        "series": "Mieruko-chan",
         "numberInSeries": 5,
         "genres": [
             "Sequential Art",
@@ -15686,7 +15687,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600786919l/55427206._SX318_.jpg",
         "goodreadsId": 55427206,
         "goodreadsLink": "https://www.goodreads.com/book/show/55427206",
-        "series": "\u898b\u3048\u308b\u5b50\u3061\u3083\u3093",
+        "series": "Mieruko-chan",
         "numberInSeries": 4,
         "genres": [
             "Sequential Art",
@@ -22194,7 +22195,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615138329l/56853692._SY475_.jpg",
         "goodreadsId": 56853692,
         "goodreadsLink": "https://www.goodreads.com/book/show/56853692",
-        "series": "\u898b\u3048\u308b\u5b50\u3061\u3083\u3093",
+        "series": "Mieruko-chan",
         "numberInSeries": 2,
         "genres": [
             "Sequential Art",
@@ -23638,7 +23639,7 @@
         "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609828267l/54760327._SY475_.jpg",
         "goodreadsId": 54760327,
         "goodreadsLink": "https://www.goodreads.com/book/show/54760327",
-        "series": "\u898b\u3048\u308b\u5b50\u3061\u3083\u3093",
+        "series": "Mieruko-chan",
         "numberInSeries": 1,
         "genres": [
             "Sequential Art",
