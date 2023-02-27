@@ -27,6 +27,24 @@
         "author": "Juliet Blackwell"
     },
     {
+        "title": "A Midwinter's Tail",
+        "price": 8.99,
+        "cover": "https://kbimages1-a.akamaihd.net/bac2210e-1519-4969-b9ec-c0ec35493678/353/569/90/False/a-midwinter-s-tail.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-midwinter-s-tail",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Sofie Kelly"
+    },
+    {
+        "title": "The Tale of Holly How",
+        "price": 8.99,
+        "cover": "https://kbimages1-a.akamaihd.net/37bac729-bf46-47b8-aaf8-b90986059ed5/353/569/90/False/the-tale-of-holly-how.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-tale-of-holly-how",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Susan Wittig Albert"
+    },
+    {
         "title": "One Dark Window",
         "price": 8.99,
         "cover": "https://kbimages1-a.akamaihd.net/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
@@ -205,6 +223,15 @@
         "preorder": "",
         "isPlus": false,
         "author": "Kenneth Oppel"
+    },
+    {
+        "title": "These Silent Woods",
+        "price": 12.99,
+        "cover": "https://kbimages1-a.akamaihd.net/738b6994-7da5-464c-a806-627e2f1e04b0/353/569/90/False/these-silent-woods.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/these-silent-woods",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Kimi Cunningham Grant"
     },
     {
         "title": "Swan Dive",

@@ -4,7 +4,7 @@ title: Currently Reading
 templateClass: tmpl-post
 eleventyNavigation:
   key: Currently Reading
-  order: 5
+  order: 4
 ---
 
 ## Books

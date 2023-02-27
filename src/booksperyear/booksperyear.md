@@ -9,7 +9,7 @@ tweetId: "1393699018597797893"
 reddit: https://www.reddit.com/r/geekosaur/comments/ndaaoc/books_per_year/
 eleventyNavigation:
   key: Books Read
-  order: 4
+  order: 5
 ---
 
 {%- for year, bookList in books | dictsort | reverse -%}

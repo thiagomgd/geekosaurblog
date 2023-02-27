@@ -9,7 +9,7 @@ tweetId: "1490141415648620545"
 reddit: https://www.reddit.com/r/geekosaur/comments/slmyne/comicsmanga_read/
 eleventyNavigation:
   key: Comics/Manga Read
-  order: 5
+  order: 6
 ---
 
 {%- for year, seriesList in manga | dictsort | reverse %}
