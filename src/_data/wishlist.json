@@ -1,5 +1,14 @@
 [
     {
+        "title": "The Year of Less",
+        "price": 1.99,
+        "cover": "https://kbimages1-a.akamaihd.net/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-year-of-less-2",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Cait Flanders"
+    },
+    {
         "title": "Bluebird",
         "price": 7.99,
         "cover": "https://kbimages1-a.akamaihd.net/533edbb4-62ba-48f2-9e54-540e061a7eac/353/569/90/False/bluebird-19.jpg",
@@ -115,6 +124,15 @@
         "preorder": "",
         "isPlus": false,
         "author": "Darren Aronofsky"
+    },
+    {
+        "title": "Hamra and the Jungle of Memories",
+        "price": 10.99,
+        "cover": "https://kbimages1-a.akamaihd.net/8abc7786-6eed-4a99-b8fa-1c7926e4f622/353/569/90/False/hamra-and-the-jungle-of-memories-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/hamra-and-the-jungle-of-memories-1",
+        "preorder": "Available Mar 28, 2023",
+        "isPlus": false,
+        "author": "Hanna Alkaf"
     },
     {
         "title": "Mindwalker",
@@ -288,6 +306,24 @@
         "author": "S.A. Barnes"
     },
     {
+        "title": "Vera Wong's Unsolicited Advice for Murderers",
+        "price": 13.99,
+        "cover": "https://kbimages1-a.akamaihd.net/fc8f22f2-01c6-4955-ac05-fc1ae27b723d/353/569/90/False/vera-wong-s-unsolicited-advice-for-murderers-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/vera-wong-s-unsolicited-advice-for-murderers-1",
+        "preorder": "Available Mar 14, 2023",
+        "isPlus": false,
+        "author": "Jesse Q. Sutanto"
+    },
+    {
+        "title": "Hunt on Dark Waters",
+        "price": 13.99,
+        "cover": "https://kbimages1-a.akamaihd.net/4b86940d-fcae-42a8-8972-35d95fbcc84a/353/569/90/False/hunt-on-dark-waters.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/hunt-on-dark-waters",
+        "preorder": "Available Nov 7, 2023",
+        "isPlus": false,
+        "author": "Katee Robert"
+    },
+    {
         "title": "Black Sun",
         "price": 13.99,
         "cover": "https://kbimages1-a.akamaihd.net/3d95e3ac-1ed8-469d-9b37-6ea24a37071c/353/569/90/False/black-sun-27.jpg",
@@ -367,15 +403,6 @@
         "preorder": "",
         "isPlus": false,
         "author": "Brian Greene"
-    },
-    {
-        "title": "Dust",
-        "price": 14.99,
-        "cover": "https://kbimages1-a.akamaihd.net/ed683ead-e8a5-4318-a9db-4f25b9b04b72/353/569/90/False/dust-109.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/dust-109",
-        "preorder": "",
-        "isPlus": false,
-        "author": "Hugh Howey"
     },
     {
         "title": "Tell Me Pleasant Things about Immortality",
@@ -477,6 +504,15 @@
         "author": "Christopher Paolini"
     },
     {
+        "title": "The Adventures of Amina al-Sirafi",
+        "price": 17.99,
+        "cover": "https://kbimages1-a.akamaihd.net/1cd113a3-43af-4bdb-b8ee-78fe59ba7abf/353/569/90/False/the-adventures-of-amina-al-sirafi-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-adventures-of-amina-al-sirafi-1",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Shannon Chakraborty"
+    },
+    {
         "title": "Dying of Politeness",
         "price": 17.99,
         "cover": "https://kbimages1-a.akamaihd.net/690c6add-db11-4439-9c54-417601d5e731/353/569/90/False/dying-of-politeness-1.jpg",
@@ -493,6 +529,15 @@
         "preorder": "",
         "isPlus": false,
         "author": "Sayaka Murata"
+    },
+    {
+        "title": "The London S\u00e9ance Society",
+        "price": 19.99,
+        "cover": "https://kbimages1-a.akamaihd.net/74477a61-8cef-4194-a551-e6644dee8206/353/569/90/False/the-london-seance-society.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-london-seance-society",
+        "preorder": "Available Mar 7, 2023",
+        "isPlus": false,
+        "author": "Sarah Penner"
     },
     {
         "title": "Letters to a Young Poet: The Norton Centenary Edition",
