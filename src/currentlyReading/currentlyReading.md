@@ -9,15 +9,22 @@ eleventyNavigation:
 
 ## Books
 
-Current:
+**Current**:
 - She is a Haunting by Trang Thanh Tran ([link](https://trangthanhtran.com/book/she-is-a-haunting/))
 
-Next:
+**Next**:
 - Immortality: A Love Story (Anatomy #2) by Dana Schwartz ([link](https://dana-schwartz.com/books/immortality-a-love-story/))
 	- Waiting to receive physical copy: March 7th
 - Blood Rites (The Dresden Files #6) by Jim Butcher
 	- Have it on hold at library, should take 1~2 weeks to get it
 - Stellarlune (Keeper of the Lost Cities #9) by Shannon Messenger ([link](https://www.simonandschuster.com/series/Keeper-of-the-Lost-Cities))
+
+**At some point**:
+- Dust by Hugh Howey
+- The Ghost Woods by C. J. Cooke ([link](https://carolynjesscooke.com/the-ghost-woods/))
+	- Same author as The Lighthouse Witches, which I loved!
+- Spineless by Samantha San Miguel ([link](https://www.samanthasanmiguel.com/))
+- Fairy Tale by Stephen King ([link](https://stephenking.com/works/novel/fairy-tale.html))
 
 ## Manga
 

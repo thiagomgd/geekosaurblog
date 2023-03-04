@@ -161,10 +161,15 @@ module.exports = {
     // console.debug(tagsText.length());
     const available = maxLength - tagsText.length;
 
-    // // md.use(plainText);
+    // md.use(plainText);
     // var mkd = require("markdown-it")({html: false, breaks: true});
-    
-    const content = text.replace(/(^\s*(?!.+)\n+)|(\n+\s+(?!.+)$)/g, ""); //mkd.render(text);
+    let content = typeof text === 'string' ? text : text.val
+    // content = content.replace(/(^\s*(?!.+)\n+)|(\n+\s+(?!.+)$)/g, "").replaceAll('&lt;/p&gt;', '/n').replaceAll('&lt;p&gt;&amp;lt;p&amp;gt;',''); //mkd.render(text);
+
+    // console.log(typeof text);
+    // const content = mkd.render(typeof text === 'string' ? text : text.val);
+    // const content = md.render(typeof text === 'string' ? text : text.val);
+
     if (content.length <= available) {
       return content + ' ' + tagsText;
     }
