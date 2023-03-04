@@ -32,7 +32,7 @@ module.exports = function() {
 			thumbnail: async function(data) {
 				return await getOptimizedUrl(data.thumbnail);
 			},
-			created_date: function(data) {
+			createdDate: function(data) {
 				return data.page.date;
 			}
 		},

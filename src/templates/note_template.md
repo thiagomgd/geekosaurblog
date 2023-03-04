@@ -1,4 +1,5 @@
 ---
+slug:  '<% new moment(tp.file.creation_date(), "YYYY-MM-DDTHHmmssZZ").utc().format("YYYY-MM-DD") %>'
 title: 
 tags:
 replyTo:

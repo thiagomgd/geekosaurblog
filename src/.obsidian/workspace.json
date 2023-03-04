@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/2023-02-12-02-44.md",
+                "file": "notes/00aa3093-e352-43d6-8604-ca5a7d8f518a.md",
                 "mode": "source",
                 "source": true
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mexican gothic",
+                "query": "created_date",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/2023-02-12-02-44.md",
+                "file": "notes/00aa3093-e352-43d6-8604-ca5a7d8f518a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/2023-02-12-02-44.md",
+                "file": "notes/00aa3093-e352-43d6-8604-ca5a7d8f518a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/2023-02-12-02-44.md"
+                "file": "notes/00aa3093-e352-43d6-8604-ca5a7d8f518a.md"
               }
             }
           }
@@ -189,19 +190,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d16d889df9b8b75",
+  "active": "45b779cc93c0038d",
   "lastOpenFiles": [
-    "notes/2023-03-03-05-00.md",
     "notes/2023-02-25-05-22.md",
-    "currentlyReading/currentlyReading.md",
+    "notes/2023-03-03-05-00.md",
+    "templates/note_template.md",
+    "notes/2023-02-12-02-44.md",
     "posts/2023/2023-anticipated-books.md",
+    "currentlyReading/currentlyReading.md",
     "currentlyReading/index.md",
     "currentlyReading",
     "about copy/index.md",
     "about copy",
     "notes/0b58c86a-cb14-4800-8dc2-ef7bbff64d00.md",
-    "templates/note_template.md",
-    "notes/2023-02-12-02-44.md",
     "posts/2023/2023-anticipated-books-ya.md",
     "img/2023-anticipated-books-ya.png",
     "posts/2023/friday-finds-1.md",

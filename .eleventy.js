@@ -217,8 +217,8 @@ module.exports = function(eleventyConfig) {
     return collection.getFilteredByTag('post')
       // .filter(post => post.data.eleventyExcludeFromCollections !== true)
       .sort(function(a, b) {
-        const timeA = a.data.created_date ? a.data.created_date.getTime() : 0;
-        const timeB = b.data.created_date ? b.data.created_date.getTime() : 0;
+        const timeA = a.data.createdDate ? a.data.createdDate.getTime() : 0;
+        const timeB = b.data.createdDate ? b.data.createdDate.getTime() : 0;
         // console.log(a.data.title, b.data.title, timeA, timeB);
         return timeA - timeB;
       });
@@ -241,12 +241,12 @@ module.exports = function(eleventyConfig) {
     const all = [...posts, ...notes];
 
     const sorted = all.sort(function (a, b) {
-      const timeA = a.data.created_date
-        ? a.data.created_date.getTime()
+      const timeA = a.data.createdDate
+        ? a.data.createdDate.getTime()
         : 0;
 
-      const timeB = b.data.created_date
-        ? b.data.created_date.getTime()
+      const timeB = b.data.createdDate
+        ? b.data.createdDate.getTime()
         : 0;
 
       // if (
