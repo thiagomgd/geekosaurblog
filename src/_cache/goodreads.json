@@ -68,7 +68,8 @@
         "goodreadsId": 23492473,
         "goodreadsLink": "https://www.goodreads.com/book/show/23492473",
         "type": "manga",
-        "yearRead": 2023
+        "yearRead": 2023,
+        "series": "Ranma \u00bd: 2-in-1 Edition"
     },
     "22609227": {
         "title": "Ranma 1/2 (2-in-1 Edition), Vol. 8: Includes Volumes 15 & 16",
@@ -91,7 +92,8 @@
         "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422297115i/22609227.jpg",
         "goodreadsId": 22609227,
         "goodreadsLink": "https://www.goodreads.com/book/show/22609227",
-        "type": null
+        "type": null,
+        "series": "Ranma \u00bd: 2-in-1 Edition"
     },
     "54760327": {
         "title": "Mieruko-chan, Vol. 1 (Mieruko-chan, #1)",
@@ -3474,7 +3476,8 @@
         "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670875300i/60840489.jpg",
         "goodreadsId": 60840489,
         "goodreadsLink": "https://www.goodreads.com/book/show/60840489",
-        "type": "book"
+        "type": "book",
+        "series": "The Unseelie Duology"
     },
     "59023398": {
         "title": "Dust (Silo Trilogy #3)",
@@ -17979,7 +17982,8 @@
             "Technology",
             "Popular Science"
         ],
-        "type": "book"
+        "type": "book",
+        "series": "Mary Roach's Curiositie"
     },
     "19109258": {
         "title": "Meditations (Illustrated)",
@@ -29895,7 +29899,8 @@
             "School",
             "19th Century"
         ],
-        "type": "book"
+        "type": "book",
+        "series": "Glencoe Literature Library"
     },
     "6697731": {
         "title": "Dewey:  Um Gato Entre Livros",

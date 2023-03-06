@@ -17,6 +17,7 @@ module.exports = function () {
             createdDate: function (data) {
                 return new Date(data.createdTime);
             },
+            // description: 
         },
         layout: "layouts/note.njk",
         tags: [

@@ -164,7 +164,9 @@ module.exports = {
     // md.use(plainText);
     // var mkd = require("markdown-it")({html: false, breaks: true});
     let content = typeof text === 'string' ? text : text.val
-    // content = content.replace(/(^\s*(?!.+)\n+)|(\n+\s+(?!.+)$)/g, "").replaceAll('&lt;/p&gt;', '/n').replaceAll('&lt;p&gt;&amp;lt;p&amp;gt;',''); //mkd.render(text);
+
+    // todo: blockquote to >
+    content = content.replace(/(<([^>]+)>)/gi, ""); //.replaceAll('&lt;/p&gt;', '/n').replaceAll('&lt;p&gt;&amp;lt;p&amp;gt;',''); //mkd.render(text);
 
     // console.log(typeof text);
     // const content = mkd.render(typeof text === 'string' ? text : text.val);

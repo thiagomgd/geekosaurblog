@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/00aa3093-e352-43d6-8604-ca5a7d8f518a.md",
+                "file": "notes/2023-03-03-05-00.md",
                 "mode": "source",
                 "source": true
               }
@@ -108,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/00aa3093-e352-43d6-8604-ca5a7d8f518a.md",
+                "file": "notes/2023-03-03-05-00.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/00aa3093-e352-43d6-8604-ca5a7d8f518a.md",
+                "file": "notes/2023-03-03-05-00.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/00aa3093-e352-43d6-8604-ca5a7d8f518a.md"
+                "file": "notes/2023-03-03-05-00.md"
               }
             }
           }
@@ -190,8 +189,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45b779cc93c0038d",
+  "active": "6d16d889df9b8b75",
   "lastOpenFiles": [
+    "notes/00aa3093-e352-43d6-8604-ca5a7d8f518a.md",
     "notes/2023-02-25-05-22.md",
     "notes/2023-03-03-05-00.md",
     "templates/note_template.md",
