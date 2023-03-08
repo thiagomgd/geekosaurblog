@@ -9,6 +9,15 @@
         "author": "Cait Flanders"
     },
     {
+        "title": "Mindwalker",
+        "price": 5.99,
+        "cover": "https://kbimages1-a.akamaihd.net/552b7753-013a-4cd4-9077-e8335e07695b/353/569/90/False/mindwalker-5.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/mindwalker-5",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Kate Dylan"
+    },
+    {
         "title": "Bluebird",
         "price": 7.99,
         "cover": "https://kbimages1-a.akamaihd.net/533edbb4-62ba-48f2-9e54-540e061a7eac/353/569/90/False/bluebird-19.jpg",
@@ -142,15 +151,6 @@
         "preorder": "Available Mar 28, 2023",
         "isPlus": false,
         "author": "Hanna Alkaf"
-    },
-    {
-        "title": "Mindwalker",
-        "price": 10.99,
-        "cover": "https://kbimages1-a.akamaihd.net/552b7753-013a-4cd4-9077-e8335e07695b/353/569/90/False/mindwalker-5.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/mindwalker-5",
-        "preorder": "",
-        "isPlus": false,
-        "author": "Kate Dylan"
     },
     {
         "title": "Spineless",
