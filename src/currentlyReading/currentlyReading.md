@@ -10,12 +10,12 @@ eleventyNavigation:
 ## Books
 
 **Current**:
-- Blood Rites (The Dresden Files #6) by Jim Butcher
+- The Anthropocene Reviewed by John Green
 
 **Next**:
+- Dust by Hugh Howey
 - Immortality: A Love Story (Anatomy #2) by Dana Schwartz ([link](https://dana-schwartz.com/books/immortality-a-love-story/))
 	- Waiting to receive physical copy: March 7th
-- Dust by Hugh Howey
 - Stellarlune (Keeper of the Lost Cities #9) by Shannon Messenger ([link](https://www.simonandschuster.com/series/Keeper-of-the-Lost-Cities))
 
 **At some point**:
