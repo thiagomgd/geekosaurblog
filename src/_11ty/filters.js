@@ -229,7 +229,10 @@ module.exports = {
     
     console.log(value)
   },
-  getReddit: (url) => {
-    
+  getReddit: (redditUrl) => {
+    return redditUrl || "https://www.reddit.com/r/geekosaur/"
+  },
+  getMastodon: (mastodonUrl) => {
+    return mastodonUrl || "https://mindly.social/@falcon"
   }
 };

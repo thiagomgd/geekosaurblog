@@ -222,7 +222,7 @@ module.exports = function(eleventyConfig) {
     }));
 
     helpers.saveSocialLinks(social);
-    
+
     return newPosts.sort(function(a, b) {
         const timeA = a.data.createdDate ? a.data.createdDate.getTime() : 0;
         const timeB = b.data.createdDate ? b.data.createdDate.getTime() : 0;
@@ -260,10 +260,7 @@ module.exports = function(eleventyConfig) {
     const notes = collection.getFilteredByTag('note');
     const all = [...posts, ...notes];
 
-    const sorted = all.map(item => {
-      item.data.mastodon = 'google.com';
-      return item;
-    }).sort(function (a, b) {
+    const sorted = all.sort(function (a, b) {
       const timeA = a.data.createdDate
         ? a.data.createdDate.getTime()
         : 0;
