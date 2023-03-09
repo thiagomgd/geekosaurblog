@@ -1,6 +1,8 @@
 const fs = require("fs");
 // const fetch = require("node-fetch");
 const Image = require("@11ty/eleventy-img");
+const metadata = require("../_data/metadata.json");
+const cheerio = require("cheerio");
 
 // const IMG_CACHE_FILE_PATH = "src/_cache/images.json";
 const external = /https?:\/\/((?:[\w\d-]+\.)+[\w\d]{2,})/i;
@@ -9,6 +11,7 @@ const mdBookmarkRegex = /^\[bookmark]\(([^)]+)\)$/gm;
 // TODO: test
 const mdImageRegex = /^\!\[\]\(((?:\/|https?:\/\/)[\w\d./?=#]+)\)$/;
 
+const SOCIAL_PATH = "src/_data/social.json";
 // function replaceNotionBookmark(markdownString) {
 //   console.log("!!!!!!!!!!!!!!!!");
 //   console.log(markdownString.match(mdBookmarkRegex));
@@ -20,6 +23,31 @@ const mdImageRegex = /^\!\[\]\(((?:\/|https?:\/\/)[\w\d./?=#]+)\)$/;
 //   console.log(newString);
 //   return newString;
 // }
+
+function readSocialLinks() {
+    if (fs.existsSync(SOCIAL_PATH)) {
+        const cacheFile = fs.readFileSync(SOCIAL_PATH);
+        return JSON.parse(cacheFile);
+    }
+
+    return {};
+}
+
+function saveSocialLinks(data) {
+    if (process.env.ELEVENTY_ENV !== "devbuild") return;
+
+    const fileContent = JSON.stringify(data, null, 2);
+    console.log("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@", data);
+    // create cache folder if it doesnt exist already
+    // if (!fs.existsSync(dir)) {
+    //     fs.mkdirSync(dir);
+    // }
+
+    fs.writeFileSync(SOCIAL_PATH, fileContent, (err) => {
+        if (err) throw err;
+        console.log(`>>> social links cached to ${SOCIAL_PATH}`);
+    });
+}
 
 // get cache contents from json file
 function readFromCache(cacheFilePath) {
@@ -217,14 +245,94 @@ function deleteNotionLocalImages(postId) {
     }
 }
 
+async function fetchToots() {
+    if (!metadata.bridgy_mastodon || process.env.ELEVENTY_ENV === "development") return [];
+
+    const resp = await fetch(
+        `https://${metadata.author.mastodon_instance}/api/v1/accounts/${metadata.author.mastodon_id}/statuses?limit=40&exclude_replies=true&exclude_reblogs=true`
+      );
+    
+    if (!resp.ok) {
+        console.warn("Error getting user toots");
+        return [];
+    }
+
+    const responseJson = await resp.json();
+
+    console.log(`>>> Fetched toots ${responseJson.length}`);
+    // console.log(responseJson);
+    return responseJson;
+}
+
+function updateToot(post, toots) {
+    
+    // const toots = {};
+    // console.debug(responseJson);
+    let tootUrl = '';
+    
+    toots
+      //.filter(toot => toot.card)
+      .some((toot) => {
+        // if (toot.card) {
+        //   toots[toot.card.url] = toot.url;
+        //   return;
+        // }
+  
+        const $ = cheerio.load(toot.content, null, false);
+        $("a").each((_, link) => {
+          // TODO: filter by href domain
+          // console.debug($(link).text() , $(link).attr('href'));
+          const href = $(link).attr("href");
+  
+        //   console.log(`>>> checking link ${post.url} | ${href}`)
+          if (href.endsWith(post.url)) {
+            console.log(`>>> ${post.url} ${toot.url}`);
+            tootUrl = toot.url;
+            return true;
+          }
+        });
+        return false;
+      });
+  
+    return tootUrl;
+  }
+
+async function searchReddit(url) {
+    if (process.env.ELEVENTY_ENV === "development") return "";
+
+    const fullURL = `${metadata.url}${url}`
+    const searchUrl = `https://www.reddit.com/r/${metadata.subreddit}/search.json?q=${fullURL}&restrict_sr=on&include_over_18=on&sort=relevance&t=all`;
+    const response = await fetch(searchUrl);
+    if (!response.ok) {
+        console.error("### not able to load from reddit");
+        return "";
+    }
+    const responseJson = await response.json();
+
+    // console.log(`%%%%%%% ${fullURL}`);
+    // console.log(responseJson);
+
+    if (!responseJson || !Array.isArray(responseJson)) return "";
+    for (const list of responseJson) {
+        for (const post of list.data.children) {
+        // console.log('!@#!@#',post);
+        if (post && post.data && post.data.url && post.data.url) {
+            return `https://www.reddit.com${post.data.permalink}`;
+        }
+        }
+    }
+    return "";
+}
+
 module.exports = {
-    // replaceNotionMarkdown,
+    readSocialLinks,
+    saveSocialLinks,
     readFromCache,
     writeToCache,
-    // getLocalImageLink,
     getOptimizeMetadata,
     getOptimizedUrl,
     optimizeImage,
-    deleteNotionLocalImages,
-    // downloadNotionImage
+    updateToot,
+    fetchToots,
+    searchReddit
 };

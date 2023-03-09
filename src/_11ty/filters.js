@@ -228,5 +228,8 @@ module.exports = {
     // console.log(value.data.slug, value.data.title);
     
     console.log(value)
+  },
+  getReddit: (url) => {
+    
   }
 };

@@ -18,26 +18,7 @@ function getUrl(post, type, useDomain = false) {
   return `${useDomain ? metadata.domain : metadata.url}/post/${post.slug}/`;
 }
 
-async function searchReddit(url) {
-  const searchUrl = `https://www.reddit.com/r/${metadata.subreddit}/search.json?q=${url}&restrict_sr=on&include_over_18=on&sort=relevance&t=all`;
-  const response = await fetch(searchUrl);
-  if (!response.ok) {
-    console.error("### not able to load from reddit");
-    return "";
-  }
-  const responseJson = await response.json();
 
-  if (!responseJson || !Array.isArray(responseJson)) return "";
-  for (const list of responseJson) {
-    for (const post of list.data.children) {
-      // console.log('!@#!@#',post);
-      if (post && post.data && post.data.url && post.data.url) {
-        return `https://www.reddit.com${post.data.permalink}`;
-      }
-    }
-  }
-  return "";
-}
 
 async function updateReddit(notion, posts, type) {
   if (!metadata.subreddit || process.env.ELEVENTY_ENV === "development") return;
@@ -116,96 +97,43 @@ function lessThanSevenDays(postDate) {
   return diffDays <= 7;
 }
 
-async function updateToot(notion, posts, type) {
-  if (!metadata.bridgy_mastodon || process.env.ELEVENTY_ENV === "development") return;
 
-  const toUpdate = Object.values(posts).filter((post) => {
-    return !post.toot; //&& lessThanSevenDays(post.date_published || post.created_time);
-  });
+// async function updateTweet(notion, posts, type) {
+//   if (!TWITTER_TOKEN || process.env.ELEVENTY_ENV === "development") return;
 
-  if (toUpdate.length === 0) return;
+//   const toUpdate = Object.values(posts).filter((post) => {
+//     return (
+//       !post.tweet && lessThanSevenDays(post.date_published || post.created_time)
+//     );
+//   });
 
-  const resp = await fetch(
-    `https://${metadata.author.mastodon_instance}/api/v1/accounts/${metadata.author.mastodon_id}/statuses`
-  );
+//   if (toUpdate.length === 0) return;
 
-  if (!resp.ok) {
-    console.warn("Error getting user toots");
-    return;
-  }
+//   toUpdate.forEach(async (post) => {
+//     const link = getUrl(post, type, true);
+//     const resp = await fetch(
+//       `https://api.twitter.com/2/tweets/search/recent?query=${link}`,
+//       {
+//         headers: {
+//           authorization: `Bearer ${TWITTER_TOKEN}`,
+//         },
+//       }
+//     );
 
-  const responseJson = await resp.json();
-  const toots = {};
-  // console.debug(responseJson);
-  responseJson
-    //.filter(toot => toot.card)
-    .forEach((toot) => {
-      if (toot.card) {
-        toots[toot.card.url] = toot.url;
-        return;
-      }
+//     if (!resp.ok) return;
 
-      const $ = cheerio.load(toot.content, null, false);
-      $("a").each((_, link) => {
-        // TODO: filter by href domain
-        // console.debug($(link).text() , $(link).attr('href'));
-        const href = $(link).attr("href");
+//     const responseJson = await resp.json();
 
-        if (href.includes(metadata.domain)) {
-          toots[href] = toot.url;
-        }
-      });
-    });
+//     if (responseJson.data && responseJson.data.length > 0) {
+//       const tweet = `https://twitter.com/${metadata.author.twitter_handle}/status/${responseJson.data[0].id}`;
+//       console.log("updating tweet", tweet);
+//       // TODO: don't mutate original object, create copy
+//       posts[post.id].tweet = tweet;
 
-//   console.debug("*****", toots);
-  toUpdate.forEach((post) => {
-    const link = getUrl(post, type, false);
-
-    // console.debug("!@!@!@!@>>>>", link, toots[link]);
-    if (!toots[link]) return;
-
-    posts[post.id].toot = toots[link];
-
-    // updateNotion(notion, post.id, { Toot: toots[link] });
-  });
-}
-
-async function updateTweet(notion, posts, type) {
-  if (!TWITTER_TOKEN || process.env.ELEVENTY_ENV === "development") return;
-
-  const toUpdate = Object.values(posts).filter((post) => {
-    return (
-      !post.tweet && lessThanSevenDays(post.date_published || post.created_time)
-    );
-  });
-
-  if (toUpdate.length === 0) return;
-
-  toUpdate.forEach(async (post) => {
-    const link = getUrl(post, type, true);
-    const resp = await fetch(
-      `https://api.twitter.com/2/tweets/search/recent?query=${link}`,
-      {
-        headers: {
-          authorization: `Bearer ${TWITTER_TOKEN}`,
-        },
-      }
-    );
-
-    if (!resp.ok) return;
-
-    const responseJson = await resp.json();
-
-    if (responseJson.data && responseJson.data.length > 0) {
-      const tweet = `https://twitter.com/${metadata.author.twitter_handle}/status/${responseJson.data[0].id}`;
-      console.log("updating tweet", tweet);
-      // TODO: don't mutate original object, create copy
-      posts[post.id].tweet = tweet;
-
-      // updateNotion(notion, post.id, { Tweet: tweet });
-    }
-  });
-}
+//       // updateNotion(notion, post.id, { Tweet: tweet });
+//     }
+//   });
+// }
 
 // function getPreviousPostByTag(newPost, posts) {
 //     const tagsToUse = intersection(metadata.twitter_reply_to, newPost.tags);
@@ -345,8 +273,8 @@ function updateReplyToByThread(notion, posts) {
 }
 
 module.exports = {
-  updateTweet,
-  updateToot,
-  updateReddit,
+  // updateTweet,
+  // updateToot,
+  // updateReddit,
   updateReplyToByThread
 };

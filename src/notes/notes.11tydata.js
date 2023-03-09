@@ -19,6 +19,9 @@ module.exports = function () {
             },
             // description: 
         },
+        // reddit: async function(data) {
+        //     return await getRedditUrl(data.slug);
+        // },
         layout: "layouts/note.njk",
         tags: [
           "note"

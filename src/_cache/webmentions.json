@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-02-26T22:09:45.432Z",
+  "lastFetched": "2023-03-09T18:53:57.116Z",
   "children": [
     {
       "type": "entry",
@@ -7430,6 +7430,46 @@
       "rels": {
         "canonical": "https://geekosaur.com/note/05-22/"
       }
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "TBWeber",
+        "photo": "https://webmention.io/avatar/a.mindlycdn.click/7004e311035a08bafe722d9b901345909525c67203e7673cc8d3d49bbdd5d016.jpg",
+        "url": "https://universeodon.com/@tbweber"
+      },
+      "url": "https://mindly.social/@falcon/109972302883876505#favorited-by-109344797919774813",
+      "published": null,
+      "wm-received": "2023-03-05T22:41:59Z",
+      "wm-id": 1634866,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/109972302883876505/109344797919774813",
+      "wm-target": "https://geekosaur.com/note/f313a361-05dc-4757-878d-e85495ea4cc7/",
+      "like-of": "https://geekosaur.com/note/f313a361-05dc-4757-878d-e85495ea4cc7/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "minto",
+        "photo": "https://webmention.io/avatar/a.mindlycdn.click/1bcda823983ef0f3176977bf8c542f900852ce1e35255f34d0206e4c094ab54e.jpg",
+        "url": "https://mastodon.social/@heyminto"
+      },
+      "url": "https://mastodon.social/@heyminto/109972743623905855",
+      "published": "2023-03-05T21:14:57",
+      "wm-received": "2023-03-05T22:41:57Z",
+      "wm-id": 1634865,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mindly.social/109972304476913429/109972743749908818",
+      "wm-target": "https://geekosaur.com/note/2023-03-03-05-00/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mindly.social/@falcon\" class=\"u-url\">@<span>falcon</span></a></span> looks like that crossposting bridge doesn't do the best job with some of those tags. ☝️</p>",
+        "text": "@falcon looks like that crossposting bridge doesn't do the best job with some of those tags. ☝️"
+      },
+      "in-reply-to": "https://geekosaur.com/note/2023-03-03-05-00/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
     }
   ]
 }

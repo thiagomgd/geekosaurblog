@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/news/geekosaur-news-28.md",
+                "file": "notes/2023-03-03-05-00.md",
                 "mode": "source",
                 "source": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/news/geekosaur-news-28.md",
+                "file": "notes/2023-03-03-05-00.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/news/geekosaur-news-28.md",
+                "file": "notes/2023-03-03-05-00.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/news/geekosaur-news-28.md"
+                "file": "notes/2023-03-03-05-00.md"
               }
             }
           }
@@ -191,10 +191,12 @@
   },
   "active": "6187a072433a7bcb",
   "lastOpenFiles": [
+    "posts/news/geekosaur-news-28.md",
+    "_data/social.json",
+    "_data/post_social_share.json",
     "posts/news/geekosaur-news-26.md",
     "templates/note_template.md",
     "posts/2023/2023-anticipated-books.md",
-    "posts/news/geekosaur-news-28.md",
     "posts/news/geekosaur-news-27.md",
     "currentlyReading/currentlyReading.md",
     "img/geekosaur-news-28-figures.jpg",

@@ -13,6 +13,7 @@ const pairedShortcodes = require('./src/_11ty/pairedShortcodes');
 const asyncShortcodes = require('./src/_11ty/asyncShortcodes');
 const {anyEmbed, figure, blur, tweet} = require('./src/_11ty/asyncShortcodes');
 
+
 const cheerio = require("cheerio");
 const { forEach } = require("lodash");
 
@@ -51,45 +52,6 @@ async function replaceSpecialLinks(content, options) {
 
   return $.html();
 }
-
-// async function imgToFigure(token) {
-//   alt = token.content;
-//   url = token.attrs[token.attrIndex('src')][1];
-//   console.debug(alt);
-//   console.debug(url);
-    
-//   const splitCaption = alt.split('|');
-//   let caption = splitCaption.shift();
-//   let shouldBlur = false;
-//   let source = "";
-
-//   splitCaption.forEach((itm) => {
-//     if (itm === "blur") {
-//       shouldBlur = true;
-//     } else if (itm.startsWith("http")) {
-//       source = itm
-//     } else {
-//       alt = itm
-//     }
-//   })
-
-//   if (source) {
-//     caption = `${caption} ([source](${source}))`
-//   }
-
-//   // attrs.alt.startsWith('(blur)') ? attrs.alt.replace('(blur)','').trim() : attrs.alt;
-
-//   if (shouldBlur) {
-//     // replace is for images from obsidian.
-//     return await blur(url.replaceAll('%20', ' '), caption, "", alt);
-//   } 
-//     // replace is for images from obsidian.
-//   return await figure(url.replaceAll('%20', ' '), caption, "", alt);   
-      
-    
-  
-// }
-
 
 async function imgToFigure(content) {
   const $ = cheerio.load(content);
@@ -149,6 +111,38 @@ async function imgToFigure(content) {
 
     return $.html();
   // return hasBodyTag(content) ? $.html() : $("body").html();
+}
+
+// Don't update params?
+async function updatePostSocial(post, socialLinks, mastodonPosts) {
+  if (!socialLinks[post.url]) {
+    socialLinks[post.url] = {}
+  }
+  
+
+  if (socialLinks[post.url]['reddit']) {
+    post.data.reddit = socialLinks[post.url]['reddit'];
+  } else {
+    const redditPost = await helpers.searchReddit(post.url);
+    if (redditPost) {
+      post.data.reddit = redditPost;
+
+      socialLinks[post.url]['reddit'] = redditPost;
+    }
+  }
+
+  if (socialLinks[post.url]['mastodon']) {
+    post.data.mastodon = socialLinks[post.url]['mastodon'];
+  } else {
+    toot = helpers.updateToot(post, mastodonPosts);
+    
+    // console.log(`!!!!!!!!!!!!!!! | url ${post.url} | toot ${toot}`);
+    if (toot) {
+      post.data.mastodon = toot;
+
+      socialLinks[post.url]['mastodon'] = toot;
+    }
+  }
 }
 
 module.exports = function(eleventyConfig) {
@@ -213,34 +207,63 @@ module.exports = function(eleventyConfig) {
   //   return collection.getSortedByDate()
   //     .filter(livePosts);
   // });
-  eleventyConfig.addCollection('posts', collection => {
-    return collection.getFilteredByTag('post')
-      // .filter(post => post.data.eleventyExcludeFromCollections !== true)
-      .sort(function(a, b) {
+
+
+  eleventyConfig.addCollection('posts', async collection => {
+    const social = helpers.readSocialLinks();
+    const myToots = await helpers.fetchToots();
+
+    const localPosts = collection.getFilteredByTag('post');
+
+    const newPosts = await Promise.all(localPosts.map(async (post) => {
+      await updatePostSocial(post, social, myToots);
+
+      return post;
+    }));
+
+    helpers.saveSocialLinks(social);
+    
+    return newPosts.sort(function(a, b) {
         const timeA = a.data.createdDate ? a.data.createdDate.getTime() : 0;
         const timeB = b.data.createdDate ? b.data.createdDate.getTime() : 0;
-        // console.log(a.data.title, b.data.title, timeA, timeB);
         return timeA - timeB;
       });
   });
 
-  eleventyConfig.addCollection('notes', collection => {
-    return collection.getFilteredByTag('note')
-      // .filter(post => post.data.eleventyExcludeFromCollections !== true)
+  
+  eleventyConfig.addCollection('notes',async collection => {
+    const social = helpers.readSocialLinks();
+    const myToots = await helpers.fetchToots();
+
+    const localNotes = collection.getFilteredByTag('note');
+    
+    const newNotes = await Promise.all(localNotes.map(async (post) => {
+      await updatePostSocial(post, social, myToots);
+      
+      return post;
+    }));
+
+    helpers.saveSocialLinks(social);
+    
+    return newNotes
       .sort(function(a, b) {
         const timeA = a.data.createdDate ? a.data.createdDate.getTime() : 0;
         const timeB = b.data.createdDate ? b.data.createdDate.getTime() : 0;
-        // console.log(a.data.title, b.data.title, timeA, timeB);
         return timeB - timeA;
       });
   });
+
+
 
   eleventyConfig.addCollection('allthings', collection => {
     const posts = collection.getFilteredByTag('post');
     const notes = collection.getFilteredByTag('note');
     const all = [...posts, ...notes];
 
-    const sorted = all.sort(function (a, b) {
+    const sorted = all.map(item => {
+      item.data.mastodon = 'google.com';
+      return item;
+    }).sort(function (a, b) {
       const timeA = a.data.createdDate
         ? a.data.createdDate.getTime()
         : 0;
@@ -248,14 +271,6 @@ module.exports = function(eleventyConfig) {
       const timeB = b.data.createdDate
         ? b.data.createdDate.getTime()
         : 0;
-
-      // if (
-      //   a.data.title === "" ||
-      //   b.data.title === ""
-      // ) {
-      //   console.log(a.data.title, b.data.title, timeA, timeB, a.data.created_date, b.data.created_date);
-      // }
-
       return timeA - timeB;
     });
 
