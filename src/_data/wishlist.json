@@ -1,5 +1,14 @@
 [
     {
+        "title": "All the Murmuring Bones",
+        "price": 1.99,
+        "cover": "https://kbimages1-a.akamaihd.net/376ddc93-85ca-487a-9527-3e1b4e0de741/353/569/90/False/all-the-murmuring-bones.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/all-the-murmuring-bones",
+        "preorder": "",
+        "isPlus": false,
+        "author": "A.G. Slatter"
+    },
+    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://kbimages1-a.akamaihd.net/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -79,6 +88,15 @@
         "preorder": "",
         "isPlus": false,
         "author": "Rachel Gillig"
+    },
+    {
+        "title": "Slayers: Volume 1",
+        "price": 9.97,
+        "cover": "https://kbimages1-a.akamaihd.net/8f8824bc-1c03-4a82-b665-4af570389975/353/569/90/False/slayers-volume-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/slayers-volume-1",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Hajime Kanzaka"
     },
     {
         "title": "Perry Rhodan NEO: Volume 2 (English Edition)",
