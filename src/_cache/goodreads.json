@@ -17,7 +17,7 @@
         "dateAddedGR": "2023-03-10",
         "bookshelves": "manga, dnf",
         "status": "dnf",
-        "cover": null,
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645494493i/60471386.jpg",
         "goodreadsId": 60471386,
         "goodreadsLink": "https://www.goodreads.com/book/show/60471386",
         "type": "manga"
@@ -77,7 +77,7 @@
         "dateAddedGR": "2022-01-03",
         "bookshelves": "currently-reading",
         "status": "inProgress",
-        "cover": null,
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1616514130i/55145261.jpg",
         "goodreadsId": 55145261,
         "goodreadsLink": "https://www.goodreads.com/book/show/55145261",
         "type": null
@@ -124,7 +124,7 @@
         "dateAddedGR": "2023-03-02",
         "bookshelves": "owned-maybe",
         "status": "maybe",
-        "cover": null,
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663668518i/61266164.jpg",
         "goodreadsId": 61266164,
         "goodreadsLink": "https://www.goodreads.com/book/show/61266164",
         "type": null
