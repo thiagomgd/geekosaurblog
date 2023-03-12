@@ -49,11 +49,11 @@ Indicating next volume to read:
 
 Manga I'm reading by chapters, mostly on Shonen Jump (except for Fire Force). Indicating last chapter read.
 
+- One-Punch Man: 86
 - Black Clover: 350
-- SPY x FAMILY: 61
 - Sakamoto Days: 101
+- SPY x FAMILY: 61
 - One Piece: 802
-- One-Punch Man: 72
 - Kaiju No. 8: 54
 - Fire Force: 273 (of 305)
 - Ruri Dragon: 4 (is on hiatus)
@@ -87,4 +87,3 @@ Manga I'm reading by chapters, mostly on Shonen Jump (except for Fire Force). In
 - Air Gear
 - Oh! My Goddess
 - Yuuna And The Haunted Hot Springs
-- 
