@@ -18,8 +18,17 @@
         "author": "Nanashi"
     },
     {
+        "title": "The Woods Vol. 6",
+        "price": 9.97,
+        "cover": "https://kbimages1-a.akamaihd.net/95533bf8-1316-4bd5-892c-d60bd52ea4c6/353/569/90/False/the-woods-vol-6.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-woods-vol-6",
+        "preorder": "",
+        "isPlus": true,
+        "author": "James Tynion IV"
+    },
+    {
         "title": "Mieruko-chan, Vol. 7",
-        "price": 8.99,
+        "price": 9.99,
         "cover": "https://kbimages1-a.akamaihd.net/09352f46-7035-48c5-bf1b-5324ea390679/353/569/90/False/mieruko-chan-vol-7.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/mieruko-chan-vol-7",
         "preorder": "Available Apr 18, 2023",
@@ -28,21 +37,12 @@
     },
     {
         "title": "Delicious in Dungeon, Vol. 11",
-        "price": 8.99,
+        "price": 9.99,
         "cover": "https://kbimages1-a.akamaihd.net/8eab101b-1e6d-4704-9b67-7df23d019522/353/569/90/False/delicious-in-dungeon-vol-11.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/delicious-in-dungeon-vol-11",
         "preorder": "",
         "isPlus": false,
         "author": "Ryoko Kui"
-    },
-    {
-        "title": "The Woods Vol. 6",
-        "price": 9.97,
-        "cover": "https://kbimages1-a.akamaihd.net/95533bf8-1316-4bd5-892c-d60bd52ea4c6/353/569/90/False/the-woods-vol-6.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-woods-vol-6",
-        "preorder": "",
-        "isPlus": true,
-        "author": "James Tynion IV"
     },
     {
         "title": "Yozakura Quartet 1",
