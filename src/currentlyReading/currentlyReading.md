@@ -1,11 +1,13 @@
 ---
 layout: layouts/post.njk
-title: Currently Reading
+title: Reading
 templateClass: tmpl-post
 eleventyNavigation:
-  key: Currently Reading
+  key: Reading
   order: 4
 ---
+
+Jump to [Manga](#manga)
 
 ## Books
 

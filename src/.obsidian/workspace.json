@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "6187a072433a7bcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/2023-03-03-05-00.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "ea010ccc26c903b4",
             "type": "leaf",
             "pinned": true,
@@ -60,8 +48,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "3ac8b0a451256f93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "currentlyWatching/currentlyWatching.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "currentlyReading/currentlyReading.md",
+                "file": "currentlyWatching/currentlyWatching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "currentlyReading/currentlyReading.md",
+                "file": "currentlyWatching/currentlyWatching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "currentlyReading/currentlyReading.md"
+                "file": "currentlyWatching/currentlyWatching.md"
               }
             }
           }
@@ -188,8 +189,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdb6bbf0b77d6c49",
+  "active": "3ac8b0a451256f93",
   "lastOpenFiles": [
+    "currentlyReading/currentlyReading.md",
+    "currentlyWatching/currentlyWatching.md",
+    "currentlyWatching/currentlyReading 1.md",
+    "currentlyReading/currentlyReading 1.md",
+    "currentlyWatching",
+    "Untitled",
+    "currentlyReading/Untitled",
     "img/geekosaur-news-29.png",
     "posts/news/geekosaur-news-29.md",
     "posts/news/geekosaur-news-28 1.md",
@@ -201,7 +209,6 @@
     "templates/note_template.md",
     "posts/2023/2023-anticipated-books.md",
     "posts/news/geekosaur-news-27.md",
-    "currentlyReading/currentlyReading.md",
     "img/geekosaur-news-28-figures.jpg",
     "posts/2023/Untitled.md",
     "notes/00aa3093-e352-43d6-8604-ca5a7d8f518a.md",
