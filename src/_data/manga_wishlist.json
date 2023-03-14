@@ -1,5 +1,14 @@
 [
     {
+        "title": "Don't Toy With Me, Miss Nagatoro 4",
+        "price": 3.99,
+        "cover": "https://kbimages1-a.akamaihd.net/9ac0a195-1f1f-4f27-b12d-7666b9a35909/353/569/90/False/don-t-toy-with-me-miss-nagatoro-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/don-t-toy-with-me-miss-nagatoro-4",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Nanashi"
+    },
+    {
         "title": "Call of the Night, Vol. 1",
         "price": 7.99,
         "cover": "https://kbimages1-a.akamaihd.net/d78d0ea7-bc77-4ae6-b4c1-fdbf6f0f437f/353/569/90/False/call-of-the-night-vol-1.jpg",
@@ -9,13 +18,13 @@
         "author": "Kotoyama"
     },
     {
-        "title": "Don't Toy With Me, Miss Nagatoro 4",
-        "price": 7.99,
-        "cover": "https://kbimages1-a.akamaihd.net/9ac0a195-1f1f-4f27-b12d-7666b9a35909/353/569/90/False/don-t-toy-with-me-miss-nagatoro-4.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/don-t-toy-with-me-miss-nagatoro-4",
+        "title": "Air Gear Omnibus 3",
+        "price": 8.99,
+        "cover": "https://kbimages1-a.akamaihd.net/58211c4a-e8f2-4ee9-b6ec-a3db71c550f4/353/569/90/False/air-gear-omnibus-3-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/air-gear-omnibus-3-1",
         "preorder": "",
-        "isPlus": false,
-        "author": "Nanashi"
+        "isPlus": true,
+        "author": "Oh!great"
     },
     {
         "title": "The Woods Vol. 6",
@@ -45,15 +54,6 @@
         "author": "Ryoko Kui"
     },
     {
-        "title": "Yozakura Quartet 1",
-        "price": 9.99,
-        "cover": "https://kbimages1-a.akamaihd.net/afbde04f-8647-445e-961c-d98e24e7dd15/353/569/90/False/yozakura-quartet-1-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/yozakura-quartet-1-1",
-        "preorder": "",
-        "isPlus": true,
-        "author": "Suzuhito Yasuda"
-    },
-    {
         "title": "Pretty Guardian Sailor Moon Eternal Edition 1",
         "price": 11.99,
         "cover": "https://kbimages1-a.akamaihd.net/b4f5be8b-1492-4526-9ed9-5021ccf21de3/353/569/90/False/pretty-guardian-sailor-moon-eternal-edition-1.jpg",
@@ -70,14 +70,5 @@
         "preorder": "",
         "isPlus": false,
         "author": "Eiji Masuda"
-    },
-    {
-        "title": "Air Gear Omnibus 3",
-        "price": 15.99,
-        "cover": "https://kbimages1-a.akamaihd.net/58211c4a-e8f2-4ee9-b6ec-a3db71c550f4/353/569/90/False/air-gear-omnibus-3-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/air-gear-omnibus-3-1",
-        "preorder": "",
-        "isPlus": true,
-        "author": "Oh!great"
     }
 ]
