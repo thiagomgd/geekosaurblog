@@ -17,13 +17,16 @@ Jump to [Anime](#anime)
 - Columbo (S5 - occasional)
 
 **Next**:
+- Yellowjackets (S2)
 - The Last of Us
 - Ted Lasso S3
 - Schmigadoon S2
 - Carnival Row S2
 
+** Waiting For Release **
+- Shining Vale (S2)
+
 **At some point**:
-- 
 - The Marvelous Ms. Maisel (S3)
 - The Boys (S3)
 - Fortitude (S3)
