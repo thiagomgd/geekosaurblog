@@ -42,17 +42,13 @@ Jump to [Anime](#anime)
 ## Anime
 
 **Current**:
-- 
 
 **Next**:
-- Movies:
-	- [Saekano the Movie: Finale](https://anilist.co/anime/100675/Saekano-the-Movie-Finale/)
-	- All Hibike! Euphonium movies
-	- 
+- [Saekano the Movie: Finale](https://anilist.co/anime/100675/Saekano-the-Movie-Finale/)
+- All Hibike! Euphonium movies
 
 **At some point**:
 - [Summer Time Rendering](https://anilist.co/anime/129201/Summer-Time-Rendering/)
-- 
 
 **Paused/On Hold**
 - [Do It Yourself!!](https://anilist.co/anime/131516/Do-It-Yourself/)
