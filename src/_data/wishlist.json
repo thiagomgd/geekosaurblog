@@ -18,6 +18,15 @@
         "author": "Cait Flanders"
     },
     {
+        "title": "Midnight's Children",
+        "price": 3.99,
+        "cover": "https://kbimages1-a.akamaihd.net/03240bbe-2ae1-41e3-bb39-c00305e30573/353/569/90/False/midnight-s-children-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/midnight-s-children-1",
+        "preorder": "",
+        "isPlus": false,
+        "author": "Salman Rushdie"
+    },
+    {
         "title": "Mindwalker",
         "price": 5.99,
         "cover": "https://kbimages1-a.akamaihd.net/552b7753-013a-4cd4-9077-e8335e07695b/353/569/90/False/mindwalker-5.jpg",
@@ -232,15 +241,6 @@
         "preorder": "",
         "isPlus": false,
         "author": "Marie Brennan"
-    },
-    {
-        "title": "Midnight's Children",
-        "price": 11.99,
-        "cover": "https://kbimages1-a.akamaihd.net/03240bbe-2ae1-41e3-bb39-c00305e30573/353/569/90/False/midnight-s-children-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/midnight-s-children-1",
-        "preorder": "",
-        "isPlus": false,
-        "author": "Salman Rushdie"
     },
     {
         "title": "The Sacrifice",
