@@ -51,7 +51,7 @@ Indicating next volume to read:
 
 Manga I'm reading by chapters, mostly on Shonen Jump (except for Fire Force). Indicating last chapter read.
 
-- One-Punch Man: 86
+- One-Punch Man: 111
 - Black Clover: 350
 - Sakamoto Days: 101
 - SPY x FAMILY: 61

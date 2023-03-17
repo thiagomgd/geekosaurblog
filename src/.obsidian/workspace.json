@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "currentlyWatching/currentlyWatching.md",
+                "file": "currentlyReading/currentlyReading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "currentlyWatching/currentlyWatching.md",
+                "file": "currentlyReading/currentlyReading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "currentlyWatching/currentlyWatching.md"
+                "file": "currentlyReading/currentlyReading.md"
               }
             }
           }
@@ -189,10 +188,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ac8b0a451256f93",
+  "active": "cdb6bbf0b77d6c49",
   "lastOpenFiles": [
-    "currentlyReading/currentlyReading.md",
     "currentlyWatching/currentlyWatching.md",
+    "currentlyReading/currentlyReading.md",
     "currentlyWatching/currentlyReading 1.md",
     "currentlyReading/currentlyReading 1.md",
     "currentlyWatching",
