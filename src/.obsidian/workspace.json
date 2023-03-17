@@ -55,13 +55,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "currentlyWatching/currentlyWatching.md",
+                "file": "notes/2023-03-17-12-48.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "currentlyReading/currentlyReading.md",
+                "file": "notes/2023-03-17-12-48.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "currentlyReading/currentlyReading.md",
+                "file": "notes/2023-03-17-12-48.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "currentlyReading/currentlyReading.md"
+                "file": "notes/2023-03-17-12-48.md"
               }
             }
           }
@@ -188,10 +189,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdb6bbf0b77d6c49",
+  "active": "3ac8b0a451256f93",
   "lastOpenFiles": [
-    "currentlyWatching/currentlyWatching.md",
+    "img/2023-03-17-12-48.png",
     "currentlyReading/currentlyReading.md",
+    "notes/2023-03-17-12-48.md",
+    "currentlyWatching/currentlyWatching.md",
     "currentlyWatching/currentlyReading 1.md",
     "currentlyReading/currentlyReading 1.md",
     "currentlyWatching",
