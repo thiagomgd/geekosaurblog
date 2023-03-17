@@ -48,21 +48,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "3ac8b0a451256f93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/2023-03-17-12-48.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/2023-03-17-12-48.md",
+                "file": "posts/2023/2023-anticipated-books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/2023-03-17-12-48.md",
+                "file": "posts/2023/2023-anticipated-books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/2023-03-17-12-48.md"
+                "file": "posts/2023/2023-anticipated-books.md"
               }
             }
           }
@@ -189,11 +177,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ac8b0a451256f93",
+  "active": "b01d9ab657a5a07e",
   "lastOpenFiles": [
+    "templates/note_template.md",
+    "notes/2023-03-17-12-48.md",
     "img/2023-03-17-12-48.png",
     "currentlyReading/currentlyReading.md",
-    "notes/2023-03-17-12-48.md",
     "currentlyWatching/currentlyWatching.md",
     "currentlyWatching/currentlyReading 1.md",
     "currentlyReading/currentlyReading 1.md",
@@ -208,7 +197,6 @@
     "_data/social.json",
     "_data/post_social_share.json",
     "posts/news/geekosaur-news-26.md",
-    "templates/note_template.md",
     "posts/2023/2023-anticipated-books.md",
     "posts/news/geekosaur-news-27.md",
     "img/geekosaur-news-28-figures.jpg",
