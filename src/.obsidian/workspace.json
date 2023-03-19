@@ -48,9 +48,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "31dbe857f1764b2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/note_template.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2023/2023-anticipated-books.md",
+                "file": "templates/note_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2023/2023-anticipated-books.md",
+                "file": "templates/note_template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2023/2023-anticipated-books.md"
+                "file": "templates/note_template.md"
               }
             }
           }
@@ -177,8 +189,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b01d9ab657a5a07e",
+  "active": "31dbe857f1764b2e",
   "lastOpenFiles": [
+    "posts/2023/2023-anticipated-books.md",
     "templates/note_template.md",
     "notes/2023-03-17-12-48.md",
     "img/2023-03-17-12-48.png",
@@ -197,7 +210,6 @@
     "_data/social.json",
     "_data/post_social_share.json",
     "posts/news/geekosaur-news-26.md",
-    "posts/2023/2023-anticipated-books.md",
     "posts/news/geekosaur-news-27.md",
     "img/geekosaur-news-28-figures.jpg",
     "posts/2023/Untitled.md",
