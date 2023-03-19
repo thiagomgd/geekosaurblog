@@ -24,7 +24,7 @@ templateClass: tmpl-post
     {{ content | safe }}
 
     {% for image in images %}
-      {% figure image %}
+      {% figure image, "", "u-photo" %}
     {% endfor %}
 
     {% if replyTo %}

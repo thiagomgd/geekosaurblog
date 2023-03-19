@@ -6,6 +6,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/all-the-murmuring-bones",
         "preorder": "",
         "isPlus": false,
+        "isSale": true,
         "author": "A.G. Slatter"
     },
     {
@@ -15,6 +16,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/the-year-of-less-2",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Cait Flanders"
     },
     {
@@ -24,6 +26,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/midnight-s-children-1",
         "preorder": "",
         "isPlus": false,
+        "isSale": true,
         "author": "Salman Rushdie"
     },
     {
@@ -33,6 +36,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/mindwalker-5",
         "preorder": "",
         "isPlus": false,
+        "isSale": true,
         "author": "Kate Dylan"
     },
     {
@@ -42,6 +46,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/bluebird-19",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Ciel Pierlot"
     },
     {
@@ -51,6 +56,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/how-we-learn-3",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Benedict Carey"
     },
     {
@@ -60,6 +66,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/spellcasting-in-silk",
         "preorder": "",
         "isPlus": false,
+        "isSale": true,
         "author": "Juliet Blackwell"
     },
     {
@@ -69,6 +76,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/bookmarked-for-death",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Lorna Barrett"
     },
     {
@@ -78,6 +86,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/a-midwinter-s-tail",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Sofie Kelly"
     },
     {
@@ -87,6 +96,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/the-tale-of-holly-how",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Susan Wittig Albert"
     },
     {
@@ -96,6 +106,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Rachel Gillig"
     },
     {
@@ -105,6 +116,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/slayers-volume-1",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Hajime Kanzaka"
     },
     {
@@ -114,6 +126,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/perry-rhodan-neo-volume-2-english-edition",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Leo Lukas"
     },
     {
@@ -123,6 +136,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/but-you-don-t-look-autistic-at-all",
         "preorder": "",
         "isPlus": true,
+        "isSale": false,
         "author": "Bianca Toeps"
     },
     {
@@ -132,6 +146,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/an-accident-of-stars",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Foz Meadows"
     },
     {
@@ -141,6 +156,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/ghost-girl-17",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Ally Malinenko"
     },
     {
@@ -150,6 +166,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/monster-club-1-1",
         "preorder": "",
         "isPlus": false,
+        "isSale": true,
         "author": "Darren Aronofsky"
     },
     {
@@ -159,6 +176,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/revelle-1",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Lyssa Mia Smith"
     },
     {
@@ -168,6 +186,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/reign-of-the-seven-spellblades-vol-1-light-novel",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Bokuto Uno"
     },
     {
@@ -177,6 +196,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/hamra-and-the-jungle-of-memories-1",
         "preorder": "Available Mar 28, 2023",
         "isPlus": false,
+        "isSale": false,
         "author": "Hanna Alkaf"
     },
     {
@@ -186,6 +206,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/durarara-vol-2-light-novel-2",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Ryohgo Narita"
     },
     {
@@ -195,6 +216,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/bottom-tier-character-tomozaki-vol-4-light-novel",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Yuki Yaku"
     },
     {
@@ -204,6 +226,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/spineless-8",
         "preorder": "",
         "isPlus": true,
+        "isSale": false,
         "author": "Samantha San Miguel"
     },
     {
@@ -213,6 +236,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/flowerheart-1",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Catherine Bakewell"
     },
     {
@@ -222,6 +246,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/the-lake-house-22",
         "preorder": "Available Apr 25, 2023",
         "isPlus": false,
+        "isSale": false,
         "author": "Sarah Beth Durst"
     },
     {
@@ -231,6 +256,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/house-of-suns-2",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Alastair Reynolds"
     },
     {
@@ -240,6 +266,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/a-natural-history-of-dragons",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Marie Brennan"
     },
     {
@@ -249,6 +276,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/the-sacrifice-79",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Rin Chupeco"
     },
     {
@@ -258,6 +286,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/catfish-rolling-2",
         "preorder": "Available Oct 17, 2023",
         "isPlus": false,
+        "isSale": false,
         "author": "Clara Kumagai"
     },
     {
@@ -267,6 +296,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/on-the-edge-of-gone",
         "preorder": "",
         "isPlus": true,
+        "isSale": false,
         "author": "Corinne Duyvis"
     },
     {
@@ -276,6 +306,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/black-tide-27",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "KC Jones"
     },
     {
@@ -285,6 +316,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/ghostlight-6",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Kenneth Oppel"
     },
     {
@@ -294,6 +326,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/irina-the-vampire-cosmonaut-light-novel-vol-1",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Keisuke Makino"
     },
     {
@@ -303,6 +336,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/these-silent-woods",
         "preorder": "",
         "isPlus": false,
+        "isSale": true,
         "author": "Kimi Cunningham Grant"
     },
     {
@@ -312,6 +346,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/swan-dive-14",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Georgina Pazcoguin"
     },
     {
@@ -321,6 +356,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/no-time-like-the-future-1",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Michael J. Fox"
     },
     {
@@ -330,6 +366,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/paradise-1-1",
         "preorder": "Available Apr 4, 2023",
         "isPlus": false,
+        "isSale": false,
         "author": "David Wellington"
     },
     {
@@ -339,6 +376,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/silverborn-the-mystery-of-morrigan-crow",
         "preorder": "Available Oct 10, 2023",
         "isPlus": false,
+        "isSale": false,
         "author": "Jessica Townsend"
     },
     {
@@ -348,6 +386,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/dead-silence-27",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "S.A. Barnes"
     },
     {
@@ -357,6 +396,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/vera-wong-s-unsolicited-advice-for-murderers-1",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Jesse Q. Sutanto"
     },
     {
@@ -366,6 +406,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/hunt-on-dark-waters",
         "preorder": "Available Nov 7, 2023",
         "isPlus": false,
+        "isSale": false,
         "author": "Katee Robert"
     },
     {
@@ -375,6 +416,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/black-sun-27",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Rebecca Roanhorse"
     },
     {
@@ -384,6 +426,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/the-satanic-verses",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Salman Rushdie"
     },
     {
@@ -393,6 +436,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/the-master-and-margarita-9",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Mikhail Bulgakov"
     },
     {
@@ -402,6 +446,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/unseelie-2",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Ivelisse Housman"
     },
     {
@@ -411,6 +456,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/home-before-dark-22",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Riley Sager"
     },
     {
@@ -420,6 +466,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/of-manners-and-murder",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Anastasia Hastings"
     },
     {
@@ -429,6 +476,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/tell-me-i-m-worthless-1",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Alison Rumfitt"
     },
     {
@@ -438,6 +486,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/sweep-of-stars",
         "preorder": "",
         "isPlus": false,
+        "isSale": true,
         "author": "Maurice Broaddus"
     },
     {
@@ -447,6 +496,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/until-the-end-of-time-20",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Brian Greene"
     },
     {
@@ -456,6 +506,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/children-of-time-3",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Adrian Tchaikovsky"
     },
     {
@@ -465,6 +516,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/tell-me-pleasant-things-about-immortality",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Lindsay Wong"
     },
     {
@@ -474,6 +526,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/gory-details-2",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Erika Engelhaupt"
     },
     {
@@ -483,6 +536,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/nocturne-95",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Alyssa Wees"
     },
     {
@@ -492,6 +546,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/silver-nitrate-2",
         "preorder": "Available Jul 18, 2023",
         "isPlus": false,
+        "isSale": false,
         "author": "Silvia Moreno-Garcia"
     },
     {
@@ -501,6 +556,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/our-share-of-night",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Mariana Enriquez"
     },
     {
@@ -510,6 +566,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/neurotribes",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Steve Silberman"
     },
     {
@@ -519,6 +576,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/the-body-keeps-the-score",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Bessel van der Kolk M.D."
     },
     {
@@ -528,6 +586,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/antimatter-blues-1",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Edward Ashton"
     },
     {
@@ -537,6 +596,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/the-design-of-everyday-things-6",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Don Norman"
     },
     {
@@ -546,6 +606,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/convenience-store-woman-6",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Sayaka Murata"
     },
     {
@@ -555,6 +616,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/fractal-noise",
         "preorder": "Available May 16, 2023",
         "isPlus": false,
+        "isSale": false,
         "author": "Christopher Paolini"
     },
     {
@@ -564,6 +626,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/the-adventures-of-amina-al-sirafi-1",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Shannon Chakraborty"
     },
     {
@@ -573,6 +636,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/dying-of-politeness-1",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Geena Davis"
     },
     {
@@ -582,6 +646,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/earthlings-3",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Sayaka Murata"
     },
     {
@@ -591,6 +656,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/the-london-seance-society",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Sarah Penner"
     },
     {
@@ -600,6 +666,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/letters-to-a-young-poet-the-norton-centenary-edition",
         "preorder": "Available May 23, 2023",
         "isPlus": false,
+        "isSale": false,
         "author": "Rainer Maria Rilke"
     },
     {
@@ -609,6 +676,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/immortal-longings-5",
         "preorder": "Available Jul 25, 2023",
         "isPlus": false,
+        "isSale": false,
         "author": "Chloe Gong"
     },
     {
@@ -618,6 +686,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/the-best-interface-is-no-interface",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Golden Krishna"
     },
     {
@@ -627,6 +696,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/don-t-make-me-think-a-common-sense-approach-to-web-usability-1",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Steve Krug"
     }
 ]

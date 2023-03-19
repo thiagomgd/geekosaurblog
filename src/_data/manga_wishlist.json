@@ -6,6 +6,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/don-t-toy-with-me-miss-nagatoro-4",
         "preorder": "",
         "isPlus": false,
+        "isSale": true,
         "author": "Nanashi"
     },
     {
@@ -15,6 +16,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/call-of-the-night-vol-1",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Kotoyama"
     },
     {
@@ -24,6 +26,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/air-gear-omnibus-3-1",
         "preorder": "",
         "isPlus": true,
+        "isSale": true,
         "author": "Oh!great"
     },
     {
@@ -33,6 +36,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/the-woods-vol-6",
         "preorder": "",
         "isPlus": true,
+        "isSale": false,
         "author": "James Tynion IV"
     },
     {
@@ -42,6 +46,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/mieruko-chan-vol-7",
         "preorder": "Available Apr 18, 2023",
         "isPlus": false,
+        "isSale": false,
         "author": "Tomoki Izumi"
     },
     {
@@ -51,6 +56,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/delicious-in-dungeon-vol-11",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Ryoko Kui"
     },
     {
@@ -60,6 +66,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/pretty-guardian-sailor-moon-eternal-edition-1",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Naoko Takeuchi"
     },
     {
@@ -69,6 +76,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/my-monster-secret-vol-1",
         "preorder": "",
         "isPlus": false,
+        "isSale": false,
         "author": "Eiji Masuda"
     }
 ]
