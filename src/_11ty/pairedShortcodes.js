@@ -66,15 +66,15 @@ ${readMoreSection}
 </div>`;
 };
 
-const wishlistCard = (_content, title, author, link, image, price, preorder, isPlus) => {
+const wishlistCard = (_content, title, author, link, image, price, preorder, isPlus, onSale) => {
 
   const koboPlus = isPlus === true ? "K+ <br/>" : "";
-  const extraClass = isPlus === true 
-      ? "blog-card-koboPlus" 
-      : preorder 
-      ? "blog-card-preorder" 
-      : "";
-      
+  const extraClass = [];
+  
+  isPlus === true && extraClass.push("blog-card-koboPlus");
+  preorder === true && extraClass.push("blog-card-preorder");
+  onSale === true && extraClass.push("blog-card-onsale");
+
   const content = `${koboPlus}${price}<br/>${preorder}`
   // const a = url(title)
   // TODO - add author
@@ -85,7 +85,7 @@ const wishlistCard = (_content, title, author, link, image, price, preorder, isP
     title: `${title} (${author})`, 
     image: image,
     url: link, 
-    extraClass: extraClass,
+    extraClass: extraClass.join(" "),
     extraCTALink: searchIndigoLink, 
     extraCTAText: "Search Indigo" 
   })

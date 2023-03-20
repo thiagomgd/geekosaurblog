@@ -33,6 +33,20 @@ function togglePreorder() {
   }
   
 }
+
+function toggleOnSale() {
+  var divs = document.querySelectorAll(".blog-card:not(.blog-card-onsale)");
+
+  for (i = 0; i < divs.length; ++i) {
+    x = divs[i];
+    if (x?.style?.display === "none") {
+      x.style.display = "flex";
+    } else {
+      x.style.display = "none";
+    }
+  }
+  
+}
 </script>
 
 <section class="content-780">
@@ -44,17 +58,19 @@ function togglePreorder() {
 
 <button onClick="togglePreorder()">Toggle Pre-Order</button>
 
+<button onClick="toggleOnSale()">Toggle On Sale</button>
+
 <h2>Books</h2>
 
 {% for book in wishlist %}
-  {% wishlistCard book.title, book.author, book.url, book.cover, book.price, book.preorder, book.isPlus %}
+  {% wishlistCard book.title, book.author, book.url, book.cover, book.price, book.preorder, book.isPlus, book.isSale %}
   {% endwishlistCard %}
 {% endfor %}
 
 <h2>Manga/Comics</h2>
 
 {% for manga in manga_wishlist %}
-  {% wishlistCard manga.title, manga.author, manga.url, manga.cover, manga.price, manga.preorder, manga.isPlus %}
+  {% wishlistCard manga.title, manga.author, manga.url, manga.cover, manga.price, manga.preorder, manga.isPlus, book.isSale %}
   {% endwishlistCard %}
 {% endfor %}
 
