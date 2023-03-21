@@ -640,6 +640,16 @@
         "author": "Geena Davis"
     },
     {
+        "title": "Immortal Longings",
+        "price": 17.99,
+        "cover": "https://kbimages1-a.akamaihd.net/f63eb541-9a5f-42a6-a9b4-40ffbb099f64/353/569/90/False/immortal-longings-5.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/immortal-longings-5",
+        "preorder": "Available Jul 25, 2023",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Chloe Gong"
+    },
+    {
         "title": "Earthlings",
         "price": 18.99,
         "cover": "https://kbimages1-a.akamaihd.net/af364c10-e532-4007-bdf9-68e270ddf022/353/569/90/False/earthlings-3.jpg",
@@ -668,16 +678,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Rainer Maria Rilke"
-    },
-    {
-        "title": "Immortal Longings",
-        "price": 20.99,
-        "cover": "https://kbimages1-a.akamaihd.net/f63eb541-9a5f-42a6-a9b4-40ffbb099f64/353/569/90/False/immortal-longings-5.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/immortal-longings-5",
-        "preorder": "Available Jul 25, 2023",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Chloe Gong"
     },
     {
         "title": "The Best Interface Is No Interface",

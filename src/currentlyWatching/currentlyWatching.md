@@ -13,7 +13,6 @@ Jump to [Anime](#anime)
 
 **Current**:
 - That 70's Show
-- Servant
 - Columbo (S5 - occasional)
 
 **Next**:
@@ -44,7 +43,7 @@ Jump to [Anime](#anime)
 
 ## Anime
 
-**Current**:
+**Current**: Nothing
 
 **Next**:
 - [Saekano the Movie: Finale](https://anilist.co/anime/100675/Saekano-the-Movie-Finale/)

@@ -12,7 +12,7 @@ Jump to [Manga](#manga)
 ## Books
 
 **Current**:
-- The Anthropocene Reviewed by John Green
+- 
 
 **Next**:
 - Dust by Hugh Howey

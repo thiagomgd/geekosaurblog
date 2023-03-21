@@ -1,4 +1,220 @@
 {
+    "55145261": {
+        "title": "The Anthropocene Reviewed",
+        "author": [
+            "John Green"
+        ],
+        "insb10": "0525555218",
+        "isbn13": "9780525555216",
+        "rating": 5.0,
+        "averageRating": null,
+        "publisher": "Dutton",
+        "binding": "Hardcover",
+        "pages": 293,
+        "yearPublished": 2021,
+        "originalPublicationYear": 2021,
+        "dateRead": "2023-03-20",
+        "dateAddedGR": "2022-01-03",
+        "bookshelves": "",
+        "status": "finished",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1616514130i/55145261.jpg",
+        "goodreadsId": 55145261,
+        "goodreadsLink": "https://www.goodreads.com/book/show/55145261",
+        "type": "book",
+        "setting": [
+            {
+                "__typename": "Places",
+                "name": "Indianapolis, Indiana",
+                "countryName": "United States",
+                "webUrl": "https://www.goodreads.com/places/1921-indianapolis-indiana",
+                "year": null
+            }
+        ],
+        "yearRead": 2023
+    },
+    "48496097": {
+        "title": "The Mountain",
+        "author": [
+            "Laura Ding-Edwards"
+        ],
+        "insb10": "1912779900",
+        "isbn13": "9781912779901",
+        "rating": 0.0,
+        "averageRating": null,
+        "publisher": "That Guy\u2019s House",
+        "binding": "Paperback",
+        "pages": 128,
+        "yearPublished": 2019,
+        "originalPublicationYear": null,
+        "dateRead": null,
+        "dateAddedGR": "2023-03-19",
+        "bookshelves": "tbr-owned",
+        "status": "tbr/owned",
+        "cover": null,
+        "goodreadsId": 48496097,
+        "goodreadsLink": "https://www.goodreads.com/book/show/48496097",
+        "type": null
+    },
+    "59219322": {
+        "title": "One-Punch Man, Vol. 23",
+        "author": [
+            "ONE"
+        ],
+        "insb10": null,
+        "isbn13": null,
+        "rating": 0.0,
+        "averageRating": null,
+        "publisher": "VIZ Media: SHONEN JUMP",
+        "binding": "Kindle Edition",
+        "pages": 232,
+        "yearPublished": 2021,
+        "originalPublicationYear": 2021,
+        "dateRead": null,
+        "dateAddedGR": "2023-03-18",
+        "bookshelves": "manga",
+        "status": "finished",
+        "cover": null,
+        "goodreadsId": 59219322,
+        "goodreadsLink": "https://www.goodreads.com/book/show/59219322",
+        "type": "manga"
+    },
+    "58206033": {
+        "title": "One-Punch Man, Vol. 22: Light",
+        "author": [
+            "ONE"
+        ],
+        "insb10": null,
+        "isbn13": null,
+        "rating": 0.0,
+        "averageRating": null,
+        "publisher": "",
+        "binding": "Kindle Edition",
+        "pages": null,
+        "yearPublished": 2021,
+        "originalPublicationYear": 2020,
+        "dateRead": null,
+        "dateAddedGR": "2023-03-18",
+        "bookshelves": "manga",
+        "status": "finished",
+        "cover": null,
+        "goodreadsId": 58206033,
+        "goodreadsLink": "https://www.goodreads.com/book/show/58206033",
+        "type": "manga"
+    },
+    "22609227": {
+        "title": "Ranma 1/2 (2-in-1 Edition), Vol. 8: Includes Volumes 15 & 16",
+        "author": [
+            "Rumiko Takahashi"
+        ],
+        "insb10": "1421566214",
+        "isbn13": "9781421566214",
+        "rating": 0.0,
+        "averageRating": null,
+        "publisher": "VIZ Media LLC",
+        "binding": "Paperback",
+        "pages": 368,
+        "yearPublished": 2015,
+        "originalPublicationYear": 2015,
+        "dateRead": null,
+        "dateAddedGR": "2023-02-26",
+        "bookshelves": "manga",
+        "status": "finished",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422297115i/22609227.jpg",
+        "goodreadsId": 22609227,
+        "goodreadsLink": "https://www.goodreads.com/book/show/22609227",
+        "type": "manga",
+        "series": "Ranma \u00bd: 2-in-1 Edition",
+        "setting": []
+    },
+    "56977710": {
+        "title": "Mieruko-chan, Vol. 3 (Mieruko-chan, #3)",
+        "author": [
+            "Tomoki Izumi"
+        ],
+        "insb10": null,
+        "isbn13": null,
+        "rating": 4.0,
+        "averageRating": null,
+        "publisher": "Yen Press",
+        "binding": "Kindle Edition",
+        "pages": null,
+        "yearPublished": 2021,
+        "originalPublicationYear": 2020,
+        "dateRead": "2021-09-17",
+        "dateAddedGR": "2021-09-17",
+        "bookshelves": "manga",
+        "status": "finished",
+        "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624949979l/56977710._SY475_.jpg",
+        "goodreadsId": 56977710,
+        "goodreadsLink": "https://www.goodreads.com/book/show/56977710",
+        "series": "Mieruko-chan",
+        "numberInSeries": 3,
+        "genres": [
+            "Sequential Art",
+            "Manga",
+            "Horror",
+            "Comics",
+            "Humor",
+            "Fantasy",
+            "Supernatural",
+            "Comedy",
+            "Fiction",
+            "Graphic Novels Manga",
+            "Young Adult",
+            "Comics Manga"
+        ],
+        "type": "manga",
+        "yearRead": 2021,
+        "setting": []
+    },
+    "25497034": {
+        "title": "The Sans Pareil Mystery (Detective Lavender Mysteries #2)",
+        "author": [
+            "Karen Charlton"
+        ],
+        "insb10": "1503947823",
+        "isbn13": "9781503947825",
+        "rating": 3.0,
+        "averageRating": null,
+        "publisher": "Thomas & Mercer",
+        "binding": "Paperback",
+        "pages": 336,
+        "yearPublished": 2015,
+        "originalPublicationYear": 2015,
+        "dateRead": "2017-07-11",
+        "dateAddedGR": "2018-07-16",
+        "bookshelves": "",
+        "status": "finished",
+        "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438864184l/25497034._SX318_.jpg",
+        "goodreadsId": 25497034,
+        "goodreadsLink": "https://www.goodreads.com/book/show/25497034",
+        "series": "Detective Lavender Mysteries",
+        "numberInSeries": 2,
+        "genres": [
+            "Mystery",
+            "Historical",
+            "Historical Fiction",
+            "Historical Mystery",
+            "Fiction",
+            "Audiobook",
+            "Crime",
+            "Regency",
+            "Cozy Mystery",
+            "European Literature",
+            "British Literature"
+        ],
+        "type": "book",
+        "yearRead": 2017,
+        "setting": [
+            {
+                "__typename": "Places",
+                "name": "London, England",
+                "countryName": null,
+                "webUrl": "https://www.goodreads.com/places/850-london-england",
+                "year": 1810
+            }
+        ]
+    },
     "55473418": {
         "title": "One-Punch Man, Vol. 21: In An Instant",
         "author": [
@@ -284,38 +500,6 @@
             }
         ]
     },
-    "55145261": {
-        "title": "The Anthropocene Reviewed",
-        "author": [
-            "John Green"
-        ],
-        "insb10": "0525555218",
-        "isbn13": "9780525555216",
-        "rating": 0.0,
-        "averageRating": null,
-        "publisher": "Dutton",
-        "binding": "Hardcover",
-        "pages": 293,
-        "yearPublished": 2021,
-        "originalPublicationYear": 2021,
-        "dateRead": null,
-        "dateAddedGR": "2022-01-03",
-        "bookshelves": "currently-reading",
-        "status": "inProgress",
-        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1616514130i/55145261.jpg",
-        "goodreadsId": 55145261,
-        "goodreadsLink": "https://www.goodreads.com/book/show/55145261",
-        "type": "book",
-        "setting": [
-            {
-                "__typename": "Places",
-                "name": "Indianapolis, Indiana",
-                "countryName": "United States",
-                "webUrl": "https://www.goodreads.com/places/1921-indianapolis-indiana",
-                "year": null
-            }
-        ]
-    },
     "60784841": {
         "title": "She Is a Haunting",
         "author": [
@@ -431,31 +615,6 @@
         "series": "Ranma \u00bd: 2-in-1 Edition",
         "setting": []
     },
-    "22609227": {
-        "title": "Ranma 1/2 (2-in-1 Edition), Vol. 8: Includes Volumes 15 & 16",
-        "author": [
-            "Rumiko Takahashi"
-        ],
-        "insb10": "1421566214",
-        "isbn13": "9781421566214",
-        "rating": 0.0,
-        "averageRating": null,
-        "publisher": "VIZ Media LLC",
-        "binding": "Paperback",
-        "pages": 368,
-        "yearPublished": 2015,
-        "originalPublicationYear": 2015,
-        "dateRead": null,
-        "dateAddedGR": "2023-02-26",
-        "bookshelves": "",
-        "status": "finished",
-        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422297115i/22609227.jpg",
-        "goodreadsId": 22609227,
-        "goodreadsLink": "https://www.goodreads.com/book/show/22609227",
-        "type": "manga",
-        "series": "Ranma \u00bd: 2-in-1 Edition",
-        "setting": []
-    },
     "54760327": {
         "title": "Mieruko-chan, Vol. 1 (Mieruko-chan, #1)",
         "author": [
@@ -534,47 +693,6 @@
             "Graphic Novels Manga",
             "Realistic Fiction",
             "Slice Of Life",
-            "Comics Manga"
-        ],
-        "type": "manga",
-        "yearRead": 2021,
-        "setting": []
-    },
-    "56977710": {
-        "title": "Mieruko-chan, Vol. 3 (Mieruko-chan, #3)",
-        "author": [
-            "Tomoki Izumi"
-        ],
-        "insb10": null,
-        "isbn13": null,
-        "rating": 4.0,
-        "averageRating": null,
-        "publisher": "Yen Press",
-        "binding": "Kindle Edition",
-        "pages": null,
-        "yearPublished": 2021,
-        "originalPublicationYear": 2020,
-        "dateRead": "2021-09-17",
-        "dateAddedGR": "2021-09-17",
-        "bookshelves": "manga",
-        "status": "finished",
-        "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624949979l/56977710._SY475_.jpg",
-        "goodreadsId": 56977710,
-        "goodreadsLink": "https://www.goodreads.com/book/show/56977710",
-        "series": "Mieruko-chan",
-        "numberInSeries": 3,
-        "genres": [
-            "Sequential Art",
-            "Manga",
-            "Horror",
-            "Comics",
-            "Humor",
-            "Fantasy",
-            "Supernatural",
-            "Comedy",
-            "Fiction",
-            "Graphic Novels Manga",
-            "Young Adult",
             "Comics Manga"
         ],
         "type": "manga",
@@ -27273,54 +27391,6 @@
         ],
         "type": "comic",
         "setting": []
-    },
-    "25497034": {
-        "title": "The Sans Pareil Mystery (Detective Lavender Mysteries #2)",
-        "author": [
-            "Karen Charlton"
-        ],
-        "insb10": "1503947823",
-        "isbn13": "9781503947825",
-        "rating": 3.0,
-        "averageRating": null,
-        "publisher": "Thomas & Mercer",
-        "binding": "Paperback",
-        "pages": 336,
-        "yearPublished": 2015,
-        "originalPublicationYear": 2015,
-        "dateRead": "2017-07-11",
-        "dateAddedGR": "2018-07-16",
-        "bookshelves": "",
-        "status": "finished",
-        "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438864184l/25497034._SX318_.jpg",
-        "goodreadsId": 25497034,
-        "goodreadsLink": "https://www.goodreads.com/book/show/25497034",
-        "series": "Detective Lavender Mysteries",
-        "numberInSeries": 2,
-        "genres": [
-            "Mystery",
-            "Historical",
-            "Historical Fiction",
-            "Historical Mystery",
-            "Fiction",
-            "Audiobook",
-            "Crime",
-            "Regency",
-            "Cozy Mystery",
-            "European Literature",
-            "British Literature"
-        ],
-        "type": "book",
-        "yearRead": 2017,
-        "setting": [
-            {
-                "__typename": "Places",
-                "name": "London, England",
-                "countryName": null,
-                "webUrl": "https://www.goodreads.com/places/850-london-england",
-                "year": 1810
-            }
-        ]
     },
     "8498471": {
         "title": "Oz: The Marvelous Land of Oz  (Marvel Classics)",
