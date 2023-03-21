@@ -50,10 +50,10 @@
         "dateAddedGR": "2023-03-19",
         "bookshelves": "tbr-owned",
         "status": "tbr/owned",
-        "cover": null,
+        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
         "goodreadsId": 48496097,
         "goodreadsLink": "https://www.goodreads.com/book/show/48496097",
-        "type": null
+        "type": "book"
     },
     "59219322": {
         "title": "One-Punch Man, Vol. 23",
@@ -69,14 +69,17 @@
         "pages": 232,
         "yearPublished": 2021,
         "originalPublicationYear": 2021,
-        "dateRead": null,
+        "dateRead": "2023-03-18",
         "dateAddedGR": "2023-03-18",
         "bookshelves": "manga",
         "status": "finished",
-        "cover": null,
+        "series": "One-Punch Man",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633407262i/59219322.jpg",
         "goodreadsId": 59219322,
         "goodreadsLink": "https://www.goodreads.com/book/show/59219322",
-        "type": "manga"
+        "type": "manga",
+        "yearRead": 2023,
+        "setting": []
     },
     "58206033": {
         "title": "One-Punch Man, Vol. 22: Light",
@@ -92,14 +95,17 @@
         "pages": null,
         "yearPublished": 2021,
         "originalPublicationYear": 2020,
-        "dateRead": null,
+        "dateRead": "2023-03-18",
         "dateAddedGR": "2023-03-18",
         "bookshelves": "manga",
         "status": "finished",
-        "cover": null,
+        "series": "One-Punch Man",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1622411262i/58206033.jpg",
         "goodreadsId": 58206033,
         "goodreadsLink": "https://www.goodreads.com/book/show/58206033",
-        "type": "manga"
+        "type": "manga",
+        "yearRead": 2023,
+        "setting": []
     },
     "22609227": {
         "title": "Ranma 1/2 (2-in-1 Edition), Vol. 8: Includes Volumes 15 & 16",
@@ -10965,9 +10971,9 @@
         "setting": [
             {
                 "__typename": "Places",
-                "name": "Yucat\u00e1n",
+                "name": "rome",
                 "countryName": "Mexico",
-                "webUrl": "https://www.goodreads.com/places/2214-yucat-n",
+                "webUrl": "https://www.goodreads.com/places/2214-rome",
                 "year": null
             },
             {
@@ -18064,7 +18070,8 @@
             "Historical"
         ],
         "type": "book",
-        "setting": []
+        "setting": [],
+        "series": "The Floating World"
     },
     "58085251": {
         "title": "Index, A History of the: A Bookish Adventure from Medieval Manuscripts to the Digital Age",
