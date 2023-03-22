@@ -53,7 +53,8 @@
         "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
         "goodreadsId": 48496097,
         "goodreadsLink": "https://www.goodreads.com/book/show/48496097",
-        "type": "book"
+        "type": "book",
+        "setting": []
     },
     "59219322": {
         "title": "One-Punch Man, Vol. 23",
