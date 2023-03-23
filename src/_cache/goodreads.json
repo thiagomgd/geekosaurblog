@@ -1,4 +1,28 @@
 {
+    "57468730": {
+        "title": "Witchlings (Witchlings, #1)",
+        "author": [
+            "Claribel A. Ortega"
+        ],
+        "insb10": "1338745522",
+        "isbn13": "9781338745528",
+        "rating": 0.0,
+        "averageRating": null,
+        "publisher": "Scholastic Press",
+        "binding": "Hardcover",
+        "pages": 334,
+        "yearPublished": 2022,
+        "originalPublicationYear": 2022,
+        "dateRead": null,
+        "dateAddedGR": "2023-02-25",
+        "bookshelves": "currently-reading",
+        "status": "inProgress",
+        "cover": null,
+        "goodreadsId": 57468730,
+        "goodreadsLink": "https://www.goodreads.com/book/show/57468730",
+        "type": null,
+        "series": "Witchlings"
+    },
     "55145261": {
         "title": "The Anthropocene Reviewed",
         "author": [
@@ -50,7 +74,7 @@
         "dateAddedGR": "2023-03-19",
         "bookshelves": "tbr-owned",
         "status": "tbr/owned",
-        "cover": "https://d15be2nos83ntc.cloudfront.net/images/no-cover.png",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571347582i/48496097.jpg",
         "goodreadsId": 48496097,
         "goodreadsLink": "https://www.goodreads.com/book/show/48496097",
         "type": "book",
@@ -25066,9 +25090,9 @@
             },
             {
                 "__typename": "Places",
-                "name": "Yucat\u00e1n",
+                "name": "rome",
                 "countryName": "Mexico",
-                "webUrl": "https://www.goodreads.com/places/2214-yucat-n",
+                "webUrl": "https://www.goodreads.com/places/2214-rome",
                 "year": null
             }
         ]
@@ -33448,7 +33472,8 @@
                 "webUrl": "https://www.goodreads.com/places/56-romania",
                 "year": null
             }
-        ]
+        ],
+        "series": "The Norton Librar"
     },
     "15739412": {
         "title": "O Monge Ingl\u00eas",
