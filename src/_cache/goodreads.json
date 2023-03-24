@@ -17,10 +17,10 @@
         "dateAddedGR": "2023-02-25",
         "bookshelves": "currently-reading",
         "status": "inProgress",
-        "cover": null,
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619465123i/57468730.jpg",
         "goodreadsId": 57468730,
         "goodreadsLink": "https://www.goodreads.com/book/show/57468730",
-        "type": null,
+        "type": "book",
         "series": "Witchlings"
     },
     "55145261": {
@@ -592,7 +592,7 @@
         "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663668518i/61266164.jpg",
         "goodreadsId": 61266164,
         "goodreadsLink": "https://www.goodreads.com/book/show/61266164",
-        "type": null,
+        "type": "book",
         "setting": []
     },
     "53962017": {
@@ -1369,7 +1369,7 @@
         "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647551429i/60588456.jpg",
         "goodreadsId": 60588456,
         "goodreadsLink": "https://www.goodreads.com/book/show/60588456",
-        "type": null,
+        "type": "book",
         "setting": []
     },
     "22609108": {
@@ -4230,7 +4230,7 @@
             "Popular Science",
             "Self Help"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "30371275": {
@@ -4577,7 +4577,7 @@
             "Adult",
             "Action"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "43306206": {
@@ -5490,7 +5490,7 @@
             "Mystery",
             "Graphic Novels Manga"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "9647102": {
@@ -6124,7 +6124,7 @@
             "Adult",
             "Adventure"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "7996": {
@@ -8218,7 +8218,7 @@
             "Paranormal",
             "Graphic Novels Manga"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -9004,7 +9004,7 @@
             "Crime",
             "Action"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": [
             {
                 "__typename": "Places",
@@ -9141,7 +9141,7 @@
             "Young Adult",
             "Graphic Novels Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -9181,7 +9181,7 @@
             "Magic",
             "Comics Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -9225,7 +9225,7 @@
             "Manga",
             "Seinen"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -9266,7 +9266,7 @@
             "Magic",
             "Comics Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2019,
         "setting": []
     },
@@ -9984,7 +9984,7 @@
             "Humor",
             "Fantasy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -10090,7 +10090,7 @@
             "Sequential Art",
             "Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "61198890": {
@@ -10122,7 +10122,7 @@
             "Shonen",
             "Comics"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "60502549": {
@@ -10155,7 +10155,7 @@
             "Science Fiction",
             "Shonen"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "56474005": {
@@ -10193,7 +10193,7 @@
             "Action",
             "Supernatural"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "25071291": {
@@ -10232,7 +10232,7 @@
             "Mystery",
             "Comic Book"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -10435,7 +10435,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -10475,7 +10475,7 @@
             "Science Fiction",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2020,
         "setting": []
     },
@@ -10515,7 +10515,7 @@
             "Comedy",
             "Science Fiction"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2020
     },
     "17694056": {
@@ -10554,7 +10554,7 @@
             "Seinen",
             "Action"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2020,
         "setting": []
     },
@@ -10594,7 +10594,7 @@
             "Science Fiction",
             "Action"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2020,
         "setting": []
     },
@@ -10634,7 +10634,7 @@
             "Seinen",
             "Science Fiction"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2020,
         "setting": []
     },
@@ -10674,7 +10674,7 @@
             "Superheroes",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2020,
         "setting": []
     },
@@ -10714,7 +10714,7 @@
             "Seinen",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2020,
         "setting": []
     },
@@ -10754,7 +10754,7 @@
             "Seinen",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2020,
         "setting": []
     },
@@ -10794,7 +10794,7 @@
             "Superheroes",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -10834,7 +10834,7 @@
             "Science Fiction",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -10874,7 +10874,7 @@
             "Superheroes",
             "Science Fiction"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -10914,7 +10914,7 @@
             "Action",
             "Seinen"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -10954,7 +10954,7 @@
             "Science Fiction",
             "Seinen"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -11046,7 +11046,7 @@
             "Fiction",
             "Young Adult"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -11086,7 +11086,7 @@
             "Humor",
             "Fiction"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -11126,7 +11126,7 @@
             "Fiction",
             "Humor"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -11166,7 +11166,7 @@
             "Humor",
             "Comics Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -11206,7 +11206,7 @@
             "Humor",
             "Comics Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -11340,7 +11340,7 @@
             "Fiction",
             "Humor"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -11380,7 +11380,7 @@
             "Humor",
             "Fiction"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -11420,7 +11420,7 @@
             "Comics Manga",
             "Fiction"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -11460,7 +11460,7 @@
             "Young Adult",
             "Fiction"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -11500,7 +11500,7 @@
             "Fantasy",
             "Adult"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2015,
         "setting": []
     },
@@ -11540,7 +11540,7 @@
             "Fiction",
             "Humor"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -11580,7 +11580,7 @@
             "Fiction",
             "Humor"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -11620,7 +11620,7 @@
             "Comics Manga",
             "Humor"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -11660,7 +11660,7 @@
             "Comics Manga",
             "Fiction"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -12062,7 +12062,7 @@
             "Realistic Fiction",
             "Slice Of Life"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2020,
         "setting": []
     },
@@ -12103,7 +12103,7 @@
             "Lesbian",
             "Magic"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2020,
         "setting": []
     },
@@ -12144,7 +12144,7 @@
             "Graphic Novels",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2020,
         "setting": []
     },
@@ -12186,7 +12186,7 @@
             "LGBT",
             "Lesbian"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2020,
         "setting": []
     },
@@ -12226,7 +12226,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -12266,7 +12266,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -12307,7 +12307,7 @@
             "Comedy",
             "Fiction"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -12347,7 +12347,7 @@
             "Action",
             "Humor"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -12387,7 +12387,7 @@
             "Action",
             "Humor"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -12427,7 +12427,7 @@
             "Action",
             "Humor"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -12467,7 +12467,7 @@
             "Action",
             "Humor"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -12507,7 +12507,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -12547,7 +12547,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -12587,7 +12587,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -12627,7 +12627,7 @@
             "Comedy",
             "Pirates"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -12672,7 +12672,7 @@
             "Comedy",
             "Humor"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -12717,7 +12717,7 @@
             "Comedy",
             "Humor"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -12758,7 +12758,7 @@
             "Comedy",
             "Comics Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -12799,7 +12799,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -12844,7 +12844,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -12931,7 +12931,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -12973,7 +12973,7 @@
             "Graphic Novels Comics",
             "Comics Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13014,7 +13014,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13058,7 +13058,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13098,7 +13098,7 @@
             "Fiction",
             "Young Adult"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13138,7 +13138,7 @@
             "Humor",
             "Shonen"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13174,7 +13174,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13214,7 +13214,7 @@
             "Comics Manga",
             "Fiction"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13257,7 +13257,7 @@
             "Comics Manga",
             "Fiction"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13297,7 +13297,7 @@
             "Graphic Novels",
             "Fiction"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13337,7 +13337,7 @@
             "Graphic Novels",
             "Fiction"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13377,7 +13377,7 @@
             "Humor",
             "Pirates"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13417,7 +13417,7 @@
             "Comics Manga",
             "Pirates"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13457,7 +13457,7 @@
             "Humor",
             "Pirates"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13497,7 +13497,7 @@
             "Comics Manga",
             "Humor"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13537,7 +13537,7 @@
             "Humor",
             "Pirates"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13577,7 +13577,7 @@
             "Humor",
             "Pirates"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13617,7 +13617,7 @@
             "Pirates",
             "Fiction"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13657,7 +13657,7 @@
             "Comics Manga",
             "Pirates"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13697,7 +13697,7 @@
             "Comics Manga",
             "Pirates"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13737,7 +13737,7 @@
             "Pirates",
             "Comics Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13777,7 +13777,7 @@
             "Pirates",
             "Comics Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13817,7 +13817,7 @@
             "Humor",
             "Comics Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13857,7 +13857,7 @@
             "Pirates",
             "Fiction"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13897,7 +13897,7 @@
             "Humor",
             "Pirates"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13937,7 +13937,7 @@
             "Comics Manga",
             "Pirates"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -13977,7 +13977,7 @@
             "Comics Manga",
             "Pirates"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14017,7 +14017,7 @@
             "Pirates",
             "Humor"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14057,7 +14057,7 @@
             "Pirates",
             "Fiction"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14097,7 +14097,7 @@
             "Comics Manga",
             "Young Adult"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14137,7 +14137,7 @@
             "Fiction",
             "Humor"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14177,7 +14177,7 @@
             "Fiction",
             "Humor"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14217,7 +14217,7 @@
             "Fiction",
             "Comics Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14257,7 +14257,7 @@
             "Humor",
             "Pirates"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14375,7 +14375,7 @@
             "Humor",
             "Pirates"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14416,7 +14416,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14457,7 +14457,7 @@
             "Comedy",
             "Comics Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14497,7 +14497,7 @@
             "Pirates",
             "Humor"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14538,7 +14538,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14578,7 +14578,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14618,7 +14618,7 @@
             "Young Adult",
             "Humor"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14658,7 +14658,7 @@
             "Humor",
             "Comics Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14698,7 +14698,7 @@
             "Pirates",
             "Young Adult"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14739,7 +14739,7 @@
             "Comedy",
             "Young Adult"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14779,7 +14779,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14819,7 +14819,7 @@
             "Young Adult",
             "Comics Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14859,7 +14859,7 @@
             "Humor",
             "Comics Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14899,7 +14899,7 @@
             "Pirates",
             "Humor"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -14940,7 +14940,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -15236,7 +15236,7 @@
             "Action",
             "Young Adult"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -15277,7 +15277,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -15317,7 +15317,7 @@
             "Action",
             "Young Adult"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -15444,7 +15444,7 @@
             "Action",
             "Young Adult"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -15484,7 +15484,7 @@
             "Action",
             "Comics Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -15524,7 +15524,7 @@
             "Action",
             "Young Adult"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -15564,7 +15564,7 @@
             "Young Adult",
             "Comics Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -15599,7 +15599,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -15636,7 +15636,7 @@
             "Humor",
             "Comics"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -15668,7 +15668,7 @@
             "Manga",
             "Romance"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -15699,7 +15699,7 @@
             "Sequential Art",
             "Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -15791,7 +15791,7 @@
             "Fiction",
             "Romance"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -15826,7 +15826,7 @@
             "Realistic Fiction",
             "Slice Of Life"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -15861,7 +15861,7 @@
             "Realistic Fiction",
             "Slice Of Life"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -15896,7 +15896,7 @@
             "Realistic Fiction",
             "Slice Of Life"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -15933,7 +15933,7 @@
             "Realistic Fiction",
             "Slice Of Life"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -15966,7 +15966,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "light novel",
+        "type": "book",
         "setting": []
     },
     "55980428": {
@@ -16006,7 +16006,7 @@
             "Shonen",
             "Contemporary"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "49435392": {
@@ -16040,7 +16040,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -16080,7 +16080,7 @@
             "Mystery",
             "Crime"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -16123,7 +16123,7 @@
             "Mystery",
             "Crime"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -16165,7 +16165,7 @@
             "Mystery",
             "Crime"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -16206,7 +16206,7 @@
             "Fiction",
             "Contemporary"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -16248,7 +16248,7 @@
             "Cultural",
             "Japan"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "7326723": {
@@ -16289,7 +16289,7 @@
             "Cultural",
             "Japan"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "6801636": {
@@ -16330,7 +16330,7 @@
             "Japan",
             "Sports and Games"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "6419584": {
@@ -16371,7 +16371,7 @@
             "Japan",
             "Comics Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "6226621": {
@@ -16412,7 +16412,7 @@
             "Japan",
             "Fantasy"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "4572620": {
@@ -16453,7 +16453,7 @@
             "Japan",
             "Fantasy"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "4572619": {
@@ -16494,7 +16494,7 @@
             "Cultural",
             "Japan"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "9461904": {
@@ -16535,7 +16535,7 @@
             "Japan",
             "Comics Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "8216627": {
@@ -16576,7 +16576,7 @@
             "Japan",
             "Comics Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "6797429": {
@@ -16617,7 +16617,7 @@
             "Japan",
             "Comics Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "3109439": {
@@ -16658,7 +16658,7 @@
             "Young Adult",
             "Fantasy"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "1822315": {
@@ -16699,7 +16699,7 @@
             "Sports",
             "Contemporary"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "1993619": {
@@ -16740,7 +16740,7 @@
             "Cultural",
             "Japan"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "13592": {
@@ -16781,7 +16781,7 @@
             "Cultural",
             "Japan"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "13591": {
@@ -16822,7 +16822,7 @@
             "Japan",
             "Sports"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "13589": {
@@ -16863,7 +16863,7 @@
             "Cultural",
             "Japan"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "13588": {
@@ -16904,7 +16904,7 @@
             "Cultural",
             "Japan"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "282396": {
@@ -16949,7 +16949,7 @@
             "Cultural",
             "Japan"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "282395": {
@@ -16990,7 +16990,7 @@
             "Cultural",
             "Japan"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "282381": {
@@ -17031,7 +17031,7 @@
             "Cultural",
             "Japan"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "282392": {
@@ -17072,7 +17072,7 @@
             "Cultural",
             "Japan"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "282391": {
@@ -17113,7 +17113,7 @@
             "Cultural",
             "Japan"
         ],
-        "type": "manga"
+        "type": "book"
     },
     "13590": {
         "title": "Hikaru no Go, Vol. 1: Descent of the Go Master (Hikaru no Go, #1)",
@@ -17152,7 +17152,7 @@
             "Comics Manga",
             "Young Adult"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "58011476": {
@@ -17424,7 +17424,7 @@
             "Graphic Novels Comics",
             "Supernatural"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -17770,7 +17770,7 @@
             "Action",
             "Shonen"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -17885,7 +17885,7 @@
             "Graphic Novels Comics",
             "Comic Book"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -17927,7 +17927,7 @@
             "LGBT",
             "Queer"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -17967,7 +17967,7 @@
             "Graphic Novels Comics",
             "Comic Book"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -18007,7 +18007,7 @@
             "Fiction",
             "Comic Book"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2022,
         "setting": []
     },
@@ -19349,7 +19349,7 @@
             "Graphic Novels",
             "Contemporary"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2021,
         "setting": []
     },
@@ -19390,7 +19390,7 @@
             "Contemporary",
             "Young Adult"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2021,
         "setting": []
     },
@@ -19430,7 +19430,7 @@
             "Graphic Novels",
             "Contemporary"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2021,
         "setting": []
     },
@@ -19476,7 +19476,7 @@
             "Seinen",
             "Fiction"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2020,
         "setting": []
     },
@@ -19522,7 +19522,7 @@
             "Manga",
             "Seinen"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2020,
         "setting": []
     },
@@ -19564,7 +19564,7 @@
             "Media Tie In",
             "Anime"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2021,
         "setting": []
     },
@@ -19605,7 +19605,7 @@
             "Comics",
             "Contemporary"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2021,
         "setting": []
     },
@@ -19643,7 +19643,7 @@
             "Realistic Fiction",
             "Slice Of Life"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2021,
         "setting": []
     },
@@ -19679,7 +19679,7 @@
             "Young Adult",
             "Graphic Novels"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2021,
         "setting": []
     },
@@ -19716,7 +19716,7 @@
             "Slice Of Life",
             "Young Adult"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2021,
         "setting": []
     },
@@ -20048,7 +20048,7 @@
             "Anthropomorphic",
             "Contemporary"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "57007683": {
@@ -22777,7 +22777,7 @@
             "Media Tie In",
             "Graphic Novels Comics"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "48692535": {
@@ -22832,7 +22832,7 @@
             "Horror",
             "Fantasy"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "43393454": {
@@ -22869,7 +22869,7 @@
             "Historical",
             "Historical Fiction"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "55132472": {
@@ -23492,7 +23492,7 @@
             "Sequential Art",
             "Comics"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2015,
         "setting": []
     },
@@ -23653,7 +23653,7 @@
             "Adventure",
             "Queer"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2015,
         "setting": []
     },
@@ -23693,7 +23693,7 @@
             "Fiction",
             "Comic Book"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "29992974": {
@@ -23813,7 +23813,7 @@
             "Noir",
             "Adult"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2015,
         "setting": [
             {
@@ -23947,7 +23947,7 @@
             "Fantasy",
             "Adult"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2016,
         "setting": []
     },
@@ -23987,7 +23987,7 @@
             "Comic Book",
             "Science Fiction"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "13396635": {
@@ -24245,7 +24245,7 @@
             "Horror",
             "Humor"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": [
             {
                 "__typename": "Places",
@@ -24573,7 +24573,7 @@
             "Contemporary",
             "Comedy"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2016,
         "setting": []
     },
@@ -24705,7 +24705,7 @@
             "Comic Book",
             "Science Fiction"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2016,
         "setting": []
     },
@@ -27218,7 +27218,7 @@
             "Supernatural",
             "Young Adult"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2015,
         "setting": []
     },
@@ -27300,7 +27300,7 @@
             "Fantasy",
             "Supernatural"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "40934172": {
@@ -27342,7 +27342,7 @@
             "Humor",
             "Comedy"
         ],
-        "type": "light novel",
+        "type": "book",
         "yearRead": 2019,
         "setting": []
     },
@@ -27382,7 +27382,7 @@
             "Romance",
             "High School"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "29780171": {
@@ -27421,7 +27421,7 @@
             "Comic Book",
             "Realistic Fiction"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "8498471": {
@@ -27461,7 +27461,7 @@
             "Graphic Novels Comics",
             "Comic Book"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2018,
         "setting": []
     },
@@ -27499,7 +27499,7 @@
             "Comics",
             "Graphic Novels"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2018,
         "setting": []
     },
@@ -27741,7 +27741,7 @@
             "Comics",
             "Graphic Novels"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "35250660": {
@@ -27924,7 +27924,7 @@
             "Comedy",
             "Adventure"
         ],
-        "type": "manga",
+        "type": "book",
         "yearRead": 2018,
         "setting": []
     },
@@ -28322,7 +28322,7 @@
             "Japan",
             "Young Adult"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "26240977": {
@@ -28360,7 +28360,7 @@
             "Queer",
             "Magic"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "12267795": {
@@ -28399,7 +28399,7 @@
             "Crime",
             "Science Fiction"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "23003390": {
@@ -28736,7 +28736,7 @@
             "Batman",
             "Teen"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2016,
         "setting": []
     },
@@ -29994,7 +29994,7 @@
             "Batman",
             "LGBT"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2016,
         "setting": []
     },
@@ -30034,7 +30034,7 @@
             "Comic Book",
             "Fantasy"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2016,
         "setting": []
     },
@@ -30074,7 +30074,7 @@
             "Young Adult",
             "Science Fiction"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2016,
         "setting": []
     },
@@ -30161,7 +30161,7 @@
             "Fantasy",
             "Graphic Novels Comics"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2016,
         "setting": []
     },
@@ -30201,7 +30201,7 @@
             "Fantasy",
             "Comic Book"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "5415684": {
@@ -30446,7 +30446,7 @@
             "Comic Book",
             "Realistic Fiction"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2016,
         "setting": []
     },
@@ -30476,7 +30476,7 @@
             "Graphic Novels",
             "Comics"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2016,
         "setting": []
     },
@@ -30516,7 +30516,7 @@
             "Superheroes",
             "Queer"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2016,
         "setting": []
     },
@@ -30556,7 +30556,7 @@
             "Science Fiction",
             "Fantasy"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2016,
         "setting": []
     },
@@ -30960,7 +30960,7 @@
             "Fantasy",
             "Paranormal"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2015,
         "setting": []
     },
@@ -31000,7 +31000,7 @@
             "Fantasy",
             "Paranormal"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2015,
         "setting": [
             {
@@ -31054,7 +31054,7 @@
             "Robots",
             "Comics Manga"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2015,
         "setting": []
     },
@@ -31202,7 +31202,7 @@
             "Fantasy",
             "Comic Book"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2015,
         "setting": []
     },
@@ -31267,7 +31267,7 @@
             "Superheroes",
             "Graphic Novels Comics"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "23164970": {
@@ -31306,7 +31306,7 @@
             "Batman",
             "Science Fiction"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2015,
         "setting": []
     },
@@ -31340,7 +31340,7 @@
             "Comic Book",
             "Superheroes"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "17445108": {
@@ -31380,7 +31380,7 @@
             "Comedy",
             "Young Adult"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "23995491": {
@@ -31421,7 +31421,7 @@
             "Adult",
             "Comic Book"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2015,
         "setting": []
     },
@@ -31507,7 +31507,7 @@
             "Childrens",
             "Comic Book"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2015,
         "setting": [
             {
@@ -31555,7 +31555,7 @@
             "Vampires",
             "Childrens"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2015,
         "setting": [
             {
@@ -31708,7 +31708,7 @@
             "Comic Book",
             "Dark Fantasy"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "13312876": {
@@ -31783,7 +31783,7 @@
             "Graphic Novels Comics",
             "Fantasy"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "17444990": {
@@ -31815,7 +31815,7 @@
             "Graphic Novels",
             "Graphic Novels Comics"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "13664872": {
@@ -31851,7 +31851,7 @@
             "Action",
             "Fantasy"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "12015866": {
@@ -31888,7 +31888,7 @@
             "Graphic Novels Comics",
             "Action"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "37039": {
@@ -31989,7 +31989,7 @@
             "Comic Book",
             "Science Fiction"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2015,
         "setting": [
             {
@@ -32037,7 +32037,7 @@
             "Fantasy",
             "Adventure"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2015,
         "setting": [
             {
@@ -32092,7 +32092,7 @@
             "Fantasy",
             "Science Fiction"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2015,
         "setting": []
     },
@@ -32133,7 +32133,7 @@
             "Adventure",
             "Teen"
         ],
-        "type": "comic",
+        "type": "book",
         "yearRead": 2015,
         "setting": [
             {
@@ -32182,7 +32182,7 @@
             "Urban Fantasy",
             "Short Stories"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "18767265": {
@@ -32213,7 +32213,7 @@
             "Sequential Art",
             "Comics"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "16257093": {
@@ -32252,7 +32252,7 @@
             "Retellings",
             "Manga"
         ],
-        "type": "manga",
+        "type": "book",
         "setting": []
     },
     "17949637": {
@@ -32287,7 +32287,7 @@
             "Graphic Novels Comics",
             "Fiction"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "23161519": {
@@ -32326,7 +32326,7 @@
             "Time Travel",
             "Fantasy"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "6298793": {
@@ -32366,7 +32366,7 @@
             "Graphic Novels Comics",
             "Pulp"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": [
             {
                 "__typename": "Places",
@@ -32413,7 +32413,7 @@
             "Steampunk",
             "Pulp"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": []
     },
     "7870457": {
@@ -32452,7 +32452,7 @@
             "Humor",
             "Science Fiction"
         ],
-        "type": "comic",
+        "type": "book",
         "setting": [
             {
                 "__typename": "Places",
