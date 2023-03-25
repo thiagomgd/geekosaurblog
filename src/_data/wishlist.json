@@ -70,6 +70,16 @@
         "author": "Juliet Blackwell"
     },
     {
+        "title": "Spell Booked",
+        "price": 8.99,
+        "cover": "https://kbimages1-a.akamaihd.net/7387e5fc-121e-42d4-acaa-74d39e1f7ef8/353/569/90/False/spell-booked.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/spell-booked",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Joyce and Jim Lavene"
+    },
+    {
         "title": "Bookmarked For Death",
         "price": 8.99,
         "cover": "https://kbimages1-a.akamaihd.net/960e5e9f-ce2a-4f2e-ad1b-6d9522bef9dc/353/569/90/False/bookmarked-for-death.jpg",
@@ -168,6 +178,16 @@
         "isPlus": false,
         "isSale": true,
         "author": "Darren Aronofsky"
+    },
+    {
+        "title": "Konosuba: God's Blessing on This Wonderful World!, Vol. 1 (light novel)",
+        "price": 10.99,
+        "cover": "https://kbimages1-a.akamaihd.net/d14a2248-1bb3-4aef-bda6-bd2fba340f74/353/569/90/False/konosuba-god-s-blessing-on-this-wonderful-world-vol-1-light-novel-2.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/konosuba-god-s-blessing-on-this-wonderful-world-vol-1-light-novel-2",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Natsume Akatsuki"
     },
     {
         "title": "Revelle",
@@ -328,6 +348,16 @@
         "isPlus": false,
         "isSale": false,
         "author": "Keisuke Makino"
+    },
+    {
+        "title": "Episode Thirteen",
+        "price": 12.99,
+        "cover": "https://kbimages1-a.akamaihd.net/20c49c89-a4f9-4656-a3f3-21569df3f38b/353/569/90/False/episode-thirteen.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/episode-thirteen",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Craig DiLouie"
     },
     {
         "title": "These Silent Woods",
