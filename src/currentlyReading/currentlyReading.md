@@ -42,16 +42,18 @@ Manga I'm reading by volume as they release!
 
 Indicating next volume to read:
 
+- Don't Toy With Me, Miss Nagatoro: [Volume 8](https://kodansha.us/series/dont-toy-with-me-miss-nagatoro/)
+- One-Punch Man: 24
+	- Was reading by chapter, until I discovered about the redraws
 - Delicious in Dungeon: [Volume 11](https://yenpress.com/9781975346720/delicious-in-dungeon-vol-11/)
 - Miss Kobayashi’s Dragon Maid: [Volume 12](https://sevenseasentertainment.com/series/miss-kobayashis-dragon-maid/)
 - Ranma 1/2: [Volume 8 (Vol. 15 and 16)](https://www.viz.com/ranma-1-2) - it's a double-volume series.
-- Don't Toy With Me, Miss Nagatoro: [Volume 4](https://kodansha.us/series/dont-toy-with-me-miss-nagatoro/)
+
 
 ### Chapter Manga
 
 Manga I'm reading by chapters, mostly on Shonen Jump (except for Fire Force). Indicating last chapter read.
 
-- One-Punch Man: 111
 - Black Clover: 350
 - Sakamoto Days: 101
 - SPY x FAMILY: 61
