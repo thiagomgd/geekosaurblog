@@ -12,7 +12,7 @@ Jump to [Manga](#manga)
 ## Books
 
 **Current**:
-- 
+- Spellcasting in Silk (Witchcraft Mystery #7) by Juliet Blackwell ([link](https://julietblackwell.net/mysteries/witchcraft-mysteries/))
 
 **Next**:
 - Dust by Hugh Howey
