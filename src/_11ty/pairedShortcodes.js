@@ -72,7 +72,7 @@ const wishlistCard = (_content, title, author, link, image, price, preorder, isP
   const extraClass = [];
   
   isPlus === true && extraClass.push("blog-card-koboPlus");
-  preorder === true && extraClass.push("blog-card-preorder");
+  preorder && extraClass.push("blog-card-preorder");
   onSale === true && extraClass.push("blog-card-onsale");
 
   const content = `${koboPlus}${price}<br/>${preorder}`

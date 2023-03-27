@@ -56,7 +56,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/pretty-guardian-sailor-moon-eternal-edition-1",
         "preorder": "",
         "isPlus": false,
-        "isSale": false,
+        "isSale": true,
         "author": "Naoko Takeuchi"
     },
     {
@@ -76,7 +76,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/air-gear-omnibus-3-1",
         "preorder": "",
         "isPlus": true,
-        "isSale": false,
+        "isSale": true,
         "author": "Oh!great"
     }
 ]

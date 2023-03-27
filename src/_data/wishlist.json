@@ -146,7 +146,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/but-you-don-t-look-autistic-at-all",
         "preorder": "",
         "isPlus": true,
-        "isSale": false,
+        "isSale": true,
         "author": "Bianca Toeps"
     },
     {
@@ -156,7 +156,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/an-accident-of-stars",
         "preorder": "",
         "isPlus": false,
-        "isSale": false,
+        "isSale": true,
         "author": "Foz Meadows"
     },
     {
@@ -246,7 +246,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/spineless-8",
         "preorder": "",
         "isPlus": true,
-        "isSale": false,
+        "isSale": true,
         "author": "Samantha San Miguel"
     },
     {
@@ -296,7 +296,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/the-sacrifice-79",
         "preorder": "",
         "isPlus": false,
-        "isSale": false,
+        "isSale": true,
         "author": "Rin Chupeco"
     },
     {
@@ -316,7 +316,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/on-the-edge-of-gone",
         "preorder": "",
         "isPlus": true,
-        "isSale": false,
+        "isSale": true,
         "author": "Corinne Duyvis"
     },
     {
@@ -536,7 +536,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/children-of-time-3",
         "preorder": "",
         "isPlus": false,
-        "isSale": false,
+        "isSale": true,
         "author": "Adrian Tchaikovsky"
     },
     {
@@ -636,7 +636,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/convenience-store-woman-6",
         "preorder": "",
         "isPlus": false,
-        "isSale": false,
+        "isSale": true,
         "author": "Sayaka Murata"
     },
     {
@@ -686,7 +686,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/earthlings-3",
         "preorder": "",
         "isPlus": false,
-        "isSale": false,
+        "isSale": true,
         "author": "Sayaka Murata"
     },
     {
@@ -706,7 +706,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/letters-to-a-young-poet-the-norton-centenary-edition",
         "preorder": "Available May 23, 2023",
         "isPlus": false,
-        "isSale": false,
+        "isSale": true,
         "author": "Rainer Maria Rilke"
     },
     {
@@ -716,7 +716,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/the-best-interface-is-no-interface",
         "preorder": "",
         "isPlus": false,
-        "isSale": false,
+        "isSale": true,
         "author": "Golden Krishna"
     },
     {
@@ -726,7 +726,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/don-t-make-me-think-a-common-sense-approach-to-web-usability-1",
         "preorder": "",
         "isPlus": false,
-        "isSale": false,
+        "isSale": true,
         "author": "Steve Krug"
     }
 ]
