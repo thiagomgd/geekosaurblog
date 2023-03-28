@@ -429,5 +429,9 @@
   "/post/geekosaur-news-30/": {
     "reddit": "https://www.reddit.com/r/geekosaur/comments/11x2y7k/geekosaur_news_30_wrapping_up_books_and_shows/",
     "mastodon": "https://mindly.social/@falcon/110058771161754591"
+  },
+  "/post/geekosaur-news-31/": {
+    "reddit": "https://www.reddit.com/r/geekosaur/comments/123zfrf/geekosaur_news_31_yellowjackets_is_back_reading/",
+    "mastodon": "https://mindly.social/@falcon/110097175480820496"
   }
 }
