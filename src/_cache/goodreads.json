@@ -74,7 +74,8 @@
         "goodreadsLink": "https://www.goodreads.com/book/show/56644777",
         "type": "manga",
         "yearRead": 2023,
-        "series": "\u30a4\u30b8\u3089\u306a\u3044\u3067\u3001\u9577\u701e\u3055\u3093 / Ijiranaide; Nagatoro-san"
+        "series": "\u30a4\u30b8\u3089\u306a\u3044\u3067\u3001\u9577\u701e\u3055\u3093 / Ijiranaide; Nagatoro-san",
+        "setting": []
     },
     "55750204": {
         "title": "Don't Toy With Me, Miss Nagatoro, Vol. 4",
@@ -10653,7 +10654,8 @@
             "Science Fiction"
         ],
         "type": "book",
-        "yearRead": 2020
+        "yearRead": 2020,
+        "setting": []
     },
     "17694056": {
         "title": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 2 [Wanpanman 2] (\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 [Wanpanman], #2)",
@@ -17250,7 +17252,8 @@
             "Cultural",
             "Japan"
         ],
-        "type": "book"
+        "type": "book",
+        "setting": []
     },
     "13590": {
         "title": "Hikaru no Go, Vol. 1: Descent of the Go Master (Hikaru no Go, #1)",
@@ -20747,7 +20750,15 @@
             "Mystery"
         ],
         "type": "book",
-        "setting": []
+        "setting": [
+            {
+                "__typename": "Places",
+                "name": "London, England",
+                "countryName": null,
+                "webUrl": "https://www.goodreads.com/places/850-london-england",
+                "year": null
+            }
+        ]
     },
     "53174067": {
         "title": "Skyhunter (Skyhunter, #1)",
