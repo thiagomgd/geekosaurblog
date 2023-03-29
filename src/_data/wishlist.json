@@ -20,6 +20,16 @@
         "author": "Cait Flanders"
     },
     {
+        "title": "Home Before Dark",
+        "price": 1.99,
+        "cover": "https://kbimages1-a.akamaihd.net/f082817c-9c47-4adf-bb33-1ca150af1e3c/353/569/90/False/home-before-dark-22.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/home-before-dark-22",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Riley Sager"
+    },
+    {
         "title": "Midnight's Children",
         "price": 3.99,
         "cover": "https://kbimages1-a.akamaihd.net/03240bbe-2ae1-41e3-bb39-c00305e30573/353/569/90/False/midnight-s-children-1.jpg",
@@ -478,16 +488,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Ivelisse Housman"
-    },
-    {
-        "title": "Home Before Dark",
-        "price": 13.99,
-        "cover": "https://kbimages1-a.akamaihd.net/f082817c-9c47-4adf-bb33-1ca150af1e3c/353/569/90/False/home-before-dark-22.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/home-before-dark-22",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Riley Sager"
     },
     {
         "title": "Of Manners and Murder",
