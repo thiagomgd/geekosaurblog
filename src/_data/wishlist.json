@@ -708,25 +708,5 @@
         "isPlus": false,
         "isSale": true,
         "author": "Rainer Maria Rilke"
-    },
-    {
-        "title": "The Best Interface Is No Interface",
-        "price": 27.99,
-        "cover": "https://kbimages1-a.akamaihd.net/acf92684-6cd8-4fca-905e-4ea6b676f419/353/569/90/False/the-best-interface-is-no-interface.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-best-interface-is-no-interface",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Golden Krishna"
-    },
-    {
-        "title": "Don't Make Me Think: A Common Sense Approach to Web Usability",
-        "price": 31.99,
-        "cover": "https://kbimages1-a.akamaihd.net/16fee10c-bec8-40fe-8694-790b7a7ce16a/353/569/90/False/don-t-make-me-think-a-common-sense-approach-to-web-usability-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/don-t-make-me-think-a-common-sense-approach-to-web-usability-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Steve Krug"
     }
 ]
