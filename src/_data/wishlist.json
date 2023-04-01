@@ -1,15 +1,5 @@
 [
     {
-        "title": "All the Murmuring Bones",
-        "price": 1.99,
-        "cover": "https://kbimages1-a.akamaihd.net/376ddc93-85ca-487a-9527-3e1b4e0de741/353/569/90/False/all-the-murmuring-bones.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/all-the-murmuring-bones",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "A.G. Slatter"
-    },
-    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://kbimages1-a.akamaihd.net/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -28,16 +18,6 @@
         "isPlus": false,
         "isSale": true,
         "author": "Riley Sager"
-    },
-    {
-        "title": "Midnight's Children",
-        "price": 3.99,
-        "cover": "https://kbimages1-a.akamaihd.net/03240bbe-2ae1-41e3-bb39-c00305e30573/353/569/90/False/midnight-s-children-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/midnight-s-children-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Salman Rushdie"
     },
     {
         "title": "Mindwalker",
@@ -290,6 +270,16 @@
         "author": "Alastair Reynolds"
     },
     {
+        "title": "All the Murmuring Bones",
+        "price": 11.99,
+        "cover": "https://kbimages1-a.akamaihd.net/376ddc93-85ca-487a-9527-3e1b4e0de741/353/569/90/False/all-the-murmuring-bones.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/all-the-murmuring-bones",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "A.G. Slatter"
+    },
+    {
         "title": "A Natural History of Dragons",
         "price": 11.99,
         "cover": "https://kbimages1-a.akamaihd.net/5c9b8a9f-1230-46ca-92b9-43bd008aeac2/353/569/90/False/a-natural-history-of-dragons.jpg",
@@ -298,6 +288,16 @@
         "isPlus": false,
         "isSale": false,
         "author": "Marie Brennan"
+    },
+    {
+        "title": "Midnight's Children",
+        "price": 11.99,
+        "cover": "https://kbimages1-a.akamaihd.net/03240bbe-2ae1-41e3-bb39-c00305e30573/353/569/90/False/midnight-s-children-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/midnight-s-children-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Salman Rushdie"
     },
     {
         "title": "The Sacrifice",
