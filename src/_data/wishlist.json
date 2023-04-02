@@ -60,6 +60,16 @@
         "author": "Juliet Blackwell"
     },
     {
+        "title": "A Toxic Trousseau",
+        "price": 8.99,
+        "cover": "https://kbimages1-a.akamaihd.net/121227c3-6da9-4179-81f6-258a2945ff86/353/569/90/False/a-toxic-trousseau.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-toxic-trousseau",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Juliet Blackwell"
+    },
+    {
         "title": "Spell Booked",
         "price": 8.99,
         "cover": "https://kbimages1-a.akamaihd.net/7387e5fc-121e-42d4-acaa-74d39e1f7ef8/353/569/90/False/spell-booked.jpg",
@@ -128,6 +138,16 @@
         "isPlus": false,
         "isSale": false,
         "author": "Leo Lukas"
+    },
+    {
+        "title": "That Inevitable Victorian Thing",
+        "price": 9.99,
+        "cover": "https://kbimages1-a.akamaihd.net/a6a85461-1fc2-45ac-80e6-6fd6f47e45c4/353/569/90/False/that-inevitable-victorian-thing.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/that-inevitable-victorian-thing",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "E.K. Johnston"
     },
     {
         "title": "But you don't look autistic at all",
@@ -270,6 +290,16 @@
         "author": "Alastair Reynolds"
     },
     {
+        "title": "No Place Like Home",
+        "price": 11.99,
+        "cover": "https://kbimages1-a.akamaihd.net/3f89bd5c-8bdc-4f44-9b67-98ce78a389f3/353/569/90/False/no-place-like-home-108.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/no-place-like-home-108",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Linh S. Nguyen"
+    },
+    {
         "title": "All the Murmuring Bones",
         "price": 11.99,
         "cover": "https://kbimages1-a.akamaihd.net/376ddc93-85ca-487a-9527-3e1b4e0de741/353/569/90/False/all-the-murmuring-bones.jpg",
@@ -358,6 +388,16 @@
         "isPlus": false,
         "isSale": false,
         "author": "Keisuke Makino"
+    },
+    {
+        "title": "The Frugal Wizard\u2019s Handbook for Surviving Medieval England",
+        "price": 12.99,
+        "cover": "https://kbimages1-a.akamaihd.net/71c5030e-acb5-4d0c-a28c-f7e05186f16a/353/569/90/False/the-frugal-wizard-s-handbook-for-surviving-medieval-england.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-frugal-wizard-s-handbook-for-surviving-medieval-england",
+        "preorder": "Available Apr 11, 2023",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Brandon Sanderson"
     },
     {
         "title": "Episode Thirteen",
@@ -688,6 +728,16 @@
         "isPlus": false,
         "isSale": true,
         "author": "Sayaka Murata"
+    },
+    {
+        "title": "The Family Fortuna",
+        "price": 19.99,
+        "cover": "https://kbimages1-a.akamaihd.net/a186c530-2dbb-43e3-9a98-cf1d232d1d67/353/569/90/False/the-family-fortuna.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-family-fortuna",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Lindsay Eagar"
     },
     {
         "title": "The London S\u00e9ance Society",
