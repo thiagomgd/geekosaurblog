@@ -290,6 +290,16 @@
         "author": "Alastair Reynolds"
     },
     {
+        "title": "Masters of Death",
+        "price": 11.99,
+        "cover": "https://kbimages1-a.akamaihd.net/932ec53f-fb1f-415d-b385-09342cd397f7/353/569/90/False/masters-of-death-3.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/masters-of-death-3",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Olivie Blake"
+    },
+    {
         "title": "No Place Like Home",
         "price": 11.99,
         "cover": "https://kbimages1-a.akamaihd.net/3f89bd5c-8bdc-4f44-9b67-98ce78a389f3/353/569/90/False/no-place-like-home-108.jpg",
@@ -714,10 +724,20 @@
         "price": 17.99,
         "cover": "https://kbimages1-a.akamaihd.net/f63eb541-9a5f-42a6-a9b4-40ffbb099f64/353/569/90/False/immortal-longings-5.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/immortal-longings-5",
-        "preorder": "Available Jul 25, 2023",
+        "preorder": "Available Jul 18, 2023",
         "isPlus": false,
         "isSale": true,
         "author": "Chloe Gong"
+    },
+    {
+        "title": "The Making of Another Major Motion Picture Masterpiece",
+        "price": 18.99,
+        "cover": "https://kbimages1-a.akamaihd.net/8a25cc51-3f49-4328-83c5-4532dc247ac0/353/569/90/False/the-making-of-another-major-motion-picture-masterpiece-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-making-of-another-major-motion-picture-masterpiece-1",
+        "preorder": "Available May 9, 2023",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Tom Hanks"
     },
     {
         "title": "Earthlings",
