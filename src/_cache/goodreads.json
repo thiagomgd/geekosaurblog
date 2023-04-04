@@ -51,10 +51,13 @@
         "dateAddedGR": "2023-04-02",
         "bookshelves": "manga",
         "status": "finished",
-        "cover": null,
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644904768i/60420817.jpg",
         "goodreadsId": 60420817,
         "goodreadsLink": "https://www.goodreads.com/book/show/60420817",
-        "type": "manga"
+        "type": "manga",
+        "yearRead": 2023,
+        "series": "\u30a4\u30b8\u3089\u306a\u3044\u3067\u3001\u9577\u701e\u3055\u3093 / Ijiranaide; Nagatoro-san",
+        "setting": []
     },
     "8498471": {
         "title": "Oz: The Marvelous Land of Oz  (Marvel Classics)",
