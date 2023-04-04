@@ -42,15 +42,6 @@ templateClass: tmpl-post
         <p class="p-bridgy-mastodon-content" style="display: none;">{{ content | mastodonShareDescription(tags | filterTagList, socialTags) }}</p>
       {% endif %}
     {% endif %}
-    {% if metadata.bridgy_twitter %}
-      <a href="https://brid.gy/publish/twitter"></a>
-      {% if threadTwitter %}
-        <a class="u-in-reply-to" href="{{ threadTwitter }}"></a>
-      {% endif %}
-      {% if description %}
-        <p class="p-bridgy-twitter-content" style="display: none;">{{ description | twitterExerpt }}</p>
-      {% endif %}
-    {% endif %}
   </div>
 
   <hr />

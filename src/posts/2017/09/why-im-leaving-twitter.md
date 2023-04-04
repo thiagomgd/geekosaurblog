@@ -11,7 +11,6 @@ images:
 menu: ""
 posttype: ""
 tags:
-- twitter
 - blog
 - socialNetworks
 title: Why I'm leaving Twitter

@@ -34,19 +34,14 @@ module.exports = {
   cssmin: (code) => {
     return new CleanCSS({}).minify(code).styles;
   },
-  generateDiscussionLink: (url) => {
-    const postUrl = `${metadata.url}${url}`;
-    return `https://twitter.com/search?f=tweets&src=typd&q=${encodeURI(
-      postUrl
-    )}`;
-  },
-  generateShareLink: (url, text) => {
-    const shareText = `${text}`; // by @FalconSensei`;
-    const shareUrl = `${metadata.url}${url}`;
-    return `https://twitter.com/intent/tweet/?text=${encodeURI(
-      shareText
-    )}&url=${encodeURI(shareUrl)}`;
-  },
+  // TODO: generate share link for mastodon?
+  // generateShareLink: (url, text) => {
+  //   const shareText = `${text}`; // by @FalconSensei`;
+  //   const shareUrl = `${metadata.url}${url}`;
+  //   return `https://twitter.com/intent/tweet/?text=${encodeURI(
+  //     shareText
+  //   )}&url=${encodeURI(shareUrl)}`;
+  // },
   getSelect: (posts) => posts.filter((post) => post.data.isSelect),
   // Get the first `n` elements of a collection.
   head: (array, n) => {
@@ -132,27 +127,6 @@ module.exports = {
   },
   truncate: (text) =>
     text.length > 300 ? `${text.substring(0, 300)}...` : text,
-  twitterExerpt: (text) => {
-    const maxLength = 245;
-    md.use(plainText);
-    md.render(text);
-    const content = md.plainText;
-    if (content.length <= maxLength) {
-      return content;
-    }
-    return content.substr(0, content.lastIndexOf(" ", maxLength)) + "...";
-  },
-  // mastodonExerpt: (text) => {
-  //   // TODO: should I add hashtags to the exerpt?
-  //   const maxLength = 490;
-  //   md.use(plainText);
-  //   md.render(text);
-  //   const content = md.plainText;
-  //   if (content.length <= maxLength) {
-  //     return content;
-  //   }
-  //   return content.substr(0, content.lastIndexOf(" ", maxLength)) + "...";
-  // },
   mastodonShareDescription: (text, hashtags=[], socialHashtags=[]) => {
     const maxLength = 450;
     const tagsList = hashtags.concat(socialHashtags)
