@@ -37,7 +37,7 @@ function saveSocialLinks(data) {
     if (process.env.ELEVENTY_ENV !== "devbuild") return;
 
     const fileContent = JSON.stringify(data, null, 2);
-    console.log("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@", data);
+    
     // create cache folder if it doesnt exist already
     // if (!fs.existsSync(dir)) {
     //     fs.mkdirSync(dir);
