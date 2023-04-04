@@ -1,4 +1,61 @@
 {
+    "23499800": {
+        "title": "Spellcasting in Silk (A Witchcraft Mystery, #7)",
+        "author": [
+            "Juliet Blackwell"
+        ],
+        "insb10": null,
+        "isbn13": null,
+        "rating": 4.0,
+        "averageRating": null,
+        "publisher": "NAL",
+        "binding": "Kindle Edition",
+        "pages": 336,
+        "yearPublished": 2015,
+        "originalPublicationYear": 2015,
+        "dateRead": "2023-04-02",
+        "dateAddedGR": "2023-03-23",
+        "bookshelves": "",
+        "status": "finished",
+        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415117212i/23499800.jpg",
+        "goodreadsId": 23499800,
+        "goodreadsLink": "https://www.goodreads.com/book/show/23499800",
+        "type": "book",
+        "series": "Witchcraft Mystery",
+        "setting": [
+            {
+                "__typename": "Places",
+                "name": "San Francisco, California",
+                "countryName": "United States",
+                "webUrl": "https://www.goodreads.com/places/991-san-francisco-california",
+                "year": null
+            }
+        ],
+        "yearRead": 2023
+    },
+    "60420817": {
+        "title": "Don't Toy With Me, Miss Nagatoro Vol. 10",
+        "author": [
+            "nanashi"
+        ],
+        "insb10": null,
+        "isbn13": null,
+        "rating": 4.0,
+        "averageRating": null,
+        "publisher": "",
+        "binding": "Kindle Edition",
+        "pages": null,
+        "yearPublished": 2022,
+        "originalPublicationYear": 2021,
+        "dateRead": "2023-04-02",
+        "dateAddedGR": "2023-04-02",
+        "bookshelves": "manga",
+        "status": "finished",
+        "cover": null,
+        "goodreadsId": 60420817,
+        "goodreadsLink": "https://www.goodreads.com/book/show/60420817",
+        "type": "manga"
+    },
     "8498471": {
         "title": "Oz: The Marvelous Land of Oz  (Marvel Classics)",
         "author": [
@@ -7585,39 +7642,6 @@
         "type": "book",
         "series": "Witchlings",
         "setting": []
-    },
-    "23499800": {
-        "title": "Spellcasting in Silk (A Witchcraft Mystery, #7)",
-        "author": [
-            "Juliet Blackwell"
-        ],
-        "insb10": null,
-        "isbn13": null,
-        "rating": 0.0,
-        "averageRating": null,
-        "publisher": "NAL",
-        "binding": "Kindle Edition",
-        "pages": 336,
-        "yearPublished": 2015,
-        "originalPublicationYear": 2015,
-        "dateRead": null,
-        "dateAddedGR": "2023-03-23",
-        "bookshelves": "currently-reading",
-        "status": "inProgress",
-        "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415117212i/23499800.jpg",
-        "goodreadsId": 23499800,
-        "goodreadsLink": "https://www.goodreads.com/book/show/23499800",
-        "type": "book",
-        "series": "Witchcraft Mystery",
-        "setting": [
-            {
-                "__typename": "Places",
-                "name": "San Francisco, California",
-                "countryName": "United States",
-                "webUrl": "https://www.goodreads.com/places/991-san-francisco-california",
-                "year": null
-            }
-        ]
     },
     "55145261": {
         "title": "The Anthropocene Reviewed",
