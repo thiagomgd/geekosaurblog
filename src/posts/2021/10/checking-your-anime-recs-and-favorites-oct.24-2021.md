@@ -11,14 +11,13 @@ reddit: ""
 series: ""
 slug: ""
 tags:
-- Anime
+- anime
 - Recommendations
-- Lists
+- lists
 - CommentingOtherBlogs
 thumbnail: /img/dragon-maid.jpeg
 title: Checking Your Anime Recs And Favorites (Oct. 2021)
 toc: false
-
 ---
 Let's just talk a little bit about anime and manga titles I've seen being recommended or talked about on the anime blogosphere.
 

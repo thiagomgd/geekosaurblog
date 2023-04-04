@@ -9,7 +9,7 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/gwrbs2/weekend_movies_jun_4_2020/
 tags:
 - Movies
-- Watching
+- watching
 title: Weekend Movies [Jun 4, 2020]
 tweetId: "1268663826632847367"
 ---

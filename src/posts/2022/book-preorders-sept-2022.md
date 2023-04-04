@@ -10,9 +10,9 @@ lead: Because of course my TBR is going to keep growing
 threadMastodon:
 series: ''
 tags:
-- Books
+- books
 - NewBooks
-- NewThings
+- newThings
 toot:
 date: '2022-09-25T19:30:00.000-07:00'
 description: I recently posted a bunch of new fiction books I got recently, and I

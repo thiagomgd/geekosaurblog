@@ -14,8 +14,8 @@ images:
 slug: k-pop-dump-2
 tags:
 - KPop
-- Personal
-- Music
+- personal
+- music
 title: 'K-Pop Dump #2'
 ---
 

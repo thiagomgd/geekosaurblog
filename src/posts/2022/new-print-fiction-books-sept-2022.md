@@ -10,9 +10,9 @@ lead: Like I need even more books
 threadMastodon:
 series: ''
 tags:
-- Books
+- books
 - NewBooks
-- NewThings
+- newThings
 toot:
 date: '2022-09-14T19:00:00.000-07:00'
 description: Huge TBR, small apartment, but this past week I still got some new additions

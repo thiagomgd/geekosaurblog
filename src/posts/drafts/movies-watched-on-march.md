@@ -1,14 +1,4 @@
 ---
-categories:
-- Anime & Manga
-- Books
-- Coding
-- Etc
-- Games
-
-- MoviesTV
-- Music
-- Pesonal
 date: "2021-11-04T04:09:44Z"
 description: ""
 draft: true

@@ -13,8 +13,8 @@ images:
 thumbnail: https://i.imgur.com/eiSHNOw.png
 reddit: https://www.reddit.com/r/geekosaur/comments/gzahqi/black_clover_friday_reads_may_29_2020/
 tags:
-- Manga
-- Reading
+- manga
+- reading
 title: 'Black Clover [Friday Reads: May 29, 2020]'
 ---
 

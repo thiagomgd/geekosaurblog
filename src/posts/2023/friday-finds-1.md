@@ -1,6 +1,6 @@
 ---
 tags:
- - Books
+ - books
  - FridayFinds
 date: '2023-01-27T17:50:00.000-07:00'
 title: "Friday Finds 1 (Jan. 27, 2023)"

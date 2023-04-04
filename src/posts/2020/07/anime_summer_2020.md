@@ -13,8 +13,8 @@ thumbnail: https://i.imgur.com/ZsMJ8Tk.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/i1bd82/anime_im_watching_this_season/
 slug: anime_summer_2020
 tags:
-- Anime
-- Watching
+- anime
+- watching
 title: Anime I'm Watching This Season
 tweetId: "1289252748832182273"
 ---

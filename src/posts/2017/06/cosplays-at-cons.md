@@ -11,9 +11,9 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/hi537z/what_cosplays_do_you_like_to_see_at_conventions/
 slug: cosplays-at-conventions-taking-pictures
 tags:
-- Personal
-- Anime
-- Cosplay
+- personal
+- anime
+- cosplay
 title: What Cosplays Do You Like To See At Conventions?
 ---
 

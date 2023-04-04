@@ -4,8 +4,7 @@ description: "After that excellent first impression on an exceptional mystery no
 slug: "the_word_is_murder_book_review"
 date: 2021-01-02T20:10:48-08:00
 draft: false
-tags: ["Fiction", "Review"]
-categories: ["Books"]
+tags: ["Fiction", "review"]
 images: ["https://i.imgur.com/5vePw9f.jpeg"]
 thumbnail: "https://i.imgur.com/5vePw9f.jpeg"
 reddit: https://www.reddit.com/r/geekosaur/comments/kpdo4c/book_review_the_word_is_murder_by_anthony/

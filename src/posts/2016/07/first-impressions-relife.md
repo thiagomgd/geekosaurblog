@@ -12,8 +12,8 @@ images:
 - http://i.imgur.com/X3hthLY.gif
 menu: ""
 tags:
-- Anime
-- FirstImpressions
+- anime
+- firstImpressions
 title: 'First Impressions: ReLIFE'
 url: 2016/07/first-impressions-relife.html
 ---

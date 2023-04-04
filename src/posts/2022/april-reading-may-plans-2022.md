@@ -10,9 +10,9 @@ lead: ''
 threadMastodon:
 series: ''
 tags:
-- Reading
-- Books
-- Manga
+- reading
+- books
+- manga
 toot:
 date: '2022-05-04T21:00:00.000-07:00'
 description: Let’s see how April went and what I’m planning to read on May

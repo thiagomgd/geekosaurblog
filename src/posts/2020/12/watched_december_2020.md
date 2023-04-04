@@ -8,7 +8,7 @@ draft: false
 thumbnail: https://i.imgur.com/X0Qkjqi.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/knkr93/watched_december_2020_geekosaur/
 tags:
-- Watching
+- watching
 title: 'Watched: December 2020'
 tweetId: "1344532396364894208"
 ---

@@ -1,7 +1,5 @@
 ---
 banner: http://i.imgur.com/psnak5r.jpg
-categories:
-- Books
 date: "2016-09-12T12:50:46-03:00"
 description: The Hidden Oracle is the first in a new series by Rick Riordan, following
   The Heroes of Olympus series, and a part of The Camp Half-Blood Chronicles
@@ -23,8 +21,8 @@ reviewsameas:
 - http://rickriordan.com/book/the-hidden-oracle/
 slug: review-the-hidden-oracle-the-trials-of-apollo
 tags:
-- Review
-- Books
+- review
+- books
 title: 'Review: The Hidden Oracle (The Trials of Apollo #1)'
 ---
 

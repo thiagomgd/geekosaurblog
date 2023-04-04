@@ -1,7 +1,5 @@
 ---
 banner: banners/booktag-a-z.jpg
-categories:
-- Books
 date: "2016-08-19T16:10:16-03:00"
 description: 'Answering the tag: Books A-Z'
 draft: true
@@ -9,9 +7,9 @@ images:
 - banners/booktag-a-z.jpg
 menu: ""
 tags:
-- Books
+- books
 - Tags
-- BlogMemes
+- blogMemes
 title: '[TAG] Book Tag: A-Z'
 url: posts/tag-book-tag-a-z
 ---

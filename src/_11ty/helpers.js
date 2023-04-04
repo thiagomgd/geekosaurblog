@@ -324,6 +324,19 @@ async function searchReddit(url) {
     return "";
 }
 
+function removeMastoTags(content) {
+    const $ = cheerio.load(content, null, false);
+    $("a.hashtag").remove();
+    
+    $("p").each((_,element) => {
+        if (!$(element).text().trim()) {
+            $(element).remove();
+        }
+    });
+    
+    return $.html();
+}
+
 module.exports = {
     readSocialLinks,
     saveSocialLinks,
@@ -334,5 +347,6 @@ module.exports = {
     optimizeImage,
     updateToot,
     fetchToots,
-    searchReddit
+    searchReddit,
+    removeMastoTags
 };

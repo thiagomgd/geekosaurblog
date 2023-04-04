@@ -10,7 +10,7 @@ images:
 - http://i.imgur.com/lTL4fBh.gif
 menu: ""
 tags:
-- Anime
+- anime
 title: Summer 2016 Anime
 url: 2016/06/summer-2016-anime.html
 ---

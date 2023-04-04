@@ -1,7 +1,7 @@
 ---
 tags:
  - Draft
- - Books
+ - books
  - ReadingStats
 date: '2023-01-30T16:00:00Z'
 title: "!"

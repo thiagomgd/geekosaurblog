@@ -10,7 +10,7 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/gzsltp/the_king_eternal_monarch_first_impressions/
 tags:
 - KoreanDramas
-- FirstImpressions
+- firstImpressions
 title: 'The King: Eternal Monarch - First Impressions'
 ---
 

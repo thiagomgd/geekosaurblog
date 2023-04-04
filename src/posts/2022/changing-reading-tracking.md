@@ -7,7 +7,7 @@ draft: false
 thumbnail: /img/notion_weekly_journal.png
 slug: 'changing-reading-tracking'
 tags:
-- Books
+- books
 - ReadingStats
 reddit: https://www.reddit.com/r/geekosaur/comments/rvfhw4/changing_how_i_track_my_reading/
 tweetId: '1478148896119566337'

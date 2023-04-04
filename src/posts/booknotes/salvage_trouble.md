@@ -4,8 +4,7 @@ description: "This is a short science fiction book that also has a bit of fantas
 slug: "salvage_trouble_review"
 date: 2020-05-30T17:48:25-03:00
 draft: false
-tags: ["Books", "Review"]
-categories: ["Books"]
+tags: ["books", "review"]
 images: ["https://i.imgur.com/ZmPRdsh.jpg"]
 reddit: "https://www.reddit.com/r/geekosaur/comments/gzaiio/review_salvage_trouble/"
 ---

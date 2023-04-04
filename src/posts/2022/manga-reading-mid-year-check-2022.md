@@ -10,8 +10,8 @@ lead: Shonen Jump app + One Piece and an iPad is a dangerous combination
 threadMastodon:
 series: ''
 tags:
-- Reading
-- Manga
+- reading
+- manga
 toot:
 date: '2022-07-13T21:30:00.000-07:00'
 description: Just doing a quick check on what I’ve read so far this year in terms

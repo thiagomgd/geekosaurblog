@@ -4,9 +4,9 @@ date: '2023-02-09T16:00:00.000-07:00'
 lead: 'Having fun with the Kobo and borrowing from the library'
 tags:
 socialTags:
-- Books
-- Kobo
-- Zootopia
+- books
+- kobo
+- zootopia
 description: 'Back again to talk about random things and some personal updates!'
 title: 'Geekosaur News 27: Kobo, Movie News, Book Recs'
 thumbnail: /img/geekosaur-news-27.png

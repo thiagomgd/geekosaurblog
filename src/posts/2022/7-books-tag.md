@@ -12,7 +12,7 @@ series: ''
 tags:
 - 7Books
 - bookstodon
-- Books
+- books
 - BookLists
 toot: https://mindly.social/@falcon/109454050103635571
 date: '2022-12-03T22:30:00.000-08:00'

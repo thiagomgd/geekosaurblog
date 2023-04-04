@@ -10,11 +10,11 @@ images:
 - https://i.imgur.com/rE0nQxc.png
 reddit: https://www.reddit.com/r/geekosaur/comments/hiye2n/personal_updates_for_october_2017/
 tags:
-- Personal
+- personal
 - LightNovels
-- Anime
-- TV
-- Music
+- anime
+- tv
+- music
 title: Personal updates for October (2017)
 ---
 

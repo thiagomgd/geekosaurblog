@@ -1,6 +1,4 @@
 ---
-categories:
-  - Books
 date: 2021-11-12T04:31:12.000Z
 description: A great novel about witches and mystery that is told in 1998 and 2021.
 images:

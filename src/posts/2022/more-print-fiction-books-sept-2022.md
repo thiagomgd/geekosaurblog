@@ -10,9 +10,9 @@ lead: ''
 threadMastodon:
 series: ''
 tags:
-- Books
+- books
 - NewBooks
-- NewThings
+- newThings
 toot:
 date: '2022-09-18T13:40:00.000-07:00'
 description: I just recently made a post about new print books I got, and then yesterday

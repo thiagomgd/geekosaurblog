@@ -8,9 +8,9 @@ images:
 - https://i.imgur.com/DLS51Q9.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/gxeb36/watched_this_week_jun_5_2020/
 tags:
-- Watching
+- watching
 - Movies
-- TV
+- tv
 title: Watched This Week [Jun 5, 2020]
 tweetId: "1269034531123847168"
 ---

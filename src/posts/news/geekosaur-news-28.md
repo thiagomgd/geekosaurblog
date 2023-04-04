@@ -3,8 +3,8 @@ slug: 'geekosaur-news-28'
 date: '2023-03-08T16:00:00.000-07:00'
 lead: 'Now with bullet points - because everything can be a PowerPoint'
 tags:
-- Books
-- NewThings
+- books
+- newThings
 description: 'Just a list of random updates and thoughts'
 title: 'Geekosaur News 28: Books And New Merch Edition'
 thumbnail: /img/geekosaur-news-28-figures.jpg

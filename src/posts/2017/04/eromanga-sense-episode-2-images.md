@@ -51,7 +51,7 @@ images:
 menu: ""
 posttype: ""
 tags:
-- Anime
+- anime
 - Gallery
 - Images
 - Eromanga-sensei

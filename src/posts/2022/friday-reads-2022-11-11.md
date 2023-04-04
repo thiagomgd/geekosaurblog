@@ -11,8 +11,8 @@ threadMastodon:
 series: ''
 tags:
 - FridayReads
-- Books
-- Reading
+- books
+- reading
 toot: https://mastodon.social/@falcon/109328017127134583
 date: '2022-11-11T16:00:00.000-08:00'
 description: This Friday I’m reading Legends & Latte, which I got this week. I’m about

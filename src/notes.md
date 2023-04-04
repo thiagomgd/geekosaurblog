@@ -31,7 +31,11 @@ pagination:
 
 {% if note.data.embed %}{% anyEmbed note.data.embed %}<br/>{% endif %}
 
+{% if note.data.isMastodon %}
+{{ note.content | safe }}
+{% else %}
 {{ note._templateContent | safe }}
+{% endif %}
 
 {% for image in note.data.images %}
 

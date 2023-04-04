@@ -1,8 +1,6 @@
 ---
 banner: 'http://i.imgur.com/CK7DA3F.jpg'
 draft: true
-categories:
-  - Books
 date: '2016-08-25T09:37:33-03:00'
 description: >-
   The Sword of Summer is a great start of one of Rick Riordan's new book series,
@@ -25,13 +23,12 @@ reviewrating: '4.75'
 reviewsameas:
   - 'https://www.goodreads.com/book/show/15724396-the-sword-of-summer'
 tags:
-  - Books
-  - Review
+  - books
+  - review
   - MiddleGrade
 title: 'Review: The Sword of Summer (Magnus Chase #1)'
 slug: review-the-sword-of-summer-magnus-chase
 url: posts/review-the-sword-of-summer-magnus-chase
-
 ---
 
 I have to admit: I never read Percy Jackson, even though I have all the book at home (my mother totally love this series). 

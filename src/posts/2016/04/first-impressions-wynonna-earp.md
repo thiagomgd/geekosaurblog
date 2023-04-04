@@ -11,8 +11,8 @@ images:
 - http://i.imgur.com/GI7bFFs.gif
 menu: ""
 tags:
-- TV
-- FirstImpressions
+- tv
+- firstImpressions
 - SyFy
 title: 'First Impressions: Wynonna Earp'
 url: 2016/04/first-impressions-wynonna-earp.html

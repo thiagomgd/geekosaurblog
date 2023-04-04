@@ -10,9 +10,9 @@ images:
 - https://i.imgur.com/uiIpbj2.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/hknqhh/good_old_amvs/
 tags:
-- Anime
+- anime
 - Games
-- Lists
+- lists
 title: Good Old AMVs
 tweetId: "1330971191608176640"
 ---

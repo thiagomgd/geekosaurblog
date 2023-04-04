@@ -1,6 +1,4 @@
 ---
-categories:
-- Books
 date: "2021-09-19T14:44:50-07:00"
 description: I've been traking how much I'm reading, and below are my hourly totals
   for each month. So far it's been a rollercoaster, but I hope those last few months

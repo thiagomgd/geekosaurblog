@@ -13,7 +13,7 @@ tags:
 - Fall2022Anime
 - AnimeEpisodeReview
 - UruseiYatsura
-- Anime
+- anime
 toot: https://mastodon.social/@falcon/109174815091555774
 date: '2022-10-15T14:00:00.000-07:00'
 description: First episode of Urusei Yatsura was GREAT! Check out my impressions and

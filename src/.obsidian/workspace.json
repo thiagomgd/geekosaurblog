@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/news/geekosaur-news-30.md",
+                "file": "posts/booknotes/assassins-curse-duology.md",
                 "mode": "source",
                 "source": true
               }
@@ -91,8 +91,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "created_date",
-                "matchingCase": false,
+                "query": "tag:#ForeignLanguage",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -108,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/news/geekosaur-news-30.md",
+                "file": "currentlyReading/currentlyReading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/news/geekosaur-news-30.md",
+                "file": "currentlyReading/currentlyReading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,16 +169,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/news/geekosaur-news-30.md"
+                "file": "currentlyReading/currentlyReading.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,45 +190,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "618f791e53a7e726",
+  "active": "45b779cc93c0038d",
   "lastOpenFiles": [
-    "posts/news/geekosaur-news-32.md",
-    "posts/news/geekosaur-news-31 1.md",
-    "currentlyReading/currentlyReading.md",
-    "posts/news/geekosaur-news-31.md",
-    "posts/news/geekosaur-news-30 1.md",
-    "posts/news/geekosaur-news-30.md",
+    "toots/toots.11tydata.js",
+    "toots/toot.md",
+    "posts/2021/10/horror-book-recommendations.md",
+    "posts/2021/02/january_reading.md",
+    "posts/booknotes/lets-pretend-this-never-happened-jenny-lawson.md",
+    "posts/2022/more-print-fiction-books-sept-2022.md",
+    "posts/booknotes/magpie-murders-anthony-horowitz.md",
+    "posts/booknotes/kokoro-connect-hito-random.md",
+    "posts/2020/11/new_ebooks_nov2020.md",
+    "posts/2020/11/new_nonfiction_ebooks_nov2020.md",
+    "posts/2021/11/new-books-on-my-list-nov.2021.md",
+    "posts/2021/02/new-fiction-books-feb-2021.md",
+    "posts/2020/09/reading_now_Sep24_2020.md",
+    "posts/booknotes/secondhand-spirits.md",
+    "posts/booknotes/the-dragon-lords-trilogy.md",
+    "posts/booknotes/the-institute-stephen-king.md",
+    "posts/booknotes/the-lighthouse-witches-c.j.cooke.md",
+    "posts/booknotes/the-sword-of-summer-magnus-chase.md",
+    "posts/2017/01/top-3-light-novels-i-want-in-english.md",
+    "posts/booknotes/what-if-randall-munroe.md",
+    "posts/booknotes/the_word_is_murder.md",
+    "posts/booknotes/salvage_trouble.md",
+    "posts/2016/09/review-the-hidden-oracle.md",
+    "posts/2021/09/reading-stats-so-far-sept2021.md",
+    "posts/2022/reading-plans-april-2022.md",
+    "posts/2021/10/reading-now-oct.9-2021.md",
+    "toots/notes.11tydata.js",
+    "_cache/mastonotes.json",
+    "_data/mytoots.js",
+    "_data/toots.js",
+    "toots/toots.11data.js",
+    "toots/toots.",
+    "toots",
+    "_data/webmentions copy.js",
+    "mastodonNotes",
     "img/geekosaur-news-30.png",
-    "templates/note_template.md",
-    "posts/news/geekosaur-news-29 1.md",
-    "posts/2023/2023-anticipated-books.md",
-    "notes/2023-03-17-12-48.md",
     "img/2023-03-17-12-48.png",
-    "currentlyWatching/currentlyWatching.md",
-    "currentlyWatching/currentlyReading 1.md",
-    "currentlyReading/currentlyReading 1.md",
-    "currentlyWatching",
-    "Untitled",
-    "currentlyReading/Untitled",
     "img/geekosaur-news-29.png",
-    "posts/news/geekosaur-news-29.md",
-    "posts/news/geekosaur-news-28 1.md",
-    "notes/2023-03-03-05-00.md",
-    "posts/news/geekosaur-news-28.md",
-    "_data/social.json",
-    "_data/post_social_share.json",
-    "posts/news/geekosaur-news-26.md",
-    "posts/news/geekosaur-news-27.md",
     "img/geekosaur-news-28-figures.jpg",
-    "posts/2023/Untitled.md",
-    "notes/00aa3093-e352-43d6-8604-ca5a7d8f518a.md",
-    "notes/2023-02-25-05-22.md",
-    "notes/2023-02-12-02-44.md",
-    "currentlyReading/index.md",
-    "currentlyReading",
-    "about copy/index.md",
-    "about copy",
-    "notes/0b58c86a-cb14-4800-8dc2-ef7bbff64d00.md",
     "img/2023-anticipated-books-ya.png"
   ]
 }

@@ -1,6 +1,6 @@
 ---
 categories:
-- Books
+- books
 date: "2021-05-03T21:51:17-07:00"
 description: 'One of my goals for this year is to read more: books, manga, articles,
   poetry, anything. This is part of something that gets more and more important to
@@ -13,7 +13,7 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/n4gfht/books_of_2021_so_far_april_2021/
 slug: books-read-until-2021-april
 tags:
-- Reading
+- reading
 thumbnail: https://i.imgur.com/fSWOWrb.jpg
 title: Books of 2021 So Far (April 2021)
 toc: false

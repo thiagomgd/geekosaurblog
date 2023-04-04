@@ -1,7 +1,5 @@
 ---
 banner: banners/top3_light_novels_i_want_english.jpg
-categories:
-- Books
 date: "2017-01-09T12:31:04-02:00"
 description: 3 light novels that I want to have a translation
 draft: true
@@ -12,8 +10,8 @@ images:
 - http://i.imgur.com/4OJUGxc.jpg
 slug: top3-light-novels-i-want-english-2017
 tags:
-- Anime
-- Books
+- anime
+- books
 title: Top 3 - Light Novel I Want In English
 ---
 

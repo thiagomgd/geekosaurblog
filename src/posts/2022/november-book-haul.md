@@ -10,7 +10,7 @@ lead: ''
 threadMastodon:
 series: ''
 tags:
-- Books
+- books
 - NewBooks
 - Fantasy
 - MiddleGrade

@@ -10,13 +10,12 @@ reddit: ""
 series: ""
 slug: watched-recently-oct-17-2021
 tags:
-- Watching
+- watching
 - Movies
-- TV
+- tv
 thumbnail: /img/groundhogday.jpeg
 title: 'Watched Recently: Oct. 17th 2021'
 toc: false
-
 ---
 Let's talk a bit about what I've been watching!
 

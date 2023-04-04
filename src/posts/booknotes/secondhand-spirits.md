@@ -1,8 +1,6 @@
 ---
 banner: banners/secondhandspirits.jpg
 draft: true
-categories:
-  - Books
 date: '2015-07-01T20:02:00-03:00'
 description: >-
   Lily Ivory is not your average witch. Her spell-casting powers tend to draw
@@ -24,12 +22,11 @@ reviewrating: '4.5'
 reviewsameas:
   - 'https://www.goodreads.com/book/show/6456016-secondhand-spirits'
 tags:
-  - Review
-  - Books
+  - review
+  - books
   - CozyMysteries
 title: 'Book Review: Secondhand Spirits by Juliet Blackwell'
 url: 2015/07/book-review-secondhand-spirits-by.html
-
 ---
 
 I'm a big fan of cozy mysteries and for a long time I was interested on the Witchcraft Mystery series by Juliet Blackwell. 

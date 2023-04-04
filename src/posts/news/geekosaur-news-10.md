@@ -8,7 +8,7 @@ reddit: https://www.reddit.com/r/geekosaur/comments/msvozd/geekosaur_weekly_10/
 slug: geekosaur-weekly-10
 tags:
 - LightNovels
-- Anime
+- anime
 title: 'Geekosaur News #10'
 toc: true
 tweetId: "1383481302964342785"

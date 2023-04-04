@@ -1,6 +1,4 @@
 ---
-categories:
-- Books
 date: "2021-02-02T20:48:23-08:00"
 description: I know it's just a little reading, but I guess the most important thing
   was trying to read a bit every day. Maybe that way I can rise my weekly averages

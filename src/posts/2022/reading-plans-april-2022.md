@@ -10,9 +10,9 @@ lead: ''
 threadMastodon:
 series: ''
 tags:
-- Books
-- Manga
-- Reading
+- books
+- manga
+- reading
 toot:
 date: '2022-04-03T00:00:00.000-07:00'
 description: I think posting my reading goals for this month might be a good way of

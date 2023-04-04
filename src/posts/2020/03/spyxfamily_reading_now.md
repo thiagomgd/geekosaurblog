@@ -10,7 +10,7 @@ images:
 - https://i.imgur.com/tMv1HXZ.png
 reddit: https://www.reddit.com/r/geekosaur/comments/h8ydv1/spy_x_family_reading_now/
 tags:
-- Manga
+- manga
 title: Spy x Family - Reading Now
 ---
 

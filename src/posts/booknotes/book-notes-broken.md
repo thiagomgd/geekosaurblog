@@ -10,7 +10,7 @@ lead: ''
 threadMastodon:
 series: ''
 tags:
-- BookNotes
+- bookNotes
 toot:
 date:
 description: ''

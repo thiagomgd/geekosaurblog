@@ -11,8 +11,8 @@ images:
 - http://i.imgur.com/9HUoFoL.jpg
 menu: ""
 tags:
-- Anime
-- FirstImpressions
+- anime
+- firstImpressions
 title: 'First Impressions: Sweetness and Lightning'
 url: 2016/07/first-impressions-sweetness-and-lightning.html
 ---

@@ -11,7 +11,7 @@ images:
 - https://i.imgur.com/xMcYofs.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/j0xze6/watched_the_marvelous_mrs_maisel_season_3/
 tags:
-- TV
+- tv
 title: 'Watched: The Marvelous Mrs. Maisel Season 3'
 tweetId: "1310316577397657605"
 ---

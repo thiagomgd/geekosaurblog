@@ -1,0 +1,40 @@
+{
+  "lastFetched": "2023-04-04T19:40:29.560Z",
+  "posts": [
+    {
+      "date": "2023-04-04T19:33:57.244Z",
+      "id": "110142215765290991",
+      "title": "Making blog updates, again",
+      "content": "<p>One of the things about using Obsidian to write my blog notes instead of Notion, is that it gets harder to do that on mobile - I use Obsidian-sync, not git.</p><p>So now I basically wanted something to simplify posting a journal/note to my blog, so I decided to go with Mastodon. Just finished doing a basic implementation to load toots and build the notes, as I already do with the md files. Let's see how it goes</p>",
+      "source_url": "https://toot.cat/@falcon/110142215765290991",
+      "site": "Mastodon",
+      "media": [],
+      "tags": [
+        "note",
+        "blog",
+        "mastodon"
+      ],
+      "emojis": [],
+      "tootUrl": "https://toot.cat/@falcon/110142215765290991",
+      "host": "toot.cat"
+    },
+    {
+      "date": "2023-04-03T19:08:12.272Z",
+      "id": "110136452203355403",
+      "title": "",
+      "content": "<p>Started watching From yesterday - it's on Paramount+ and also their channel on Prime Video. </p><p>Two episodes in and I'm very interested already. Love this kind of \"we can't get out of here and monsters come at night\" type of story, and the setting and characters seem interesting.</p><p>Also nice that it's already been renewed for S2, which is starting late April - that's actually the reason I decided to start it</p>",
+      "source_url": "https://toot.cat/@falcon/110136452203355403",
+      "site": "Mastodon",
+      "media": [],
+      "tags": [
+        "journal",
+        "tv",
+        "from",
+        "ParamountPlus"
+      ],
+      "emojis": [],
+      "tootUrl": "https://toot.cat/@falcon/110136452203355403",
+      "host": "toot.cat"
+    }
+  ]
+}

@@ -7,8 +7,8 @@ draft: false
 thumbnail: /img/brandi-redd-3vz3v6judt0-unsplash.jpg
 slug: 'non-fiction-must-read-2022'
 tags:
-- Books
-- Lists
+- books
+- lists
 - Non-Fiction
 reddit: https://www.reddit.com/r/geekosaur/comments/s41pqv/my_nonfiction_must_read_for_2022/
 tweetId: '1482085612677177344'

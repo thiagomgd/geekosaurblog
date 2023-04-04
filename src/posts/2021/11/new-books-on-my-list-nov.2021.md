@@ -1,6 +1,4 @@
 ---
-categories:
-- Books
 date: "2021-11-03T16:30:00Z"
 description: Being interested in so many different things and genres is not easy.
   Paired with some good FOMO, and my to-read/watch lists just keep growing more and
@@ -12,11 +10,10 @@ reddit: ""
 series: ""
 slug: new-books-on-tbr-2021
 tags:
-- Books
+- books
 thumbnail: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593457992i/35224992.jpg
 title: New books on my  list (Nov. 2021)
 toc: false
-
 ---
 Being interested in so many different things and genres is not easy. Paired with some good FOMO, and my to-read/watch lists just keep growing more and more. Still, let's see some books I recently got interested into!
 

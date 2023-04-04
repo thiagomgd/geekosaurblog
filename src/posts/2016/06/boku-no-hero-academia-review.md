@@ -10,8 +10,8 @@ images:
 - http://i.imgur.com/HElIeXS.jpg
 menu: ""
 tags:
-- Anime
-- Review
+- anime
+- review
 title: Boku no Hero Academia Review
 url: 2016/06/boku-no-hero-academia-review.html
 ---

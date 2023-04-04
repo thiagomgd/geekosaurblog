@@ -1,6 +1,4 @@
 ---
-categories:
-  - Books
 date: 2021-11-05T16:30:33.000Z
 description: >-
   My second Stephen King book, Later has a nice blend of mystery, crime, and the
@@ -14,14 +12,13 @@ reddit: ''
 series: ''
 slug: later-stephen-king
 tags:
-  - Books
-  - Review
+  - books
+  - review
   - Fiction
 thumbnail: /img/later-stephen-king.jpeg
 title: 'Book Review: Later by Stephen King'
 toc: false
 tweetId: ''
-
 ---
 
 Later is a Stephen King book that is part of the Hard Case Crime series, along The Colorado Kid and Joyland. It's a coming-of-age mystery with ghosts, so what's not to love?

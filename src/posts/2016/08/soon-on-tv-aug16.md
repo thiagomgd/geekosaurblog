@@ -11,7 +11,7 @@ images:
 menu: ""
 slug: soon-on-tv-aug2016
 tags:
-- TV
+- tv
 title: 'Soon on TV #1 - Aug. 2016'
 url: posts/soon-on-tv-aug2016
 ---

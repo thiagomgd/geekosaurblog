@@ -9,7 +9,7 @@ reddit: https://www.reddit.com/r/geekosaur/comments/meue5n/geekosaur_weekly_9_li
 slug: geekosaur-weekly-9-seven-seas-light-novel-censorship
 tags:
 - LightNovels
-- Anime
+- anime
 title: 'Geekosaur News #9: Light Novel Censorship, Outrage Marketing and a Great Anime
   Fight'
 toc: true

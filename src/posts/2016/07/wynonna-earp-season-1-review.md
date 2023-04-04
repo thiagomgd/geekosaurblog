@@ -10,8 +10,8 @@ images:
 - http://i.imgur.com/Uu07MI5.png
 menu: ""
 tags:
-- TV
-- Review
+- tv
+- review
 - SyFy
 title: Wynonna Earp season 1 review
 url: 2016/07/wynonna-earp-season-1-review.html

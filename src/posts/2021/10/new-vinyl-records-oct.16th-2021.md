@@ -12,7 +12,7 @@ series: ""
 slug: new-vinyl-records-2021-10-16
 tags:
 - MyRecordCollection
-- Music
+- music
 thumbnail: /img/morphine.jpeg
 title: 'New vinyl records: Oct. 16th 2021'
 toc: false

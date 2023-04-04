@@ -14,7 +14,7 @@ reddit: https://www.reddit.com/r/geekosaur/comments/nk4h97/my_old_blogs_names_pa
 slug: my-old-blogs-names-part-1
 tags:
 - Blogging
-- Personal
+- personal
 - Nostalgia
 title: My Old Blogs Names Part 1
 toc: false

@@ -1,6 +1,4 @@
 ---
-categories:
-- Books
 date: "2021-10-10T01:00:00Z"
 description: ""
 images:
@@ -11,8 +9,8 @@ reddit: ""
 series: ""
 slug: reading-now-20211009
 tags:
-- Books
-- Reading
+- books
+- reading
 thumbnail: /img/244464316_1210475762776332_6027649036626848770_n.jpg
 title: Reading Now (Oct 9, 2021)
 toc: false

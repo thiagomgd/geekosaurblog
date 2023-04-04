@@ -1,7 +1,7 @@
 ---
 tags:
-- Books
-- Lists
+- books
+- lists
 - YA
 date: '2023-02-02T18:30:00.000-07:00'
 title: "Anticipated 2023 YA Book Releases"

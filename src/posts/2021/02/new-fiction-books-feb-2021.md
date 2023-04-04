@@ -1,6 +1,4 @@
 ---
-categories:
-- Books
 date: "2021-02-17T16:21:59-08:00"
 description: 'I haven''t been buying so many books recently, which I see as a positive:
   I already have more books than I would need for this year, so there''s no point
@@ -13,7 +11,7 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/lmaf62/new_fiction_books_feb_2021/
 slug: new-fiction-books-feb-2021
 tags:
-- Books
+- books
 - Fiction
 title: New Fiction Books [Feb. 2021]
 tweetId: "1362213607061168128"

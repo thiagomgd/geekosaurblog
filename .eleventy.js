@@ -12,7 +12,7 @@ const shortcodes = require('./src/_11ty/shortcodes');
 const pairedShortcodes = require('./src/_11ty/pairedShortcodes');
 const asyncShortcodes = require('./src/_11ty/asyncShortcodes');
 const {anyEmbed, figure, blur, tweet} = require('./src/_11ty/asyncShortcodes');
-
+// const mastoArchive = require('eleventy-plugin-mastoarchive');
 
 const cheerio = require("cheerio");
 const { forEach } = require("lodash");
@@ -147,6 +147,12 @@ async function updatePostSocial(post, socialLinks, mastodonPosts) {
 
 module.exports = function(eleventyConfig) {
   // Add plugins
+  // eleventyConfig.addPlugin(mastoArchive, {
+  //   host: 'https://mindly.social',
+  //   userId: '109320970425371051',
+  //   removeSyndicates: ['geekosaur.com'],
+  // });
+
   eleventyConfig.addPlugin(pluginRss);
   // eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
@@ -236,6 +242,15 @@ module.exports = function(eleventyConfig) {
     const myToots = await helpers.fetchToots();
 
     const localNotes = collection.getFilteredByTag('note');
+    const localTest = collection.getFilteredByTag('asd');
+    console.log('---------')
+    console.log(localTest);
+    console.log('---------')
+    
+    // const localMastodon = collection.getFilteredByTag('mastodon');
+    // const otherLocalMastodon = collection.getAll()[0].data.mastodon.posts;
+
+    // console.log(otherLocalMastodon);
     
     const newNotes = await Promise.all(localNotes.map(async (post) => {
       await updatePostSocial(post, social, myToots);
@@ -244,9 +259,23 @@ module.exports = function(eleventyConfig) {
     }));
 
     helpers.saveSocialLinks(social);
-    
+    // console.log('-----')
+    // console.log(newNotes[0])
+
+    // otherLocalMastodon.forEach(toot => {
+    //   toot.data = toot.data || {};
+    //   // console.log(toot.date, typeof(toot.date), new Date(toot.date));
+    //   toot.data.createdDate = new Date(toot.date);
+    //   toot.data.isMastodon = true;
+    //   newNotes.push(toot);
+    // })
+
+    // console.log(newNotes[newNotes.length-1])
+    // console.log('-----')
+    // console.log(newNotes[0])
     return newNotes
       .sort(function(a, b) {
+        // console.log(a.data.createdDate, b.data.createdDate);
         const timeA = a.data.createdDate ? a.data.createdDate.getTime() : 0;
         const timeB = b.data.createdDate ? b.data.createdDate.getTime() : 0;
         return timeB - timeA;

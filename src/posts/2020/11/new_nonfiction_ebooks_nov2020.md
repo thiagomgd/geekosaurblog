@@ -1,6 +1,4 @@
 ---
-categories:
-- Books
 date: "2020-11-04T12:11:01-08:00"
 description: Yesterday I posted about fiction ebooks that I got recently. This time
   I'm sharing some non-fiction titles that I added to my Kindle collection!
@@ -9,7 +7,7 @@ images:
 - https://i.imgur.com/lQYL7EG.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/jo6925/new_nonfiction_ebooks_i_got_recently_nov_2020/
 tags:
-- Books
+- books
 - Non-Fiction
 title: New Nonfiction eBooks I Got Recently [Nov. 2020]
 toc: true

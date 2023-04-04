@@ -11,8 +11,8 @@ images:
 - http://i.imgur.com/1GRMoTR.gif
 menu: ""
 tags:
-- Manga
-- Review
+- manga
+- review
 - Recommendations
 title: 'The Doctor Recommends: Soul Eater Not'
 url: 2016/04/the-doctor-recommends-soul-eater-not.html

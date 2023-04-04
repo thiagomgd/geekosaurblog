@@ -1,6 +1,4 @@
 ---
-categories:
-- Books
 date: "2021-10-24T16:30:00Z"
 description: October is almost done, and I just realized I never recommended any horror
   book here. Now, let's do it, in no particular order!
@@ -12,11 +10,10 @@ series: ""
 slug: ""
 tags:
 - Horror
-- Lists
+- lists
 thumbnail: /img/horror-books-1.jpeg
 title: Horror Book Recommendations
 toc: true
-
 ---
 October is almost done, and I just realized I never recommended any horror book here. Now, let's do it, in no particular order!
 

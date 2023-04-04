@@ -11,8 +11,8 @@ images:
 - https://i.imgur.com/U9lZXw5.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/j5s1ae/what_im_watching_oct_4_2020/
 tags:
-- TV
-- Watching
+- tv
+- watching
 title: What I'm Watching [Oct. 4, 2020]
 tweetId: "1313215829757091840"
 ---

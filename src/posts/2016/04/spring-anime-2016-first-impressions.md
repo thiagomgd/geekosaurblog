@@ -12,8 +12,8 @@ images:
 - http://i.imgur.com/ZqaUX2u.gif
 menu: ""
 tags:
-- Anime
-- FirstImpressions
+- anime
+- firstImpressions
 title: Spring Anime 2016 - First Impressions
 url: 2016/04/spring-anime-2016-first-impressions.html
 ---

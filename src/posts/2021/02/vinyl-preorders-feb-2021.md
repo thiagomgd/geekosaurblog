@@ -13,7 +13,7 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/lklzs7/vinyl_record_preorders_feb_15_2020/
 slug: vinyl-preorders-feb-2021
 tags:
-- Music
+- music
 - MyRecordCollection
 title: Vinyl Record Pre-Orders [Feb. 15 2020]
 tweetId: "1361407987588337665"

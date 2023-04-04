@@ -10,7 +10,7 @@ lead: The best characters from best anime also make for a wonderful couple
 threadMastodon:
 series: ''
 tags:
-- Anime
+- anime
 - Reply
 toot:
 date: '2022-03-11T00:00:00.000-08:00'

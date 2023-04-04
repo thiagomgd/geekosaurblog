@@ -11,8 +11,8 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/hiyfmy/kpop_dump_1/
 slug: k-pop-dump-1
 tags:
-- Personal
-- Music
+- personal
+- music
 - KPop
 title: 'K-Pop Dump #1'
 ---

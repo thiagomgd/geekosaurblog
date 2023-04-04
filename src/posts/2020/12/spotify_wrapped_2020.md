@@ -12,8 +12,8 @@ images:
 thumbnail: https://i.imgur.com/2mdG4Zw.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/k84ead/my_2020_spotify_wrapped/
 tags:
-- Music
-- Lists
+- music
+- lists
 title: My 2020 Spotify Wrapped
 tweetId: "1335724672562982912"
 ---

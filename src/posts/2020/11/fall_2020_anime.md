@@ -8,7 +8,7 @@ draft: false
 thumbnail: https://i.imgur.com/BJIc6sd.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/jn2qrz/fall_2020_anime_what_im_watching/
 tags:
-- Anime
+- anime
 - Fall2020
 - SeasonalAnime
 title: Fall 2020 Anime - What I'm Watching

@@ -234,5 +234,8 @@ module.exports = {
   },
   getMastodon: (mastodonUrl) => {
     return mastodonUrl || "https://mindly.social/@falcon"
+  },
+  getTootSlug: (toot) => {
+    return `${toot.host.replace('.','')}${toot.id}`
   }
 };

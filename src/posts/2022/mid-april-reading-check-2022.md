@@ -10,7 +10,7 @@ lead: ''
 threadMastodon:
 series: ''
 tags:
-- Reading
+- reading
 toot:
 date: '2022-04-18T14:30:00.000-07:00'
 description: Let’s have a look at how I’m doing so far this month regarding my reading

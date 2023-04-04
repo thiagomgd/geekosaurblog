@@ -12,7 +12,7 @@ series: ''
 tags:
 - MyHeroAcademia
 - Fall2022Anime
-- Anime
+- anime
 - AnimeEpisodeReview
 toot: https://mastodon.social/@falcon/109164446441099365
 date: '2022-10-13T19:00:00.000-07:00'

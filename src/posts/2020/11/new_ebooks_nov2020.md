@@ -2,8 +2,6 @@
 aliases:
 - /post/new_ebooks_nov2020/
 - /post/20/11/new_ebooks_nov2020/
-categories:
-- Books
 date: "2020-11-03T19:18:19-08:00"
 description: On the past few months I've got some sweet new eBooks on my Kindle, further
   increasing the size of my ever-growing TBR list. But, who can resist a sweet deal,
@@ -15,7 +13,7 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/jnqmel/new_fiction_books_i_got_recently_nov_2020/
 slug: new_ebooks_nov2020
 tags:
-- Books
+- books
 - Fiction
 title: New Fiction Books I Got Recently [Nov. 2020]
 toc: true

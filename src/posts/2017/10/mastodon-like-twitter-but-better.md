@@ -10,10 +10,10 @@ images:
 - https://i.imgur.com/pFTUuzM.png
 menu: ""
 tags:
-- Twitter
-- Blog
+- twitter
+- blog
 - SocialNetworks
-- Mastodon
+- mastodon
 title: 'Mastodon: Like Twitter but Better'
 ---
 

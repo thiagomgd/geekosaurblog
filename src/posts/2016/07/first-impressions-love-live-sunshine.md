@@ -11,8 +11,8 @@ images:
 - http://i.imgur.com/qXzZXdd.jpg
 menu: ""
 tags:
-- Anime
-- FirstImpressions
+- anime
+- firstImpressions
 title: 'First impressions: Love Live! Sunshine!!'
 url: 2016/07/first-impressions-love-live-sunshine.html
 ---

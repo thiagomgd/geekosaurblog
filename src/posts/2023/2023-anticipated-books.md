@@ -1,7 +1,7 @@
 ---
 tags:
-- Books
-- Lists
+- books
+- lists
 date: '2023-02-20T00:20:00.000Z'
 title: "Anticipated 2023 Book Releases"
 description: "A couple weeks ago I posted some anticipated YA book releases for 2023. Now I'm back with a few more genres. Yeah, I know it's LATE for this kind of list, but here I'm anyway."
