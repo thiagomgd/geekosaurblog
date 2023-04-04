@@ -11,7 +11,7 @@ series: ""
 slug: atelier-refreshing-netflix-original
 tags:
 - tv
-- jDrama
+- foreignLanguage
 thumbnail: /img/atelier.jpeg
 title: 'Atelier: A Refreshing Netflix Original'
 toc: false

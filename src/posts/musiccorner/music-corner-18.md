@@ -11,7 +11,6 @@ threadMastodon:
 series: ''
 tags:
 - soundtrack
-- wednesday
 toot: https://mindly.social/@falcon/109402996628015644
 date: '2022-11-24T21:50:00.000-08:00'
 description: I’m watching Wednesday with my wife, and one of the things that I’m enjoying

@@ -8,7 +8,6 @@ draft: false
 slug: 'eleventy-notion-notes-section'
 tags:
 - automating
-- eleventy
 toc: true
 reddit: https://www.reddit.com/r/geekosaur/comments/stfhy0/notes_section_from_notion_to_eleventy/
 tweetId: '1493678663723720705'

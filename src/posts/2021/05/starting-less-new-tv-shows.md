@@ -10,8 +10,6 @@ reddit: https://www.reddit.com/r/geekosaur/comments/nb9ezw/starting_less_new_tv_
 slug: starting-less-new-tv-shows
 tags:
 - moviesTV
-- watchlist
-- fomo
 title: Starting Less New TV Shows For Now
 toc: false
 tweetId: "1392714210224656388"

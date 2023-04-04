@@ -13,7 +13,6 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/nk4h97/my_old_blogs_names_part_1/
 slug: my-old-blogs-names-part-1
 tags:
-- blogging
 - personal
 - nostalgia
 title: My Old Blogs Names Part 1

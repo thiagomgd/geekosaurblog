@@ -10,10 +10,8 @@ lead: 7 books that tell you about me
 threadMastodon:
 series: ''
 tags:
-- 7Books
-- bookstodon
 - books
-- bookLists
+- lists
 toot: https://mindly.social/@falcon/109454050103635571
 date: '2022-12-03T22:30:00.000-08:00'
 description: ' I’m late to the thing as always, but let’s see my 7 books, in no particular

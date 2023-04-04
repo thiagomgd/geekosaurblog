@@ -11,8 +11,6 @@ threadMastodon:
 series: Urusei Yatsura Season 1
 tags:
 - fall2022Anime
-- animeEpisodeReview
-- uruseiYatsura
 - anime
 toot: https://mastodon.social/@falcon/109174815091555774
 date: '2022-10-15T14:00:00.000-07:00'

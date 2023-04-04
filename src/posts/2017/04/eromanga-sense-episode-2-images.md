@@ -1,7 +1,5 @@
 ---
 banner: http://i.imgur.com/QrmHr3x.jpg
-categories:
-- Anime & Manga
 date: "2017-04-17T13:43:33-03:00"
 description: Eromanga-Sensei Episode 2 gallery
 draft: true
@@ -52,9 +50,6 @@ menu: ""
 posttype: ""
 tags:
 - anime
-- gallery
-- images
-- eromangaSensei
 title: Eromanga-Sensei Episode 2 gallery
 ---
 

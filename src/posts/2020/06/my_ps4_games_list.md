@@ -11,8 +11,6 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/heoare/my_ps4_games_list/
 tags:
 - games
-- notion
-- organization
 title: My PS4 Games List
 ---
 

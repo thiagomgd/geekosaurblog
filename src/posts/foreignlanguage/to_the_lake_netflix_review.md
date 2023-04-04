@@ -3,7 +3,7 @@ title: "To The Lake: When Shit Hits The Fan"
 description: "With a very interesting timing, To The Lake  is a Russian show about a deadly epidemic that released on Netflix in late 2020."
 date: 2021-01-05T17:39:21-08:00
 draft: false
-tags: ["netflix", "foreignLanguage", "drama", "Thriller", "russian"]
+tags: ["netflix", "foreignLanguage"]
 thumbnail: "https://i.imgur.com/xhtfSxG.jpg"
 reddit: https://www.reddit.com/r/geekosaur/comments/krdisa/to_the_lake_when_shit_hits_the_fan_geekosaur/
 tweetId: "1346636060873220097"

@@ -11,8 +11,8 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/kmwtup/happy_new_year_and_late_merry_christmas_geekosaur/
 slug: happy_holidays_2020
 tags:
-- holidays
 - movies
+- moviesTV
 title: Happy New Year (And Late Merry Christmas)
 tweetId: "1344168183435915265"
 ---

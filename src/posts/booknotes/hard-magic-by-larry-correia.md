@@ -9,7 +9,6 @@ series: ''
 slug: hard-magic-larry-correia
 tags:
   - fiction
-  - urbanFantasy
 thumbnail: /img/hard-magic.jpeg
 title: 'Book Review: Hard Magic by Larry Correia'
 toc: false

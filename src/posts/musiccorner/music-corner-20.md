@@ -1,7 +1,7 @@
 ---
 slug: music-corner-20
 tags:
-- KPop
+- kPop
 - livePerformance
 socialTags:
 - MusicMonday

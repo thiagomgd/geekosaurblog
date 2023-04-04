@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2016/08/book-tag-a-z.md",
+                "file": "posts/2020/12/happy_holidays_2020.md",
                 "mode": "source",
                 "source": true
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tags",
+                "query": "tag:#blogTags",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2016/08/book-tag-a-z.md",
+                "file": "posts/2020/12/happy_holidays_2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2016/08/book-tag-a-z.md",
+                "file": "posts/2020/12/happy_holidays_2020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequencyReverse",
                 "useHierarchy": true
               }
             }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2016/08/book-tag-a-z.md"
+                "file": "posts/2020/12/happy_holidays_2020.md"
               }
             }
           }
@@ -190,35 +190,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31dbe857f1764b2e",
+  "active": "45b779cc93c0038d",
   "lastOpenFiles": [
+    "posts/2020/06/my_ps4_games_list.md",
+    "posts/foreignlanguage/to_the_lake_netflix_review.md",
     "posts/booknotes/hard-magic-by-larry-correia.md",
+    "posts/musiccorner/music-corner-18.md",
+    "posts/2022/urusei-yatsura-episode1-review.md",
+    "posts/2017/09/why-im-leaving-twitter.md",
+    "posts/2017/10/mastodon-like-twitter-but-better.md",
+    "notes/c14972fb-0484-43e8-8b0c-ec796856708e.md",
+    "notes/98ebcb91-3a20-429b-ab99-94d9db1b5f9d.md",
+    "posts/2016/09/k-pop-dump-1.md",
+    "posts/2016/07/the-doctor-recommends-father-brown.md",
+    "posts/2022/appletv-quality-over-quantity.md",
+    "posts/2016/08/migrated-to-hugo.md",
+    "posts/2020/06/the_king_eternal_monarch_first_impressions.md",
+    "posts/tvmovienotes/atelier-a-refreshing-netflix-original.md",
+    "posts/2017/04/eromanga-sense-episode-2-images.md",
     "posts/2020/11/fall_2020_anime.md",
-    "posts/2022/reading-plans-april-2022.md",
-    "templates/note_template.md",
-    "currentlyReading/currentlyReading.md",
+    "posts/2016/03/the-doctor-recommends-americans.md",
+    "posts/musiccorner/music-corner-17.md",
+    "posts/2022/7-books-tag.md",
+    "posts/2021/05/starting-less-new-tv-shows.md",
+    "posts/2021/05/my-old-blogs-names-part-1.md",
+    "posts/2021/10/checking-your-anime-recs-and-favorites-oct.24-2021.md",
+    "notes/2023-02-12-02-44.md",
+    "notes/f888901f-e6f5-4070-9f55-27f84375f7b7.md",
+    "posts/2022/eleventy-notion-notes-section.md",
     "toots/toots.11tydata.js",
-    "toots/toot.md",
-    "posts/2021/10/horror-book-recommendations.md",
-    "posts/2021/02/january_reading.md",
-    "posts/booknotes/lets-pretend-this-never-happened-jenny-lawson.md",
-    "posts/2022/more-print-fiction-books-sept-2022.md",
-    "posts/booknotes/magpie-murders-anthony-horowitz.md",
-    "posts/booknotes/kokoro-connect-hito-random.md",
-    "posts/2020/11/new_ebooks_nov2020.md",
-    "posts/2020/11/new_nonfiction_ebooks_nov2020.md",
-    "posts/2021/11/new-books-on-my-list-nov.2021.md",
-    "posts/2021/02/new-fiction-books-feb-2021.md",
-    "posts/2020/09/reading_now_Sep24_2020.md",
-    "posts/booknotes/secondhand-spirits.md",
-    "posts/booknotes/the-dragon-lords-trilogy.md",
-    "posts/booknotes/the-institute-stephen-king.md",
-    "posts/booknotes/the-lighthouse-witches-c.j.cooke.md",
-    "posts/booknotes/the-sword-of-summer-magnus-chase.md",
-    "posts/2017/01/top-3-light-novels-i-want-in-english.md",
-    "posts/booknotes/what-if-randall-munroe.md",
-    "posts/booknotes/the_word_is_murder.md",
-    "posts/booknotes/salvage_trouble.md",
     "toots/notes.11tydata.js",
     "_cache/mastonotes.json",
     "_data/mytoots.js",

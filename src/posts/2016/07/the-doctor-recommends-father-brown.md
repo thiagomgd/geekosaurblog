@@ -8,7 +8,6 @@ images:
 - banners/FatherBrown.jpg
 menu: ""
 tags:
-- bbc
 - review
 - recommendations
 - tv

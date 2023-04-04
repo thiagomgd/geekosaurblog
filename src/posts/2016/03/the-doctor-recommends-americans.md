@@ -8,7 +8,6 @@ images:
 - http://i.imgur.com/0YylfK0.gif
 tags:
 - tv
-- fx
 - recommendations
 title: 'Recommendation: The Americans'
 ---

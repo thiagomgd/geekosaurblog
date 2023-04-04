@@ -10,8 +10,7 @@ lead: ''
 threadMastodon:
 series: ''
 tags:
-- Streaming
-- link
+- streaming
 toot:
 date: '2022-03-29T00:00:00.000-07:00'
 description: As a result from CODA getting 3 Oscars this weekend, AppleTV+ is getting
