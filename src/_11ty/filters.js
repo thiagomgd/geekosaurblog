@@ -131,25 +131,18 @@ module.exports = {
     const maxLength = 450;
     const tagsList = hashtags.concat(socialHashtags)
     const tagsText = tagsList.map(tag => `#${tag.replace(' ', '')}`).join(' ') || '';
-    // console.debug(tagsText);
-    // console.debug(tagsText.length());
     const available = maxLength - tagsText.length;
 
-    // md.use(plainText);
-    // var mkd = require("markdown-it")({html: false, breaks: true});
     let content = typeof text === 'string' ? text : text.val
 
     // todo: blockquote to >
-    content = content.replace(/(<([^>]+)>)/gi, ""); //.replaceAll('&lt;/p&gt;', '/n').replaceAll('&lt;p&gt;&amp;lt;p&amp;gt;',''); //mkd.render(text);
-
-    // console.log(typeof text);
-    // const content = mkd.render(typeof text === 'string' ? text : text.val);
-    // const content = md.render(typeof text === 'string' ? text : text.val);
+    // content = 'dasda \n\n adasd <br/>';
+    content = content.replaceAll('</p><p>', '\n\n').replace(/(<([^>]+)>)/gi, "").trim(); 
 
     if (content.length <= available) {
-      return content + ' ' + tagsText;
+      return content + '\n' + tagsText;
     }
-    return content.substr(0, content.lastIndexOf(" ", available)) + "... " + tagsText;
+    return content.substr(0, content.lastIndexOf(" ", available)) + "...\n" + tagsText;
   },
   size: (mentions) => {
     return !mentions ? 0 : mentions.length;
