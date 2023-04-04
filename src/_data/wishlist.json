@@ -10,16 +10,6 @@
         "author": "Cait Flanders"
     },
     {
-        "title": "Home Before Dark",
-        "price": 1.99,
-        "cover": "https://kbimages1-a.akamaihd.net/f082817c-9c47-4adf-bb33-1ca150af1e3c/353/569/90/False/home-before-dark-22.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/home-before-dark-22",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Riley Sager"
-    },
-    {
         "title": "Mindwalker",
         "price": 5.99,
         "cover": "https://kbimages1-a.akamaihd.net/552b7753-013a-4cd4-9077-e8335e07695b/353/569/90/False/mindwalker-5.jpg",
@@ -454,7 +444,7 @@
         "price": 12.99,
         "cover": "https://kbimages1-a.akamaihd.net/64eea415-068d-45f7-9634-d849d0badf0e/353/569/90/False/paradise-1-1.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/paradise-1-1",
-        "preorder": "Available Apr 4, 2023",
+        "preorder": "",
         "isPlus": false,
         "isSale": false,
         "author": "David Wellington"
@@ -538,6 +528,16 @@
         "isPlus": false,
         "isSale": false,
         "author": "Ivelisse Housman"
+    },
+    {
+        "title": "Home Before Dark",
+        "price": 13.99,
+        "cover": "https://kbimages1-a.akamaihd.net/f082817c-9c47-4adf-bb33-1ca150af1e3c/353/569/90/False/home-before-dark-22.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/home-before-dark-22",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Riley Sager"
     },
     {
         "title": "Of Manners and Murder",
