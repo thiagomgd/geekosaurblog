@@ -10,7 +10,7 @@ lead: I just can’t stop vibing to Can't Get You out of My Head
 threadMastodon:
 series: ''
 tags:
-- CoverSongs
+- coverSongs
 toot:
 date: '2022-03-07T00:00:00.000-08:00'
 description: Very cool cover songs by AnnenMayKantereit

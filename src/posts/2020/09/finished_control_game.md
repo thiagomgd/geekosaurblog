@@ -9,7 +9,7 @@ images:
 - https://i.imgur.com/0h0V5QJ.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/iljn9a/finished_control_game/
 tags:
-- Games
+- games
 title: Finished Control Game
 tweetId: "1301317325841465344"
 ---

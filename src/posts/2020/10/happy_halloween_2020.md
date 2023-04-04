@@ -11,7 +11,7 @@ images:
 - https://i.imgur.com/EIWfi32.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/jltydb/happy_halloween/
 tags:
-- SpecialDays
+- specialDays
 title: Happy Halloween!
 tweetId: "1322713324501479425"
 ---

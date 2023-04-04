@@ -1,7 +1,5 @@
 ---
 banner: banners/top3-shows-to-finish.jpg
-categories:
-- MoviesTV
 date: "2016-08-09T14:42:00-03:00"
 description: 'Here it is: the top 3 series that I love but didn''t finish yet!'
 draft: true

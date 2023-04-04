@@ -10,7 +10,7 @@ lead: ''
 threadMastodon:
 series: ''
 tags:
-- Games
+- games
 toot:
 date:
 description: ''

@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/booknotes/assassins-curse-duology.md",
+                "file": "posts/2016/08/book-tag-a-z.md",
                 "mode": "source",
                 "source": true
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ForeignLanguage",
+                "query": "tag:#Tags",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "currentlyReading/currentlyReading.md",
+                "file": "posts/2016/08/book-tag-a-z.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "currentlyReading/currentlyReading.md",
+                "file": "posts/2016/08/book-tag-a-z.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "currentlyReading/currentlyReading.md"
+                "file": "posts/2016/08/book-tag-a-z.md"
               }
             }
           }
@@ -190,8 +190,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45b779cc93c0038d",
+  "active": "31dbe857f1764b2e",
   "lastOpenFiles": [
+    "posts/booknotes/hard-magic-by-larry-correia.md",
+    "posts/2020/11/fall_2020_anime.md",
+    "posts/2022/reading-plans-april-2022.md",
+    "templates/note_template.md",
+    "currentlyReading/currentlyReading.md",
     "toots/toots.11tydata.js",
     "toots/toot.md",
     "posts/2021/10/horror-book-recommendations.md",
@@ -214,10 +219,6 @@
     "posts/booknotes/what-if-randall-munroe.md",
     "posts/booknotes/the_word_is_murder.md",
     "posts/booknotes/salvage_trouble.md",
-    "posts/2016/09/review-the-hidden-oracle.md",
-    "posts/2021/09/reading-stats-so-far-sept2021.md",
-    "posts/2022/reading-plans-april-2022.md",
-    "posts/2021/10/reading-now-oct.9-2021.md",
     "toots/notes.11tydata.js",
     "_cache/mastonotes.json",
     "_data/mytoots.js",

@@ -12,9 +12,9 @@ series: ""
 slug: ""
 tags:
 - anime
-- Recommendations
+- recommendations
 - lists
-- CommentingOtherBlogs
+- commentingOtherBlogs
 thumbnail: /img/dragon-maid.jpeg
 title: Checking Your Anime Recs And Favorites (Oct. 2021)
 toc: false

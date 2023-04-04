@@ -8,7 +8,7 @@ thumbnail: /img/books/wool.jpeg
 slug: 'book-notes-wool-silo-1'
 series: 'silo'
 tags:
-- Sci-Fi
+- sciFi
 reddit: https://www.reddit.com/r/geekosaur/comments/s5h535/book_notes_wool_silo_1_by_hugh_howey/
 tweetId: '1482771291052539904'
 ---

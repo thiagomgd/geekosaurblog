@@ -10,7 +10,7 @@ thumbnail: https://i.imgur.com/9u3PBtG.png
 reddit: https://www.reddit.com/r/geekosaur/comments/n06zhy/automating_things_downloading_reddit_media_part_2/
 slug: automating-downloading-reddit-images-part2
 tags:
-- Automating
+- automating
 title: 'Automating Things: Downloading Reddit Media Part #2'
 toc: false
 tweetId: "1387263984001191936"

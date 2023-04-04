@@ -9,7 +9,7 @@ reddit: ""
 series: ""
 slug: ""
 tags:
-- Horror
+- horror
 - lists
 thumbnail: /img/horror-books-1.jpeg
 title: Horror Book Recommendations

@@ -10,9 +10,9 @@ images:
 - https://i.imgur.com/NspczLs.png
 reddit: https://www.reddit.com/r/geekosaur/comments/heoare/my_ps4_games_list/
 tags:
-- Games
-- Notion
-- Organization
+- games
+- notion
+- organization
 title: My PS4 Games List
 ---
 

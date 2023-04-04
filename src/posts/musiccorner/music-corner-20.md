@@ -2,7 +2,7 @@
 slug: music-corner-20
 tags:
 - KPop
-- LivePerformance
+- livePerformance
 socialTags:
 - MusicMonday
 date: '2023-01-30T14:00:00.000-08:00'

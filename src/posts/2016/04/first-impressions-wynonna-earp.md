@@ -1,7 +1,5 @@
 ---
 banner: http://i.imgur.com/baSp9tw.jpg
-categories:
-- MoviesTV
 date: "2016-04-18T17:42:00-03:00"
 description: Wynonna Earp is a show based on a weird western comic book, and it was
   made to be fun.
@@ -13,7 +11,7 @@ menu: ""
 tags:
 - tv
 - firstImpressions
-- SyFy
+- syFy
 title: 'First Impressions: Wynonna Earp'
 url: 2016/04/first-impressions-wynonna-earp.html
 ---

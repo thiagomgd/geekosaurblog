@@ -3,7 +3,7 @@ slug: 'geekosaur-news-32'
 date: '2023-03-27T12:40:00.000-07:00'
 lead: ''
 tags:
-- Draft
+- draft
 description: ''
 title: 'Geekosaur News 32'
 thumbnail: 

@@ -3,8 +3,6 @@ slug: geekosaur-news-23
 reddit: https://www.reddit.com/r/geekosaur/comments/u65oq2/geekosaur_news_23_getting_older_is_tough_i_guess/
 tweet: https://twitter.com/FalconSensei/status/1515913304316723206
 threadTwitter: https://twitter.com/FalconSensei/status/1512272740501405704
-tags:
-- GeekosaurNews
 date: '2022-04-17T00:00:00.000-07:00'
 description: Another week went by, and it went so fast
 title: 'Geekosaur News 23: Getting Older Is Tough, I Guess?'

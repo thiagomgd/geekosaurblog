@@ -1,6 +1,4 @@
 ---
-categories:
-- Anime & Manga
 date: "2020-11-02T18:02:36-08:00"
 description: A bit late to the party, but let's talk seasonal anime. This is going
   to be a slow season for me!
@@ -9,8 +7,7 @@ thumbnail: https://i.imgur.com/BJIc6sd.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/jn2qrz/fall_2020_anime_what_im_watching/
 tags:
 - anime
-- Fall2020
-- SeasonalAnime
+- fall2020Anime
 title: Fall 2020 Anime - What I'm Watching
 tweetId: "1323453185986613248"
 ---

@@ -12,7 +12,7 @@ menu: ""
 tags:
 - twitter
 - blog
-- SocialNetworks
+- socialNetworks
 - mastodon
 title: 'Mastodon: Like Twitter but Better'
 ---

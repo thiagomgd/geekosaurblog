@@ -25,7 +25,7 @@ reviewsameas:
 tags:
   - books
   - review
-  - MiddleGrade
+  - middleGrade
 title: 'Review: The Sword of Summer (Magnus Chase #1)'
 slug: review-the-sword-of-summer-magnus-chase
 url: posts/review-the-sword-of-summer-magnus-chase

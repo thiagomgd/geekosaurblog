@@ -8,7 +8,7 @@ images: []
 reddit: null
 slug: reading-stats-so-far-sept2021
 tags:
-- ReadingStats
+- readingStats
 title: 'Reading Stats So Far: September 2021'
 toc: false
 tweetId: "1439709855971831809"

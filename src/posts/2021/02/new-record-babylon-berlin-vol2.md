@@ -11,7 +11,7 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/ln6nx8/new_record_babylon_berlin_vol_2_season_3_ost/
 slug: new-record-babylon-berlin-vol2
 tags:
-- MyRecordCollection
+- recordCollection
 title: 'New Record: Babylon Berlin Vol. 2 (Season 3 OST)'
 tweetId: "1362619825898487810"
 ---

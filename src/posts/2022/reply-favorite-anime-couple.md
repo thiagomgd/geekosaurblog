@@ -11,7 +11,7 @@ threadMastodon:
 series: ''
 tags:
 - anime
-- Reply
+- reply
 toot:
 date: '2022-03-11T00:00:00.000-08:00'
 description: The best characters from best anime also make for a wonderful couple

@@ -1,7 +1,5 @@
 ---
 banner: banners/soon-on-tv2.jpg
-categories:
-- MoviesTV
 date: "2016-08-31T11:46:34-03:00"
 description: September is here, and there's a few interesting shows coming. Let's
   check them below, in order of interest!

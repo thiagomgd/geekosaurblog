@@ -8,8 +8,8 @@ reddit: ''
 series: ''
 slug: hard-magic-larry-correia
 tags:
-  - Fiction
-  - UrbanFantasy
+  - fiction
+  - urbanFantasy
 thumbnail: /img/hard-magic.jpeg
 title: 'Book Review: Hard Magic by Larry Correia'
 toc: false
@@ -36,7 +36,7 @@ This book is full of surprises that make you like it even more at every page rea
 > He took his place in a comfortable recliner and opened first to the obituaries, as was his daily custom, to see if anyone he disliked had died, but sadly the announcements held no joy.
 
 So all I can say is: READ THIS DAMN BOOK AND THANK ME LATER!  
-PS: #TeamFayeForever
+PS: #teamFayeForever
 
 **Recommended to**  
 People who likes Zeppelins, magic, a badass anti-hero, badass female characters and a really badass villains.

@@ -9,7 +9,7 @@ images:
 - http://i.imgur.com/AI9t4XE.jpg
 menu: ""
 tags:
-- DungeonsAndDragons
+- dungeonsAndDragons
 title: My first dungeons and dragons session
 url: 2016/04/my-first-dungeons-and-dragons-session.html
 ---

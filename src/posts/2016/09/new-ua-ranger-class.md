@@ -20,7 +20,7 @@ reviewitemtype: ""
 reviewrating: ""
 reviewsameas: []
 tags:
-- DungeonsAndDragons
+- dungeonsAndDragons
 title: Reviewing the new Ranger class
 ---
 

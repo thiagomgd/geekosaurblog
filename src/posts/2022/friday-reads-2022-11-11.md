@@ -10,7 +10,7 @@ lead: Reading it and having some coffee, of course!
 threadMastodon:
 series: ''
 tags:
-- FridayReads
+- fridayReads
 - books
 - reading
 toot: https://mastodon.social/@falcon/109328017127134583

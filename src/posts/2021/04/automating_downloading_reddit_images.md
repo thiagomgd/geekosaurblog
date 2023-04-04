@@ -19,7 +19,7 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/mogcv2/automating_things_downloading_reddit_media/
 slug: automating-downloading-reddit-images
 tags:
-- Automating
+- automating
 title: 'Automating Things: Downloading Reddit Media'
 tweetId: "1381038734229991425"
 ---

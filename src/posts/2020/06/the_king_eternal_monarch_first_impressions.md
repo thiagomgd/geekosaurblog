@@ -1,6 +1,4 @@
 ---
-categories:
-- MoviesTV
 date: "2020-06-09T10:00:19-03:00"
 description: 'This weekend I started two new Korean dramas: The King: Eternal Monarch
   and Strangers From Hell. Let''s see my first impressions on the first show.'
@@ -9,7 +7,7 @@ images:
 - https://i.imgur.com/BGGjW1E.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/gzsltp/the_king_eternal_monarch_first_impressions/
 tags:
-- KoreanDramas
+- kDrama
 - firstImpressions
 title: 'The King: Eternal Monarch - First Impressions'
 ---

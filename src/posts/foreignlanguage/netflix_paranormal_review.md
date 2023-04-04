@@ -3,7 +3,7 @@ title: "Paranormal: Supernatural Mystery From Egypt"
 description: "Paranormal is an Egyptian Netflix original and is based on a series of books. It's a supernatural show with some good mystery and horror."
 date: 2020-12-18T21:26:04-08:00
 draft: false
-tags: ["ForeignLanguage"]
+tags: ["foreignLanguage"]
 categories: ["Movies & TV"]
 series: "Foreign Language"
 thumbnail: "https://i.imgur.com/desgj4S.jpg"

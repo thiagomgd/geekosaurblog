@@ -11,8 +11,8 @@ threadMastodon:
 series: Spy X Family Season 2
 tags:
 - anime
-- Fall2022Anime
-- AnimeEpisodeReview
+- fall2022Anime
+- animeEpisodeReview
 toot:
 date:
 description: Finally got the time to watch the 2nd episode of this season’s Spy X

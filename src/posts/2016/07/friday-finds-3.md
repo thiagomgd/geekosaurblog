@@ -11,7 +11,7 @@ images:
 menu: ""
 tags:
 - blogMemes
-- FridayFinds
+- fridayFinds
 - books
 title: Friday Finds 3
 url: 2016/07/friday-finds-3.html

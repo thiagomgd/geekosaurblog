@@ -8,7 +8,7 @@ images:
 menu: ""
 tags:
 - books
-- Tags
+- blogTags
 - blogMemes
 title: '[TAG] Book Tag: A-Z'
 url: posts/tag-book-tag-a-z

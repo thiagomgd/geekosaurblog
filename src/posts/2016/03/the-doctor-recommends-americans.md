@@ -8,8 +8,8 @@ images:
 - http://i.imgur.com/0YylfK0.gif
 tags:
 - tv
-- FX
-- Recommendations
+- fx
+- recommendations
 title: 'Recommendation: The Americans'
 ---
 

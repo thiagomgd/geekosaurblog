@@ -14,7 +14,7 @@ reddit: https://www.reddit.com/r/geekosaur/comments/jnqmel/new_fiction_books_i_g
 slug: new_ebooks_nov2020
 tags:
 - books
-- Fiction
+- fiction
 title: New Fiction Books I Got Recently [Nov. 2020]
 toc: true
 tweetId: "1323853421502435328"

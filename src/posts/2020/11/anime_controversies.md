@@ -11,7 +11,7 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/jq07bv/anime_controversies_controversed/
 slug: anime-controversies-controversed
 tags:
-- Opinion
+- opinion
 title: Anime Controversies [#Controversed]
 toc: true
 tweetId: "1325209252252643328"

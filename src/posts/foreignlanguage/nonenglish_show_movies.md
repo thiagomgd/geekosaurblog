@@ -4,7 +4,7 @@ slug: "nonenglish-shows-movies"
 description: "Starting a series of posts dedicated to foreign language films and TV shows."
 date: 2020-12-13T21:04:57-08:00
 draft: false
-tags: ["Foreign"]
+tags: ["foreign"]
 categories: ["Movies & TV"]
 series: "Foreign Language"
 images: ["https://i.imgur.com/MzfQL2Y.jpg"]

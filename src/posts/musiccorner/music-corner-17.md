@@ -10,7 +10,7 @@ lead: Just some banger anime songs!
 threadMastodon:
 series: ''
 tags:
-- AnimeSongs
+- animeSongs
 toot:
 date: '2022-08-08T08:45:00.000-07:00'
 description: This week I finally started some anime again, after a few months without

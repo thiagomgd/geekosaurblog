@@ -1,7 +1,5 @@
 ---
 banner: http://i.imgur.com/Uu07MI5.png
-categories:
-- MoviesTV
 date: "2016-07-04T09:39:00-03:00"
 description: Based on the eponymous comics, Wynonna Earp promised a fun weird-western
   show, with action and a strong female lead. And it delivered much more than that.
@@ -12,7 +10,7 @@ menu: ""
 tags:
 - tv
 - review
-- SyFy
+- syFy
 title: Wynonna Earp season 1 review
 url: 2016/07/wynonna-earp-season-1-review.html
 ---
@@ -43,7 +41,7 @@ The last 2 episodes were incredible, showing us that revenants aren't the only p
 and that we really care about the heroes (#wayhaught).
 
 ## Characters, representation, and interaction
-Speaking of #Wayhaught, that's what Wynonna Earp did formidably. They didn't just put a lesbian couple onscreen, 
+Speaking of #wayhaught, that's what Wynonna Earp did formidably. They didn't just put a lesbian couple onscreen, 
 but they were represented with respect, care and in a realistic way. They also interacted with its fanbase, 
 sharing art and fiction created by the fandom. Of course, there were a lot of memes and gifs.
 

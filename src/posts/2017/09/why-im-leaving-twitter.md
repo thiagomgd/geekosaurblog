@@ -13,7 +13,7 @@ posttype: ""
 tags:
 - twitter
 - blog
-- SocialNetworks
+- socialNetworks
 title: Why I'm leaving Twitter
 ---
 

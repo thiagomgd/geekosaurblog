@@ -9,7 +9,7 @@ slug: 'non-fiction-must-read-2022'
 tags:
 - books
 - lists
-- Non-Fiction
+- nonFiction
 reddit: https://www.reddit.com/r/geekosaur/comments/s41pqv/my_nonfiction_must_read_for_2022/
 tweetId: '1482085612677177344'
 ---

@@ -24,7 +24,7 @@ reviewsameas:
 tags:
   - review
   - books
-  - CozyMysteries
+  - cozyMysteries
 title: 'Book Review: Secondhand Spirits by Juliet Blackwell'
 url: 2015/07/book-review-secondhand-spirits-by.html
 ---

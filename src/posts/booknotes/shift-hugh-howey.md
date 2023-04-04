@@ -8,9 +8,7 @@ thumbnail: https://m.media-amazon.com/images/I/41Jm4kBSD-L._SY346_.jpg
 slug: 'book-notes-shift-hugh-howey'
 series: 'silo'
 tags:
-- Sci-Fi
-# reddit: 
-# tweetId: ''
+- sciFi
 ---
 
 After finishing [Wool](/post/wool-silo-1) by Hugh Howey, I just had to start the next volume. And what a thrill!

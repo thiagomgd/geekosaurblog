@@ -1,6 +1,4 @@
 ---
-categories:
-- MoviesTV
 date: "2020-06-05T09:20:53-03:00"
 description: What movies and series I've watched this week
 draft: false
@@ -9,7 +7,7 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/gxeb36/watched_this_week_jun_5_2020/
 tags:
 - watching
-- Movies
+- movies
 - tv
 title: Watched This Week [Jun 5, 2020]
 tweetId: "1269034531123847168"

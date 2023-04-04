@@ -9,7 +9,7 @@ images:
 - http://i.imgur.com/oigMi1A.jpg
 menu: ""
 tags:
-- Dev
+- dev
 title: Migrating from Blogger to Hugo
 url: posts/migrating-from-blogger-to-hugo
 ---

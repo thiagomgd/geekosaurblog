@@ -1,6 +1,4 @@
 ---
-categories:
-- MoviesTV
 date: "2020-06-04T02:44:25-03:00"
 description: Another weekend watching some cool movies!
 draft: false
@@ -8,7 +6,7 @@ images:
 - https://i.imgur.com/f8d0phq.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/gwrbs2/weekend_movies_jun_4_2020/
 tags:
-- Movies
+- movies
 - watching
 title: Weekend Movies [Jun 4, 2020]
 tweetId: "1268663826632847367"

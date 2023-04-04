@@ -1,7 +1,5 @@
 ---
 banner: http://i.imgur.com/8sjA9tr.jpg
-categories:
-- MoviesTV
 date: "2016-07-15T16:57:00-03:00"
 description: Killjoys have everything you need to entertain the audience and keep
   us stuck with it, wanting to know what will happen next
@@ -12,7 +10,7 @@ menu: ""
 tags:
 - review
 - tv
-- SyFy
+- syFy
 title: Killjoys Season 1 Review
 url: 2016/07/killjoys-season-1-review.html
 ---

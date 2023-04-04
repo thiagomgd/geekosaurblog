@@ -11,11 +11,11 @@ threadMastodon:
 series: ''
 tags:
 - books
-- NewBooks
-- Fantasy
-- MiddleGrade
-- Horror
-- HistoricalFiction
+- newBooks
+- fantasy
+- middleGrade
+- horror
+- historicalFiction
 toot: https://mastodon.social/@falcon/109317854726251550
 date: '2022-11-09T20:00:00.000-08:00'
 description: Got 3 preordered books on the same day. Of course I’m happy!!

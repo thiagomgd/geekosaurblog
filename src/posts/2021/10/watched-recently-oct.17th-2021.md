@@ -1,6 +1,4 @@
 ---
-categories:
-- MoviesTV
 date: "2021-10-17T17:30:00Z"
 description: Let's talk a bit about what I've been watching!
 images:
@@ -11,7 +9,7 @@ series: ""
 slug: watched-recently-oct-17-2021
 tags:
 - watching
-- Movies
+- movies
 - tv
 thumbnail: /img/groundhogday.jpeg
 title: 'Watched Recently: Oct. 17th 2021'

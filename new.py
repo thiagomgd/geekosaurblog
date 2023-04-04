@@ -48,7 +48,7 @@ lead: ""
 # thumbnail: /img/
 slug: '{}'
 tags:
-- Draft
+- draft
 ---
 
 

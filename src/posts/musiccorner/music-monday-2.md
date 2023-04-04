@@ -20,7 +20,7 @@ createdTime: '2022-04-16T18:38:00.000Z'
 thumbnail: https://i.imgur.com/vsvu8zA.jpg
 ---
 
-Another Monday, another #MusicMonday for you! Today, featuring some J-Pop: LELLE, Necry Talkie and Mirei Touyama.
+Another Monday, another #musicMonday for you! Today, featuring some J-Pop: LELLE, Necry Talkie and Mirei Touyama.
 
 [bookmark](https://www.youtube.com/watch?v=BCUOhpZhrpo)
 

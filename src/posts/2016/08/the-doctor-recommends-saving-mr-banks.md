@@ -21,8 +21,8 @@ reviewrating: ""
 reviewsameas: []
 slug: the-doctor-recommends-saving-mr-banks
 tags:
-- Movies
-- Recommendations
+- movies
+- recommendations
 - review
 title: 'The Doctor Recommends: Saving Mr. Banks'
 url: posts/the-doctor-recommends-saving-mr-banks

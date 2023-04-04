@@ -1,7 +1,5 @@
 ---
 banner: banners/FatherBrown.jpg
-categories:
-- MoviesTV
 date: "2016-07-21T15:54:00-03:00"
 description: Based on the stories by G. K. Chesterton, this period drama features
   Mark Williams as the eponymous crime solving Roman Catholic priest.
@@ -10,9 +8,9 @@ images:
 - banners/FatherBrown.jpg
 menu: ""
 tags:
-- BBC
+- bbc
 - review
-- Recommendations
+- recommendations
 - tv
 title: 'Recommendations: Father Brown'
 url: 2016/07/the-doctor-recommends-father-brown.html

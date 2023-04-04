@@ -52,9 +52,9 @@ menu: ""
 posttype: ""
 tags:
 - anime
-- Gallery
-- Images
-- Eromanga-sensei
+- gallery
+- images
+- eromangaSensei
 title: Eromanga-Sensei Episode 2 gallery
 ---
 

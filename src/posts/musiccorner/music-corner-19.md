@@ -1,7 +1,7 @@
 ---
 slug: music-corner-19
 tags:
-- MusicMonday
+- musicMonday
 - KPop
 date: '2023-01-23T04:00:00.000-08:00'
 description: 'Listening to some K-Pop again. New Jeans is a fun group to listen to'

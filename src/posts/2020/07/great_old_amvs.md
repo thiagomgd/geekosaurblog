@@ -11,7 +11,7 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/hknqhh/good_old_amvs/
 tags:
 - anime
-- Games
+- games
 - lists
 title: Good Old AMVs
 tweetId: "1330971191608176640"

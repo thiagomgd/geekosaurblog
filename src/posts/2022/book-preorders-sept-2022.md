@@ -11,7 +11,7 @@ threadMastodon:
 series: ''
 tags:
 - books
-- NewBooks
+- newBooks
 - newThings
 toot:
 date: '2022-09-25T19:30:00.000-07:00'

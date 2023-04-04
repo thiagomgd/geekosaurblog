@@ -8,7 +8,7 @@ images:
 - https://i.imgur.com/Bi1i8sD.jpg
 reddit: https://www.reddit.com/r/geekosaur/comments/lbg2jg/what_i_read_in_january_2021_geekosaur/
 tags:
-- MonthlyReading
+- monthlyReading
 title: What I Read in January, 2021
 tweetId: "1356829987135922179"
 ---

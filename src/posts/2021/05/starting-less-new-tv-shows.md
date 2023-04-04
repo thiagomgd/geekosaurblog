@@ -1,6 +1,4 @@
 ---
-categories:
-- Personal
 date: "2021-05-12T22:00:32-07:00"
 description: Too many cool TV shows, too little time to watch all of them. Who else
   has this problem?
@@ -11,9 +9,9 @@ images:
 reddit: https://www.reddit.com/r/geekosaur/comments/nb9ezw/starting_less_new_tv_shows_for_now/
 slug: starting-less-new-tv-shows
 tags:
-- MoviesTV
-- Watchlist
-- FOMO
+- moviesTV
+- watchlist
+- fomo
 title: Starting Less New TV Shows For Now
 toc: false
 tweetId: "1392714210224656388"

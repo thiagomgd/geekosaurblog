@@ -12,7 +12,7 @@ reddit: https://www.reddit.com/r/geekosaur/comments/lmaf62/new_fiction_books_feb
 slug: new-fiction-books-feb-2021
 tags:
 - books
-- Fiction
+- fiction
 title: New Fiction Books [Feb. 2021]
 tweetId: "1362213607061168128"
 ---

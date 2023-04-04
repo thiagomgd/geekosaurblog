@@ -189,7 +189,7 @@ module.exports = function(eleventyConfig) {
 
   // This function is reused in this config, so declaring the filter here instead:
   function filterTagList(tags) {
-    return (tags || []).filter(tag => ["all", "nav", "post", "posts", 'note', 'Draft'].indexOf(tag) === -1);
+    return (tags || []).filter(tag => ["all", "nav", "post", "posts", 'note', 'draft'].indexOf(tag) === -1);
   }
   eleventyConfig.addFilter("filterTagList", filterTagList)
 
@@ -242,10 +242,6 @@ module.exports = function(eleventyConfig) {
     const myToots = await helpers.fetchToots();
 
     const localNotes = collection.getFilteredByTag('note');
-    const localTest = collection.getFilteredByTag('asd');
-    console.log('---------')
-    console.log(localTest);
-    console.log('---------')
     
     // const localMastodon = collection.getFilteredByTag('mastodon');
     // const otherLocalMastodon = collection.getAll()[0].data.mastodon.posts;

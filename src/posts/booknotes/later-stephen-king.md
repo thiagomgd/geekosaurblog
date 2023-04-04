@@ -14,7 +14,7 @@ slug: later-stephen-king
 tags:
   - books
   - review
-  - Fiction
+  - fiction
 thumbnail: /img/later-stephen-king.jpeg
 title: 'Book Review: Later by Stephen King'
 toc: false

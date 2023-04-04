@@ -10,10 +10,10 @@ lead: So basically, everyone is thirsty for Mirko
 threadMastodon:
 series: ''
 tags:
-- MyHeroAcademia
-- Fall2022Anime
+- myHeroAcademia
+- fall2022Anime
 - anime
-- AnimeEpisodeReview
+- animeEpisodeReview
 toot: https://mastodon.social/@falcon/109164446441099365
 date: '2022-10-13T19:00:00.000-07:00'
 description: As always, I’m late. But anyways… let’s have a quick check!

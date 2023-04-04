@@ -8,8 +8,8 @@ images:
 - blob:https://imgur.com/92a94279-3fc9-4cce-8053-351b1f748bb2
 reddit: https://www.reddit.com/r/geekosaur/comments/jbu58o/im_playing_animal_crossing/
 tags:
-- Games
-- NintendoSwitch
+- games
+- nintendoSwitch
 title: I'm Playing Animal Crossing
 tweetId: "1316824554363334657"
 ---
