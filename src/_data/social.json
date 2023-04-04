@@ -434,6 +434,11 @@
     "reddit": "https://www.reddit.com/r/geekosaur/comments/123zfrf/geekosaur_news_31_yellowjackets_is_back_reading/",
     "mastodon": "https://mindly.social/@falcon/110097175480820496"
   },
-  "/note/tootcat110142215765290991/": {},
-  "/note/tootcat110136452203355403/": {}
+  "/note/tootcat110142215765290991/": {
+    "reddit": "https://www.reddit.com/r/geekosaur/comments/12bz4y1/making_blog_updates_again/"
+  },
+  "/note/tootcat110136452203355403/": {
+    "reddit": "https://www.reddit.com/r/geekosaur/comments/12bz4xg/_/",
+    "mastodon": "https://mindly.social/@falcon/110142867013915923"
+  }
 }
