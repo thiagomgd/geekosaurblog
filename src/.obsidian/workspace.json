@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2020/12/happy_holidays_2020.md",
+                "file": "posts/news/geekosaur-news-32.md",
                 "mode": "source",
                 "source": true
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#blogTags",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2020/12/happy_holidays_2020.md",
+                "file": "posts/news/geekosaur-news-32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2020/12/happy_holidays_2020.md",
+                "file": "posts/news/geekosaur-news-32.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2020/12/happy_holidays_2020.md"
+                "file": "posts/news/geekosaur-news-32.md"
               }
             }
           }
@@ -190,8 +190,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45b779cc93c0038d",
+  "active": "31dbe857f1764b2e",
   "lastOpenFiles": [
+    "posts/2020/12/happy_holidays_2020.md",
     "posts/2020/06/my_ps4_games_list.md",
     "posts/foreignlanguage/to_the_lake_netflix_review.md",
     "posts/booknotes/hard-magic-by-larry-correia.md",
@@ -217,7 +218,6 @@
     "posts/2021/10/checking-your-anime-recs-and-favorites-oct.24-2021.md",
     "notes/2023-02-12-02-44.md",
     "notes/f888901f-e6f5-4070-9f55-27f84375f7b7.md",
-    "posts/2022/eleventy-notion-notes-section.md",
     "toots/toots.11tydata.js",
     "toots/notes.11tydata.js",
     "_cache/mastonotes.json",

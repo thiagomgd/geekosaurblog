@@ -8408,7 +8408,7 @@
         "pages": null,
         "yearPublished": 2022,
         "originalPublicationYear": 2021,
-        "dateRead": null,
+        "dateRead": "2023-01-15",
         "dateAddedGR": "2023-01-15",
         "bookshelves": "manga",
         "status": "finished",
@@ -8417,7 +8417,8 @@
         "goodreadsLink": "https://www.goodreads.com/book/show/61168036",
         "series": "Mieruko-chan",
         "type": "manga",
-        "setting": []
+        "setting": [],
+        "yearRead": 2023
     },
     "60321319": {
         "title": "Dragon Quest: The Adventure of Dai, Vol. 4: Disciples of Avan",
