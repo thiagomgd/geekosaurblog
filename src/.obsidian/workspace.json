@@ -48,21 +48,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "31dbe857f1764b2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/2021/my-tbr-dec-2021.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2021/my-tbr-dec-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2021/my-tbr-dec-2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "posts/2021/my-tbr-dec-2021.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -190,8 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31dbe857f1764b2e",
+  "active": "618f791e53a7e726",
   "lastOpenFiles": [
+    "posts/2023/2023-anticipated-books.md",
+    "notes/2023-04-06-02-29.md",
+    "posts/2021/my-tbr-dec-2021.md",
     "_cache/mastonotes.json",
     "_data/metadata.json",
     "posts/news/geekosaur-news-32.md",
@@ -217,8 +203,6 @@
     "posts/musiccorner/music-corner-17.md",
     "posts/2022/7-books-tag.md",
     "posts/2021/05/starting-less-new-tv-shows.md",
-    "posts/2021/05/my-old-blogs-names-part-1.md",
-    "posts/2021/10/checking-your-anime-recs-and-favorites-oct.24-2021.md",
     "toots/toots.11tydata.js",
     "toots/notes.11tydata.js",
     "_data/mytoots.js",
@@ -227,7 +211,6 @@
     "toots/toots.",
     "toots",
     "_data/webmentions copy.js",
-    "mastodonNotes",
     "img/geekosaur-news-30.png",
     "img/2023-03-17-12-48.png",
     "img/geekosaur-news-29.png",
