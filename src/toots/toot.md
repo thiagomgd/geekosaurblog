@@ -19,8 +19,8 @@ eleventyComputed:
 
 {{ toot.content | safe }}
 
-{% for image in toot.media %}
+{% for image in toot.images %}
 
-{% figure image, "", "u-photo" %}
+{% figure image.url, "", "u-photo", image.alt %}
 
 {% endfor %}

@@ -77,7 +77,7 @@ module.exports = async function () {
 		);
 		const formatted = filtered.map((post) => {
 			const images = post.media_attachments.map((image) => ({
-				image: image?.url,
+				url: image?.url,
 				alt: image?.description,
 				width: image?.meta?.small?.width,
 				height: image?.meta?.small?.height,
@@ -104,7 +104,8 @@ module.exports = async function () {
 				content: config.removeTags ? removeMastoTags(content) : content,
 				source_url: post.url,
 				site: 'Mastodon',
-				media: images,
+				images: images,
+				embed: post.card?.url ? post.card.url : null,
                 tags: post.tags.map(tag => tag.name),
                 emojis: post.emojis,
                 tootUrl: post.url,
