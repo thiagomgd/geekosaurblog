@@ -3,11 +3,11 @@ date: '2021-12-30T16:00:00Z'
 description: "Let's se what I'm planning on reading for the next month or two!"
 title: 'My TBR for Jan/Fev 2022'
 lead: ''
-draft: false
 thumbnail: /img/brandi-redd-3vz3v6judt0-unsplash.jpg
 slug: 'my-tbr-dec-2021'
 tags:
 - books
+- draft
 tweetId: '1476679978507026434'
 ---
 
