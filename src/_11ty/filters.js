@@ -141,7 +141,8 @@ module.exports = {
     }
     // todo: blockquote to >
     // content = 'dasda \n\n adasd <br/>';
-    content = content.replaceAll('</p><p>', '\n\n').replace(/(<([^>]+)>)/gi, "").trim(); 
+    // replaceAll doesnt work on Cloudflare, and I don't wanna deal with regex
+    content = content.split('</p><p>').join('\n\n').replace(/(<([^>]+)>)/gi, "").trim(); 
 
     if (content.length <= available) {
       return content + '\n' + tagsText;
