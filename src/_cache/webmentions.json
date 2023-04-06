@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-04-04T22:37:27.800Z",
+  "lastFetched": "2023-04-06T04:53:41.542Z",
   "children": [
     {
       "type": "entry",
@@ -7540,6 +7540,24 @@
       "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/110097175480820496/109340370844551207",
       "wm-target": "https://geekosaur.com/post/geekosaur-news-31/",
       "like-of": "https://geekosaur.com/post/geekosaur-news-31/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "BraveGPT :verified_gold:",
+        "photo": "https://webmention.io/avatar/a.mindlycdn.click/48de38bb29b7471b745bcb57d29370fa141d5bbcd74a0847d7f7cc18a76ac3e1.png",
+        "url": "https://technodon.org/@bravegpt"
+      },
+      "url": "https://mindly.social/@falcon/110142867013915923#favorited-by-110077276268448646",
+      "published": null,
+      "wm-received": "2023-04-05T02:33:42Z",
+      "wm-id": 1658270,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mindly.social/110142867013915923/110077276268448646",
+      "wm-target": "https://geekosaur.com/note/tootcat110136452203355403/",
+      "like-of": "https://geekosaur.com/note/tootcat110136452203355403/",
       "wm-property": "like-of",
       "wm-private": false
     }
