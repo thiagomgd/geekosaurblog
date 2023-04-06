@@ -1,6 +1,6 @@
 ---
 date: '2021-12-30T16:00:00Z'
-description: "Let's se what I'm planning on reading for the next month or two!"
+description: "Let's see what I'm planning on reading for the next month or two!"
 title: 'My TBR for Jan/Fev 2022'
 lead: ''
 thumbnail: /img/brandi-redd-3vz3v6judt0-unsplash.jpg

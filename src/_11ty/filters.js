@@ -135,6 +135,10 @@ module.exports = {
 
     let content = typeof text === 'string' ? text : text.val
 
+    if (!content || typeof content !== 'string') {
+      console.log('@@>> type of text, type of content, content, text', typeof text, typeof content, text);
+      return '';
+    }
     // todo: blockquote to >
     // content = 'dasda \n\n adasd <br/>';
     content = content.replaceAll('</p><p>', '\n\n').replace(/(<([^>]+)>)/gi, "").trim(); 
