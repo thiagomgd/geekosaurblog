@@ -26,7 +26,7 @@ module.exports = function() {
 					return data.permalink
 				}
 				else {
-					return ""; // or false
+					return false;
 				}
 			},
 			thumbnail: async function(data) {
