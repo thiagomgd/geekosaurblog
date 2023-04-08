@@ -337,6 +337,17 @@ function removeMastoTags(content) {
     return $.html();
 }
 
+function getMastoTags(content) {
+    const $ = cheerio.load(content, null, false);
+    const tags = [];
+    
+    $("a.hashtag > span").each((i, span) => {
+        tags.push($(span).text());
+    });
+    
+    return tags;
+}
+
 module.exports = {
     readSocialLinks,
     saveSocialLinks,
@@ -348,5 +359,6 @@ module.exports = {
     updateToot,
     fetchToots,
     searchReddit,
-    removeMastoTags
+    removeMastoTags,
+    getMastoTags
 };

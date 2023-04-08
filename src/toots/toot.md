@@ -8,6 +8,7 @@ pagination:
   alias: toot
   addAllPagesToCollections: true
 eleventyComputed:
+  dontBridgy: "{{ toot.dontBridgy }}"
   tagsString: "{{ toot.tags }}"
   title: "{{ toot.title }}"
   tootUrl: "{{ toot.url }}"
