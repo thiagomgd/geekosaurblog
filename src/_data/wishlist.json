@@ -20,6 +20,16 @@
         "author": "Kate Dylan"
     },
     {
+        "title": "The Storm Keeper\u2019s Island",
+        "price": 7.99,
+        "cover": "https://kbimages1-a.akamaihd.net/df30353b-3a88-484f-9bca-514533af4a60/353/569/90/False/the-storm-keeper-s-island-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-storm-keeper-s-island-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Catherine Doyle"
+    },
+    {
         "title": "Bluebird",
         "price": 7.99,
         "cover": "https://kbimages1-a.akamaihd.net/533edbb4-62ba-48f2-9e54-540e061a7eac/353/569/90/False/bluebird-19.jpg",
@@ -38,16 +48,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Benedict Carey"
-    },
-    {
-        "title": "Spellcasting In Silk",
-        "price": 7.99,
-        "cover": "https://kbimages1-a.akamaihd.net/ddea333e-772e-4d2e-833a-5c0ee3d4d914/353/569/90/False/spellcasting-in-silk.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/spellcasting-in-silk",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Juliet Blackwell"
     },
     {
         "title": "A Toxic Trousseau",
@@ -688,16 +688,6 @@
         "isPlus": false,
         "isSale": true,
         "author": "Sayaka Murata"
-    },
-    {
-        "title": "Fractal Noise",
-        "price": 16.99,
-        "cover": "https://kbimages1-a.akamaihd.net/052f3ed3-e9ef-4950-9e44-8a7a9549c19a/353/569/90/False/fractal-noise.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/fractal-noise",
-        "preorder": "Available May 16, 2023",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Christopher Paolini"
     },
     {
         "title": "The Adventures of Amina al-Sirafi",
