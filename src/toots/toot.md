@@ -9,6 +9,7 @@ pagination:
   addAllPagesToCollections: true
 eleventyComputed:
   dontBridgy: "{{ toot.dontBridgy }}"
+  tootUrl: "{{ toot.tootUrl }}"
   tagsString: "{{ toot.tags }}"
   title: "{{ toot.title }}"
   tootUrl: "{{ toot.url }}"
