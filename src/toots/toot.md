@@ -12,7 +12,6 @@ eleventyComputed:
   tootUrl: "{{ toot.tootUrl }}"
   tagsString: "{{ toot.tags }}"
   title: "{{ toot.title }}"
-  tootUrl: "{{ toot.url }}"
   createdTime: "{{ toot.date }}"
   permalink: "note/{{ toot.slug }}/"
 ---
