@@ -12,7 +12,7 @@ Jump to [Manga](#manga)
 ## Books
 
 **Current**:
-- Spellcasting in Silk (Witchcraft Mystery #7) by Juliet Blackwell ([link](https://julietblackwell.net/mysteries/witchcraft-mysteries/))
+
 
 **Next**:
 - Dust by Hugh Howey
@@ -42,7 +42,7 @@ Manga I'm reading by volume as they release!
 
 Indicating next volume to read:
 
-- Don't Toy With Me, Miss Nagatoro: [Volume 8](https://kodansha.us/series/dont-toy-with-me-miss-nagatoro/)
+- Don't Toy With Me, Miss Nagatoro: [Volume 11](https://kodansha.us/series/dont-toy-with-me-miss-nagatoro/)
 - One-Punch Man: 24
 	- Was reading by chapter, until I discovered about the redraws
 - Delicious in Dungeon: [Volume 11](https://yenpress.com/9781975346720/delicious-in-dungeon-vol-11/)

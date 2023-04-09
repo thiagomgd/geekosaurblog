@@ -12,15 +12,15 @@ Jump to [Anime](#anime)
 ## TV
 
 **Current**:
-- That 70's Show
-- Columbo (S5 - occasional)
+- That 70's Show S7/S8
+- Yellowjackets S2
+- Evil S2
 
 **Next**:
-- Yellowjackets (S2)
-- The Last of Us
-- Ted Lasso S3
 - Schmigadoon S2
-- Carnival Row S2
+- Ted Lasso S3 (Final Season)
+- Carnival Row S2 (Final Season)
+- The Last of Us
 
 ** Waiting For Release **
 - Shining Vale (S2)
@@ -28,8 +28,8 @@ Jump to [Anime](#anime)
 **At some point**:
 - The Marvelous Ms. Maisel (S3)
 - The Boys (S3)
-- Fortitude (S3)
-- The Rain (S3)
+- Fortitude (S3 - final season)
+- The Rain (S3 - final season)
 
 **Paused/On Hold**
 - Perry Mason (S1)
@@ -61,4 +61,3 @@ Jump to [Anime](#anime)
 - [My Hero Academia Season 6](https://anilist.co/anime/139630/My-Hero-Academia-Season-6/)
 - [Is It Wrong to Try to Pick Up Girls in a Dungeon? II](https://anilist.co/anime/101167/Is-It-Wrong-to-Try-to-Pick-Up-Girls-in-a-Dungeon-II/)
 - [LAID-BACK CAMP SEASON2](https://anilist.co/anime/104459/LAIDBACK-CAMP-SEASON2/)
-- 
