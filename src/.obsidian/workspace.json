@@ -50,12 +50,12 @@
             }
           },
           {
-            "id": "1ef829398e7ac3f3",
+            "id": "f8dff150c30df6b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "currentlyWatching/currentlyWatching.md",
+                "file": "posts/news/geekosaur-news-33.md",
                 "mode": "source",
                 "source": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "currentlyWatching/currentlyWatching.md",
+                "file": "posts/news/geekosaur-news-33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "currentlyWatching/currentlyWatching.md",
+                "file": "posts/news/geekosaur-news-33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "currentlyWatching/currentlyWatching.md"
+                "file": "posts/news/geekosaur-news-33.md"
               }
             }
           }
@@ -190,14 +190,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ef829398e7ac3f3",
+  "active": "f8dff150c30df6b2",
   "lastOpenFiles": [
+    "posts/2023/2023-anticipated-books.md",
+    "currentlyWatching/currentlyWatching.md",
+    "img/geekosaur-news-33-robin-hood.png",
+    "img/Pasted image 20230411164622.png",
+    "img/geekosaur-news-33.png",
+    "img/Pasted image 20230411164323.png",
+    "posts/news/geekosaur-news-33.md",
+    "posts/news/geekosaur-news-32 1.md",
     "_cache/mastomindly.json",
     "currentlyReading/currentlyReading.md",
-    "currentlyWatching/currentlyWatching.md",
     "_cache/mastosakurajima.json",
     "_cache/mastotootcat.json",
-    "posts/2023/2023-anticipated-books.md",
     "notes/2023-04-06-02-29.md",
     "posts/2021/my-tbr-dec-2021.md",
     "_cache/mastonotes.json",
@@ -220,14 +226,11 @@
     "posts/2020/06/the_king_eternal_monarch_first_impressions.md",
     "posts/tvmovienotes/atelier-a-refreshing-netflix-original.md",
     "posts/2017/04/eromanga-sense-episode-2-images.md",
-    "posts/2020/11/fall_2020_anime.md",
-    "posts/2016/03/the-doctor-recommends-americans.md",
     "toots/toots.11tydata.js",
     "toots/notes.11tydata.js",
     "_data/mytoots.js",
     "_data/toots.js",
     "toots/toots.11data.js",
-    "toots/toots.",
     "img/geekosaur-news-30.png",
     "img/2023-03-17-12-48.png",
     "img/geekosaur-news-29.png",
