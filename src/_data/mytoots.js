@@ -45,7 +45,7 @@ const formatTimeline = (timeline, config) => {
 		(post) =>
 			// remove posts that are already on your own site.
 			!config.removeSyndicates.some((url) => post.content.includes(url)) &&
-			(!config.onlyTagged || post.tags.filter(tag => config.onlyTagged.includes(tag.name)))
+			(!config.onlyTagged || post.tags.some(tag => config.onlyTagged.includes(tag.name)))
 	);
 
 	const formatted = filtered.map((post) => {
@@ -224,6 +224,16 @@ module.exports = async function () {
 			userId: '110152922685719043',
 			removeSyndicates: ['geekosaur.com'],
 			cacheLocation: "src/_cache/mastosakurajima.json",
+			removeTags: true,
+			posse: false,
+			onlyTagged: ["journal", "note"] // at least one of those tags
+		},
+		{
+			isProduction: isProduction,
+			host: 'https://mindly.social',
+			userId: '109320970425371051',
+			removeSyndicates: ['geekosaur.com'],
+			cacheLocation: "src/_cache/mastomindly.json",
 			removeTags: true,
 			posse: false,
 			onlyTagged: ["journal", "note"] // at least one of those tags
