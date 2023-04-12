@@ -12,18 +12,21 @@ Jump to [Anime](#anime)
 ## TV
 
 **Current**:
-- That 70's Show S7/S8
+- That 70's Show S8
 - Yellowjackets S2
 - Evil S2
 
 **Next**:
-- Schmigadoon S2
+- Silo S1
+- Schmigadoon! S2
 - Ted Lasso S3 (Final Season)
 - Carnival Row S2 (Final Season)
 - The Last of Us
 
 ** Waiting For Release **
 - Shining Vale (S2)
+- Only Murders In The Building (S3)
+- Severance (S2)
 
 **At some point**:
 - The Marvelous Ms. Maisel (S3)
