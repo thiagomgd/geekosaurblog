@@ -4,14 +4,14 @@ tags:
  - readingStats
 date: '2023-04-12T15:30:00.000-07:00'
 title: "Missing A Blogging Community"
-description: ""
+description: "I kinda miss the days I was on Blogger/Blogspot"
 lead: ""
 thumbnail: 
 slug: 'missing-a-blogging-community'
 toc: false
 ---
 
-I kinda mis the days I was on Blogger/Blogspot. Used to have one blog for comics, and another for random geek stuff. 
+I kinda miss the days I was on Blogger/Blogspot. Used to have one blog for comics, and another for random geek stuff. 
 
 It was nice how, specially on the comics blog, we had a nice little community of small blogs, and just kept commenting on each other blogs.
 

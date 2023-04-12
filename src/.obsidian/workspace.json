@@ -62,9 +62,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "4ac8c7eea2c1ea9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/2023/missing-a-blogging-community.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2023/2023-anticipated-books.md",
+                "file": "posts/2023/missing-a-blogging-community.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2023/2023-anticipated-books.md",
+                "file": "posts/2023/missing-a-blogging-community.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2023/2023-anticipated-books.md"
+                "file": "posts/2023/missing-a-blogging-community.md"
               }
             }
           }
@@ -192,8 +204,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b01d9ab657a5a07e",
+  "active": "4ac8c7eea2c1ea9d",
   "lastOpenFiles": [
+    "posts/2023/2023-anticipated-books.md",
     "posts/2023/missing-a-blogging-community.md",
     "posts/2023/Missing A Blogging Community.md",
     "posts/2023/friday-finds-1.md",
@@ -201,7 +214,6 @@
     "notes/2023-04-12-10-39.md",
     "currentlyReading/currentlyReading.md",
     "posts/news/geekosaur-news-33.md",
-    "posts/2023/2023-anticipated-books.md",
     "img/geekosaur-news-33-robin-hood.png",
     "img/Pasted image 20230411164622.png",
     "img/geekosaur-news-33.png",
