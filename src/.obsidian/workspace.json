@@ -62,21 +62,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "3566f8fff1ea5961",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/2023/Missing A Blogging Community.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2023/Missing A Blogging Community.md",
+                "file": "posts/2023/2023-anticipated-books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2023/Missing A Blogging Community.md",
+                "file": "posts/2023/2023-anticipated-books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2023/Missing A Blogging Community.md"
+                "file": "posts/2023/2023-anticipated-books.md"
               }
             }
           }
@@ -204,10 +192,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3566f8fff1ea5961",
+  "active": "b01d9ab657a5a07e",
   "lastOpenFiles": [
-    "posts/2023/friday-finds-1.md",
+    "posts/2023/missing-a-blogging-community.md",
     "posts/2023/Missing A Blogging Community.md",
+    "posts/2023/friday-finds-1.md",
     "currentlyWatching/currentlyWatching.md",
     "notes/2023-04-12-10-39.md",
     "currentlyReading/currentlyReading.md",
@@ -240,7 +229,6 @@
     "posts/2016/07/the-doctor-recommends-father-brown.md",
     "posts/2022/appletv-quality-over-quantity.md",
     "posts/2016/08/migrated-to-hugo.md",
-    "posts/2020/06/the_king_eternal_monarch_first_impressions.md",
     "toots/toots.11tydata.js",
     "toots/notes.11tydata.js",
     "_data/mytoots.js",
