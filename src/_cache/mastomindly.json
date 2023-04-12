@@ -1,6 +1,39 @@
 {
-  "lastFetched": "2023-04-12T03:12:30.786Z",
+  "lastFetched": "2023-04-12T03:22:49.765Z",
   "posts": [
+    {
+      "date": "2023-04-12T03:22:23.383Z",
+      "id": "110183693902207446",
+      "title": "",
+      "content": "<p>I randomly remembered TV photo recaps. Those were so fun, and I wish there was some folks doing it nowadays for shows I'm watching.</p><p>I'm aware some folks do 'text posts' on Tumblr, but although it's a bit similar, it's way harder to find and navigate than having a blog covering a show (or more) and doing a post for each episode.</p><p>Penny dreadful example: <a href=\"https://ozgeburcaka.wordpress.com/2015/06/28/penny-dreadful-evil-spirits-in-heavenly-places-photo-recap/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ozgeburcaka.wordpress.com/2015</span><span class=\"invisible\">/06/28/penny-dreadful-evil-spirits-in-heavenly-places-photo-recap/</span></a></p><p>Outlander example: <a href=\"https://ozgeburcaka.wordpress.com/2021/07/27/outlander-by-the-pricking-of-my-thumbs-recap/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ozgeburcaka.wordpress.com/2021</span><span class=\"invisible\">/07/27/outlander-by-the-pricking-of-my-thumbs-recap/</span></a></p>",
+      "source_url": "https://mindly.social/@falcon/110183693902207446",
+      "site": "Mastodon",
+      "images": [
+        {
+          "url": "https://a.mindlycdn.click/media_attachments/files/110/183/692/103/943/077/original/17b085180c52155d.png",
+          "alt": null,
+          "width": 588,
+          "height": 392,
+          "aspect": 1.5
+        },
+        {
+          "url": "https://a.mindlycdn.click/media_attachments/files/110/183/693/040/555/641/original/2f15daa6149e63c1.png",
+          "alt": null,
+          "width": 647,
+          "height": 356,
+          "aspect": 1.8174157303370786
+        }
+      ],
+      "embed": "https://ozgeburcaka.wordpress.com/2015/06/28/penny-dreadful-evil-spirits-in-heavenly-places-photo-recap/",
+      "tags": [
+        "tv",
+        "photoRecap",
+        "note"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mindly.social/@falcon/110183693902207446",
+      "host": "mindly.social"
+    },
     {
       "date": "2023-04-11T20:55:50.093Z",
       "id": "110182173906628552",
