@@ -451,9 +451,13 @@
   "/note/sakurajimamoe110170765028466245/": {
     "reddit": "https://www.reddit.com/r/geekosaur/comments/12gwjjy/_/"
   },
-  "/note/mindlysocial110182173906628552/": {},
+  "/note/mindlysocial110182173906628552/": {
+    "reddit": "https://www.reddit.com/r/geekosaur/comments/12j0b54/_/"
+  },
   "/note/mindlysocial110181865388959287/": {},
-  "/note/mindlysocial110173023417168526/": {},
+  "/note/mindlysocial110173023417168526/": {
+    "reddit": "https://www.reddit.com/r/geekosaur/comments/12j0b4k/_/"
+  },
   "/note/mindlysocial110172201133754762/": {},
   "/note/mindlysocial110166945103711569/": {},
   "/note/mindlysocial110166674846125487/": {},
@@ -480,5 +484,9 @@
   "/note/mindlysocial109952351886937384/": {},
   "/note/mindlysocial109944874771130664/": {},
   "/note/mindlysocial109901396551273428/": {},
-  "/note/mindlysocial109901172630367027/": {}
+  "/note/mindlysocial109901172630367027/": {},
+  "/post/geekosaur-news-33/": {
+    "reddit": "https://www.reddit.com/r/geekosaur/comments/12j5f8y/geekosaur_news_33_addicted_to_a_tv_show_starting/",
+    "mastodon": "https://mindly.social/@falcon/110183025712828630"
+  }
 }
