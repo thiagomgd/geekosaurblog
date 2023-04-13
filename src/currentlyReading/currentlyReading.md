@@ -12,12 +12,12 @@ Jump to [Manga](#manga)
 ## Books
 
 **Current**:
-
+- Durarara! Vol 1
 
 **Next**:
+- The Poisoner's Ring (A Rip Through Time #2) by Kelley Armstrong ([link](https://www.kelleyarmstrong.com/book/the-poisoners-ring/))
 - Dust by Hugh Howey
 - Immortality: A Love Story (Anatomy #2) by Dana Schwartz ([link](https://dana-schwartz.com/books/immortality-a-love-story/))
-	- Waiting to receive physical copy: March 7th
 - Stellarlune (Keeper of the Lost Cities #9) by Shannon Messenger ([link](https://www.simonandschuster.com/series/Keeper-of-the-Lost-Cities))
 
 **At some point**:
@@ -54,6 +54,8 @@ Indicating next volume to read:
 
 Manga I'm reading by chapters, mostly on Shonen Jump (except for Fire Force). Indicating last chapter read.
 
+- Tenmaku Cinema: 1
+- Gokurakugai: 2
 - Black Clover: 350
 - Sakamoto Days: 101
 - SPY x FAMILY: 61
