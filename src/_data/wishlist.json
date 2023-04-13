@@ -470,6 +470,26 @@
         "author": "S.A. Barnes"
     },
     {
+        "title": "The Remarkable Retirement of Edna Fisher",
+        "price": 13.99,
+        "cover": "https://kbimages1-a.akamaihd.net/0260ff5d-0958-4152-b0bc-815116e94250/353/569/90/False/the-remarkable-retirement-of-edna-fisher.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-remarkable-retirement-of-edna-fisher",
+        "preorder": "Available Apr 21, 2023",
+        "isPlus": false,
+        "isSale": false,
+        "author": "E.M. Anderson"
+    },
+    {
+        "title": "Her Majesty's Royal Coven",
+        "price": 13.99,
+        "cover": "https://kbimages1-a.akamaihd.net/1d6fd6c9-fd64-4b20-a761-bd62b4126a4f/353/569/90/False/her-majesty-s-royal-coven.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/her-majesty-s-royal-coven",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Juno Dawson"
+    },
+    {
         "title": "Vera Wong's Unsolicited Advice for Murderers",
         "price": 13.99,
         "cover": "https://kbimages1-a.akamaihd.net/fc8f22f2-01c6-4955-ac05-fc1ae27b723d/353/569/90/False/vera-wong-s-unsolicited-advice-for-murderers-1.jpg",
@@ -608,6 +628,26 @@
         "isPlus": false,
         "isSale": false,
         "author": "Erika Engelhaupt"
+    },
+    {
+        "title": "The Book That Wouldn't Burn",
+        "price": 16.99,
+        "cover": "https://kbimages1-a.akamaihd.net/585f92d2-8a04-4211-8881-c3f032554aa4/353/569/90/False/the-book-that-wouldn-t-burn.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-book-that-wouldn-t-burn",
+        "preorder": "Available May 9, 2023",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Mark Lawrence"
+    },
+    {
+        "title": "The Warden",
+        "price": 16.99,
+        "cover": "https://kbimages1-a.akamaihd.net/48d843f9-8d50-4850-a761-12718e6b5fe6/353/569/90/False/the-warden-98.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-warden-98",
+        "preorder": "Available Apr 18, 2023",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Daniel M. Ford"
     },
     {
         "title": "Nocturne",
