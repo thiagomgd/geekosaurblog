@@ -69,10 +69,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2023/missing-a-blogging-community.md",
+                "file": "posts/2023/the-worst-tabletop-sin.md",
                 "mode": "source",
                 "source": true
               }
+            }
+          },
+          {
+            "id": "46e525bface13f64",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/2023/lorcana-catan-having-something-to-do.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true
             }
           }
         ],
@@ -142,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2023/missing-a-blogging-community.md",
+                "file": "posts/2023/the-worst-tabletop-sin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2023/missing-a-blogging-community.md",
+                "file": "posts/2023/the-worst-tabletop-sin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2023/missing-a-blogging-community.md"
+                "file": "posts/2023/the-worst-tabletop-sin.md"
               }
             }
           }
@@ -207,9 +221,9 @@
   "active": "4ac8c7eea2c1ea9d",
   "lastOpenFiles": [
     "posts/2023/lorcana-catan-having-something-to-do.md",
-    "posts/2023/Untitled.md",
-    "posts/2023/2023-anticipated-books.md",
+    "posts/2023/the-worst-tabletop-sin.md",
     "posts/2023/missing-a-blogging-community.md",
+    "posts/2023/2023-anticipated-books.md",
     "posts/2023/Missing A Blogging Community.md",
     "posts/2023/friday-finds-1.md",
     "currentlyWatching/currentlyWatching.md",
