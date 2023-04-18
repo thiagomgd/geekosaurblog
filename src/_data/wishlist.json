@@ -10,6 +10,16 @@
         "author": "Cait Flanders"
     },
     {
+        "title": "Episode Thirteen",
+        "price": 2.99,
+        "cover": "https://kbimages1-a.akamaihd.net/20c49c89-a4f9-4656-a3f3-21569df3f38b/353/569/90/False/episode-thirteen.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/episode-thirteen",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Craig DiLouie"
+    },
+    {
         "title": "Mindwalker",
         "price": 5.99,
         "cover": "https://kbimages1-a.akamaihd.net/552b7753-013a-4cd4-9077-e8335e07695b/353/569/90/False/mindwalker-5.jpg",
@@ -400,16 +410,6 @@
         "author": "Brandon Sanderson"
     },
     {
-        "title": "Episode Thirteen",
-        "price": 12.99,
-        "cover": "https://kbimages1-a.akamaihd.net/20c49c89-a4f9-4656-a3f3-21569df3f38b/353/569/90/False/episode-thirteen.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/episode-thirteen",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Craig DiLouie"
-    },
-    {
         "title": "These Silent Woods",
         "price": 12.99,
         "cover": "https://kbimages1-a.akamaihd.net/738b6994-7da5-464c-a806-627e2f1e04b0/353/569/90/False/these-silent-woods.jpg",
@@ -664,7 +664,7 @@
         "price": 16.99,
         "cover": "https://kbimages1-a.akamaihd.net/48d843f9-8d50-4850-a761-12718e6b5fe6/353/569/90/False/the-warden-98.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/the-warden-98",
-        "preorder": "Available Apr 18, 2023",
+        "preorder": "",
         "isPlus": false,
         "isSale": false,
         "author": "Daniel M. Ford"
