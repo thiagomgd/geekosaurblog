@@ -70,6 +70,16 @@
         "author": "Joyce and Jim Lavene"
     },
     {
+        "title": "Revelle",
+        "price": 8.99,
+        "cover": "https://kbimages1-a.akamaihd.net/a18ffba8-8a68-4a0d-be02-3d6b981cde8b/353/569/90/False/revelle-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/revelle-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Lyssa Mia Smith"
+    },
+    {
         "title": "Bookmarked For Death",
         "price": 8.99,
         "cover": "https://kbimages1-a.akamaihd.net/960e5e9f-ce2a-4f2e-ad1b-6d9522bef9dc/353/569/90/False/bookmarked-for-death.jpg",
@@ -188,16 +198,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Natsume Akatsuki"
-    },
-    {
-        "title": "Revelle",
-        "price": 10.99,
-        "cover": "https://kbimages1-a.akamaihd.net/a18ffba8-8a68-4a0d-be02-3d6b981cde8b/353/569/90/False/revelle-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/revelle-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Lyssa Mia Smith"
     },
     {
         "title": "Reign of the Seven Spellblades, Vol. 1 (light novel)",
@@ -560,6 +560,16 @@
         "author": "Riley Sager"
     },
     {
+        "title": "Bookshops & Bonedust",
+        "price": 14.99,
+        "cover": "https://kbimages1-a.akamaihd.net/f3a708ca-6bf4-4de8-8b92-d3a1ad544a69/353/569/90/False/bookshops-bonedust.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/bookshops-bonedust",
+        "preorder": "Available Nov 7, 2023",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Travis Baldree"
+    },
+    {
         "title": "Of Manners and Murder",
         "price": 14.99,
         "cover": "https://kbimages1-a.akamaihd.net/793cb5ba-9d24-4084-ab2e-a7bfa48733f4/353/569/90/False/of-manners-and-murder.jpg",
@@ -630,6 +640,16 @@
         "author": "Erika Engelhaupt"
     },
     {
+        "title": "Stranger Things: Flight of Icarus",
+        "price": 16.99,
+        "cover": "https://kbimages1-a.akamaihd.net/819c204c-724f-4cee-979f-1d97ec755469/353/569/90/False/stranger-things-flight-of-icarus.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/stranger-things-flight-of-icarus",
+        "preorder": "Available Oct 31, 2023",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Caitlin Schneiderhan"
+    },
+    {
         "title": "The Book That Wouldn't Burn",
         "price": 16.99,
         "cover": "https://kbimages1-a.akamaihd.net/585f92d2-8a04-4211-8881-c3f032554aa4/353/569/90/False/the-book-that-wouldn-t-burn.jpg",
@@ -662,7 +682,7 @@
     {
         "title": "Silver Nitrate",
         "price": 16.99,
-        "cover": "https://kbimages1-a.akamaihd.net/d2117b3c-e27d-414b-9e07-44a7727f0912/353/569/90/False/silver-nitrate-2.jpg",
+        "cover": "https://kbimages1-a.akamaihd.net/08aad2b7-e0ae-45d7-9ec9-b8506514223e/353/569/90/False/silver-nitrate-2.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/silver-nitrate-2",
         "preorder": "Available Jul 18, 2023",
         "isPlus": false,
@@ -758,6 +778,16 @@
         "isPlus": false,
         "isSale": true,
         "author": "Chloe Gong"
+    },
+    {
+        "title": "A City on Mars",
+        "price": 18.99,
+        "cover": "https://kbimages1-a.akamaihd.net/0cb488fd-a114-41b6-9315-5f266cc7d7a0/353/569/90/False/a-city-on-mars-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-city-on-mars-1",
+        "preorder": "Available Nov 7, 2023",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Kelly Weinersmith"
     },
     {
         "title": "The Making of Another Major Motion Picture Masterpiece",

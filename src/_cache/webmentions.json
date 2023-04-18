@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-04-15T18:54:56.944Z",
+  "lastFetched": "2023-04-18T03:50:19.469Z",
   "children": [
     {
       "type": "entry",
@@ -7559,6 +7559,50 @@
       "wm-target": "https://geekosaur.com/note/tootcat110136452203355403/",
       "like-of": "https://geekosaur.com/note/tootcat110136452203355403/",
       "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/a.mindlycdn.click/0efc7ea4b8db2cf5309245d6bae2c8aa68908a8a019c13f9e4754a2286055b9b.png",
+        "url": "https://mindly.social/@falcon"
+      },
+      "url": "https://mindly.social/@falcon/110216922673804932",
+      "published": "2023-04-18T00:12:54",
+      "wm-received": "2023-04-18T03:11:13Z",
+      "wm-id": 1663443,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mindly.social/110216902073308852/110216922673804932",
+      "wm-target": "https://geekosaur.com/notes/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://techhub.social/@goulet\" class=\"u-url\">@<span>goulet</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url\">@<span>eleventy</span></a></span> BTW, there is a plugin that also does this by <span class=\"h-card\"><a href=\"https://indieweb.social/@declan_byrd\" class=\"u-url\">@<span>declan_byrd</span></a></span> (<a href=\"https://github.com/declanbyrd/eleventy-plugin-mastoarchive\"><span>https://</span><span>github.com/declanbyrd/eleventy</span><span>-plugin-mastoarchive</span></a>) used on this page: <a href=\"https://declanbyrd.co.uk/journal/\"><span>https://</span><span>declanbyrd.co.uk/journal/</span><span></span></a></p><p>but I needed some extra stuff + get this data on the toot folder, not as global data, so I adapted.</p>\n<a href=\"https://github.com/declanbyrd/eleventy-plugin-mastoarchive\">GitHub - declanbyrd/eleventy-plugin-mastoarchive: Eleventy plugin to expose your Mastodon posts as a global data object.</a>",
+        "text": "@goulet @eleventy BTW, there is a plugin that also does this by @declan_byrd (https://github.com/declanbyrd/eleventy-plugin-mastoarchive) used on this page: https://declanbyrd.co.uk/journal/but I needed some extra stuff + get this data on the toot folder, not as global data, so I adapted.\nGitHub - declanbyrd/eleventy-plugin-mastoarchive: Eleventy plugin to expose your Mastodon posts as a global data object."
+      },
+      "in-reply-to": "https://geekosaur.com/notes/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/a.mindlycdn.click/0efc7ea4b8db2cf5309245d6bae2c8aa68908a8a019c13f9e4754a2286055b9b.png",
+        "url": "https://mindly.social/@falcon"
+      },
+      "url": "https://mindly.social/@falcon/110216909267396727",
+      "published": "2023-04-18T00:09:29",
+      "wm-received": "2023-04-18T03:10:45Z",
+      "wm-id": 1663442,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mindly.social/110216902073308852/110216909267396727",
+      "wm-target": "https://geekosaur.com/notes/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://techhub.social/@goulet\" class=\"u-url\">@<span>goulet</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url\">@<span>eleventy</span></a></span> just let me know if you have any questions :)</p>",
+        "text": "@goulet @eleventy just let me know if you have any questions :)"
+      },
+      "in-reply-to": "https://geekosaur.com/notes/",
+      "wm-property": "in-reply-to",
       "wm-private": false
     }
   ]
