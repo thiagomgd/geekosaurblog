@@ -17,7 +17,7 @@ https://www.polygon.com/23680201/disney-lorcana-rules-tcg-designer-interview-acc
 
 https://www.thegamer.com/disney-lorcana-inkwell-tcg-pack-filler-problem/
 
-
+I've been seeing news for Disney's Lorcana and I'm excited
 
 [^lorcanaRules]: https://www.polygon.com/23680201/disney-lorcana-rules-tcg-designer-interview-accessibility-release-date-price 
 
