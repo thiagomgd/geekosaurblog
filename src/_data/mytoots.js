@@ -27,7 +27,13 @@ const { removeMastoTags, getMastoTags } = require("../_11ty/helpers");
 const { getTootSlug } = require("../_11ty/filters");
 
 function compute(config, posts) {
-	return posts.map(post => {
+	// console.log('--- compute ---', config.host);
+	return posts.filter(post => {
+		if (!config.postTagFilter) return true;
+
+		// console.log(post.tags.some(tag => config.postTagFilter.includes(tag.name)), post.tags, config.postTagFilter);
+		return post.tags.some(tag => config.postTagFilter.includes(tag))
+	}).map(post => {
 		return {
 			...post,
 			title: post.title || "🦣",
@@ -39,13 +45,13 @@ function compute(config, posts) {
 }
 
 const formatTimeline = (timeline, config) => {
-	// console.log('$$$', config.host, !config.onlyTagged);
+	// console.log('$$$', config.host, !config.preTagFilter);
 
 	const filtered = timeline.filter(
 		(post) =>
 			// remove posts that are already on your own site.
 			!config.removeSyndicates.some((url) => post.content.includes(url)) &&
-			(!config.onlyTagged || post.tags.some(tag => config.onlyTagged.includes(tag.name)))
+			(!config.preTagFilter || post.tags.some(tag => config.preTagFilter.includes(tag.name)))
 	);
 
 	const formatted = filtered.map((post) => {
@@ -216,7 +222,7 @@ module.exports = async function () {
 			removeSyndicates: ['geekosaur.com'],
 			cacheLocation: "src/_cache/mastotootcat.json",
 			removeTags: true,
-			onlyTagged: ["journal", "note"] // at least one of those tags
+			preTagFilter: ["journal", "note"] // at least one of those tags
 		},
 		{
 			isProduction: isProduction,
@@ -226,7 +232,7 @@ module.exports = async function () {
 			cacheLocation: "src/_cache/mastosakurajima.json",
 			removeTags: true,
 			posse: false,
-			onlyTagged: ["journal", "note"] // at least one of those tags
+			postTagFilter: ["journal", "note"] // at least one of those tags
 		},
 		{
 			isProduction: isProduction,
@@ -236,7 +242,7 @@ module.exports = async function () {
 			cacheLocation: "src/_cache/mastomindly.json",
 			removeTags: true,
 			posse: false,
-			onlyTagged: ["journal", "note"] // at least one of those tags
+			postTagFilter: ["journal", "note"] // at least one of those tags
 		},
 	]
 
