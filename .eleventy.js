@@ -11,7 +11,7 @@ const helpers = require('./src/_11ty/helpers');
 const shortcodes = require('./src/_11ty/shortcodes');
 const pairedShortcodes = require('./src/_11ty/pairedShortcodes');
 const asyncShortcodes = require('./src/_11ty/asyncShortcodes');
-const {anyEmbed, figure, blur, tweet} = require('./src/_11ty/asyncShortcodes');
+const { anyEmbed, figure, blur, tweet } = require('./src/_11ty/asyncShortcodes');
 // const mastoArchive = require('eleventy-plugin-mastoarchive');
 
 const cheerio = require("cheerio");
@@ -25,7 +25,7 @@ function hasBodyTag(content) {
 async function replaceSpecialLinks(content, options) {
   const $ = cheerio.load(content);
   // TODO: only block links
-  const replace = ['bookmark', 'embed','textTweet'];
+  const replace = ['bookmark', 'embed', 'textTweet'];
   let links = $("a").filter((i, el) => {
     const text = $(el).text();
     return replace.includes(text);
@@ -38,7 +38,7 @@ async function replaceSpecialLinks(content, options) {
     const text = $(link).text();
 
     if (text === 'textTweet') {
-      promises[i] = tweet(url, {twitterScriptEnabled: false});  
+      promises[i] = tweet(url, { twitterScriptEnabled: false });
     } else {
       promises[i] = anyEmbed(url);
     }
@@ -58,58 +58,58 @@ async function imgToFigure(content) {
   // TODO: only block links
   // TODO: images from notion are surrounded by empty paragraphs. Eliminate them
   let images = $("p > img")
-    // .not("picture img"); // Ignore images wrapped in <picture>
-    // .not("[data-img2picture-ignore]") // Ignore excluded images
+  // .not("picture img"); // Ignore images wrapped in <picture>
+  // .not("[data-img2picture-ignore]") // Ignore excluded images
 
-    const promises = [];
-    for (let i = 0; i < images.length; i++) {
-      const img = images[i];
-      const attrs = $(img).attr();
-      
-      if (!attrs.alt) attrs.alt = '';
+  const promises = [];
+  for (let i = 0; i < images.length; i++) {
+    const img = images[i];
+    const attrs = $(img).attr();
+
+    if (!attrs.alt) attrs.alt = '';
 
 
-      
-      const splitCaption = attrs.alt.split('|');
-      let caption = splitCaption.shift();
-      let shouldBlur = false;
-      let source = "";
 
-      splitCaption.forEach((itm) => {
-        if (itm === "blur") {
-          shouldBlur = true;
-        } else if (itm.startsWith("http")) {
-          source = itm
-        } else {
-          attrs.alt = itm
-        }
-      })
+    const splitCaption = attrs.alt.split('|');
+    let caption = splitCaption.shift();
+    let shouldBlur = false;
+    let source = "";
 
-      if (source) {
-        caption = `${caption} ([source](${source}))`
-      }
-    
-      // attrs.alt.startsWith('(blur)') ? attrs.alt.replace('(blur)','').trim() : attrs.alt;
-
-      if (shouldBlur) {
-        // replace is for images from obsidian.
-        promises[i] = blur(attrs.src, caption, "", attrs.all);
+    splitCaption.forEach((itm) => {
+      if (itm === "blur") {
+        shouldBlur = true;
+      } else if (itm.startsWith("http")) {
+        source = itm
       } else {
-        // replace is for images from obsidian.
-        promises[i] = figure(attrs.src, caption, "", attrs.alt);   
+        attrs.alt = itm
       }
-    }
-  
-    const pictures = await Promise.all(promises);
-  
-    pictures.forEach((picture, i) => {
-      // console.debug('-------------');
-      // console.debug(images[i]);
-      // console.debug(picture);
-      $(images[i]).replaceWith(picture);
-    });
+    })
 
-    return $.html();
+    if (source) {
+      caption = `${caption} ([source](${source}))`
+    }
+
+    // attrs.alt.startsWith('(blur)') ? attrs.alt.replace('(blur)','').trim() : attrs.alt;
+
+    if (shouldBlur) {
+      // replace is for images from obsidian.
+      promises[i] = blur(attrs.src, caption, "", attrs.all);
+    } else {
+      // replace is for images from obsidian.
+      promises[i] = figure(attrs.src, caption, "", attrs.alt);
+    }
+  }
+
+  const pictures = await Promise.all(promises);
+
+  pictures.forEach((picture, i) => {
+    // console.debug('-------------');
+    // console.debug(images[i]);
+    // console.debug(picture);
+    $(images[i]).replaceWith(picture);
+  });
+
+  return $.html();
   // return hasBodyTag(content) ? $.html() : $("body").html();
 }
 
@@ -118,7 +118,7 @@ async function updatePostSocial(post, socialLinks, mastodonPosts) {
   if (!socialLinks[post.url]) {
     socialLinks[post.url] = {}
   }
-  
+
 
   if (socialLinks[post.url]['reddit']) {
     post.data.reddit = socialLinks[post.url]['reddit'];
@@ -135,7 +135,7 @@ async function updatePostSocial(post, socialLinks, mastodonPosts) {
     post.data.mastodon = socialLinks[post.url]['mastodon'];
   } else {
     toot = helpers.updateToot(post, mastodonPosts);
-    
+
     // console.log(`!!!!!!!!!!!!!!! | url ${post.url} | toot ${toot}`);
     if (toot) {
       post.data.mastodon = toot;
@@ -145,7 +145,7 @@ async function updatePostSocial(post, socialLinks, mastodonPosts) {
   }
 }
 
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
   // Add plugins
   // eleventyConfig.addPlugin(mastoArchive, {
   //   host: 'https://mindly.social',
@@ -167,10 +167,10 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addFilter(filterName, filters[filterName])
   })
 
-  eleventyConfig.addNunjucksAsyncFilter('getOptimizedImageUrl', async function(value, callback) {
+  eleventyConfig.addNunjucksAsyncFilter('getOptimizedImageUrl', async function (value, callback) {
     const url = await helpers.optimizeImage(value);
     callback(null, url);
-   });
+  });
 
   // Add shortcodes
   Object.keys(shortcodes).forEach(codeName => {
@@ -201,14 +201,14 @@ module.exports = function(eleventyConfig) {
 
   // https://11ta.netlify.app/2020/09/20/v110-brings-draft-posts/
   /**
-	 * Collections
-	 * ============================
-	 *
-	 * POST Collection set so we can check status of "draft:" frontmatter.
-	 * If set "true" then post will NOT be processed in PRODUCTION env.
-	 * If "false" or NULL it will be published in PRODUCTION.
-	 * Every Post will ALWAYS be published in DEVELOPMENT so you can preview locally.
-	 */
+   * Collections
+   * ============================
+   *
+   * POST Collection set so we can check status of "draft:" frontmatter.
+   * If set "true" then post will NOT be processed in PRODUCTION env.
+   * If "false" or NULL it will be published in PRODUCTION.
+   * Every Post will ALWAYS be published in DEVELOPMENT so you can preview locally.
+   */
   // eleventyConfig.addCollection('posts', collection => {
   //   return collection.getSortedByDate()
   //     .filter(livePosts);
@@ -229,14 +229,14 @@ module.exports = function(eleventyConfig) {
 
     helpers.saveSocialLinks(social);
 
-    return newPosts.sort(function(a, b) {
-        const timeA = a.data.createdDate ? a.data.createdDate.getTime() : 0;
-        const timeB = b.data.createdDate ? b.data.createdDate.getTime() : 0;
-        return timeA - timeB;
-      });
+    return newPosts.sort(function (a, b) {
+      const timeA = a.data.createdDate ? a.data.createdDate.getTime() : 0;
+      const timeB = b.data.createdDate ? b.data.createdDate.getTime() : 0;
+      return timeA - timeB;
+    });
   });
 
-  
+
   eleventyConfig.addCollection('allNotes', async collection => {
     const social = helpers.readSocialLinks();
     const myToots = await helpers.fetchToots();
@@ -246,16 +246,16 @@ module.exports = function(eleventyConfig) {
     // console.log(collection.getAll()[0].data.mytoots);
     // const localMastodon = collection.getFilteredByTag('mastodon');
     // const otherLocalMastodon = collection.getAll()[0].data.mastodon.posts;
-    
+
     // console.log(otherLocalMastodon);
     // console.log(data);
-    
+
     const newNotes = await Promise.all(localNotes.map(async (post) => {
       await updatePostSocial(post, social, myToots);
 
       return post;
     }));
-    
+
     helpers.saveSocialLinks(social);
     // console.log('-----')
     // console.log(newNotes[0])
@@ -265,12 +265,12 @@ module.exports = function(eleventyConfig) {
 
     collection.getAll()[0].data.mytoots.forEach(toot => {
       tootNote = {}
-      tootNote.data = {eleventyComputed:{}, ...toot}
+      tootNote.data = { eleventyComputed: {}, ...toot }
       newNotes.push(tootNote);
     })
 
     return newNotes
-      .sort(function(a, b) {
+      .sort(function (a, b) {
         const timeA = a.data.createdDate ? a.data.createdDate.getTime() : 0;
         const timeB = b.data.createdDate ? b.data.createdDate.getTime() : 0;
         return timeB - timeA;
@@ -282,8 +282,10 @@ module.exports = function(eleventyConfig) {
     const posseToots = collection.getAll()[0].data.mytoots
       .filter(toot => !!toot.permalink)
 
+    // TODO - update social
+
     return posseToots
-      .sort(function(a, b) {
+      .sort(function (a, b) {
         const timeA = a.createdDate ? a.createdDate.getTime() : 0;
         const timeB = b.createdDate ? b.createdDate.getTime() : 0;
         return timeB - timeA;
@@ -298,7 +300,7 @@ module.exports = function(eleventyConfig) {
       .map(toot => {
         tootNote = {}
         tootNote.date = toot.createdDate;
-        tootNote.data = {eleventyComputed:{}, ...toot}
+        tootNote.data = { eleventyComputed: {}, ...toot }
         return tootNote;
       })
 
@@ -322,7 +324,7 @@ module.exports = function(eleventyConfig) {
   });
 
   // Create an array of all tags
-  eleventyConfig.addCollection("tagList", function(collection) {
+  eleventyConfig.addCollection("tagList", function (collection) {
     let tagSet = new Set();
     collection.getAll().forEach(item => {
       (item.data.tags || []).forEach(tag => tagSet.add(tag));
@@ -335,22 +337,22 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("series", (collection) => {
     // get all posts in chronological order
     const posts = collection.getSortedByDate();
-  
+
     // this will store the mapping from series to lists of posts; it can be a
     // regular object if you prefer
     const dict = new Object();
-  
+
     // loop over the posts
     for (const post of posts) {
       // get any series data for the current post, and store the date for later
       const { series, date } = post.data;
-  
+
       // ignore anything with no series data
       // if (series === undefined) {
       if (!series) {
         continue;
       }
-  
+
       // if we haven’t seen this series before, create a new entry in the mapping
       // (i.e. take the description from the first post we encounter)
       if (!dict[series]) {
@@ -360,21 +362,21 @@ module.exports = function(eleventyConfig) {
           // description: seriesDescription,
         };
       }
-  
+
       // get the entry for this series
       const existing = dict[series];
-  
+
       // add the current post to the list
-      existing.posts.push({url: post.url, title: post.data.title, date: post.data.date});
-  
+      existing.posts.push({ url: post.url, title: post.data.title, date: post.data.date });
+
       // update the date so we always have the date from the latest post
       // existing.date = date;
     }
-  
+
     // now to collect series containing more than one post as an array that
     // Eleventy can paginate
     const normalized = [];
-  
+
     for (const key in dict) {
       // console.debug(dict[key]);
       seriesDict = dict[key];
@@ -383,13 +385,13 @@ module.exports = function(eleventyConfig) {
         normalized.push({ title: seriesDict.title, posts: seriesDict.posts, slug: eleventyConfig.getFilter("slugify")(seriesDict.title) });
       }
     }
-  
+
     // return the array
     return normalized;
     // return mapping;
   });
 
-  eleventyConfig.addTransform('replace-special-links', async function(content){
+  eleventyConfig.addTransform('replace-special-links', async function (content) {
     if (this.outputPath && this.outputPath.endsWith(".html")) {
       return await replaceSpecialLinks(content, {});
     }
@@ -397,7 +399,7 @@ module.exports = function(eleventyConfig) {
     return content;
   });
 
-  eleventyConfig.addTransform('img2figure', async function(content){
+  eleventyConfig.addTransform('img2figure', async function (content) {
     if (this.outputPath && this.outputPath.endsWith(".html")) {
       return await imgToFigure(content);
     }
@@ -407,7 +409,7 @@ module.exports = function(eleventyConfig) {
 
   // Copy the `img` and `css` folders to the output
   eleventyConfig.addPassthroughCopy("src/img");
-  eleventyConfig.addPassthroughCopy({"src/posts/attachments": "attachments"});
+  eleventyConfig.addPassthroughCopy({ "src/posts/attachments": "attachments" });
 
   let markdownItObsidian = require("markdown-it-obsidian")();
   // Customize Markdown library and settings:
@@ -420,33 +422,33 @@ module.exports = function(eleventyConfig) {
       placement: "after",
       class: "direct-link",
       symbol: "#",
-      level: [1,2,3,4],
+      level: [1, 2, 3, 4],
     }),
     slugify: eleventyConfig.getFilter("slugify")
   }).use(markdownItFootnote).use(markdownItObsidian);
 
-    // markdownLibrary.renderer.rules.image = function (tokens, idx, options, env, slf) {
-    //   const token = tokens[idx]
-    //   console.debug(token);
+  // markdownLibrary.renderer.rules.image = function (tokens, idx, options, env, slf) {
+  //   const token = tokens[idx]
+  //   console.debug(token);
 
-    //   return imgToFigure(token);
-    // //   return `<figure>
-    // //   ${slf.renderToken(tokens, idx, options)}
-    // //   <figcaption>${token.attrs[token.attrIndex('alt')][1]}</figcaption>
-    // // </figure>`
-    // }
+  //   return imgToFigure(token);
+  // //   return `<figure>
+  // //   ${slf.renderToken(tokens, idx, options)}
+  // //   <figcaption>${token.attrs[token.attrIndex('alt')][1]}</figcaption>
+  // // </figure>`
+  // }
 
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Override Browsersync defaults (used only with --serve)
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
-      ready: function(err, browserSync) {
+      ready: function (err, browserSync) {
         const content_404 = fs.readFileSync('_site/404.html');
 
         browserSync.addMiddleware("*", (req, res) => {
           // Provides the 404 content without redirect.
-          res.writeHead(404, {"Content-Type": "text/html; charset=UTF-8"});
+          res.writeHead(404, { "Content-Type": "text/html; charset=UTF-8" });
           res.write(content_404);
           res.end();
         });
