@@ -9,6 +9,18 @@ module.exports = function () {
 			// 		return false;
 			// 	}
 			// },
+            // permalink: function(data) {
+            //     console.log('###############')
+            //     console.log(data.title, data.slug, data.dontBridgy, !!data.dontBridgy);
+			// 	if(data.dontBridgy == "false") {
+            //         console.log("@@@@@@", data);
+			// 		return data.slug; //data.permalink;
+			// 	}
+			// 	else {
+            //         console.log("@@@@@@@ - false")
+			// 		return false;
+			// 	}
+			// },
             
             tags: function (data) {
                 if (!data || !data.tagsString) return ['note'];
@@ -20,7 +32,7 @@ module.exports = function () {
             },
             // description: 
         },
-        
+        // permalink: "note/{{ toot.slug }}/"
         // reddit: async function(data) {
         //     return await getRedditUrl(data.slug);
         // },

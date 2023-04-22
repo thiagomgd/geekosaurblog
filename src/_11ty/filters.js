@@ -209,5 +209,8 @@ module.exports = {
   },
   getTootSlug: (toot) => {
     return `${toot.host.replace('.','')}${toot.id}`
+  },
+  isString: (thing) => {
+    return typeof thing === 'string'
   }
 };

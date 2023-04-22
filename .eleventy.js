@@ -237,41 +237,40 @@ module.exports = function(eleventyConfig) {
   });
 
   
-  eleventyConfig.addCollection('notes',async collection => {
+  eleventyConfig.addCollection('allNotes', async collection => {
     const social = helpers.readSocialLinks();
     const myToots = await helpers.fetchToots();
 
     const localNotes = collection.getFilteredByTag('note');
-    
+
+    // console.log(collection.getAll()[0].data.mytoots);
     // const localMastodon = collection.getFilteredByTag('mastodon');
     // const otherLocalMastodon = collection.getAll()[0].data.mastodon.posts;
-
+    
     // console.log(otherLocalMastodon);
+    // console.log(data);
     
     const newNotes = await Promise.all(localNotes.map(async (post) => {
       await updatePostSocial(post, social, myToots);
-      
+
       return post;
     }));
-
+    
     helpers.saveSocialLinks(social);
     // console.log('-----')
     // console.log(newNotes[0])
+    // console.log('_____________________________');
+    // console.log(newNotes[0]);
+    // console.log(collection.getAll()[0].data.mytoots[0]);
 
-    // otherLocalMastodon.forEach(toot => {
-    //   toot.data = toot.data || {};
-    //   // console.log(toot.date, typeof(toot.date), new Date(toot.date));
-    //   toot.data.createdDate = new Date(toot.date);
-    //   toot.data.isMastodon = true;
-    //   newNotes.push(toot);
-    // })
+    collection.getAll()[0].data.mytoots.forEach(toot => {
+      tootNote = {}
+      tootNote.data = {eleventyComputed:{}, ...toot}
+      newNotes.push(tootNote);
+    })
 
-    // console.log(newNotes[newNotes.length-1])
-    // console.log('-----')
-    // console.log(newNotes[0])
     return newNotes
       .sort(function(a, b) {
-        // console.log(a.data.createdDate, b.data.createdDate);
         const timeA = a.data.createdDate ? a.data.createdDate.getTime() : 0;
         const timeB = b.data.createdDate ? b.data.createdDate.getTime() : 0;
         return timeB - timeA;
@@ -279,11 +278,31 @@ module.exports = function(eleventyConfig) {
   });
 
 
+  eleventyConfig.addCollection('posseToots', async collection => {
+    const posseToots = collection.getAll()[0].data.mytoots
+      .filter(toot => !!toot.permalink)
+
+    return posseToots
+      .sort(function(a, b) {
+        const timeA = a.createdDate ? a.createdDate.getTime() : 0;
+        const timeB = b.createdDate ? b.createdDate.getTime() : 0;
+        return timeB - timeA;
+      });
+  });
 
   eleventyConfig.addCollection('allthings', collection => {
     const posts = collection.getFilteredByTag('post');
     const notes = collection.getFilteredByTag('note');
-    const all = [...posts, ...notes];
+    const posseToots = collection.getAll()[0].data.mytoots
+      .filter(toot => !!toot.permalink)
+      .map(toot => {
+        tootNote = {}
+        tootNote.date = toot.createdDate;
+        tootNote.data = {eleventyComputed:{}, ...toot}
+        return tootNote;
+      })
+
+    const all = [...posts, ...notes, ...posseToots];
 
     const sorted = all.sort(function (a, b) {
       const timeA = a.data.createdDate

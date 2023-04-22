@@ -4,7 +4,7 @@ eleventyNavigation:
   key: Notes
   order: 2
 pagination:
-  data: collections.notes
+  data: collections.allNotes
   size: 5
 # permalink: /notes/{{ pagination.index }}
 ---
@@ -23,7 +23,11 @@ pagination:
 
 {% for note in pagination.items -%}
 
-[{{ note.data.title }}]({{ note.url }}) - {{ note.data.createdDate | readableDate }}
+{% if note.data.url %}
+[{{ note.data.title }}]({{ note.data.url }}) - {{ note.data.createdDate | readableDate }}
+{% else %}
+{{ note.data.title }} - {{ note.data.createdDate | readableDate }}
+{% endif %}
 
 <div>{% set tagslist = note.data.tags %}{% include "tagslist.njk" %}</div>
 
@@ -32,14 +36,18 @@ pagination:
 {% if note.data.embed %}{% anyEmbed note.data.embed %}<br/>{% endif %}
 
 {% if note.data.isMastodon %}
-{{ note.content | safe }}
+{{ note.data.content | safe }}
 {% else %}
 {{ note._templateContent | safe }}
 {% endif %}
 
 {% for image in note.data.images %}
 
+{% if image | isString %}
 {% figure image %}
+{% else %}
+{% figure image.url, "", "", image.alt  %}
+{% endif %}
 
 {% endfor %}
 

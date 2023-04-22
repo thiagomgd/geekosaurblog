@@ -34,12 +34,28 @@ function compute(config, posts) {
 		// console.log(post.tags.some(tag => config.postTagFilter.includes(tag.name)), post.tags, config.postTagFilter);
 		return post.tags.some(tag => config.postTagFilter.includes(tag))
 	}).map(post => {
+        const extra = {}
+        if (config.posse) {
+            const slug = getTootSlug(post);
+
+            extra.slug = slug,
+            extra.permalink = `note/${slug}`;
+            extra.url = `//geekosaur.com/note/${slug}`;
+        } 
+        // else {
+        //     extra.permalink = false
+        // }
+
 		return {
 			...post,
+            ...extra,
 			title: post.title || "🦣",
-			slug: getTootSlug(post),
-			createdDate: post.date,
-			dontBridgy: !config.posse
+			createdDate: new Date(post.date),
+            isMastodon: true,
+			dontBridgy: !config.posse,
+			eleventyComputed: {
+				tags: ['note']
+			}
 		}
 	})
 }
