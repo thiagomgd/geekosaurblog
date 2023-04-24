@@ -10,6 +10,16 @@
         "author": "Cait Flanders"
     },
     {
+        "title": "Our Share of Night",
+        "price": 2.99,
+        "cover": "https://kbimages1-a.akamaihd.net/c1a6c7e9-bf35-4842-ad30-cec96803362d/353/569/90/False/our-share-of-night.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/our-share-of-night",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Mariana Enriquez"
+    },
+    {
         "title": "Mindwalker",
         "price": 5.99,
         "cover": "https://kbimages1-a.akamaihd.net/552b7753-013a-4cd4-9077-e8335e07695b/353/569/90/False/mindwalker-5.jpg",
@@ -688,16 +698,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Silvia Moreno-Garcia"
-    },
-    {
-        "title": "Our Share of Night",
-        "price": 16.99,
-        "cover": "https://kbimages1-a.akamaihd.net/c1a6c7e9-bf35-4842-ad30-cec96803362d/353/569/90/False/our-share-of-night.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/our-share-of-night",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Mariana Enriquez"
     },
     {
         "title": "NeuroTribes",
