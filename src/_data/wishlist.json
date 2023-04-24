@@ -10,14 +10,24 @@
         "author": "Cait Flanders"
     },
     {
-        "title": "Our Share of Night",
+        "title": "No Time Like the Future",
         "price": 2.99,
-        "cover": "https://kbimages1-a.akamaihd.net/c1a6c7e9-bf35-4842-ad30-cec96803362d/353/569/90/False/our-share-of-night.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/our-share-of-night",
+        "cover": "https://kbimages1-a.akamaihd.net/ba52579a-c9a7-4dde-97d2-cb4db02e4256/353/569/90/False/no-time-like-the-future-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/no-time-like-the-future-1",
         "preorder": "",
         "isPlus": false,
         "isSale": true,
-        "author": "Mariana Enriquez"
+        "author": "Michael J. Fox"
+    },
+    {
+        "title": "One Dark Window",
+        "price": 2.99,
+        "cover": "https://kbimages1-a.akamaihd.net/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Rachel Gillig"
     },
     {
         "title": "Mindwalker",
@@ -110,16 +120,6 @@
         "author": "Susan Wittig Albert"
     },
     {
-        "title": "One Dark Window",
-        "price": 8.99,
-        "cover": "https://kbimages1-a.akamaihd.net/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Rachel Gillig"
-    },
-    {
         "title": "Slayers: Volume 1",
         "price": 9.97,
         "cover": "https://kbimages1-a.akamaihd.net/8f8824bc-1c03-4a82-b665-4af570389975/353/569/90/False/slayers-volume-1.jpg",
@@ -190,6 +190,16 @@
         "author": "Darren Aronofsky"
     },
     {
+        "title": "Spice and Wolf, Vol. 3 (light novel)",
+        "price": 10.99,
+        "cover": "https://kbimages1-a.akamaihd.net/ab130e10-e769-440d-9738-54990410c2ea/353/569/90/False/spice-and-wolf-vol-3-light-novel-2.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/spice-and-wolf-vol-3-light-novel-2",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Isuna Hasekura"
+    },
+    {
         "title": "Konosuba: God's Blessing on This Wonderful World!, Vol. 1 (light novel)",
         "price": 10.99,
         "cover": "https://kbimages1-a.akamaihd.net/d14a2248-1bb3-4aef-bda6-bd2fba340f74/353/569/90/False/konosuba-god-s-blessing-on-this-wonderful-world-vol-1-light-novel-2.jpg",
@@ -198,16 +208,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Natsume Akatsuki"
-    },
-    {
-        "title": "Reign of the Seven Spellblades, Vol. 1 (light novel)",
-        "price": 10.99,
-        "cover": "https://kbimages1-a.akamaihd.net/5ff514a9-374a-46b1-9686-e8d6d3644af1/353/569/90/False/reign-of-the-seven-spellblades-vol-1-light-novel.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/reign-of-the-seven-spellblades-vol-1-light-novel",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Bokuto Uno"
     },
     {
         "title": "Hamra and the Jungle of Memories",
@@ -308,6 +308,16 @@
         "isPlus": false,
         "isSale": false,
         "author": "Lyssa Mia Smith"
+    },
+    {
+        "title": "Reign of the Seven Spellblades, Vol. 1 (light novel)",
+        "price": 11.99,
+        "cover": "https://kbimages1-a.akamaihd.net/5ff514a9-374a-46b1-9686-e8d6d3644af1/353/569/90/False/reign-of-the-seven-spellblades-vol-1-light-novel.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/reign-of-the-seven-spellblades-vol-1-light-novel",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Bokuto Uno"
     },
     {
         "title": "All the Murmuring Bones",
@@ -438,16 +448,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Georgina Pazcoguin"
-    },
-    {
-        "title": "No Time Like the Future",
-        "price": 12.99,
-        "cover": "https://kbimages1-a.akamaihd.net/ba52579a-c9a7-4dde-97d2-cb4db02e4256/353/569/90/False/no-time-like-the-future-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/no-time-like-the-future-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Michael J. Fox"
     },
     {
         "title": "Paradise-1",
