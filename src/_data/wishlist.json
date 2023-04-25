@@ -20,16 +20,6 @@
         "author": "Michael J. Fox"
     },
     {
-        "title": "One Dark Window",
-        "price": 2.99,
-        "cover": "https://kbimages1-a.akamaihd.net/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Rachel Gillig"
-    },
-    {
         "title": "Mindwalker",
         "price": 5.99,
         "cover": "https://kbimages1-a.akamaihd.net/552b7753-013a-4cd4-9077-e8335e07695b/353/569/90/False/mindwalker-5.jpg",
@@ -118,6 +108,16 @@
         "isPlus": false,
         "isSale": false,
         "author": "Susan Wittig Albert"
+    },
+    {
+        "title": "One Dark Window",
+        "price": 8.99,
+        "cover": "https://kbimages1-a.akamaihd.net/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Rachel Gillig"
     },
     {
         "title": "Slayers: Volume 1",
@@ -264,7 +264,7 @@
         "price": 10.99,
         "cover": "https://kbimages1-a.akamaihd.net/0f598b04-1a46-4ca0-91b0-063218f202dc/353/569/90/False/the-lake-house-22.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/the-lake-house-22",
-        "preorder": "Available Apr 25, 2023",
+        "preorder": "",
         "isPlus": false,
         "isSale": false,
         "author": "Sarah Beth Durst"
