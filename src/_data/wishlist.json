@@ -10,16 +10,6 @@
         "author": "Cait Flanders"
     },
     {
-        "title": "No Time Like the Future",
-        "price": 2.99,
-        "cover": "https://kbimages1-a.akamaihd.net/ba52579a-c9a7-4dde-97d2-cb4db02e4256/353/569/90/False/no-time-like-the-future-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/no-time-like-the-future-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Michael J. Fox"
-    },
-    {
         "title": "Mindwalker",
         "price": 5.99,
         "cover": "https://kbimages1-a.akamaihd.net/552b7753-013a-4cd4-9077-e8335e07695b/353/569/90/False/mindwalker-5.jpg",
@@ -28,6 +18,16 @@
         "isPlus": false,
         "isSale": false,
         "author": "Kate Dylan"
+    },
+    {
+        "title": "The Remarkable Retirement of Edna Fisher",
+        "price": 6.99,
+        "cover": "https://kbimages1-a.akamaihd.net/9470cb58-a06f-4ed5-b30f-114c1ed9072b/353/569/90/False/the-remarkable-retirement-of-edna-fisher.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-remarkable-retirement-of-edna-fisher",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "E.M. Anderson"
     },
     {
         "title": "The Storm Keeper\u2019s Island",
@@ -450,6 +450,16 @@
         "author": "Georgina Pazcoguin"
     },
     {
+        "title": "No Time Like the Future",
+        "price": 12.99,
+        "cover": "https://kbimages1-a.akamaihd.net/ba52579a-c9a7-4dde-97d2-cb4db02e4256/353/569/90/False/no-time-like-the-future-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/no-time-like-the-future-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Michael J. Fox"
+    },
+    {
         "title": "Paradise-1",
         "price": 12.99,
         "cover": "https://kbimages1-a.akamaihd.net/64eea415-068d-45f7-9634-d849d0badf0e/353/569/90/False/paradise-1-1.jpg",
@@ -478,16 +488,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "S.A. Barnes"
-    },
-    {
-        "title": "The Remarkable Retirement of Edna Fisher",
-        "price": 13.99,
-        "cover": "https://kbimages1-a.akamaihd.net/9470cb58-a06f-4ed5-b30f-114c1ed9072b/353/569/90/False/the-remarkable-retirement-of-edna-fisher.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-remarkable-retirement-of-edna-fisher",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": false,
-        "author": "E.M. Anderson"
     },
     {
         "title": "Her Majesty's Royal Coven",
