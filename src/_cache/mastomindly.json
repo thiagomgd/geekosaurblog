@@ -1,6 +1,84 @@
 {
-  "lastFetched": "2023-04-28T16:25:02.238Z",
+  "lastFetched": "2023-05-01T22:47:08.074Z",
   "posts": [
+    {
+      "date": "2023-05-01T04:03:34.562Z",
+      "id": "110291439750360345",
+      "title": "",
+      "content": "<p>Another Sunday, another great From episode on Paramount+</p>",
+      "source_url": "https://mindly.social/@falcon/110291439750360345",
+      "site": "Mastodon",
+      "images": [],
+      "embed": null,
+      "tags": [
+        "from",
+        "ParamountPlus"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mindly.social/@falcon/110291439750360345",
+      "host": "mindly.social"
+    },
+    {
+      "date": "2023-05-01T00:35:32.730Z",
+      "id": "110290621741457618",
+      "title": "",
+      "content": "<p>Quick (maybe dumb?) question about chargers/plug adapters:</p><p>I'm in Canada (120v), going to S. Korea (220v), looked into plug adapters, and found some that have both the Canadian plug + USB and USB-C</p><p>Now... if I were to plug phone, camera and powerbank to the USB, USB-C ports directly, would that work and not fry anything?</p><p>Or should I plug the Apple charger in the adapter, and then the usb cable to Apple's charger? 🤔 </p>",
+      "source_url": "https://mindly.social/@falcon/110290621741457618",
+      "site": "Mastodon",
+      "images": [
+        {
+          "url": "https://a.mindlycdn.click/media_attachments/files/110/290/609/750/190/168/original/23333ca216c40ae0.png",
+          "alt": "Image showing plug adapter for South Korean outlet, with Canada and USB/USB-C outputs",
+          "width": 423,
+          "height": 544,
+          "aspect": 0.7775735294117647
+        }
+      ],
+      "embed": null,
+      "tags": [
+        "question",
+        "powerAdapter",
+        "chargers",
+        "adapter"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mindly.social/@falcon/110290621741457618",
+      "host": "mindly.social"
+    },
+    {
+      "date": "2023-04-29T06:40:49.047Z",
+      "id": "110280733428235805",
+      "title": "",
+      "content": "<p>Just finished Columbo season 6. Found this nice review of the last episode</p><p><a href=\"https://columbophile.com/2019/10/27/episode-review-columbo-the-bye-bye-sky-high-iq-murder-case/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">columbophile.com/2019/10/27/ep</span><span class=\"invisible\">isode-review-columbo-the-bye-bye-sky-high-iq-murder-case/</span></a></p>",
+      "source_url": "https://mindly.social/@falcon/110280733428235805",
+      "site": "Mastodon",
+      "images": [],
+      "embed": "https://columbophile.com/2019/10/27/episode-review-columbo-the-bye-bye-sky-high-iq-murder-case/",
+      "tags": [
+        "columbo",
+        "note"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mindly.social/@falcon/110280733428235805",
+      "host": "mindly.social"
+    },
+    {
+      "date": "2023-04-28T18:52:03.097Z",
+      "id": "110277946447901995",
+      "title": "",
+      "content": "<p>Apart from getting Stranger Things season 5, I would be fine if Netflix just burned to the ground and vanished out of existence</p><p><a href=\"https://screenrant.com/netflix-show-cancellation-mocking-image-subscribers-reaction/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">screenrant.com/netflix-show-ca</span><span class=\"invisible\">ncellation-mocking-image-subscribers-reaction/</span></a></p>",
+      "source_url": "https://mindly.social/@falcon/110277946447901995",
+      "site": "Mastodon",
+      "images": [],
+      "embed": "https://screenrant.com/netflix-show-cancellation-mocking-image-subscribers-reaction/",
+      "tags": [
+        "Netflix",
+        "streaming"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mindly.social/@falcon/110277946447901995",
+      "host": "mindly.social"
+    },
     {
       "date": "2023-04-28T06:37:25.886Z",
       "id": "110275057803722331",
