@@ -10,6 +10,16 @@
         "author": "Cait Flanders"
     },
     {
+        "title": "Flowerheart",
+        "price": 2.99,
+        "cover": "https://kbimages1-a.akamaihd.net/0854c009-09a7-405e-aea2-c191520c2eef/353/569/90/False/flowerheart-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/flowerheart-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Catherine Bakewell"
+    },
+    {
         "title": "Mindwalker",
         "price": 5.99,
         "cover": "https://kbimages1-a.akamaihd.net/552b7753-013a-4cd4-9077-e8335e07695b/353/569/90/False/mindwalker-5.jpg",
@@ -248,16 +258,6 @@
         "isPlus": true,
         "isSale": true,
         "author": "Samantha San Miguel"
-    },
-    {
-        "title": "Flowerheart",
-        "price": 10.99,
-        "cover": "https://kbimages1-a.akamaihd.net/0854c009-09a7-405e-aea2-c191520c2eef/353/569/90/False/flowerheart-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/flowerheart-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Catherine Bakewell"
     },
     {
         "title": "The Lake House",
