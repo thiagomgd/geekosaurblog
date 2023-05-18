@@ -1,5 +1,15 @@
 [
     {
+        "title": "All the Murmuring Bones",
+        "price": 1.99,
+        "cover": "https://kbimages1-a.akamaihd.net/376ddc93-85ca-487a-9527-3e1b4e0de741/353/569/90/False/all-the-murmuring-bones.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/all-the-murmuring-bones",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "A.G. Slatter"
+    },
+    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://kbimages1-a.akamaihd.net/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -160,16 +170,6 @@
         "author": "E.K. Johnston"
     },
     {
-        "title": "But you don't look autistic at all",
-        "price": 9.99,
-        "cover": "https://kbimages1-a.akamaihd.net/77c2aa7e-316d-4d09-afeb-d44ca43f6d4a/353/569/90/False/but-you-don-t-look-autistic-at-all.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/but-you-don-t-look-autistic-at-all",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "Bianca Toeps"
-    },
-    {
         "title": "An Accident of Stars",
         "price": 9.99,
         "cover": "https://kbimages1-a.akamaihd.net/184fccd8-43a5-48d7-9373-90b6dd1426c4/353/569/90/False/an-accident-of-stars.jpg",
@@ -320,16 +320,6 @@
         "author": "Bokuto Uno"
     },
     {
-        "title": "All the Murmuring Bones",
-        "price": 11.99,
-        "cover": "https://kbimages1-a.akamaihd.net/376ddc93-85ca-487a-9527-3e1b4e0de741/353/569/90/False/all-the-murmuring-bones.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/all-the-murmuring-bones",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "A.G. Slatter"
-    },
-    {
         "title": "A Natural History of Dragons",
         "price": 11.99,
         "cover": "https://kbimages1-a.akamaihd.net/5c9b8a9f-1230-46ca-92b9-43bd008aeac2/353/569/90/False/a-natural-history-of-dragons.jpg",
@@ -364,7 +354,7 @@
         "price": 11.99,
         "cover": "https://kbimages1-a.akamaihd.net/Images/00000000-0000-0000-0000-000000000000/353/569/90/False/empty_book_cover.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/catfish-rolling-2",
-        "preorder": "Available Oct 17, 2023",
+        "preorder": "Available Oct 3, 2023",
         "isPlus": false,
         "isSale": false,
         "author": "Clara Kumagai"
@@ -664,7 +654,7 @@
         "price": 16.99,
         "cover": "https://kbimages1-a.akamaihd.net/585f92d2-8a04-4211-8881-c3f032554aa4/353/569/90/False/the-book-that-wouldn-t-burn.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/the-book-that-wouldn-t-burn",
-        "preorder": "Available May 9, 2023",
+        "preorder": "",
         "isPlus": false,
         "isSale": false,
         "author": "Mark Lawrence"
@@ -794,7 +784,7 @@
         "price": 18.99,
         "cover": "https://kbimages1-a.akamaihd.net/8a25cc51-3f49-4328-83c5-4532dc247ac0/353/569/90/False/the-making-of-another-major-motion-picture-masterpiece-1.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/the-making-of-another-major-motion-picture-masterpiece-1",
-        "preorder": "Available May 9, 2023",
+        "preorder": "",
         "isPlus": false,
         "isSale": false,
         "author": "Tom Hanks"
@@ -822,7 +812,7 @@
     {
         "title": "Letters to a Young Poet: The Norton Centenary Edition",
         "price": 20.99,
-        "cover": "https://kbimages1-a.akamaihd.net/263c9874-7a1b-4bb8-9058-3618abfbbfe2/353/569/90/False/letters-to-a-young-poet-the-norton-centenary-edition.jpg",
+        "cover": "https://kbimages1-a.akamaihd.net/c7368c8a-0c5e-4fa3-9416-db1d1ec41609/353/569/90/False/letters-to-a-young-poet-the-norton-centenary-edition.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/letters-to-a-young-poet-the-norton-centenary-edition",
         "preorder": "Available May 23, 2023",
         "isPlus": false,
