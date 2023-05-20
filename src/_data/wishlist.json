@@ -1,15 +1,5 @@
 [
     {
-        "title": "All the Murmuring Bones",
-        "price": 1.99,
-        "cover": "https://kbimages1-a.akamaihd.net/376ddc93-85ca-487a-9527-3e1b4e0de741/353/569/90/False/all-the-murmuring-bones.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/all-the-murmuring-bones",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "A.G. Slatter"
-    },
-    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://kbimages1-a.akamaihd.net/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -80,16 +70,6 @@
         "author": "Benedict Carey"
     },
     {
-        "title": "A Toxic Trousseau",
-        "price": 8.99,
-        "cover": "https://kbimages1-a.akamaihd.net/121227c3-6da9-4179-81f6-258a2945ff86/353/569/90/False/a-toxic-trousseau.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/a-toxic-trousseau",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Juliet Blackwell"
-    },
-    {
         "title": "Spell Booked",
         "price": 8.99,
         "cover": "https://kbimages1-a.akamaihd.net/7387e5fc-121e-42d4-acaa-74d39e1f7ef8/353/569/90/False/spell-booked.jpg",
@@ -100,16 +80,6 @@
         "author": "Joyce and Jim Lavene"
     },
     {
-        "title": "Bookmarked For Death",
-        "price": 8.99,
-        "cover": "https://kbimages1-a.akamaihd.net/960e5e9f-ce2a-4f2e-ad1b-6d9522bef9dc/353/569/90/False/bookmarked-for-death.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/bookmarked-for-death",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Lorna Barrett"
-    },
-    {
         "title": "A Midwinter's Tail",
         "price": 8.99,
         "cover": "https://kbimages1-a.akamaihd.net/bac2210e-1519-4969-b9ec-c0ec35493678/353/569/90/False/a-midwinter-s-tail.jpg",
@@ -118,16 +88,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Sofie Kelly"
-    },
-    {
-        "title": "The Tale of Holly How",
-        "price": 8.99,
-        "cover": "https://kbimages1-a.akamaihd.net/37bac729-bf46-47b8-aaf8-b90986059ed5/353/569/90/False/the-tale-of-holly-how.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-tale-of-holly-how",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Susan Wittig Albert"
     },
     {
         "title": "One Dark Window",
@@ -158,6 +118,16 @@
         "isPlus": false,
         "isSale": false,
         "author": "Leo Lukas"
+    },
+    {
+        "title": "A Magical Match",
+        "price": 9.99,
+        "cover": "https://kbimages1-a.akamaihd.net/667c7cd8-1d2e-4462-845f-da4753d7954a/353/569/90/False/a-magical-match.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-magical-match",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Juliet Blackwell"
     },
     {
         "title": "That Inevitable Victorian Thing",
