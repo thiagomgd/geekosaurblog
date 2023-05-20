@@ -7,7 +7,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Cait Flanders"
+        "author": "Cait Flanders",
+        "dealDescription": ""
     },
     {
         "title": "Flowerheart",
@@ -17,7 +18,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": true,
-        "author": "Catherine Bakewell"
+        "author": "Catherine Bakewell",
+        "dealDescription": ""
     },
     {
         "title": "Mindwalker",
@@ -27,7 +29,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Kate Dylan"
+        "author": "Kate Dylan",
+        "dealDescription": ""
     },
     {
         "title": "The Remarkable Retirement of Edna Fisher",
@@ -37,7 +40,8 @@
         "preorder": "",
         "isPlus": true,
         "isSale": true,
-        "author": "E.M. Anderson"
+        "author": "E.M. Anderson",
+        "dealDescription": ""
     },
     {
         "title": "The Storm Keeper\u2019s Island",
@@ -47,7 +51,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": true,
-        "author": "Catherine Doyle"
+        "author": "Catherine Doyle",
+        "dealDescription": ""
     },
     {
         "title": "Bluebird",
@@ -57,7 +62,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Ciel Pierlot"
+        "author": "Ciel Pierlot",
+        "dealDescription": ""
     },
     {
         "title": "How We Learn",
@@ -67,7 +73,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Benedict Carey"
+        "author": "Benedict Carey",
+        "dealDescription": ""
     },
     {
         "title": "Spell Booked",
@@ -77,7 +84,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Joyce and Jim Lavene"
+        "author": "Joyce and Jim Lavene",
+        "dealDescription": ""
     },
     {
         "title": "A Midwinter's Tail",
@@ -87,7 +95,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Sofie Kelly"
+        "author": "Sofie Kelly",
+        "dealDescription": ""
     },
     {
         "title": "One Dark Window",
@@ -97,7 +106,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Rachel Gillig"
+        "author": "Rachel Gillig",
+        "dealDescription": ""
     },
     {
         "title": "Slayers: Volume 1",
@@ -107,7 +117,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Hajime Kanzaka"
+        "author": "Hajime Kanzaka",
+        "dealDescription": ""
     },
     {
         "title": "Perry Rhodan NEO: Volume 2 (English Edition)",
@@ -117,7 +128,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Leo Lukas"
+        "author": "Leo Lukas",
+        "dealDescription": ""
     },
     {
         "title": "A Magical Match",
@@ -127,7 +139,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Juliet Blackwell"
+        "author": "Juliet Blackwell",
+        "dealDescription": ""
     },
     {
         "title": "That Inevitable Victorian Thing",
@@ -137,7 +150,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "E.K. Johnston"
+        "author": "E.K. Johnston",
+        "dealDescription": ""
     },
     {
         "title": "An Accident of Stars",
@@ -147,7 +161,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": true,
-        "author": "Foz Meadows"
+        "author": "Foz Meadows",
+        "dealDescription": ""
     },
     {
         "title": "Ghost Girl",
@@ -157,7 +172,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Ally Malinenko"
+        "author": "Ally Malinenko",
+        "dealDescription": ""
     },
     {
         "title": "Monster Club",
@@ -167,7 +183,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": true,
-        "author": "Darren Aronofsky"
+        "author": "Darren Aronofsky",
+        "dealDescription": ""
     },
     {
         "title": "Spice and Wolf, Vol. 3 (light novel)",
@@ -177,7 +194,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Isuna Hasekura"
+        "author": "Isuna Hasekura",
+        "dealDescription": ""
     },
     {
         "title": "Konosuba: God's Blessing on This Wonderful World!, Vol. 1 (light novel)",
@@ -187,7 +205,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Natsume Akatsuki"
+        "author": "Natsume Akatsuki",
+        "dealDescription": ""
     },
     {
         "title": "Hamra and the Jungle of Memories",
@@ -197,7 +216,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Hanna Alkaf"
+        "author": "Hanna Alkaf",
+        "dealDescription": ""
     },
     {
         "title": "Durarara!!, Vol. 2 (light novel)",
@@ -207,7 +227,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Ryohgo Narita"
+        "author": "Ryohgo Narita",
+        "dealDescription": ""
     },
     {
         "title": "Bottom-Tier Character Tomozaki, Vol. 4 (light novel)",
@@ -217,7 +238,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Yuki Yaku"
+        "author": "Yuki Yaku",
+        "dealDescription": ""
     },
     {
         "title": "Spineless",
@@ -227,7 +249,8 @@
         "preorder": "",
         "isPlus": true,
         "isSale": true,
-        "author": "Samantha San Miguel"
+        "author": "Samantha San Miguel",
+        "dealDescription": ""
     },
     {
         "title": "The Lake House",
@@ -237,7 +260,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Sarah Beth Durst"
+        "author": "Sarah Beth Durst",
+        "dealDescription": ""
     },
     {
         "title": "House of Suns",
@@ -247,7 +271,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Alastair Reynolds"
+        "author": "Alastair Reynolds",
+        "dealDescription": ""
     },
     {
         "title": "Masters of Death",
@@ -257,7 +282,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Olivie Blake"
+        "author": "Olivie Blake",
+        "dealDescription": ""
     },
     {
         "title": "No Place Like Home",
@@ -267,7 +293,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Linh S. Nguyen"
+        "author": "Linh S. Nguyen",
+        "dealDescription": ""
     },
     {
         "title": "Revelle",
@@ -277,7 +304,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Lyssa Mia Smith"
+        "author": "Lyssa Mia Smith",
+        "dealDescription": ""
     },
     {
         "title": "Reign of the Seven Spellblades, Vol. 1 (light novel)",
@@ -287,7 +315,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Bokuto Uno"
+        "author": "Bokuto Uno",
+        "dealDescription": ""
     },
     {
         "title": "A Natural History of Dragons",
@@ -297,7 +326,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Marie Brennan"
+        "author": "Marie Brennan",
+        "dealDescription": ""
     },
     {
         "title": "Midnight's Children",
@@ -307,7 +337,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Salman Rushdie"
+        "author": "Salman Rushdie",
+        "dealDescription": ""
     },
     {
         "title": "The Sacrifice",
@@ -317,7 +348,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": true,
-        "author": "Rin Chupeco"
+        "author": "Rin Chupeco",
+        "dealDescription": ""
     },
     {
         "title": "Catfish Rolling",
@@ -327,7 +359,8 @@
         "preorder": "Available Oct 3, 2023",
         "isPlus": false,
         "isSale": false,
-        "author": "Clara Kumagai"
+        "author": "Clara Kumagai",
+        "dealDescription": ""
     },
     {
         "title": "On the Edge of Gone",
@@ -337,7 +370,8 @@
         "preorder": "",
         "isPlus": true,
         "isSale": true,
-        "author": "Corinne Duyvis"
+        "author": "Corinne Duyvis",
+        "dealDescription": ""
     },
     {
         "title": "Black Tide",
@@ -347,7 +381,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "KC Jones"
+        "author": "KC Jones",
+        "dealDescription": ""
     },
     {
         "title": "Ghostlight",
@@ -357,7 +392,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Kenneth Oppel"
+        "author": "Kenneth Oppel",
+        "dealDescription": ""
     },
     {
         "title": "Irina: The Vampire Cosmonaut (Light Novel) Vol. 1",
@@ -367,7 +403,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Keisuke Makino"
+        "author": "Keisuke Makino",
+        "dealDescription": ""
     },
     {
         "title": "The Frugal Wizard\u2019s Handbook for Surviving Medieval England",
@@ -377,7 +414,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Brandon Sanderson"
+        "author": "Brandon Sanderson",
+        "dealDescription": ""
     },
     {
         "title": "Episode Thirteen",
@@ -387,7 +425,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Craig DiLouie"
+        "author": "Craig DiLouie",
+        "dealDescription": ""
     },
     {
         "title": "These Silent Woods",
@@ -397,7 +436,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Kimi Cunningham Grant"
+        "author": "Kimi Cunningham Grant",
+        "dealDescription": ""
     },
     {
         "title": "Swan Dive",
@@ -407,7 +447,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Georgina Pazcoguin"
+        "author": "Georgina Pazcoguin",
+        "dealDescription": ""
     },
     {
         "title": "No Time Like the Future",
@@ -417,7 +458,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Michael J. Fox"
+        "author": "Michael J. Fox",
+        "dealDescription": ""
     },
     {
         "title": "Paradise-1",
@@ -427,7 +469,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "David Wellington"
+        "author": "David Wellington",
+        "dealDescription": ""
     },
     {
         "title": "Silverborn: The Mystery of Morrigan Crow",
@@ -437,7 +480,8 @@
         "preorder": "Available Sep 10, 2024",
         "isPlus": false,
         "isSale": false,
-        "author": "Jessica Townsend"
+        "author": "Jessica Townsend",
+        "dealDescription": ""
     },
     {
         "title": "Dead Silence",
@@ -447,7 +491,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "S.A. Barnes"
+        "author": "S.A. Barnes",
+        "dealDescription": ""
     },
     {
         "title": "Her Majesty's Royal Coven",
@@ -457,7 +502,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Juno Dawson"
+        "author": "Juno Dawson",
+        "dealDescription": ""
     },
     {
         "title": "Vera Wong's Unsolicited Advice for Murderers",
@@ -467,7 +513,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Jesse Q. Sutanto"
+        "author": "Jesse Q. Sutanto",
+        "dealDescription": ""
     },
     {
         "title": "Hunt on Dark Waters",
@@ -477,7 +524,8 @@
         "preorder": "Available Nov 7, 2023",
         "isPlus": false,
         "isSale": false,
-        "author": "Katee Robert"
+        "author": "Katee Robert",
+        "dealDescription": ""
     },
     {
         "title": "Black Sun",
@@ -487,7 +535,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Rebecca Roanhorse"
+        "author": "Rebecca Roanhorse",
+        "dealDescription": ""
     },
     {
         "title": "The Satanic Verses",
@@ -497,7 +546,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Salman Rushdie"
+        "author": "Salman Rushdie",
+        "dealDescription": ""
     },
     {
         "title": "THE MASTER AND MARGARITA",
@@ -507,7 +557,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Mikhail Bulgakov"
+        "author": "Mikhail Bulgakov",
+        "dealDescription": ""
     },
     {
         "title": "Unseelie",
@@ -517,7 +568,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Ivelisse Housman"
+        "author": "Ivelisse Housman",
+        "dealDescription": ""
     },
     {
         "title": "Home Before Dark",
@@ -527,7 +579,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Riley Sager"
+        "author": "Riley Sager",
+        "dealDescription": ""
     },
     {
         "title": "Bookshops & Bonedust",
@@ -537,7 +590,8 @@
         "preorder": "Available Nov 7, 2023",
         "isPlus": false,
         "isSale": false,
-        "author": "Travis Baldree"
+        "author": "Travis Baldree",
+        "dealDescription": ""
     },
     {
         "title": "Of Manners and Murder",
@@ -547,7 +601,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Anastasia Hastings"
+        "author": "Anastasia Hastings",
+        "dealDescription": ""
     },
     {
         "title": "Tell Me I'm Worthless",
@@ -557,7 +612,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Alison Rumfitt"
+        "author": "Alison Rumfitt",
+        "dealDescription": ""
     },
     {
         "title": "Sweep of Stars",
@@ -567,7 +623,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Maurice Broaddus"
+        "author": "Maurice Broaddus",
+        "dealDescription": ""
     },
     {
         "title": "Until the End of Time",
@@ -577,7 +634,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Brian Greene"
+        "author": "Brian Greene",
+        "dealDescription": ""
     },
     {
         "title": "Children of Time",
@@ -587,7 +645,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": true,
-        "author": "Adrian Tchaikovsky"
+        "author": "Adrian Tchaikovsky",
+        "dealDescription": ""
     },
     {
         "title": "Tell Me Pleasant Things about Immortality",
@@ -597,7 +656,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Lindsay Wong"
+        "author": "Lindsay Wong",
+        "dealDescription": ""
     },
     {
         "title": "Gory Details",
@@ -607,7 +667,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Erika Engelhaupt"
+        "author": "Erika Engelhaupt",
+        "dealDescription": ""
     },
     {
         "title": "Stranger Things: Flight of Icarus",
@@ -617,7 +678,8 @@
         "preorder": "Available Oct 31, 2023",
         "isPlus": false,
         "isSale": false,
-        "author": "Caitlin Schneiderhan"
+        "author": "Caitlin Schneiderhan",
+        "dealDescription": ""
     },
     {
         "title": "The Book That Wouldn't Burn",
@@ -627,7 +689,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Mark Lawrence"
+        "author": "Mark Lawrence",
+        "dealDescription": ""
     },
     {
         "title": "The Warden",
@@ -637,7 +700,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Daniel M. Ford"
+        "author": "Daniel M. Ford",
+        "dealDescription": ""
     },
     {
         "title": "Nocturne",
@@ -647,7 +711,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Alyssa Wees"
+        "author": "Alyssa Wees",
+        "dealDescription": ""
     },
     {
         "title": "Silver Nitrate",
@@ -657,7 +722,8 @@
         "preorder": "Available Jul 18, 2023",
         "isPlus": false,
         "isSale": false,
-        "author": "Silvia Moreno-Garcia"
+        "author": "Silvia Moreno-Garcia",
+        "dealDescription": ""
     },
     {
         "title": "NeuroTribes",
@@ -667,7 +733,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Steve Silberman"
+        "author": "Steve Silberman",
+        "dealDescription": ""
     },
     {
         "title": "The Body Keeps the Score",
@@ -677,7 +744,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Bessel van der Kolk M.D."
+        "author": "Bessel van der Kolk M.D.",
+        "dealDescription": ""
     },
     {
         "title": "Antimatter Blues",
@@ -687,7 +755,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Edward Ashton"
+        "author": "Edward Ashton",
+        "dealDescription": ""
     },
     {
         "title": "The Design of Everyday Things",
@@ -697,7 +766,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Don Norman"
+        "author": "Don Norman",
+        "dealDescription": ""
     },
     {
         "title": "Convenience Store Woman",
@@ -707,7 +777,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": true,
-        "author": "Sayaka Murata"
+        "author": "Sayaka Murata",
+        "dealDescription": ""
     },
     {
         "title": "The Adventures of Amina al-Sirafi",
@@ -717,7 +788,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Shannon Chakraborty"
+        "author": "Shannon Chakraborty",
+        "dealDescription": ""
     },
     {
         "title": "Dying of Politeness",
@@ -727,7 +799,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Geena Davis"
+        "author": "Geena Davis",
+        "dealDescription": ""
     },
     {
         "title": "Immortal Longings",
@@ -737,7 +810,8 @@
         "preorder": "Available Jul 18, 2023",
         "isPlus": false,
         "isSale": true,
-        "author": "Chloe Gong"
+        "author": "Chloe Gong",
+        "dealDescription": ""
     },
     {
         "title": "A City on Mars",
@@ -747,7 +821,8 @@
         "preorder": "Available Nov 7, 2023",
         "isPlus": false,
         "isSale": false,
-        "author": "Kelly Weinersmith"
+        "author": "Kelly Weinersmith",
+        "dealDescription": ""
     },
     {
         "title": "The Making of Another Major Motion Picture Masterpiece",
@@ -757,7 +832,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Tom Hanks"
+        "author": "Tom Hanks",
+        "dealDescription": ""
     },
     {
         "title": "The Family Fortuna",
@@ -767,7 +843,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": true,
-        "author": "Lindsay Eagar"
+        "author": "Lindsay Eagar",
+        "dealDescription": ""
     },
     {
         "title": "The London S\u00e9ance Society",
@@ -777,7 +854,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Sarah Penner"
+        "author": "Sarah Penner",
+        "dealDescription": ""
     },
     {
         "title": "Letters to a Young Poet: The Norton Centenary Edition",
@@ -787,6 +865,7 @@
         "preorder": "Available May 23, 2023",
         "isPlus": false,
         "isSale": true,
-        "author": "Rainer Maria Rilke"
+        "author": "Rainer Maria Rilke",
+        "dealDescription": ""
     }
 ]

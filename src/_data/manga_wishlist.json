@@ -7,7 +7,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Kotoyama"
+        "author": "Kotoyama",
+        "dealDescription": ""
     },
     {
         "title": "Don't Toy With Me, Miss Nagatoro 4",
@@ -17,7 +18,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Nanashi"
+        "author": "Nanashi",
+        "dealDescription": ""
     },
     {
         "title": "The Woods Vol. 6",
@@ -27,7 +29,8 @@
         "preorder": "",
         "isPlus": true,
         "isSale": false,
-        "author": "James Tynion IV"
+        "author": "James Tynion IV",
+        "dealDescription": ""
     },
     {
         "title": "Mieruko-chan, Vol. 7",
@@ -37,7 +40,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Tomoki Izumi"
+        "author": "Tomoki Izumi",
+        "dealDescription": ""
     },
     {
         "title": "Delicious in Dungeon, Vol. 11",
@@ -47,7 +51,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Ryoko Kui"
+        "author": "Ryoko Kui",
+        "dealDescription": ""
     },
     {
         "title": "Pretty Guardian Sailor Moon Eternal Edition 1",
@@ -57,7 +62,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": true,
-        "author": "Naoko Takeuchi"
+        "author": "Naoko Takeuchi",
+        "dealDescription": ""
     },
     {
         "title": "My Monster Secret Vol. 1",
@@ -67,7 +73,8 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Eiji Masuda"
+        "author": "Eiji Masuda",
+        "dealDescription": ""
     },
     {
         "title": "Air Gear Omnibus 3",
@@ -77,6 +84,7 @@
         "preorder": "",
         "isPlus": true,
         "isSale": true,
-        "author": "Oh!great"
+        "author": "Oh!great",
+        "dealDescription": ""
     }
 ]
