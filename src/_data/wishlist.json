@@ -132,6 +132,39 @@
         "dealDescription": ""
     },
     {
+        "title": "Lockwood & Co.: The Screaming Staircase",
+        "price": 9.99,
+        "cover": "https://kbimages1-a.akamaihd.net/fbceb051-6d54-4500-8a15-dd9765c7ef66/353/569/90/False/lockwood-co-the-screaming-staircase-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/lockwood-co-the-screaming-staircase-4",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Jonathan Stroud",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Merry Dredgers",
+        "price": 9.99,
+        "cover": "https://kbimages1-a.akamaihd.net/519e3a13-b171-4cbe-a000-44b58a9e8393/353/569/90/False/the-merry-dredgers.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-merry-dredgers",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Jeremy C. Shipp",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Bleeding",
+        "price": 9.99,
+        "cover": "https://kbimages1-a.akamaihd.net/11d92055-94fa-435e-b2b4-17a8c7f7ca33/353/569/90/False/the-bleeding-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-bleeding-4",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Johana Gustawsson",
+        "dealDescription": ""
+    },
+    {
         "title": "A Magical Match",
         "price": 9.99,
         "cover": "https://kbimages1-a.akamaihd.net/667c7cd8-1d2e-4462-845f-da4753d7954a/353/569/90/False/a-magical-match.jpg",
@@ -407,6 +440,28 @@
         "dealDescription": ""
     },
     {
+        "title": "Immortality: A Love Story",
+        "price": 12.99,
+        "cover": "https://kbimages1-a.akamaihd.net/af2d7553-7f04-4436-8a00-2529b3ba4660/353/569/90/False/immortality-a-love-story-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/immortality-a-love-story-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Dana Schwartz",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Magician's Daughter",
+        "price": 12.99,
+        "cover": "https://kbimages1-a.akamaihd.net/86145ac0-0cef-4d09-b59f-d868a1b17c2f/353/569/90/False/the-magician-s-daughter-8.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-magician-s-daughter-8",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "H. G. Parry",
+        "dealDescription": ""
+    },
+    {
         "title": "The Frugal Wizard\u2019s Handbook for Surviving Medieval England",
         "price": 12.99,
         "cover": "https://kbimages1-a.akamaihd.net/394996e9-d120-4829-83d9-9aea176e0711/353/569/90/False/the-frugal-wizard-s-handbook-for-surviving-medieval-england.jpg",
@@ -649,6 +704,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Dance Tree",
+        "price": 15.99,
+        "cover": "https://kbimages1-a.akamaihd.net/82c004f1-7f0c-4adf-a39e-57cdd56db8d9/353/569/90/False/the-dance-tree-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-dance-tree-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Kiran Millwood Hargrave",
+        "dealDescription": ""
+    },
+    {
         "title": "Tell Me Pleasant Things about Immortality",
         "price": 15.99,
         "cover": "https://kbimages1-a.akamaihd.net/1c5d1163-c26e-409e-87b5-63bb69720a91/353/569/90/False/tell-me-pleasant-things-about-immortality.jpg",
@@ -668,6 +734,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Erika Engelhaupt",
+        "dealDescription": ""
+    },
+    {
+        "title": "Ghosts from the Library: Lost Tales of Terror and the Supernatural (A Bodies from the Library special)",
+        "price": 16.99,
+        "cover": "https://kbimages1-a.akamaihd.net/a59b4127-a28b-4c9c-a2d9-e570ec640049/353/569/90/False/ghosts-from-the-library-lost-tales-of-terror-and-the-supernatural-a-bodies-from-the-library-special-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/ghosts-from-the-library-lost-tales-of-terror-and-the-supernatural-a-bodies-from-the-library-special-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Tony Medawar",
         "dealDescription": ""
     },
     {
