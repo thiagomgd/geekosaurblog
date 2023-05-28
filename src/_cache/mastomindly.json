@@ -1,6 +1,42 @@
 {
-  "lastFetched": "2023-05-27T16:50:01.734Z",
+  "lastFetched": "2023-05-28T16:50:52.968Z",
   "posts": [
+    {
+      "date": "2023-05-28T01:59:53.854Z",
+      "id": "110443835808521081",
+      "title": "",
+      "content": "<p>There’s also another cafe close to my house that it’s written on the board: no wifi, no plug-ins</p>",
+      "source_url": "https://mindly.social/@falcon/110443835808521081",
+      "site": "Mastodon",
+      "images": [],
+      "embed": null,
+      "tags": [],
+      "emojis": [],
+      "tootUrl": "https://mindly.social/@falcon/110443835808521081",
+      "host": "mindly.social"
+    },
+    {
+      "date": "2023-05-28T01:59:15.382Z",
+      "id": "110443833286811114",
+      "title": "",
+      "content": "<p>Finally!</p>",
+      "source_url": "https://mindly.social/@falcon/110443833286811114",
+      "site": "Mastodon",
+      "images": [
+        {
+          "url": "https://a.mindlycdn.com/media_attachments/files/110/443/830/255/778/924/original/563cb91866017422.png",
+          "alt": "Outside a cafe, sign that reads: sorry, no laptops, weekends 10am to 2pm",
+          "width": 416,
+          "height": 554,
+          "aspect": 0.7509025270758123
+        }
+      ],
+      "embed": null,
+      "tags": [],
+      "emojis": [],
+      "tootUrl": "https://mindly.social/@falcon/110443833286811114",
+      "host": "mindly.social"
+    },
     {
       "date": "2023-05-25T23:49:57.772Z",
       "id": "110432000263711218",

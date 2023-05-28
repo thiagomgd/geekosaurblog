@@ -11,17 +11,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The Magician's Daughter",
-        "price": 2.99,
-        "cover": "https://kbimages1-a.akamaihd.net/86145ac0-0cef-4d09-b59f-d868a1b17c2f/353/569/90/False/the-magician-s-daughter-8.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-magician-s-daughter-8",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "H. G. Parry",
-        "dealDescription": ""
-    },
-    {
         "title": "Flowerheart",
         "price": 2.99,
         "cover": "https://kbimages1-a.akamaihd.net/0854c009-09a7-405e-aea2-c191520c2eef/353/569/90/False/flowerheart-1.jpg",
@@ -470,6 +459,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Dana Schwartz",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Magician's Daughter",
+        "price": 12.99,
+        "cover": "https://kbimages1-a.akamaihd.net/86145ac0-0cef-4d09-b59f-d868a1b17c2f/353/569/90/False/the-magician-s-daughter-8.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-magician-s-daughter-8",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "H. G. Parry",
         "dealDescription": ""
     },
     {
