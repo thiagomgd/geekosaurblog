@@ -22,6 +22,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Lockwood & Co.: The Screaming Staircase",
+        "price": 3.99,
+        "cover": "https://kbimages1-a.akamaihd.net/fbceb051-6d54-4500-8a15-dd9765c7ef66/353/569/90/False/lockwood-co-the-screaming-staircase-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/lockwood-co-the-screaming-staircase-4",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Jonathan Stroud",
+        "dealDescription": ""
+    },
+    {
         "title": "Mindwalker",
         "price": 5.99,
         "cover": "https://kbimages1-a.akamaihd.net/552b7753-013a-4cd4-9077-e8335e07695b/353/569/90/False/mindwalker-5.jpg",
@@ -129,17 +140,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Leo Lukas",
-        "dealDescription": ""
-    },
-    {
-        "title": "Lockwood & Co.: The Screaming Staircase",
-        "price": 9.99,
-        "cover": "https://kbimages1-a.akamaihd.net/fbceb051-6d54-4500-8a15-dd9765c7ef66/353/569/90/False/lockwood-co-the-screaming-staircase-4.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/lockwood-co-the-screaming-staircase-4",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Jonathan Stroud",
         "dealDescription": ""
     },
     {
