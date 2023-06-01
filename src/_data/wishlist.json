@@ -11,17 +11,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Flowerheart",
-        "price": 2.99,
-        "cover": "https://kbimages1-a.akamaihd.net/0854c009-09a7-405e-aea2-c191520c2eef/353/569/90/False/flowerheart-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/flowerheart-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Catherine Bakewell",
-        "dealDescription": ""
-    },
-    {
         "title": "Mindwalker",
         "price": 5.99,
         "cover": "https://kbimages1-a.akamaihd.net/552b7753-013a-4cd4-9077-e8335e07695b/353/569/90/False/mindwalker-5.jpg",
@@ -30,17 +19,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Kate Dylan",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Remarkable Retirement of Edna Fisher",
-        "price": 6.99,
-        "cover": "https://kbimages1-a.akamaihd.net/9470cb58-a06f-4ed5-b30f-114c1ed9072b/353/569/90/False/the-remarkable-retirement-of-edna-fisher.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-remarkable-retirement-of-edna-fisher",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "E.M. Anderson",
         "dealDescription": ""
     },
     {
@@ -294,6 +272,17 @@
         "isPlus": true,
         "isSale": true,
         "author": "Samantha San Miguel",
+        "dealDescription": ""
+    },
+    {
+        "title": "Flowerheart",
+        "price": 10.99,
+        "cover": "https://kbimages1-a.akamaihd.net/0854c009-09a7-405e-aea2-c191520c2eef/353/569/90/False/flowerheart-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/flowerheart-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Catherine Bakewell",
         "dealDescription": ""
     },
     {
@@ -558,6 +547,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "S.A. Barnes",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Remarkable Retirement of Edna Fisher",
+        "price": 13.99,
+        "cover": "https://kbimages1-a.akamaihd.net/9470cb58-a06f-4ed5-b30f-114c1ed9072b/353/569/90/False/the-remarkable-retirement-of-edna-fisher.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-remarkable-retirement-of-edna-fisher",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": false,
+        "author": "E.M. Anderson",
         "dealDescription": ""
     },
     {
