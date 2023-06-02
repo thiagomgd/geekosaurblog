@@ -36,61 +36,19 @@
             }
           },
           {
-            "id": "ea010ccc26c903b4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/note_template.md",
-                "mode": "source",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "b01d9ab657a5a07e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/2023/2023-anticipated-books.md",
-                "mode": "source",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "4ac8c7eea2c1ea9d",
+            "id": "8da96bdfd75195c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2023/the-worst-tabletop-sin.md",
+                "file": "posts/news/geekosaur-news-34.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "46e525bface13f64",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/2023/lorcana-catan-having-something-to-do.md",
-                "mode": "source",
-                "source": true
-              },
-              "pinned": true
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2023/the-worst-tabletop-sin.md",
+                "file": "posts/news/geekosaur-news-34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2023/the-worst-tabletop-sin.md",
+                "file": "posts/news/geekosaur-news-34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2023/the-worst-tabletop-sin.md"
+                "file": "posts/news/geekosaur-news-34.md"
               }
             }
           }
@@ -226,9 +184,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ac8c7eea2c1ea9d",
+  "active": "8da96bdfd75195c8",
   "lastOpenFiles": [
+    "posts/news/geekosaur-news-33.md",
     "posts/news/geekosaur-news-34.md",
+    "img/geekosaur-news-34.png",
+    "currentlyWatching/currentlyWatching.md",
+    "templates/note_template.md",
+    "posts/2023/2023-anticipated-books.md",
+    "posts/2023/the-worst-tabletop-sin.md",
     "posts/news/geekosaur-news-33 1.md",
     "posts/drafts/____korea 1.md",
     "posts/drafts/__korea 1.md",
@@ -236,15 +200,11 @@
     "posts/links/links-1.md",
     "posts/links",
     "posts/2023/lorcana-catan-having-something-to-do.md",
-    "posts/2023/the-worst-tabletop-sin.md",
     "posts/2023/missing-a-blogging-community.md",
-    "posts/2023/2023-anticipated-books.md",
     "posts/2023/Missing A Blogging Community.md",
     "posts/2023/friday-finds-1.md",
-    "currentlyWatching/currentlyWatching.md",
     "notes/2023-04-12-10-39.md",
     "currentlyReading/currentlyReading.md",
-    "posts/news/geekosaur-news-33.md",
     "img/geekosaur-news-33-robin-hood.png",
     "img/Pasted image 20230411164622.png",
     "img/geekosaur-news-33.png",
@@ -262,8 +222,6 @@
     "posts/2020/06/my_ps4_games_list.md",
     "posts/foreignlanguage/to_the_lake_netflix_review.md",
     "posts/booknotes/hard-magic-by-larry-correia.md",
-    "posts/musiccorner/music-corner-18.md",
-    "posts/2022/urusei-yatsura-episode1-review.md",
     "toots/toots.11tydata.js",
     "toots/notes.11tydata.js",
     "_data/mytoots.js",
