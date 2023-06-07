@@ -1,6 +1,83 @@
 {
-  "lastFetched": "2023-06-06T16:49:54.221Z",
+  "lastFetched": "2023-06-07T16:50:16.026Z",
   "posts": [
+    {
+      "date": "2023-06-07T06:22:47.986Z",
+      "id": "110501492685643363",
+      "title": "",
+      "content": "<p>What I liked about Likewise is that it was just a Didn’t Like/Neutral/Liked system. Now they changed it to 5 star rating and I won’t ever be able to rate something there 🥲</p><p>Before it was just a recommendation system, now it’s the same tracking and rating that we have on every other app</p>",
+      "source_url": "https://mindly.social/@falcon/110501492685643363",
+      "site": "Mastodon",
+      "images": [],
+      "embed": null,
+      "tags": [
+        "note",
+        "likewise"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mindly.social/@falcon/110501492685643363",
+      "host": "mindly.social"
+    },
+    {
+      "date": "2023-06-07T00:55:28.033Z",
+      "id": "110500205561875104",
+      "title": "",
+      "content": "<p>Netflix password sharing is here</p><p>Netflix is not here anymore </p>",
+      "source_url": "https://mindly.social/@falcon/110500205561875104",
+      "site": "Mastodon",
+      "images": [
+        {
+          "url": "https://a.mindlycdn.com/media_attachments/files/110/500/202/850/398/551/original/1945da886b6768e0.png",
+          "alt": "Screenshot showing Netflix app being deleted from phone",
+          "width": 326,
+          "height": 705,
+          "aspect": 0.4624113475177305
+        }
+      ],
+      "embed": null,
+      "tags": [
+        "note",
+        "netflix"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mindly.social/@falcon/110500205561875104",
+      "host": "mindly.social"
+    },
+    {
+      "date": "2023-06-06T22:57:10.647Z",
+      "id": "110499740427656938",
+      "title": "",
+      "content": "<p>I just discovered Discord usernames were case sensitive (which I think it's really dumb). I guess I'm part of the \"users don't know their usernames\" group 😂 </p><p>Also, I guess they should've allowed # in the usernames, so people could still be `something#1234` 😂 </p>",
+      "source_url": "https://mindly.social/@falcon/110499740427656938",
+      "site": "Mastodon",
+      "images": [],
+      "embed": null,
+      "tags": [
+        "discord"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mindly.social/@falcon/110499740427656938",
+      "host": "mindly.social"
+    },
+    {
+      "date": "2023-06-06T17:19:10.861Z",
+      "id": "110498411371438540",
+      "title": "",
+      "content": "<p>I thought it was cool that iPhones now have a dedicated Journal app. Yes, you can do things on the Notes app, and yes, you can use Obsidian, Notion, etc.</p><p>But it's another option, and one that is already included and ppl don't need to pay extra for it. Also it's native to Apple's ecosystem, which is good for people that are already on a Mac+iPad+iPhone.</p>",
+      "source_url": "https://mindly.social/@falcon/110498411371438540",
+      "site": "Mastodon",
+      "images": [],
+      "embed": null,
+      "tags": [
+        "wwdc",
+        "wwdc23",
+        "note",
+        "journaling"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mindly.social/@falcon/110498411371438540",
+      "host": "mindly.social"
+    },
     {
       "date": "2023-06-06T06:44:20.821Z",
       "id": "110495915102339593",
