@@ -41,14 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/news/geekosaur-news-34.md",
+                "file": "posts/2023/friday-finds-1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1273d42b32aba226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/2023/korean-dramas-interested-2023-06-09.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/news/geekosaur-news-34.md",
+                "file": "posts/2023/korean-dramas-interested-2023-06-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/news/geekosaur-news-34.md",
+                "file": "posts/2023/korean-dramas-interested-2023-06-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/news/geekosaur-news-34.md"
+                "file": "posts/2023/korean-dramas-interested-2023-06-09.md"
               }
             }
           }
@@ -184,12 +196,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8da96bdfd75195c8",
+  "active": "1273d42b32aba226",
   "lastOpenFiles": [
-    "posts/news/geekosaur-news-33.md",
-    "posts/news/geekosaur-news-34.md",
-    "img/geekosaur-news-34.png",
+    "posts/2023/lorcana-catan-having-something-to-do.md",
+    "posts/2023/korean-dramas-interested-2023-06-09.md",
+    "posts/2023/friday-finds-1.md",
+    "img/korean-dramas-interested-2023-06-09.png",
+    "posts/2023/2023-anticipated-books-ya.md",
     "currentlyWatching/currentlyWatching.md",
+    "posts/news/geekosaur-news-34.md",
+    "posts/news/geekosaur-news-33.md",
+    "img/geekosaur-news-34.png",
     "templates/note_template.md",
     "posts/2023/2023-anticipated-books.md",
     "posts/2023/the-worst-tabletop-sin.md",
@@ -199,10 +216,8 @@
     "posts/drafts/Untitled.md",
     "posts/links/links-1.md",
     "posts/links",
-    "posts/2023/lorcana-catan-having-something-to-do.md",
     "posts/2023/missing-a-blogging-community.md",
     "posts/2023/Missing A Blogging Community.md",
-    "posts/2023/friday-finds-1.md",
     "notes/2023-04-12-10-39.md",
     "currentlyReading/currentlyReading.md",
     "img/geekosaur-news-33-robin-hood.png",
@@ -220,8 +235,6 @@
     "posts/news/geekosaur-news-32.md",
     "posts/2020/12/happy_holidays_2020.md",
     "posts/2020/06/my_ps4_games_list.md",
-    "posts/foreignlanguage/to_the_lake_netflix_review.md",
-    "posts/booknotes/hard-magic-by-larry-correia.md",
     "toots/toots.11tydata.js",
     "toots/notes.11tydata.js",
     "_data/mytoots.js",
@@ -229,7 +242,6 @@
     "img/geekosaur-news-30.png",
     "img/2023-03-17-12-48.png",
     "img/geekosaur-news-29.png",
-    "img/geekosaur-news-28-figures.jpg",
-    "img/2023-anticipated-books-ya.png"
+    "img/geekosaur-news-28-figures.jpg"
   ]
 }
