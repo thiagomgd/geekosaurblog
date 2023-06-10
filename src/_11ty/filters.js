@@ -145,9 +145,9 @@ module.exports = {
     content = content.replaceAll('</p><p>','\n\n').replace(/(<([^>]+)>)/gi, "").trim(); 
 
     if (content.length <= available) {
-      return content + '\n' + tagsText;
+      return content + '\n\n' + tagsText;
     }
-    return content.substr(0, content.lastIndexOf(" ", available)) + "...\n" + tagsText;
+    return content.substr(0, content.lastIndexOf(" ", available)) + "...\n\n" + tagsText;
   },
   size: (mentions) => {
     return !mentions ? 0 : mentions.length;
