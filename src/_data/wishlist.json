@@ -198,17 +198,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Monster Club",
-        "price": 9.99,
-        "cover": "https://kbimages1-a.akamaihd.net/b659c88e-b8cb-4a15-abae-1e8f83d5c35b/353/569/90/False/monster-club-1-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/monster-club-1-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Darren Aronofsky",
-        "dealDescription": ""
-    },
-    {
         "title": "Spice and Wolf, Vol. 3 (light novel)",
         "price": 10.99,
         "cover": "https://kbimages1-a.akamaihd.net/ab130e10-e769-440d-9738-54990410c2ea/353/569/90/False/spice-and-wolf-vol-3-light-novel-2.jpg",
@@ -426,6 +415,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Kenneth Oppel",
+        "dealDescription": ""
+    },
+    {
+        "title": "Monster Club",
+        "price": 11.99,
+        "cover": "https://kbimages1-a.akamaihd.net/b659c88e-b8cb-4a15-abae-1e8f83d5c35b/353/569/90/False/monster-club-1-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/monster-club-1-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Darren Aronofsky",
         "dealDescription": ""
     },
     {
@@ -858,17 +858,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Dying of Politeness",
-        "price": 17.99,
-        "cover": "https://kbimages1-a.akamaihd.net/690c6add-db11-4439-9c54-417601d5e731/353/569/90/False/dying-of-politeness-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/dying-of-politeness-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Geena Davis",
-        "dealDescription": ""
-    },
-    {
         "title": "Immortal Longings",
         "price": 17.99,
         "cover": "https://kbimages1-a.akamaihd.net/efdb2360-7f47-4d1f-bfd6-b682bc678d8f/353/569/90/False/immortal-longings-5.jpg",
@@ -899,6 +888,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Tom Hanks",
+        "dealDescription": ""
+    },
+    {
+        "title": "Dying of Politeness",
+        "price": 18.99,
+        "cover": "https://kbimages1-a.akamaihd.net/690c6add-db11-4439-9c54-417601d5e731/353/569/90/False/dying-of-politeness-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/dying-of-politeness-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Geena Davis",
         "dealDescription": ""
     },
     {
