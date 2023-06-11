@@ -1,6 +1,92 @@
 {
-  "lastFetched": "2023-06-10T16:49:24.751Z",
+  "lastFetched": "2023-06-11T16:50:09.184Z",
   "posts": [
+    {
+      "date": "2023-06-11T06:10:02.086Z",
+      "id": "110524091732993445",
+      "title": "",
+      "content": "<p>Today I finished watching FUBAR, and then started Schmigadoon season 2!</p><p>Fubar is A LOT OF FUN if you want an action comedy show to just relax and unwind</p><p>Schmigadoon is back, and now the style is late 60's and 70's musicals like Cabaret and Chicago.</p>",
+      "source_url": "https://mindly.social/@falcon/110524091732993445",
+      "site": "Mastodon",
+      "images": [],
+      "embed": null,
+      "tags": [
+        "note",
+        "watching",
+        "FUBAR",
+        "schmigadoon"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mindly.social/@falcon/110524091732993445",
+      "host": "mindly.social"
+    },
+    {
+      "date": "2023-06-11T05:54:21.944Z",
+      "id": "110524030120169126",
+      "title": "",
+      "content": "<p>Today I ordered an Epomaker TH80 Pro for my wife! She seems pretty excited for it. Should arrive on Tuesday :)</p><p>And I pre-ordered the Dygma Defy for me. I'm a very happy user of the Dygma Raise (split keyboard), and wanted to try a columnar layout, so that's an almost obvious choice!!</p><p>Video on the Dygma Defy: <a href=\"https://www.youtube.com/watch?v=HwyF6jJnnv4\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=HwyF6jJnnv</span><span class=\"invisible\">4</span></a> </p>",
+      "source_url": "https://mindly.social/@falcon/110524030120169126",
+      "site": "Mastodon",
+      "images": [
+        {
+          "url": "https://a.mindlycdn.com/media_attachments/files/110/524/018/453/903/049/original/d9d3badbc2db1808.png",
+          "alt": "EPOMAKER TH80 Pro keyboard. A keyboard with a knob on the top-right side, and leds",
+          "width": 729,
+          "height": 316,
+          "aspect": 2.3069620253164556
+        },
+        {
+          "url": "https://a.mindlycdn.com/media_attachments/files/110/524/022/396/532/066/original/658e71b05bf15ae3.png",
+          "alt": "Dygma Defy keyboard. A Split keyboard with a columnar layout, a bunch of thumb keys, and all dashes instead of letters on the keycaps",
+          "width": 621,
+          "height": 371,
+          "aspect": 1.673854447439353
+        }
+      ],
+      "embed": "https://www.youtube.com/watch?v=HwyF6jJnnv4",
+      "tags": [
+        "note",
+        "mechanicalKeyboards",
+        "dygma",
+        "epomaker"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mindly.social/@falcon/110524030120169126",
+      "host": "mindly.social"
+    },
+    {
+      "date": "2023-06-10T22:16:58.802Z",
+      "id": "110522231606021220",
+      "title": "",
+      "content": "<p>So yeah, seems like Netflix really cancelled Warrior Nun because they didn’t want a lesbian romance</p><p><a href=\"https://movieweb.com/warrior-nun-writer-romance-kept-secret-from-netflix/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">movieweb.com/warrior-nun-write</span><span class=\"invisible\">r-romance-kept-secret-from-netflix/</span></a></p>",
+      "source_url": "https://mindly.social/@falcon/110522231606021220",
+      "site": "Mastodon",
+      "images": [],
+      "embed": "https://movieweb.com/warrior-nun-writer-romance-kept-secret-from-netflix/",
+      "tags": [
+        "netflix",
+        "warriorNun"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mindly.social/@falcon/110522231606021220",
+      "host": "mindly.social"
+    },
+    {
+      "date": "2023-06-10T19:45:20.720Z",
+      "id": "110521635355041671",
+      "title": "",
+      "content": "<p>Honestly though, how do y'all use a manual lens at F1.4? I would figure that by the time you nailed the focus, the person you are shooting would move enough for their eyes to be just out of focus 🤔 </p>",
+      "source_url": "https://mindly.social/@falcon/110521635355041671",
+      "site": "Mastodon",
+      "images": [],
+      "embed": null,
+      "tags": [
+        "photography"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mindly.social/@falcon/110521635355041671",
+      "host": "mindly.social"
+    },
     {
       "date": "2023-06-09T06:07:28.150Z",
       "id": "110512757024287294",

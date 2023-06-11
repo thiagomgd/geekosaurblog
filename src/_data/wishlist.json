@@ -396,17 +396,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Black Tide",
-        "price": 11.99,
-        "cover": "https://kbimages1-a.akamaihd.net/6674f4ab-76fc-492a-9d72-6eb1c2d61d32/353/569/90/False/black-tide-27.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/black-tide-27",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "KC Jones",
-        "dealDescription": ""
-    },
-    {
         "title": "Ghostlight",
         "price": 11.99,
         "cover": "https://kbimages1-a.akamaihd.net/791ea275-bff2-460c-aabd-7afd5fee0b1a/353/569/90/False/ghostlight-6.jpg",
@@ -536,6 +525,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Jessica Townsend",
+        "dealDescription": ""
+    },
+    {
+        "title": "Black Tide",
+        "price": 12.99,
+        "cover": "https://kbimages1-a.akamaihd.net/6674f4ab-76fc-492a-9d72-6eb1c2d61d32/353/569/90/False/black-tide-27.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/black-tide-27",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "KC Jones",
         "dealDescription": ""
     },
     {
