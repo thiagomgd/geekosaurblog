@@ -12,10 +12,9 @@ Jump to [Manga](#manga)
 ## Books
 
 **Current**:
-- Durarara! Vol 1
+- The Poisoner's Ring (A Rip Through Time #2) by Kelley Armstrong ([link](https://www.kelleyarmstrong.com/book/the-poisoners-ring/))
 
 **Next**:
-- The Poisoner's Ring (A Rip Through Time #2) by Kelley Armstrong ([link](https://www.kelleyarmstrong.com/book/the-poisoners-ring/))
 - Dust by Hugh Howey
 - Immortality: A Love Story (Anatomy #2) by Dana Schwartz ([link](https://dana-schwartz.com/books/immortality-a-love-story/))
 - Stellarlune (Keeper of the Lost Cities #9) by Shannon Messenger ([link](https://www.simonandschuster.com/series/Keeper-of-the-Lost-Cities))
@@ -34,20 +33,20 @@ Manga I'm reading by volume as they release!
 
 #### Waiting For Release
 
-- Mieruko-chan - Vol. 7 (Release April 18, 2023) [link](https://yenpress.com/9781975361891/mieruko-chan-vol-7/ )
-- DanDaDan - Vol. 3 (Release April 11, 2023) [link](https://www.viz.com/read/manga/dandadan-volume-3/product/7405)
-	- Note: Chapters Available on [Viz](https://www.viz.com/shonenjump/chapters/dandadan?locale=en)
-
 #### Catching Up
 
 Indicating next volume to read:
 
-- Don't Toy With Me, Miss Nagatoro: [Volume 11](https://kodansha.us/series/dont-toy-with-me-miss-nagatoro/)
+- One Piece: Vol. 79
+- Mieruko-chan: Vol. 7
+- DanDaDan: Vol. 3
+	- Note: Chapters Available on [Viz](https://www.viz.com/shonenjump/chapters/dandadan?locale=en)
+- Don't Toy With Me, Miss Nagatoro: [Volume 12](https://kodansha.us/series/dont-toy-with-me-miss-nagatoro/)
 - One-Punch Man: 24
 	- Was reading by chapter, until I discovered about the redraws
 - Delicious in Dungeon: [Volume 11](https://yenpress.com/9781975346720/delicious-in-dungeon-vol-11/)
 - Miss Kobayashi’s Dragon Maid: [Volume 12](https://sevenseasentertainment.com/series/miss-kobayashis-dragon-maid/)
-- Ranma 1/2: [Volume 8 (Vol. 15 and 16)](https://www.viz.com/ranma-1-2) - it's a double-volume series.
+- Ranma 1/2: [Volume 12 (Vol. 19 and 20)](https://www.viz.com/ranma-1-2) - it's a double-volume series.
 
 
 ### Chapter Manga
@@ -59,7 +58,6 @@ Manga I'm reading by chapters, mostly on Shonen Jump (except for Fire Force). In
 - Black Clover: 350
 - Sakamoto Days: 101
 - SPY x FAMILY: 61
-- One Piece: 802
 - Kaiju No. 8: 54
 - Fire Force: 273 (of 305)
 - Ruri Dragon: 4 (is on hiatus)
