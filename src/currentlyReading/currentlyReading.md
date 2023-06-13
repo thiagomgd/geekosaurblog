@@ -37,7 +37,7 @@ Manga I'm reading by volume as they release!
 
 Indicating next volume to read:
 
-- One Piece: Vol. 79
+- One Piece: Vol. 81
 - Mieruko-chan: Vol. 7
 - DanDaDan: Vol. 3
 	- Note: Chapters Available on [Viz](https://www.viz.com/shonenjump/chapters/dandadan?locale=en)

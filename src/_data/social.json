@@ -308,7 +308,9 @@
   "/post/music-monday-8/": {},
   "/post/music-monday-9/": {},
   "/post/music-monday-10/": {},
-  "/post/eleventy-notion-notes-section/": {},
+  "/post/eleventy-notion-notes-section/": {
+    "reddit": "https://www.reddit.com/r/geekosaur/comments/stfhy0/notes_section_from_notion_to_eleventy/"
+  },
   "/post/book-notes-shift-hugh-howey/": {},
   "/post/music-monday-11/": {},
   "/post/reply-favorite-anime-couple/": {
