@@ -11,17 +11,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Paradise-1",
-        "price": 2.99,
-        "cover": "https://kbimages1-a.akamaihd.net/64eea415-068d-45f7-9634-d849d0badf0e/353/569/90/False/paradise-1-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/paradise-1-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "David Wellington",
-        "dealDescription": ""
-    },
-    {
         "title": "Mindwalker",
         "price": 5.99,
         "cover": "https://kbimages1-a.akamaihd.net/552b7753-013a-4cd4-9077-e8335e07695b/353/569/90/False/mindwalker-5.jpg",
@@ -514,6 +503,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Michael J. Fox",
+        "dealDescription": ""
+    },
+    {
+        "title": "Paradise-1",
+        "price": 12.99,
+        "cover": "https://kbimages1-a.akamaihd.net/64eea415-068d-45f7-9634-d849d0badf0e/353/569/90/False/paradise-1-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/paradise-1-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "David Wellington",
         "dealDescription": ""
     },
     {

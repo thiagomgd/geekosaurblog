@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "412931a0da4e978e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          },
+          {
             "id": "f8dff150c30df6b2",
             "type": "leaf",
             "pinned": true,
@@ -59,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +206,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdb6bbf0b77d6c49",
+  "active": "412931a0da4e978e",
   "lastOpenFiles": [
     "posts/2023/korean-dramas-interested-2023-06-09.md",
     "posts/2023/lorcana-catan-having-something-to-do.md",
