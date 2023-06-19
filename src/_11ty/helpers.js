@@ -297,32 +297,32 @@ function updateToot(post, toots) {
     return tootUrl;
   }
 
-async function searchReddit(url) {
-    if (process.env.ELEVENTY_ENV === "development") return "";
+// async function searchReddit(url) {
+//     if (process.env.ELEVENTY_ENV === "development") return "";
 
-    const fullURL = `${metadata.url}${url}`
-    const searchUrl = `https://www.reddit.com/r/${metadata.subreddit}/search.json?q=${fullURL}&restrict_sr=on&include_over_18=on&sort=relevance&t=all`;
-    const response = await fetch(searchUrl);
-    if (!response.ok) {
-        console.error("### not able to load from reddit");
-        return "";
-    }
-    const responseJson = await response.json();
+//     const fullURL = `${metadata.url}${url}`
+//     const searchUrl = `https://www.reddit.com/r/${metadata.subreddit}/search.json?q=${fullURL}&restrict_sr=on&include_over_18=on&sort=relevance&t=all`;
+//     const response = await fetch(searchUrl);
+//     if (!response.ok) {
+//         console.error("### not able to load from reddit");
+//         return "";
+//     }
+//     const responseJson = await response.json();
 
-    // console.log(`%%%%%%% ${fullURL}`);
-    // console.log(responseJson);
+//     // console.log(`%%%%%%% ${fullURL}`);
+//     // console.log(responseJson);
 
-    if (!responseJson || !Array.isArray(responseJson)) return "";
-    for (const list of responseJson) {
-        for (const post of list.data.children) {
-        // console.log('!@#!@#',post);
-        if (post && post.data && post.data.url && post.data.url) {
-            return `https://www.reddit.com${post.data.permalink}`;
-        }
-        }
-    }
-    return "";
-}
+//     if (!responseJson || !Array.isArray(responseJson)) return "";
+//     for (const list of responseJson) {
+//         for (const post of list.data.children) {
+//         // console.log('!@#!@#',post);
+//         if (post && post.data && post.data.url && post.data.url) {
+//             return `https://www.reddit.com${post.data.permalink}`;
+//         }
+//         }
+//     }
+//     return "";
+// }
 
 function removeMastoTags(content) {
     const $ = cheerio.load(content, null, false);
@@ -358,7 +358,7 @@ module.exports = {
     optimizeImage,
     updateToot,
     fetchToots,
-    searchReddit,
+    // searchReddit,
     removeMastoTags,
     getMastoTags
 };

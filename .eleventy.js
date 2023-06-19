@@ -120,16 +120,16 @@ async function updatePostSocial(post, socialLinks, mastodonPosts) {
   }
 
 
-  if (socialLinks[post.url]['reddit']) {
-    post.data.reddit = socialLinks[post.url]['reddit'];
-  } else {
-    const redditPost = await helpers.searchReddit(post.url);
-    if (redditPost) {
-      post.data.reddit = redditPost;
+  // if (socialLinks[post.url]['reddit']) {
+  //   post.data.reddit = socialLinks[post.url]['reddit'];
+  // } else {
+  //   const redditPost = await helpers.searchReddit(post.url);
+  //   if (redditPost) {
+  //     post.data.reddit = redditPost;
 
-      socialLinks[post.url]['reddit'] = redditPost;
-    }
-  }
+  //     socialLinks[post.url]['reddit'] = redditPost;
+  //   }
+  // }
 
   if (socialLinks[post.url]['mastodon']) {
     post.data.mastodon = socialLinks[post.url]['mastodon'];
