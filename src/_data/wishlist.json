@@ -11,17 +11,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Mindwalker",
-        "price": 5.99,
-        "cover": "https://kbimages1-a.akamaihd.net/552b7753-013a-4cd4-9077-e8335e07695b/353/569/90/False/mindwalker-5.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/mindwalker-5",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Kate Dylan",
-        "dealDescription": ""
-    },
-    {
         "title": "The Storm Keeper\u2019s Island",
         "price": 7.99,
         "cover": "https://kbimages1-a.akamaihd.net/df30353b-3a88-484f-9bca-514533af4a60/353/569/90/False/the-storm-keeper-s-island-1.jpg",
@@ -30,6 +19,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "Catherine Doyle",
+        "dealDescription": ""
+    },
+    {
+        "title": "Mindwalker",
+        "price": 7.99,
+        "cover": "https://kbimages1-a.akamaihd.net/552b7753-013a-4cd4-9077-e8335e07695b/353/569/90/False/mindwalker-5.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/mindwalker-5",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Kate Dylan",
         "dealDescription": ""
     },
     {
