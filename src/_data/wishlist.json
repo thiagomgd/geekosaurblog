@@ -24,7 +24,7 @@
     {
         "title": "Mindwalker",
         "price": 7.99,
-        "cover": "https://kbimages1-a.akamaihd.net/552b7753-013a-4cd4-9077-e8335e07695b/353/569/90/False/mindwalker-5.jpg",
+        "cover": "https://kbimages1-a.akamaihd.net/f3131d40-cbac-4552-b916-e648625afa27/353/569/90/False/mindwalker-5.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/mindwalker-5",
         "preorder": "",
         "isPlus": false,
@@ -253,17 +253,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Flowerheart",
-        "price": 10.99,
-        "cover": "https://kbimages1-a.akamaihd.net/0854c009-09a7-405e-aea2-c191520c2eef/353/569/90/False/flowerheart-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/flowerheart-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Catherine Bakewell",
-        "dealDescription": ""
-    },
-    {
         "title": "The Lake House",
         "price": 10.99,
         "cover": "https://kbimages1-a.akamaihd.net/0f598b04-1a46-4ca0-91b0-063218f202dc/353/569/90/False/the-lake-house-22.jpg",
@@ -349,6 +338,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Marie Brennan",
+        "dealDescription": ""
+    },
+    {
+        "title": "Flowerheart",
+        "price": 11.99,
+        "cover": "https://kbimages1-a.akamaihd.net/0854c009-09a7-405e-aea2-c191520c2eef/353/569/90/False/flowerheart-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/flowerheart-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Catherine Bakewell",
         "dealDescription": ""
     },
     {

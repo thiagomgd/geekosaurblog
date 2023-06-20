@@ -1,6 +1,48 @@
 {
-  "lastFetched": "2023-06-19T16:50:42.755Z",
+  "lastFetched": "2023-06-20T16:50:45.679Z",
   "posts": [
+    {
+      "date": "2023-06-20T03:20:53.428Z",
+      "id": "110574387424678187",
+      "title": "",
+      "content": "<p>A few days ago switched to colemak-dh. Now using Type Fu and trying to go slowly. Currently on level 3 - still only using the home row</p>",
+      "source_url": "https://mindly.social/@falcon/110574387424678187",
+      "site": "Mastodon",
+      "images": [
+        {
+          "url": "https://a.mindlycdn.com/media_attachments/files/110/574/382/655/319/462/original/3cf9265d6f92f550.png",
+          "alt": null,
+          "width": 643,
+          "height": 358,
+          "aspect": 1.7960893854748603
+        }
+      ],
+      "embed": null,
+      "tags": [
+        "colemak"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mindly.social/@falcon/110574387424678187",
+      "host": "mindly.social"
+    },
+    {
+      "date": "2023-06-19T20:08:30.366Z",
+      "id": "110572687220095605",
+      "title": "",
+      "content": "<p>Signed up to try Lemmy at lemmy.one, just waiting for approval.</p><p>What I find interesting on it, and it's the main reason I chose this instance, is the lack of downvotes. This is something I really always hated on Reddit, and even HN.</p><p>I also created an account on slashdot these past few days.</p>",
+      "source_url": "https://mindly.social/@falcon/110572687220095605",
+      "site": "Mastodon",
+      "images": [],
+      "embed": null,
+      "tags": [
+        "note",
+        "lemmy",
+        "slashdot"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mindly.social/@falcon/110572687220095605",
+      "host": "mindly.social"
+    },
     {
       "date": "2023-06-12T22:39:44.827Z",
       "id": "110533645751146258",
