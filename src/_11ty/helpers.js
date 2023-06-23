@@ -1,10 +1,11 @@
 const fs = require("fs");
+const axios = require('axios');
 
 const Image = require("@11ty/eleventy-img");
 const metadata = require("../_data/metadata.json");
 const cheerio = require("cheerio");
 const fetch = require("node-fetch");
-// const IMG_CACHE_FILE_PATH = "src/_cache/images.json";
+const IMG_CACHE_FILE_PATH = "src/_cache/images.json";
 const external = /https?:\/\/((?:[\w\d-]+\.)+[\w\d]{2,})/i;
 // Matches bookmark links that are not inline
 const mdBookmarkRegex = /^\[bookmark]\(([^)]+)\)$/gm;
@@ -111,56 +112,72 @@ function getFileName(url) {
     return `${shortHash(url)}-${filename[0]}`;
 }
 
-function getFolder(imgUrl, folder, slug) {
-    if (isNotionImage) return `notion/${slug}`;
-    if (imgUrl.includes('photo.goodreads.com')) return 'goodreads';
+async function getLocalImageLink(imgUrl, folder="", fileName = "") {
+    if (!imgUrl) return "";
 
-    return folder;
+    // skip local images
+    if (!external.test(imgUrl)) { 
+        return imgUrl;
+    }
+
+    const cache = readFromCache(IMG_CACHE_FILE_PATH);
+
+    if (cache[imgUrl]) {
+        const filePath = `./src${cache[imgUrl].url}`
+        if (fs.existsSync(filePath)) {
+            return cache[imgUrl].url;
+        }
+        // it's probably downloading, fallback to remote url
+        return imgUrl;
+    }
+
+    if (process.env.ELEVENTY_ENV !== "devbuild") return imgUrl;
+
+    // // for now, don't download more images
+    // return;
+    const fd = folder || "ext";
+
+    const fn = fileName || getFileName(imgUrl);
+    const imagePath = `/img/${fd}/${fn}`;
+    const path = `./src${imagePath}`;
+
+    // console.debug('@@@@', imgUrl);
+    // if (!fs.existsSync(path)) {
+    //     try {
+    //         fetch(imgUrl).then((res) => res.body.pipe(fs.createWriteStream(path)));
+
+    //         cache[imgUrl] = {url: imagePath};
+    //         writeToCache(cache, IMG_CACHE_FILE_PATH, "images");
+    //     } catch (error) {
+    //         console.error("ERROR::", error);
+    //     }
+    //     // TODO: return local. For now, since download is async, first run needs to use external url
+    //     return imgUrl;
+    // } else {
+    //     console.error("> collision downloading image", imgUrl);
+    // }
+
+    try {
+        const localUrl = await downloadImage(imgUrl, path);
+        console.log("!!!!", localUrl);
+        cache[imgUrl] = {url: imagePath};
+        writeToCache(cache, IMG_CACHE_FILE_PATH, "images");
+    } catch (error){
+        console.error("oops", error);
+        // return imgUrl;
+    }
+
+    return imgUrl;
 }
 
-// function getLocalImageLink(imgUrl, fileName = "") {
-//     if (!imgUrl) return "";
-
-//     if (process.env.ELEVENTY_ENV !== "devbuild") return imgUrl;
-
-//     // skip local images, notion images
-//     // there shouldn't be any notion images at this point anymore
-//     if (!external.test(imgUrl)) { //|| isNotionImage(imgUrl)) {
-//         return imgUrl;
-//     }
-
-//     // const cache = readFromCache(IMG_CACHE_FILE_PATH);
-
-//     if (cache[imgUrl]) {
-//         const filePath = `./src${cache[imgUrl].url}`
-//         if (fs.existsSync(filePath)) {
-//             return cache[imgUrl].url;
-//         }
-//         // it's probably downloading, fallback to remote url
-//         return imgUrl;
-//     }
-
-//     // for now, don't download more images
-//     return;
-//     // const folder = getFolder(imgUrl, "ext");
-
-//     // const fn = fileName || getFileName(imgUrl);
-//     // const imagePath = `/img/${folder}/${fn}`;
-//     // const path = `./src${imagePath}`;
-
-//     // console.debug('@@@@', imgUrl);
-//     // if (!fs.existsSync(path)) {
-//     //     fetch(imgUrl).then((res) => res.body.pipe(fs.createWriteStream(path)));
-//     //     cache[imgUrl] = {url: imagePath};
-//     //     writeToCache(cache, IMG_CACHE_FILE_PATH, "images");
-//     //     // TODO: return local. For now, since download is async, first run needs to use external url
-//     //     return imgUrl;
-//     // } else {
-//     //     console.error("> collision downloading image", imgUrl);
-//     // }
-
-//     // return imagePath;
-// }
+async function downloadImage(url, filename) {
+    const response = await axios.get(url, { responseType: 'arraybuffer' });
+  
+    fs.writeFile(filename, response.data, (err) => {
+      if (err) throw new Error("error downloading image", url);
+      console.log('Image downloaded successfully!');
+    });
+  }
 
 // function downloadImage(url, filepath) {
 //     if (!fs.existsSync(filepath)) {
@@ -172,7 +189,7 @@ function getFolder(imgUrl, folder, slug) {
 //             )
 //         });
 //     }
-//     console.error("> collision downloading image", url, filepath);
+//     throw new Error("> collision downloading image", url, filepath);
 // }
 
 function getOptimizeMetadata(metadata) {
@@ -360,5 +377,6 @@ module.exports = {
     fetchToots,
     // searchReddit,
     removeMastoTags,
-    getMastoTags
+    getMastoTags,
+    getLocalImageLink
 };

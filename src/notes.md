@@ -23,8 +23,8 @@ pagination:
 
 {% for note in pagination.items -%}
 
-{% if note.data.url %}
-[{{ note.data.title }}]({{ note.data.url }}) - {{ note.data.createdDate | readableDate }}
+{% if note.url %}
+[{{ note.data.title }}]({{ note.url }}) - {{ note.data.createdDate | readableDate }}
 {% else %}
 {{ note.data.title }} - {{ note.data.createdDate | readableDate }}
 {% endif %}

@@ -266,6 +266,7 @@ module.exports = function (eleventyConfig) {
     collection.getAll()[0].data.mytoots.forEach(toot => {
       tootNote = {}
       tootNote.data = { eleventyComputed: {}, ...toot }
+      tootNote.url = tootNote.data.url
       newNotes.push(tootNote);
     })
 

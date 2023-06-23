@@ -23,7 +23,7 @@
 const fetch = require('node-fetch');
 const fs = require('fs');
 const unionBy = require('lodash/unionBy');
-const { removeMastoTags, getMastoTags } = require("../_11ty/helpers");
+const { removeMastoTags, getMastoTags, getLocalImageLink } = require("../_11ty/helpers");
 const { getTootSlug } = require("../_11ty/filters");
 
 function compute(config, posts) {
@@ -276,6 +276,14 @@ module.exports = async function () {
 
 	// console.log('MASTODON -------');
 	// console.log(posts);
+	// download images
+	for (const post of posts) {
+		for (const image of post.images) {
+			image.url = await getLocalImageLink(image.url, "mastodon")
+		}
+	}
+	  
+
 	// sort again, but whatever...
 	return posts.sort((a, b) => Date.parse(a.date) - Date.parse(b.date))
 		.reverse();
