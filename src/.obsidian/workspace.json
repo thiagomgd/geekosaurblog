@@ -25,9 +25,11 @@
             "id": "412931a0da4e978e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.5"
+                "file": "posts/news/geekosaur-news-35.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
@@ -144,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "currentlyReading/currentlyReading.md",
+                "file": "posts/news/geekosaur-news-35.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "currentlyReading/currentlyReading.md",
+                "file": "posts/news/geekosaur-news-35.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "currentlyReading/currentlyReading.md"
+                "file": "posts/news/geekosaur-news-35.md"
               }
             }
           }
@@ -208,6 +210,7 @@
   },
   "active": "412931a0da4e978e",
   "lastOpenFiles": [
+    "posts/news/geekosaur-news-35.md",
     "img/mastodon/3030016-8980be00f0c99c61.png",
     "img/mastodon/3549067-2f15daa6149e63c1.png",
     "img/mastodon/2921197-17b085180c52155d.png",
@@ -218,7 +221,6 @@
     "img/mastodon/3404317-d37f7cdd295c5ca9.png",
     "img/mastodon/1129397-658e71b05bf15ae3.png",
     "img/mastodon/1226140-d9d3badbc2db1808.png",
-    "img/mastodon/3683893-b90f02a994b77946.png",
     "img/mastodon",
     "img/ext",
     "_cache/images.json",
