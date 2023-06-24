@@ -11,6 +11,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Horror of Haglin House",
+        "price": 5.99,
+        "cover": "https://kbimages1-a.akamaihd.net/4c945287-d840-4ff0-8e20-4bbcbcfd6ada/353/569/90/False/the-horror-of-haglin-house.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-horror-of-haglin-house",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": false,
+        "author": "M.R.C. Kasasian",
+        "dealDescription": ""
+    },
+    {
         "title": "The Storm Keeper\u2019s Island",
         "price": 7.99,
         "cover": "https://kbimages1-a.akamaihd.net/df30353b-3a88-484f-9bca-514533af4a60/353/569/90/False/the-storm-keeper-s-island-1.jpg",
@@ -107,6 +118,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Leo Lukas",
+        "dealDescription": ""
+    },
+    {
+        "title": "A Magical Match",
+        "price": 9.99,
+        "cover": "https://kbimages1-a.akamaihd.net/667c7cd8-1d2e-4462-845f-da4753d7954a/353/569/90/False/a-magical-match.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-magical-match",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Juliet Blackwell",
         "dealDescription": ""
     },
     {
@@ -429,14 +451,14 @@
         "dealDescription": ""
     },
     {
-        "title": "Immortality: A Love Story",
+        "title": "Century Rain",
         "price": 12.99,
-        "cover": "https://kbimages1-a.akamaihd.net/af2d7553-7f04-4436-8a00-2529b3ba4660/353/569/90/False/immortality-a-love-story-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/immortality-a-love-story-1",
+        "cover": "https://kbimages1-a.akamaihd.net/ec75fa28-34f7-405a-822f-666f168d2697/353/569/90/False/century-rain-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/century-rain-4",
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Dana Schwartz",
+        "author": "Alastair Reynolds",
         "dealDescription": ""
     },
     {
@@ -682,6 +704,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Rise and Reign of the Mammals",
+        "price": 15.99,
+        "cover": "https://kbimages1-a.akamaihd.net/889c7e53-4d2d-4168-94ec-22e43599af20/353/569/90/False/the-rise-and-reign-of-the-mammals-3.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-rise-and-reign-of-the-mammals-3",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Steve Brusatte",
+        "dealDescription": ""
+    },
+    {
         "title": "The Dance Tree",
         "price": 15.99,
         "cover": "https://kbimages1-a.akamaihd.net/82c004f1-7f0c-4adf-a39e-57cdd56db8d9/353/569/90/False/the-dance-tree-1.jpg",
@@ -833,6 +866,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "Sayaka Murata",
+        "dealDescription": ""
+    },
+    {
+        "title": "Pod",
+        "price": 17.99,
+        "cover": "https://kbimages1-a.akamaihd.net/eed65a46-0062-43bf-9f61-062fb6e7b1ae/353/569/90/False/pod-26.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/pod-26",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Laline Paull",
         "dealDescription": ""
     },
     {
