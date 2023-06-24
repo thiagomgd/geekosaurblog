@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-06-23T20:31:43.639Z",
+  "lastFetched": "2023-06-24T16:50:09.194Z",
   "children": [
     {
       "type": "entry",
@@ -7747,6 +7747,90 @@
       "wm-target": "https://geekosaur.com/post/korean-dramas-interested-2023-06-09/",
       "like-of": "https://geekosaur.com/post/korean-dramas-interested-2023-06-09/",
       "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Falcon",
+        "photo": "https://webmention.io/avatar/a.mindlycdn.com/0efc7ea4b8db2cf5309245d6bae2c8aa68908a8a019c13f9e4754a2286055b9b.png",
+        "url": "https://mindly.social/@falcon"
+      },
+      "url": "https://mindly.social/@falcon/110595824001126630",
+      "published": "2023-06-23T22:12:29",
+      "wm-received": "2023-06-23T22:19:55Z",
+      "wm-id": 1689791,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mindly.social/110595801681338206/110595824001126630",
+      "wm-target": "https://geekosaur.com/post/geekosaur-news-35/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://social.rootaccess.org/@michaelc\" class=\"u-url\">@<span>michaelc</span></a></span> nice! After like a week, I was finally able to also create a user there. I guess I'll do like w/ mastodon: have a main user on one instance, and a secondary on a big instance just for discoverability (like here I use mastodon.social for searching occasionally)</p>",
+        "text": "@michaelc nice! After like a week, I was finally able to also create a user there. I guess I'll do like w/ mastodon: have a main user on one instance, and a secondary on a big instance just for discoverability (like here I use mastodon.social for searching occasionally)"
+      },
+      "in-reply-to": "https://geekosaur.com/post/geekosaur-news-35/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michael Chrisco :rootaccess:",
+        "photo": "https://webmention.io/avatar/a.mindlycdn.com/f921eae7ba3afa0f88e2b8eeac718efbffb1f3e537a17f95a3e1249c36e28a6b.jpg",
+        "url": "https://social.rootaccess.org/@michaelc"
+      },
+      "url": "https://mindly.social/@falcon/110595801681338206#reblogged-by-108495168331584067",
+      "published": null,
+      "wm-received": "2023-06-23T22:19:55Z",
+      "wm-id": 1689792,
+      "wm-source": "https://brid.gy/repost/mastodon/@falcon@mindly.social/110595801681338206/108495168331584067",
+      "wm-target": "https://geekosaur.com/post/geekosaur-news-35/",
+      "repost-of": "https://geekosaur.com/post/geekosaur-news-35/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michael Chrisco :rootaccess:",
+        "photo": "https://webmention.io/avatar/a.mindlycdn.com/f921eae7ba3afa0f88e2b8eeac718efbffb1f3e537a17f95a3e1249c36e28a6b.jpg",
+        "url": "https://social.rootaccess.org/@michaelc"
+      },
+      "url": "https://social.rootaccess.org/@michaelc/110595832897541129",
+      "published": "2023-06-23T22:14:45",
+      "wm-received": "2023-06-23T22:19:53Z",
+      "wm-id": 1689789,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mindly.social/110595801681338206/110595832932684053",
+      "wm-target": "https://geekosaur.com/post/geekosaur-news-35/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mindly.social/@falcon\" class=\"u-url\">@<span>falcon</span></a></span> that sucks on the delay. I got lucky on a weekend, but it is a volunteer instance. I was thinking of contributing on the code base at some point but don't know too much about rust. </p><p>Hope your two users config works out! Im hoping they implement transferring accounts like we do on mastodon.</p>",
+        "text": "@falcon that sucks on the delay. I got lucky on a weekend, but it is a volunteer instance. I was thinking of contributing on the code base at some point but don't know too much about rust. Hope your two users config works out! Im hoping they implement transferring accounts like we do on mastodon."
+      },
+      "in-reply-to": "https://geekosaur.com/post/geekosaur-news-35/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Michael Chrisco :rootaccess:",
+        "photo": "https://webmention.io/avatar/a.mindlycdn.com/f921eae7ba3afa0f88e2b8eeac718efbffb1f3e537a17f95a3e1249c36e28a6b.jpg",
+        "url": "https://social.rootaccess.org/@michaelc"
+      },
+      "url": "https://social.rootaccess.org/@michaelc/110595814697211821",
+      "published": "2023-06-23T22:10:07",
+      "wm-received": "2023-06-23T22:19:53Z",
+      "wm-id": 1689790,
+      "wm-source": "https://brid.gy/comment/mastodon/@falcon@mindly.social/110595801681338206/110595814749744603",
+      "wm-target": "https://geekosaur.com/post/geekosaur-news-35/",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mindly.social/@falcon\" class=\"u-url\">@<span>falcon</span></a></span> I like lemmy.world. I've had a good time so far on it, and it's kept me off reddit.</p>",
+        "text": "@falcon I like lemmy.world. I've had a good time so far on it, and it's kept me off reddit."
+      },
+      "in-reply-to": "https://geekosaur.com/post/geekosaur-news-35/",
+      "wm-property": "in-reply-to",
       "wm-private": false
     }
   ]
