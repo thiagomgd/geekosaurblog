@@ -3,6 +3,8 @@ const axios = require('axios');
 
 const Image = require("@11ty/eleventy-img");
 const metadata = require("../_data/metadata.json");
+const { getTootSlug } = require("../_11ty/filters");
+const unionBy = require('lodash/unionBy');
 const cheerio = require("cheerio");
 const fetch = require("node-fetch");
 const IMG_CACHE_FILE_PATH = "src/_cache/images.json";
@@ -365,6 +367,184 @@ function getMastoTags(content) {
     return tags;
 }
 
+/* MASTODON */
+
+function computeMastodonPosts(config, posts) {
+	// console.log('--- compute ---', config.host);
+	return posts.filter(post => {
+		if (!config.postTagFilter) return true;
+
+		// console.log(post.tags.some(tag => config.postTagFilter.includes(tag.name)), post.tags, config.postTagFilter);
+		return post.tags.some(tag => config.postTagFilter.includes(tag))
+	}).map(post => {
+        const extra = {}
+        if (config.posse) {
+            const slug = getTootSlug(post);
+
+            extra.slug = slug,
+            extra.permalink = `note/${slug}`;
+            extra.url = `//geekosaur.com/note/${slug}`;
+        } 
+        // else {
+        //     extra.permalink = false
+        // }
+
+		return {
+			...post,
+            ...extra,
+			title: post.title || "🦣",
+			createdDate: new Date(post.date),
+            isMastodon: true,
+			dontBridgy: !config.posse,
+			eleventyComputed: {
+				tags: ['note']
+			}
+		}
+	})
+}
+
+const formatMastodonTimeline = (timeline, config) => {
+	// console.log('$$$', config.host, !config.preTagFilter);
+
+	const filtered = timeline.filter(
+		(post) =>
+			// remove posts that are already on your own site.
+			!config.removeSyndicates.some((url) => post.content.includes(url)) &&
+			(!config.preTagFilter || post.tags.some(tag => config.preTagFilter.includes(tag.name)))
+	);
+
+	const formatted = filtered.map((post) => {
+		const images = post.media_attachments.map((image) => ({
+			url: image?.url,
+			alt: image?.description,
+			width: image?.meta?.small?.width,
+			height: image?.meta?.small?.height,
+			aspect: image?.meta?.small?.aspect,
+		}));
+
+		// console.log(post);
+		const [part1, part2] = post.content.split('<p>---</p>');
+
+		let title = '';
+		let content;
+
+		if (part2) {
+			title = part1.replace(/(<([^>]+)>)/gi, "");
+			content = part2
+		} else {
+			content = part1
+		}
+
+		const tags = getMastoTags(content);
+		return {
+			date: new Date(post.created_at).toISOString(),
+			id: post.id,
+			title: title,
+			content: config.removeTags ? removeMastoTags(content) : content,
+			source_url: post.url,
+			site: 'Mastodon',
+			images: images,
+			embed: post.card?.url ? post.card.url : null,
+			tags: tags, //post.tags doesn't respect capitalization post.tags.map(tag => tag.name),
+			emojis: post.emojis,
+			tootUrl: post.url,
+			host: config.host.split('/')[2]
+		};
+	});
+	// const goodPosts = formatted.filter((post) => {
+	//     // for now, don't wanna ignore iamges without alt
+	// 	// if (post.media && post.media.alt === null) {
+	// 	// 	return false;
+	// 	// }
+	// 	return true;
+	// });
+
+	return formatted;
+};
+
+const fetchMastodonPosts = async (config, lastPost) => {
+	const queryParams = new URLSearchParams({
+		limit: 40,
+		exclude_replies: true,
+		exclude_reblogs: true,
+	});
+	if (lastPost) {
+		queryParams.set('since_id', lastPost.id);
+		console.log(`>>> Requesting posts made after ${lastPost.date}...`);
+	}
+
+	const mastodonStatusAPI = `${config.host}/api/v1/accounts/${config.userId}/statuses`;
+
+	const url = new URL(`${mastodonStatusAPI}?${queryParams}`);
+	const response = await fetch(url.href);
+	if (response.ok) {
+		const feed = await response.json();
+		const timeline = formatMastodonTimeline(feed, config);
+		console.log(`>>> ${timeline.length} new mastodon posts fetched`);
+		return timeline;
+	}
+	console.warn('>>> unable to fetch mastodon posts', response.statusText);
+	return null;
+};
+
+// Merge fresh posts with cached entries, unique per id
+const mergeMastodonPosts = (cache, feed) => {
+	const merged = unionBy(cache.posts, feed, 'id');
+	return merged
+		.sort((a, b) => Date.parse(a.date) - Date.parse(b.date))
+		.reverse();
+};
+
+
+const getMastodonPostsForConfig = async (options) => {
+	if (!options.host) {
+		console.error('No URL provided for the Mastodon server.');
+		return;
+	}
+	if (!options.userId) {
+		console.error('No userID provided.');
+		return;
+	}
+
+	const defaults = {
+		removeSyndicates: [],
+		cacheLocation: '.cache/mastodon.json',
+		posse: true,
+		isProduction: true,
+		removeTags: false,
+	};
+
+	const config = { ...defaults, ...options };
+
+	let lastPost;
+	console.log('>>> Reading mastodon posts from cache...');
+	const cache = readFromCache(config.cacheLocation);
+
+	if (cache.posts.length) {
+		console.log(`>>> ${cache.posts.length} mastodon posts loaded from cache`);
+		lastPost = cache.posts[0];
+	}
+
+	// Only fetch new posts in production
+	if (config.isProduction) {
+		console.log('>>> Checking for new mastodon posts...');
+		const feed = await fetchMastodonPosts(config, lastPost);
+		if (feed) {
+			const mastodonPosts = {
+				lastFetched: new Date().toISOString(),
+				posts: mergeMastodonPosts(cache, feed),
+			};
+
+			writeToCache(mastodonPosts, config.cacheLocation, "mastodon posts");
+			return computeMastodonPosts(config, mastodonPosts.posts);
+		}
+	}
+
+	// console.log('!!!');
+	// console.log(cache.posts);
+	return computeMastodonPosts(config, cache.posts);
+}
+
 module.exports = {
     readSocialLinks,
     saveSocialLinks,
@@ -378,5 +558,6 @@ module.exports = {
     // searchReddit,
     removeMastoTags,
     getMastoTags,
-    getLocalImageLink
+    getLocalImageLink,
+    getMastodonPostsForConfig
 };
