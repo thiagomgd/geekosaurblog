@@ -11,6 +11,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Tell Me I'm Worthless",
+        "price": 2.99,
+        "cover": "https://kbimages1-a.akamaihd.net/86b56c52-1966-4d26-9ebe-dfdbe6076e38/353/569/90/False/tell-me-i-m-worthless-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/tell-me-i-m-worthless-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Alison Rumfitt",
+        "dealDescription": ""
+    },
+    {
         "title": "The Horror of Haglin House",
         "price": 5.99,
         "cover": "https://kbimages1-a.akamaihd.net/4c945287-d840-4ff0-8e20-4bbcbcfd6ada/353/569/90/False/the-horror-of-haglin-house.jpg",
@@ -657,17 +668,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Anastasia Hastings",
-        "dealDescription": ""
-    },
-    {
-        "title": "Tell Me I'm Worthless",
-        "price": 14.99,
-        "cover": "https://kbimages1-a.akamaihd.net/86b56c52-1966-4d26-9ebe-dfdbe6076e38/353/569/90/False/tell-me-i-m-worthless-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/tell-me-i-m-worthless-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Alison Rumfitt",
         "dealDescription": ""
     },
     {
