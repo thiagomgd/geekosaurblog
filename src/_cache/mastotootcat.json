@@ -1,6 +1,22 @@
 {
-  "lastFetched": "2023-06-28T16:50:06.438Z",
+  "lastFetched": "2023-06-28T22:40:30.723Z",
   "posts": [
+    {
+      "date": "2023-04-22T04:29:12.929Z",
+      "id": "110240579775188327",
+      "title": "",
+      "content": "<p>Hey  fam! </p><p>Needing help figuring something out: how to NOT render some notes into individual pages (in pagination), but still add all items to a collection or have then in 'getFilteredByTag' on .eleventy.config</p><p>---<br>EDIT: I think I found a solution. Is it too bad to use collection.getAll()[0].data.mytoots on eleventyConfig? Or something expected to be done, but just that I didn't see in the docs?</p><p>original question below<br>---</p><p>longer explanation - branch link at the end:</p><p>I have markdown notes in a notes folder + toots stored locally, loaded in a global data file on /_data. </p><p>Currently, I also have a /toots folder that has the toot.md template + javascript data file for some eleventyComputed things, which include adding the 'note' tag. </p><p>Then, on my config file, I have a addCollection(notes, ...), that loads everything tagged as 'note' and creates a 'notes' collection, which is a merge of the markdown notes + toots.</p><p>Then, a 'notes.md' will generate the notes tab, with X notes per page.</p><p>This works fine now, BUT, I wanted to skip rendering individual pages for some of the toots (/toots/toot.md). Since the current flow is globalData -&gt; toot.md -&gt; toots.11tydata.js -&gt; eleventy.js (addCollection) -&gt; notes.md, I was not able to do that. </p><p>I guess I'm too used to this flow, so I can't think of anything else other than maybe accessing global data directly on eleventy.config, keep adding all toots to the notes collection, and add some (the ones I want to have its own page) to another new collection, and then use a .md template for that.</p><p>Any suggestions?</p><p>Branch: <a href=\"https://github.com/thiagomgd/geekosaurblog/tree/toots\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/thiagomgd/geekosaur</span><span class=\"invisible\">blog/tree/toots</span></a></p><p>(cc/ <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\">@<span>eleventy</span></a></span>)</p>",
+      "source_url": "https://toot.cat/@falcon/110240579775188327",
+      "site": "Mastodon",
+      "images": [],
+      "embed": "https://github.com/thiagomgd/geekosaurblog/tree/toots",
+      "tags": [
+        "eleventy"
+      ],
+      "emojis": [],
+      "tootUrl": "https://toot.cat/@falcon/110240579775188327",
+      "host": "toot.cat"
+    },
     {
       "date": "2023-04-04T19:33:57.244Z",
       "id": "110142215765290991",

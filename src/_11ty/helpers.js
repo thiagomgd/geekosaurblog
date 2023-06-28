@@ -86,10 +86,6 @@ function shortHash(text) {
   return hash(text).substring(0, 7);
 }
 
-function isNotionImage(imgUrl) {
-  return imgUrl.includes("secure.notion-static.com");
-}
-
 function getFileName(url) {
   // get the filename from the path
   const pathComponents = url.split("/");
@@ -128,22 +124,6 @@ async function getLocalImageLink(imgUrl, folder = "", fileName = "") {
   const imagePath = `/img/${fd}/${fn}`;
   const path = `./src${imagePath}`;
 
-  // console.debug('@@@@', imgUrl);
-  // if (!fs.existsSync(path)) {
-  //     try {
-  //         fetch(imgUrl).then((res) => res.body.pipe(fs.createWriteStream(path)));
-
-  //         cache[imgUrl] = {url: imagePath};
-  //         writeToCache(cache, IMG_CACHE_FILE_PATH, "images");
-  //     } catch (error) {
-  //         console.error("ERROR::", error);
-  //     }
-  //     // TODO: return local. For now, since download is async, first run needs to use external url
-  //     return imgUrl;
-  // } else {
-  //     console.error("> collision downloading image", imgUrl);
-  // }
-
   try {
     const localUrl = await downloadImage(imgUrl, path);
     console.log("!!!!", localUrl);
@@ -165,19 +145,6 @@ async function downloadImage(url, filename) {
     console.log("Image downloaded successfully!");
   });
 }
-
-// function downloadImage(url, filepath) {
-//     if (!fs.existsSync(filepath)) {
-//         return new Promise((resolve, reject) => {
-//             fetch(url).then((res) => {
-//                     res.body.pipe(fs.createWriteStream(filepath)).on('error', reject)
-//                         .once('close', () => resolve(filepath));
-//                 }
-//             )
-//         });
-//     }
-//     throw new Error("> collision downloading image", url, filepath);
-// }
 
 function getOptimizeMetadata(metadata) {
   let outputs;
@@ -239,6 +206,8 @@ async function getOptimizedUrl(src, outputDir = "_site/img", toReturn = "url") {
 
   return data[toReturn];
 }
+
+/* MASTODON */
 
 async function fetchToots() {
   if (!metadata.bridgy_mastodon || process.env.ELEVENTY_ENV === "development")
@@ -316,8 +285,6 @@ function getMastoTags(content) {
   return tags;
 }
 
-/* MASTODON */
-
 function computeMastodonPosts(config, posts) {
   // console.log('--- compute ---', config.host);
   return posts
@@ -361,7 +328,11 @@ const formatMastodonTimeline = (timeline, config) => {
       // remove posts that are already on your own site.
       !config.removeSyndicates.some((url) => post.content.includes(url)) &&
       (!config.preTagFilter ||
-        post.tags.some((tag) => config.preTagFilter.includes(tag.name)))
+        post.tags.some((tag) => config.preTagFilter.includes(tag.name))) &&
+      (!config.attributeFilter ||
+        config.attributeFilter.every(
+          (attribute) => Object.hasOwn(post, attribute) && post[attribute]
+        ))
   );
 
   const formatted = filtered.map((post) => {

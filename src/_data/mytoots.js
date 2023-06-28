@@ -63,7 +63,7 @@ module.exports = async function () {
       removeSyndicates: ["geekosaur.com"],
       cacheLocation: "src/_cache/mastotootcat.json",
       removeTags: true,
-      preTagFilter: ["journal", "note"], // at least one of those tags
+      postTagFilter: ["journal", "note"], // at least one of those tags
     },
     {
       isProduction: isProduction,
@@ -91,7 +91,7 @@ module.exports = async function () {
 
   for (const config of options) {
     // console.log('------', config.host, '-------')
-    toots = await getMastodonPostsForConfig(config);
+    const toots = await getMastodonPostsForConfig(config);
     // console.log('@@');
     // console.log(toots);
     posts = posts.concat(toots);
