@@ -1,13 +1,8 @@
 const { DateTime } = require("luxon");
 const CleanCSS = require("clean-css");
 const metadata = require("../_data/metadata.json");
-const MarkdownIt = require("markdown-it");
-const plainText = require("markdown-it-plain-text");
 
-const {sortBy} = require("lodash/collection");
-
-const md = new MarkdownIt();
-// ({html: false, breaks: true })
+const { sortBy } = require("lodash/collection");
 
 function getRelevance(postTags, matchingPost) {
   const commonTopics = matchingPost.data.tags.filter((element) =>
@@ -127,27 +122,40 @@ module.exports = {
   },
   truncate: (text) =>
     text.length > 300 ? `${text.substring(0, 300)}...` : text,
-  mastodonShareDescription: (text, hashtags=[], socialHashtags=[]) => {
+  mastodonShareDescription: (text, hashtags = [], socialHashtags = []) => {
     const maxLength = 450;
-    const tagsList = hashtags.concat(socialHashtags)
-    const tagsText = tagsList.map(tag => `#${tag.replace(' ', '')}`).join(' ') || '';
+    const tagsList = hashtags.concat(socialHashtags);
+    const tagsText =
+      tagsList.map((tag) => `#${tag.replace(" ", "")}`).join(" ") || "";
     const available = maxLength - tagsText.length;
 
-    let content = typeof text === 'string' ? text : text.val
+    let content = typeof text === "string" ? text : text.val;
 
-    if (!content || typeof content !== 'string') {
-      console.log('@@>> type of text, type of content, content, text', typeof text, typeof content, text);
-      return '';
+    if (!content || typeof content !== "string") {
+      console.log(
+        "@@>> type of text, type of content, content, text",
+        typeof text,
+        typeof content,
+        text
+      );
+      return "";
     }
     // todo: blockquote to >
     // content = 'dasda \n\n adasd <br/>';
     // replaceAll doesnt work on Cloudflare, and I don't wanna deal with regex
-    content = content.replaceAll('</p><p>','\n\n').replace(/(<([^>]+)>)/gi, "").trim(); 
+    content = content
+      .replaceAll("</p><p>", "\n\n")
+      .replace(/(<([^>]+)>)/gi, "")
+      .trim();
 
     if (content.length <= available) {
-      return content + '\n\n' + tagsText;
+      return content + "\n\n" + tagsText;
     }
-    return content.substr(0, content.lastIndexOf(" ", available)) + "...\n\n" + tagsText;
+    return (
+      content.substr(0, content.lastIndexOf(" ", available)) +
+      "...\n\n" +
+      tagsText
+    );
   },
   size: (mentions) => {
     return !mentions ? 0 : mentions.length;
@@ -176,19 +184,22 @@ module.exports = {
     return posts.filter((post) => post.data.tags.includes(tag));
   },
   getTotalForDict: (dict) => {
-    return total = Object.keys(dict).reduce((total, key) => {
+    return (total = Object.keys(dict).reduce((total, key) => {
       return total + dict[key].length;
-    }, 0)
+    }, 0));
   },
   sortAndFilterManga: (mangaList) => {
-    const sorted = sortBy(mangaList, 'numberInSeries');
+    const sorted = sortBy(mangaList, "numberInSeries");
     if (sorted.length <= 4) return sorted;
 
-    return [sorted[0], {title:"..."}, sorted[sorted.length - 2], sorted[sorted.length - 1]];
-
-
+    return [
+      sorted[0],
+      { title: "..." },
+      sorted[sorted.length - 2],
+      sorted[sorted.length - 1],
+    ];
   },
-  getSeriesPosts: (seriesArray, seriesTitle) =>{
+  getSeriesPosts: (seriesArray, seriesTitle) => {
     for (const series of seriesArray) {
       if (series.title === seriesTitle) {
         return series.posts;
@@ -198,19 +209,19 @@ module.exports = {
   },
   log: (value) => {
     // console.log(value.data.slug, value.data.title);
-    
-    console.log(value)
+
+    console.log(value);
   },
   getReddit: (redditUrl) => {
-    return redditUrl || "https://www.reddit.com/r/geekosaur/"
+    return redditUrl || "https://www.reddit.com/r/geekosaur/";
   },
   getMastodon: (mastodonUrl) => {
-    return mastodonUrl || "https://mindly.social/@falcon"
+    return mastodonUrl || "https://mindly.social/@falcon";
   },
   getTootSlug: (toot) => {
-    return `${toot.host.replace('.','')}${toot.id}`
+    return `${toot.host.replace(".", "")}${toot.id}`;
   },
   isString: (thing) => {
-    return typeof thing === 'string'
-  }
+    return typeof thing === "string";
+  },
 };
