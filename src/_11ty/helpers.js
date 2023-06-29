@@ -314,11 +314,49 @@ function computeMastodonPosts(config, posts) {
         isMastodon: true,
         dontBridgy: !config.posse,
         eleventyComputed: {
-          tags: ["note"],
+          tags: config.type === "toots" ? ["note"] : ["link"],
         },
       };
     });
 }
+
+const getTootTitleContent = (config, toot) => {
+  let title = "";
+  let content;
+
+  // TODO: maybe also try splitting when it's not a paragraph?
+  // I would need to then add <p> at the beginning of content, remove line break from title
+  const [part1, part2] = toot.content.split("<p>---</p>");
+
+  if (part2) {
+    title = part1.replace(/(<([^>]+)>)/gi, "");
+    content = part2;
+    return [title, content];
+  }
+
+  if (config.type === "links") {
+    let [title, ...content] = toot.content.split("</p>");
+    content = content.join("</p>");
+
+    title = title.replace(/(<([^>]+)>)/gi, "");
+    return [title, content];
+  }
+
+  content = part1;
+
+  return [title, content];
+};
+
+const tootIsLinkNotReply = (post) => {
+  const isLink =
+    (Object.hasOwn(post, "embed") && post["embed"]) ||
+    (Object.hasOwn(post, "card") && post["card"]);
+
+  const isReply =
+    Object.hasOwn(post, "in_reply_to_id") && post["in_reply_to_id"];
+
+  return isLink && !isReply;
+};
 
 const formatMastodonTimeline = (timeline, config) => {
   // console.log('$$$', config.host, !config.preTagFilter);
@@ -329,10 +367,7 @@ const formatMastodonTimeline = (timeline, config) => {
       !config.removeSyndicates.some((url) => post.content.includes(url)) &&
       (!config.preTagFilter ||
         post.tags.some((tag) => config.preTagFilter.includes(tag.name))) &&
-      (!config.attributeFilter ||
-        config.attributeFilter.every(
-          (attribute) => Object.hasOwn(post, attribute) && post[attribute]
-        ))
+      (!config.type === "links" || tootIsLinkNotReply(post))
   );
 
   const formatted = filtered.map((post) => {
@@ -345,17 +380,7 @@ const formatMastodonTimeline = (timeline, config) => {
     }));
 
     // console.log(post);
-    const [part1, part2] = post.content.split("<p>---</p>");
-
-    let title = "";
-    let content;
-
-    if (part2) {
-      title = part1.replace(/(<([^>]+)>)/gi, "");
-      content = part2;
-    } else {
-      content = part1;
-    }
+    const [title, content] = getTootTitleContent(config, post);
 
     const tags = getMastoTags(content);
     return {
@@ -433,6 +458,7 @@ const getMastodonPostsForConfig = async (options) => {
     posse: true,
     isProduction: true,
     removeTags: false,
+    type: "toots",
   };
 
   const config = { ...defaults, ...options };

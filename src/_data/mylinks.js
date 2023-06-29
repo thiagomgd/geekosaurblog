@@ -39,7 +39,8 @@ module.exports = async function () {
       removeSyndicates: ["geekosaur.com"],
       cacheLocation: "src/_cache/linksuniverseodon.json",
       removeTags: true,
-      attributeFilter: ["embed"],
+      // attributeFilter: ["embed", "card"],
+      type: "links",
     },
   ];
 
