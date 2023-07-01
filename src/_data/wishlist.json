@@ -1,5 +1,16 @@
 [
     {
+        "title": "The Horror of Haglin House",
+        "price": 1.99,
+        "cover": "https://cdn.kobo.com/book-images/4c945287-d840-4ff0-8e20-4bbcbcfd6ada/353/569/90/False/the-horror-of-haglin-house.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-horror-of-haglin-house",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": false,
+        "author": "M.R.C. Kasasian",
+        "dealDescription": ""
+    },
+    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -11,6 +22,28 @@
         "dealDescription": ""
     },
     {
+        "title": "Bluebird",
+        "price": 1.99,
+        "cover": "https://cdn.kobo.com/book-images/533edbb4-62ba-48f2-9e54-540e061a7eac/353/569/90/False/bluebird-19.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/bluebird-19",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Ciel Pierlot",
+        "dealDescription": ""
+    },
+    {
+        "title": "Lockwood & Co.: The Screaming Staircase",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/fbceb051-6d54-4500-8a15-dd9765c7ef66/353/569/90/False/lockwood-co-the-screaming-staircase-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/lockwood-co-the-screaming-staircase-4",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Jonathan Stroud",
+        "dealDescription": ""
+    },
+    {
         "title": "Tell Me I'm Worthless",
         "price": 2.99,
         "cover": "https://cdn.kobo.com/book-images/86b56c52-1966-4d26-9ebe-dfdbe6076e38/353/569/90/False/tell-me-i-m-worthless-1.jpg",
@@ -19,17 +52,6 @@
         "isPlus": false,
         "isSale": true,
         "author": "Alison Rumfitt",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Horror of Haglin House",
-        "price": 5.99,
-        "cover": "https://cdn.kobo.com/book-images/4c945287-d840-4ff0-8e20-4bbcbcfd6ada/353/569/90/False/the-horror-of-haglin-house.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-horror-of-haglin-house",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": false,
-        "author": "M.R.C. Kasasian",
         "dealDescription": ""
     },
     {
@@ -52,17 +74,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Kate Dylan",
-        "dealDescription": ""
-    },
-    {
-        "title": "Bluebird",
-        "price": 7.99,
-        "cover": "https://cdn.kobo.com/book-images/533edbb4-62ba-48f2-9e54-540e061a7eac/353/569/90/False/bluebird-19.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/bluebird-19",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Ciel Pierlot",
         "dealDescription": ""
     },
     {
@@ -151,17 +162,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Juliet Blackwell",
-        "dealDescription": ""
-    },
-    {
-        "title": "Lockwood & Co.: The Screaming Staircase",
-        "price": 9.99,
-        "cover": "https://cdn.kobo.com/book-images/fbceb051-6d54-4500-8a15-dd9765c7ef66/353/569/90/False/lockwood-co-the-screaming-staircase-4.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/lockwood-co-the-screaming-staircase-4",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Jonathan Stroud",
         "dealDescription": ""
     },
     {

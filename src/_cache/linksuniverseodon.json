@@ -1,11 +1,30 @@
 {
-  "lastFetched": "2023-06-30T16:50:40.966Z",
+  "lastFetched": "2023-07-01T16:50:33.738Z",
   "posts": [
+    {
+      "date": "2023-06-30T22:35:10.717Z",
+      "id": "110635549374170979",
+      "title": "Goodreads Has No Incentive to be Good",
+      "content": "<p>Nice post (also comments on HackerNews). I finally decided to ditch GoodReads today. </p><p>Haven't done it so far since I wanted something with an API and, although Bookwyrm has what I needed for my books page on my blog (they have a public json file with all your book), it missed too many titles from my import, and also seems it has a lot of duplicate (even triplicate) books.</p><p>So, decided to go with Storygraph, even if that means my book page will have to wait until I update it to read from Storygraph's export. </p><p>BTW, follow them at <span class=\"h-card\" translate=\"no\"><a href=\"https://bookstodon.thestorygraph.com/@thestorygraph\" class=\"u-url mention\">@<span>thestorygraph</span></a></span> </p><p><a href=\"https://countercraft.substack.com/p/goodreads-has-no-incentive-to-be\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">countercraft.substack.com/p/go</span><span class=\"invisible\">odreads-has-no-incentive-to-be</span></a></p><p>comments: <a href=\"https://news.ycombinator.com/item?id=36533153\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">news.ycombinator.com/item?id=3</span><span class=\"invisible\">6533153</span></a> </p>",
+      "source_url": "https://universeodon.com/@falcon/110635549374170979",
+      "site": "Mastodon",
+      "images": [],
+      "embed": "https://countercraft.substack.com/p/goodreads-has-no-incentive-to-be",
+      "tags": [
+        "books",
+        "bookstodon",
+        "goodReads",
+        "storyGraph"
+      ],
+      "emojis": [],
+      "tootUrl": "https://universeodon.com/@falcon/110635549374170979",
+      "host": "universeodon.com"
+    },
     {
       "date": "2023-06-29T03:27:25.917Z",
       "id": "110625373939944688",
       "title": "When An Anime Leaves You Speechless",
-      "content": "<p>Really glad to see \"When Supernatural Battles Became Commonplace\" mentioned for voice acting. That scene was GREAT, and the VA did an amazing job in ONE take!</p><p>This is an anime that was quickly forgotten, I think, but this scene remains. Still, I would love to see a season 2, or the light novel/manga being translated</p><p>edit: waaaaittt. It's actually available in English? I might need to check this out</p><p><a href=\"https://www.youtube.com/watch?v=vCPTvr6fnQQ\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=vCPTvr6fnQ</span><span class=\"invisible\">Q</span></a></p>",
+      "content": "<p>Really glad to see \"When Supernatural Battles Became Commonplace\" mentioned for voice acting. That scene was GREAT, and the VA did an amazing job in ONE take!</p><p>This is an anime that was quickly forgotten, I think, but this scene remains. Still, I would love to see a season 2, or the light novel/manga being translated</p><p>edit: waaaaittt. It's actually available in English? I might need to check this out</p><p><a href=\"https://www.youtube.com/watch?v=vCPTvr6fnQQ\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=vCPTvr6fnQ</span><span class=\"invisible\">Q</span></a></p><p>Link to the actual scene: <a href=\"https://www.youtube.com/watch?v=iNPK6DzQCzY\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=iNPK6DzQCz</span><span class=\"invisible\">Y</span></a></p>",
       "source_url": "https://universeodon.com/@falcon/110625373939944688",
       "site": "Mastodon",
       "images": [],

@@ -285,6 +285,20 @@ function getMastoTags(content) {
   return tags;
 }
 
+function getMastoLinks(content) {
+  const $ = cheerio.load(content, null, false);
+  const links = [];
+
+  $("p:has(a)").each((i, p) => {
+    let title, url;
+    links.push($(p).text());
+
+    $(p).remove();
+  });
+
+  return [$.html(), links];
+}
+
 function computeMastodonPosts(config, posts) {
   // console.log('--- compute ---', config.host);
   return posts
@@ -383,6 +397,12 @@ const formatMastodonTimeline = (timeline, config) => {
     const [title, content] = getTootTitleContent(config, post);
 
     const tags = getMastoTags(content);
+
+    // const linkToot = {};
+
+    // if (config.type === "links") {
+    // }
+
     return {
       date: new Date(post.created_at).toISOString(),
       id: post.id,
@@ -426,6 +446,7 @@ const fetchMastodonPosts = async (config, lastPost) => {
   const response = await fetch(url.href);
   if (response.ok) {
     const feed = await response.json();
+    // console.log(feed);
     const timeline = formatMastodonTimeline(feed, config);
     console.log(`>>> ${timeline.length} new mastodon posts fetched`);
     return timeline;
