@@ -1,6 +1,6 @@
 const outdent = require("outdent")({ newline: " " });
 const markdownIt = require("markdown-it")();
-const encodeUrl = require('encodeurl')
+const encodeUrl = require("encodeurl");
 // const {url} = require("./filters.js");
 // const shortcodes = require("./shortcodes.js");
 
@@ -8,7 +8,18 @@ const EMPTY = ``;
 
 const myembed = (content, props = {}) => {
   // TODO: default image?
-  const { title, image, author, siteName, year, date, tags, extraClass, extraCTALink, extraCTAText="See Also" } = props;
+  const {
+    title,
+    image,
+    author,
+    siteName,
+    year,
+    date,
+    tags,
+    extraClass,
+    extraCTALink,
+    extraCTAText = "See Also",
+  } = props;
 
   const metaDataInner =
     date || tags
@@ -32,16 +43,18 @@ const myembed = (content, props = {}) => {
 </ul>`
       : EMPTY;
 
-  const siteNameSection = siteName ? `<h5 class="myEmbed">${siteName}</h5>` : EMPTY;
+  const siteNameSection = siteName
+    ? `<h5 class="myEmbed">${siteName}</h5>`
+    : EMPTY;
   const yearText = year ? ` (${year})` : EMPTY;
 
   const authorSection = author
     ? `<h5 class="myEmbed">${author}${yearText}</h5>`
     : EMPTY;
 
-  const extraCTASection = extraCTALink 
-  ? `<a href='${extraCTALink}'>${extraCTAText}</a>`
-  : EMPTY;
+  const extraCTASection = extraCTALink
+    ? `<a href='${extraCTALink}'>${extraCTAText}</a>`
+    : EMPTY;
 
   const readMoreSection = props.url
     ? `<p class="read-more">
@@ -66,36 +79,47 @@ ${readMoreSection}
 </div>`;
 };
 
-const wishlistCard = (_content, title, author, link, image, price, preorder, isPlus, onSale, dealDescription) => {
-
+const wishlistCard = (
+  _content,
+  title,
+  author,
+  link,
+  image,
+  price,
+  preorder,
+  isPlus,
+  onSale,
+  dealDescription
+) => {
   const koboPlus = isPlus === true ? "K+ <br/>" : "";
   const extraClass = [];
-  
+
   isPlus === true && extraClass.push("blog-card-koboPlus");
   preorder && extraClass.push("blog-card-preorder");
   onSale === true && extraClass.push("blog-card-onsale");
 
-  const content = `${koboPlus}${price}<br/>${preorder}<br/>${dealDescription}`
+  const content = `${koboPlus}${price}<br/>${preorder}<br/>${dealDescription}`;
   // const a = url(title)
   // TODO - add author
-  const searchText = `${title} ${author}`
-  const searchIndigoLink = `https://www.chapters.indigo.ca/en-ca/home/search/?keywords=${encodeUrl(searchText)}`;
+  const searchText = `${title} ${author}`;
+  const searchIndigoLink = `https://www.chapters.indigo.ca/en-ca/home/search/?keywords=${encodeUrl(
+    searchText
+  )}`;
 
-  return myembed(content, { 
-    title: `${title} (${author})`, 
+  return myembed(content, {
+    title: `${title} (${author})`,
     image: image,
-    url: link, 
+    url: link,
     extraClass: extraClass.join(" "),
-    extraCTALink: searchIndigoLink, 
-    extraCTAText: "Search Indigo" 
-  })
-}
+    extraCTALink: searchIndigoLink,
+    extraCTAText: "Search Indigo",
+  });
+};
 
 module.exports = {
   myembed,
-  wishlistCard
+  wishlistCard,
 };
-
 
 // GR EMBED CODE - bookmarklet
 // const jsonData = document.querySelector('script[type="application/ld+json"]');
@@ -113,5 +137,5 @@ module.exports = {
 
 // const embedCode = `{% myembed {title:"${title}", author:"${author}", url:"${url}", image:"${image}"} %}
 // ${description}
-// {% endmyembed %}`; 
+// {% endmyembed %}`;
 // navigator.clipboard.writeText(embedCode);

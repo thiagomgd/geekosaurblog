@@ -1,7 +1,5 @@
-const {
-  getLocalImageLink,
-  getMastodonPostsForConfig,
-} = require("../_11ty/helpers");
+const { getMastodonPostsForConfig } = require("../_11ty/helpers");
+const groupBy = require("lodash/groupBy");
 
 // // TODO: use my own fuctions for READ and WRITE
 // const readFromCache = (config) => {
@@ -54,8 +52,10 @@ module.exports = async function () {
     // console.log('****', config.host, '******')
   }
 
+  console.log(groupBy(posts, "linksPost"));
+  return groupBy(posts, "linksPost");
   // sort again, but whatever...
-  return posts
-    .sort((a, b) => Date.parse(a.date) - Date.parse(b.date))
-    .reverse();
+  // return posts
+  //   .sort((a, b) => Date.parse(a.date) - Date.parse(b.date))
+  //   .reverse();
 };

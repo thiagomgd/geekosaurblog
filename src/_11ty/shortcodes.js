@@ -1,7 +1,6 @@
 const markdownIt = require("markdown-it");
 const outdent = require("outdent")({ newline: " " });
 
-
 const metadata = require("../_data/metadata.json");
 
 const EMPTY = ``;
@@ -68,7 +67,7 @@ function metagen(data) {
                     <meta name="description" content="${data.desc}">
                     <meta name="robots" content="${data.robots}">
                     <meta name="generator" content="${data.generator}">\n`;
-                    
+
   const openGraph = `${
     data.comments
       ? `${
@@ -163,7 +162,6 @@ function metagen(data) {
     return prop ? prop : fallback;
   }
 
-
   const output = metadata.concat(openGraph, twitterCard, canonical).split("\n");
   const validTags = output.filter((tag) => tag.includes("undefined") === false);
   const cleanOutput = validTags.join("\n").replace(/^\s+|[,]$/gm, "");
@@ -171,25 +169,25 @@ function metagen(data) {
   return cleanOutput;
 }
 
-const getVideoUrl = (url) =>{
-  if (url.includes('.gifv')) {
-    return url.replace('.gifv', '.mp4')
+const getVideoUrl = (url) => {
+  if (url.includes(".gifv")) {
+    return url.replace(".gifv", ".mp4");
   }
 
   return url;
-}
+};
 
-const getVideoType = (url) =>{
-  if (url.includes('.webm')) {
-    return 'video/webm'
+const getVideoType = (url) => {
+  if (url.includes(".webm")) {
+    return "video/webm";
   }
 
-  if (url.includes('.mp4')) {
-    return 'video/mp4'
+  if (url.includes(".mp4")) {
+    return "video/mp4";
   }
 
-  return 'video'
-}
+  return "video";
+};
 
 const video = (url) => {
   const videoUrl = getVideoUrl(url);
@@ -198,32 +196,97 @@ const video = (url) => {
   return `<video controls><source src="${videoUrl}" type="${videoType}"/>`;
 };
 
-const gfycat = (url, caption="") => {
+const gfycat = (url, caption = "") => {
   let id;
   if (url.includes("/")) {
-    const parts = url.split("/")
-    id = parts[parts.length-1];
+    const parts = url.split("/");
+    id = parts[parts.length - 1];
   } else {
     id = url;
   }
 
   const captionCode = caption ? `<p>${caption}</p>` : "";
-  return `<div class="mediaEmbed"><div style='position:relative; padding-bottom:calc(61.80% + 44px)'><iframe src='https://gfycat.com/ifr/${id}' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>${captionCode}</div>`
-}
+  return `<div class="mediaEmbed"><div style='position:relative; padding-bottom:calc(61.80% + 44px)'><iframe src='https://gfycat.com/ifr/${id}' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>${captionCode}</div>`;
+};
 
-const imgurEmbed = (url, caption="") => {
+const imgurEmbed = (url, caption = "") => {
   let id;
   if (url.includes("/")) {
-    const parts = url.split("/")
-    id = parts[parts.length-1];
-    id = id.split("#")[0]
+    const parts = url.split("/");
+    id = parts[parts.length - 1];
+    id = id.split("#")[0];
   } else {
     id = url;
   }
 
   const captionCode = caption ? `<p>${caption}</p>` : "";
-  return `<div class="mediaEmbed"><blockquote class="imgur-embed-pub" lang="en" data-id="a/${id}"  ><a href="//imgur.com/a/${id}"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>${captionCode}</div>`
-}
+  return `<div class="mediaEmbed"><blockquote class="imgur-embed-pub" lang="en" data-id="a/${id}"  ><a href="//imgur.com/a/${id}"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>${captionCode}</div>`;
+};
+
+// LINKS AS LIST
+// const linksPost = (toots) => {
+//   if (!toots) return "";
+//   // console.log(toots);
+//   const links = [];
+
+//   toots.forEach((toot) => {
+//     const comments = toot.linkComments.map((comment) => {
+//       return `<li>${comment}</li>`;
+//     });
+
+//     const seeAlsoLinks = toot.seeAlso.map((item) => {
+//       return `<a href="${item.link}">${item.title}</a>`;
+//     });
+//     const seeAlso = seeAlsoLinks
+//       ? `<li>See also: ${seeAlsoLinks.join(", ")}</li>`
+//       : "";
+
+//     const linkHtml = `<li>
+//     <a href="${toot.linkUrl}">${toot.title}</a>
+//     <ul>${comments.join("")}${seeAlso}</ul>
+//     </li>`;
+
+//     links.push(linkHtml);
+//   });
+
+//   return `
+//   <ul>
+//   ${links.join("")}
+//   </ul>
+//   `;
+// };
+
+const linksPost = (toots) => {
+  if (!toots) return "";
+  // console.log(toots);
+  const links = [];
+
+  toots.forEach((toot) => {
+    const comments = toot.linkComments.map((comment) => {
+      return `<li>${comment}</li>`;
+    });
+
+    const seeAlsoLinks = toot.seeAlso.map((item) => {
+      return `<a href="${item.link}">${item.title}</a>`;
+    });
+    const seeAlso = seeAlsoLinks
+      ? `<li>See also: ${seeAlsoLinks.join(", ")}</li>`
+      : "";
+
+    const linkHtml = `<li>
+    <a href="${toot.linkUrl}">${toot.title}</a>
+    <ul>${comments.join("")}${seeAlso}</ul>
+    </li>`;
+
+    links.push(linkHtml);
+  });
+
+  return `
+  <ul>
+  ${links.join("")}
+  </ul>
+  `;
+};
 
 module.exports = {
   youtube_parser,
@@ -232,5 +295,6 @@ module.exports = {
   metagen,
   video,
   gfycat,
-  imgurEmbed
+  imgurEmbed,
+  linksPost,
 };

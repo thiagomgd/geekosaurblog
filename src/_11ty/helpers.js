@@ -285,18 +285,38 @@ function getMastoTags(content) {
   return tags;
 }
 
-function getMastoLinks(content) {
+function getAndRemoveMastoLinks(content) {
   const $ = cheerio.load(content, null, false);
-  const links = [];
+  const seeAlso = [];
+  let linkUrl = "";
 
-  $("p:has(a)").each((i, p) => {
-    let title, url;
-    links.push($(p).text());
+  $("p:has(a)").each((_i, p) => {
+    let title;
+    let link;
+
+    const a = $(p).find("a")[0];
+    link = $(a).attr("href");
+    $(a).remove();
+
+    title = $(p).text().trim();
+
+    if (!title) {
+      linkUrl = link;
+    } else {
+      title = title.split(":")[0];
+      seeAlso.push({ title: title, link: link });
+    }
 
     $(p).remove();
   });
 
-  return [$.html(), links];
+  const items = [];
+
+  $("p").each((_i, p) => {
+    items.push($(p).text().trim());
+  });
+
+  return [items, linkUrl, seeAlso];
 }
 
 function computeMastodonPosts(config, posts) {
@@ -394,20 +414,19 @@ const formatMastodonTimeline = (timeline, config) => {
     }));
 
     // console.log(post);
-    const [title, content] = getTootTitleContent(config, post);
+    let [title, content] = getTootTitleContent(config, post);
 
     const tags = getMastoTags(content);
 
-    // const linkToot = {};
+    if (config.removeTags) {
+      content = removeMastoTags(content);
+    }
 
-    // if (config.type === "links") {
-    // }
-
-    return {
+    const toot = {
       date: new Date(post.created_at).toISOString(),
       id: post.id,
       title: title,
-      content: config.removeTags ? removeMastoTags(content) : content,
+      content: content,
       source_url: post.url,
       site: "Mastodon",
       images: images,
@@ -417,6 +436,19 @@ const formatMastodonTimeline = (timeline, config) => {
       tootUrl: post.url,
       host: config.host.split("/")[2],
     };
+
+    if (config.type === "links") {
+      const [items, linkUrl, seeAlso] = getAndRemoveMastoLinks(content);
+
+      toot["linkUrl"] = linkUrl;
+      toot["seeAlso"] = seeAlso;
+      toot["linkComments"] = items;
+      toot["content"] = "";
+      delete toot.emojis;
+      delete toot.embed;
+    }
+
+    return toot;
   });
   // const goodPosts = formatted.filter((post) => {
   //     // for now, don't wanna ignore iamges without alt

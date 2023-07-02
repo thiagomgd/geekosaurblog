@@ -1,11 +1,10 @@
 const groupBy = require("lodash/groupBy");
 const fs = require("fs");
 const domain = require("./metadata.json").domain;
-const {readFromCache} = require("../_11ty/helpers");
+const { readFromCache } = require("../_11ty/helpers");
 
 // // Define Cache Location and API Endpoint
 const CACHE_FILE_PATH = "src/_cache/goodreads.json";
-
 
 // const tierOrder = {
 //     'S' : 0,
@@ -18,66 +17,68 @@ const CACHE_FILE_PATH = "src/_cache/goodreads.json";
 // }
 
 function sortBooks(booksParam) {
-    const sorted = {}
-    // const books = booksParam.filter()
-    const groupedBooks = groupBy(booksParam, "yearRead")
+  const sorted = {};
+  // const books = booksParam.filter()
+  const groupedBooks = groupBy(booksParam, "yearRead");
 
-    for (year in groupedBooks) {
-        const booksOfYear = groupedBooks[year];
-        // console.debug(booksOfYear);
-        const yearBooks = booksOfYear.filter(value => value.type === "book" || value.type === "light novel").filter(value => value.status === 'finished');
+  for (year in groupedBooks) {
+    const booksOfYear = groupedBooks[year];
+    // console.debug(booksOfYear);
+    const yearBooks = booksOfYear
+      .filter((value) => value.type === "book" || value.type === "light novel")
+      .filter((value) => value.status === "finished");
 
-        yearBooks.sort((a, b) => {
-            // books[year].sort((a, b)=>{
-            // if (a.tier !== b.tier) {
-            //     return  tierOrder[a.tier ?? ''] - tierOrder[b.tier ?? ''];
-            // }
+    yearBooks.sort((a, b) => {
+      // books[year].sort((a, b)=>{
+      // if (a.tier !== b.tier) {
+      //     return  tierOrder[a.tier ?? ''] - tierOrder[b.tier ?? ''];
+      // }
 
-            if (a.dateRead && b.dateRead) {
-                return new Date(b.dateRead) - new Date(a.dateRead);
-            }
+      if (a.dateRead && b.dateRead) {
+        return new Date(b.dateRead) - new Date(a.dateRead);
+      }
 
-            return 0; // todo
-        })
+      return 0; // todo
+    });
 
-        const newYear = year !== "undefined" ? year : 0;
-        
-        sorted[newYear] = yearBooks;
-    }
+    const newYear = year !== "undefined" ? year : 0;
 
-    return sorted;
+    sorted[newYear] = yearBooks;
+  }
+
+  return sorted;
 }
 
 module.exports = async function () {
-    // return [];
-    console.log(">>> Reading books from cache...");
-    const cache = readFromCache(CACHE_FILE_PATH);
+  // return [];
+  console.log(">>> Reading books from cache...");
+  const cache = readFromCache(CACHE_FILE_PATH);
 
-    if (Object.keys(cache).length) {
-        console.log(`>>> Books loaded from cache`);
-    }
+  if (Object.keys(cache).length) {
+    console.log(`>>> Books loaded from cache`);
+  }
 
-    // Only fetch new mentions in production
-    // if (process.env.ELEVENTY_ENV === "development") 
-    return sortBooks(cache);
+  // Only fetch new mentions in production
+  // if (process.env.ELEVENTY_ENV === "development")
+  return sortBooks(cache);
 
-    // console.log(">>> Checking for new books...");
-    // const newBooks = await fetchBooks(cache.lastFetched);
+  // console.log(">>> Checking for new books...");
+  // const newBooks = await fetchBooks(cache.lastFetched);
 
-    // if (!newBooks) {
-    //     return sortBooks(cache.data);
-    // }
+  // if (!newBooks) {
+  //     return sortBooks(cache.data);
+  // }
 
-    // const newData = {...cache.data, ...newBooks}
+  // const newData = {...cache.data, ...newBooks}
 
-    // const newCache = {
-    //     lastFetched: new Date().toISOString(),
-    //     data: newData,
-    // };
+  // const newCache = {
+  //     lastFetched: new Date().toISOString(),
+  //     data: newData,
+  // };
 
-    // if (process.env.ELEVENTY_ENV === "devbuild") {
-    //     writeToCache(newCache, CACHE_FILE_PATH, "books");
-    // }
+  // if (process.env.ELEVENTY_ENV === "devbuild") {
+  //     writeToCache(newCache, CACHE_FILE_PATH, "books");
+  // }
 
-    // return sortBooks(newData);
+  // return sortBooks(newData);
 };
