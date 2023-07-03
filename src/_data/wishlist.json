@@ -1,5 +1,16 @@
 [
     {
+        "title": "Mindwalker",
+        "price": 0.99,
+        "cover": "https://cdn.kobo.com/book-images/f3131d40-cbac-4552-b916-e648625afa27/353/569/90/False/mindwalker-5.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/mindwalker-5",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Kate Dylan",
+        "dealDescription": ""
+    },
+    {
         "title": "The Horror of Haglin House",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/4c945287-d840-4ff0-8e20-4bbcbcfd6ada/353/569/90/False/the-horror-of-haglin-house.jpg",
@@ -44,14 +55,14 @@
         "dealDescription": ""
     },
     {
-        "title": "Tell Me I'm Worthless",
+        "title": "The Warden",
         "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/86b56c52-1966-4d26-9ebe-dfdbe6076e38/353/569/90/False/tell-me-i-m-worthless-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/tell-me-i-m-worthless-1",
+        "cover": "https://cdn.kobo.com/book-images/48d843f9-8d50-4850-a761-12718e6b5fe6/353/569/90/False/the-warden-98.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-warden-98",
         "preorder": "",
         "isPlus": false,
         "isSale": true,
-        "author": "Alison Rumfitt",
+        "author": "Daniel M. Ford",
         "dealDescription": ""
     },
     {
@@ -63,17 +74,6 @@
         "isPlus": false,
         "isSale": true,
         "author": "Catherine Doyle",
-        "dealDescription": ""
-    },
-    {
-        "title": "Mindwalker",
-        "price": 7.99,
-        "cover": "https://cdn.kobo.com/book-images/f3131d40-cbac-4552-b916-e648625afa27/353/569/90/False/mindwalker-5.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/mindwalker-5",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Kate Dylan",
         "dealDescription": ""
     },
     {
@@ -627,6 +627,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Tell Me I'm Worthless",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/86b56c52-1966-4d26-9ebe-dfdbe6076e38/353/569/90/False/tell-me-i-m-worthless-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/tell-me-i-m-worthless-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Alison Rumfitt",
+        "dealDescription": ""
+    },
+    {
         "title": "Black Sun",
         "price": 13.99,
         "cover": "https://cdn.kobo.com/book-images/3d95e3ac-1ed8-469d-9b37-6ea24a37071c/353/569/90/False/black-sun-27.jpg",
@@ -789,17 +800,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Mark Lawrence",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Warden",
-        "price": 16.99,
-        "cover": "https://cdn.kobo.com/book-images/48d843f9-8d50-4850-a761-12718e6b5fe6/353/569/90/False/the-warden-98.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-warden-98",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Daniel M. Ford",
         "dealDescription": ""
     },
     {
