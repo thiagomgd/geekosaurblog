@@ -1,5 +1,16 @@
 [
     {
+        "title": "The Year of Less",
+        "price": 0.99,
+        "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-year-of-less-2",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Cait Flanders",
+        "dealDescription": ""
+    },
+    {
         "title": "The Horror of Haglin House",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/4c945287-d840-4ff0-8e20-4bbcbcfd6ada/353/569/90/False/the-horror-of-haglin-house.jpg",
@@ -8,17 +19,6 @@
         "isPlus": true,
         "isSale": false,
         "author": "M.R.C. Kasasian",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Year of Less",
-        "price": 1.99,
-        "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-year-of-less-2",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Cait Flanders",
         "dealDescription": ""
     },
     {
