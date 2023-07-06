@@ -520,7 +520,7 @@ const getMastodonPostsForConfig = async (options) => {
   console.log(">>> Reading mastodon posts from cache...");
   const cache = readFromCache(config.cacheLocation);
 
-  if (cache.posts.length) {
+  if (cache.posts?.length) {
     console.log(`>>> ${cache.posts.length} mastodon posts loaded from cache`);
     lastPost = cache.posts[0];
   }
