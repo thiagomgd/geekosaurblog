@@ -1,65 +1,62 @@
-{
-  "lastFetched": "2023-07-05T16:49:49.336Z",
-  "posts": [
+[
     {
-      "date": "2023-06-30T22:35:10.717Z",
-      "id": "110635549374170979",
-      "title": "Goodreads Has No Incentive to be Good",
-      "content": "",
-      "source_url": "https://universeodon.com/@falcon/110635549374170979",
-      "site": "Mastodon",
-      "images": [],
-      "tags": [
-        "books",
-        "bookstodon",
-        "goodReads",
-        "storyGraph"
-      ],
-      "tootUrl": "https://universeodon.com/@falcon/110635549374170979",
-      "host": "universeodon.com",
-      "linkUrl": "https://countercraft.substack.com/p/goodreads-has-no-incentive-to-be",
-      "seeAlso": [
-        {
-          "title": "comments",
-          "link": "https://news.ycombinator.com/item?id=36533153"
-        },
-        {
-          "title": "BTW, follow them at",
-          "link": "https://bookstodon.thestorygraph.com/@thestorygraph"
-        }
-      ],
-      "linkComments": [
-        "Nice post (also comments on HackerNews). I finally decided to ditch GoodReads today.",
-        "Haven't done it so far since I wanted something with an API and, although Bookwyrm has what I needed for my books page on my blog (they have a public json file with all your book), it missed too many titles from my import, and also seems it has a lot of duplicate (even triplicate) books.",
-        "So, decided to go with Storygraph, even if that means my book page will have to wait until I update it to read from Storygraph's export."
-      ]
+        "date": "2023-06-30T22:35:10.717Z",
+        "id": "110635549374170979",
+        "title": "Goodreads Has No Incentive to be Good",
+        "content": "",
+        "source_url": "https://universeodon.com/@falcon/110635549374170979",
+        "site": "Mastodon",
+        "images": [],
+        "tags": [
+            "books",
+            "bookstodon",
+            "goodReads",
+            "storyGraph"
+        ],
+        "tootUrl": "https://universeodon.com/@falcon/110635549374170979",
+        "host": "universeodon.com",
+        "linkUrl": "https://countercraft.substack.com/p/goodreads-has-no-incentive-to-be",
+        "seeAlso": [
+            {
+                "title": "comments",
+                "link": "https://news.ycombinator.com/item?id=36533153"
+            },
+            {
+                "title": "BTW, follow them at",
+                "link": "https://bookstodon.thestorygraph.com/@thestorygraph"
+            }
+        ],
+        "linkComments": [
+            "Nice post (also comments on HackerNews). I finally decided to ditch GoodReads today.",
+            "Haven't done it so far since I wanted something with an API and, although Bookwyrm has what I needed for my books page on my blog (they have a public json file with all your book), it missed too many titles from my import, and also seems it has a lot of duplicate (even triplicate) books.",
+            "So, decided to go with Storygraph, even if that means my book page will have to wait until I update it to read from Storygraph's export."
+        ]
     },
     {
-      "date": "2023-06-29T03:27:25.917Z",
-      "id": "110625373939944688",
-      "title": "When An Anime Leaves You Speechless",
-      "content": "",
-      "source_url": "https://universeodon.com/@falcon/110625373939944688",
-      "site": "Mastodon",
-      "images": [],
-      "tags": [
-        "anime",
-        "lightNovel"
-      ],
-      "tootUrl": "https://universeodon.com/@falcon/110625373939944688",
-      "host": "universeodon.com",
-      "linkUrl": "https://www.youtube.com/watch?v=vCPTvr6fnQQ",
-      "seeAlso": [
-        {
-          "title": "Link to the actual scene",
-          "link": "https://www.youtube.com/watch?v=iNPK6DzQCzY"
-        }
-      ],
-      "linkComments": [
-        "Really glad to see \"When Supernatural Battles Became Commonplace\" mentioned for voice acting. That scene was GREAT, and the VA did an amazing job in ONE take!",
-        "This is an anime that was quickly forgotten, I think, but this scene remains. Still, I would love to see a season 2, or the light novel/manga being translated",
-        "edit: waaaaittt. It's actually available in English? I might need to check this out"
-      ]
+        "date": "2023-06-29T03:27:25.917Z",
+        "id": "110625373939944688",
+        "title": "When An Anime Leaves You Speechless",
+        "content": "",
+        "source_url": "https://universeodon.com/@falcon/110625373939944688",
+        "site": "Mastodon",
+        "images": [],
+        "tags": [
+            "anime",
+            "lightNovel"
+        ],
+        "tootUrl": "https://universeodon.com/@falcon/110625373939944688",
+        "host": "universeodon.com",
+        "linkUrl": "https://www.youtube.com/watch?v=vCPTvr6fnQQ",
+        "seeAlso": [
+            {
+                "title": "Link to the actual scene",
+                "link": "https://www.youtube.com/watch?v=iNPK6DzQCzY"
+            }
+        ],
+        "linkComments": [
+            "Really glad to see \"When Supernatural Battles Became Commonplace\" mentioned for voice acting. That scene was GREAT, and the VA did an amazing job in ONE take!",
+            "This is an anime that was quickly forgotten, I think, but this scene remains. Still, I would love to see a season 2, or the light novel/manga being translated",
+            "edit: waaaaittt. It's actually available in English? I might need to check this out"
+        ]
     }
-  ]
-}
+]
