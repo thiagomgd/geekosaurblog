@@ -22,6 +22,17 @@
         "dealDescription": ""
     },
     {
+        "title": "One Dark Window",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Rachel Gillig",
+        "dealDescription": ""
+    },
+    {
         "title": "The Storm Keeper\u2019s Island",
         "price": 7.99,
         "cover": "https://cdn.kobo.com/book-images/df30353b-3a88-484f-9bca-514533af4a60/353/569/90/False/the-storm-keeper-s-island-1.jpg",
@@ -63,17 +74,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Sofie Kelly",
-        "dealDescription": ""
-    },
-    {
-        "title": "One Dark Window",
-        "price": 8.99,
-        "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Rachel Gillig",
         "dealDescription": ""
     },
     {
