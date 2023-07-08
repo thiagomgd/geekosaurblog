@@ -22,14 +22,25 @@
         "dealDescription": ""
     },
     {
-        "title": "One Dark Window",
+        "title": "Dead Silence",
         "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
+        "cover": "https://cdn.kobo.com/book-images/93c09eb6-d296-411b-8683-b7cd32f84c31/353/569/90/False/dead-silence-27.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/dead-silence-27",
         "preorder": "",
         "isPlus": false,
         "isSale": true,
-        "author": "Rachel Gillig",
+        "author": "S.A. Barnes",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Adventures of Amina al-Sirafi",
+        "price": 3.99,
+        "cover": "https://cdn.kobo.com/book-images/1cd113a3-43af-4bdb-b8ee-78fe59ba7abf/353/569/90/False/the-adventures-of-amina-al-sirafi-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-adventures-of-amina-al-sirafi-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Shannon Chakraborty",
         "dealDescription": ""
     },
     {
@@ -74,6 +85,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Sofie Kelly",
+        "dealDescription": ""
+    },
+    {
+        "title": "One Dark Window",
+        "price": 8.99,
+        "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Rachel Gillig",
         "dealDescription": ""
     },
     {
@@ -365,7 +387,7 @@
     {
         "title": "Catfish Rolling",
         "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/Images/00000000-0000-0000-0000-000000000000/353/569/90/False/empty_book_cover.jpg",
+        "cover": "https://cdn.kobo.com/book-images/34856133-457f-4d77-b1d4-afd040be041e/353/569/90/False/catfish-rolling-2.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/catfish-rolling-2",
         "preorder": "Available Oct 3, 2023",
         "isPlus": false,
@@ -514,17 +536,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "KC Jones",
-        "dealDescription": ""
-    },
-    {
-        "title": "Dead Silence",
-        "price": 12.99,
-        "cover": "https://cdn.kobo.com/book-images/93c09eb6-d296-411b-8683-b7cd32f84c31/353/569/90/False/dead-silence-27.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/dead-silence-27",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "S.A. Barnes",
         "dealDescription": ""
     },
     {
@@ -833,17 +844,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Laline Paull",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Adventures of Amina al-Sirafi",
-        "price": 17.99,
-        "cover": "https://cdn.kobo.com/book-images/1cd113a3-43af-4bdb-b8ee-78fe59ba7abf/353/569/90/False/the-adventures-of-amina-al-sirafi-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-adventures-of-amina-al-sirafi-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Shannon Chakraborty",
         "dealDescription": ""
     },
     {
