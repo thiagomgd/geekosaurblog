@@ -44,6 +44,28 @@
         "dealDescription": ""
     },
     {
+        "title": "Killers of a Certain Age",
+        "price": 4.99,
+        "cover": "https://cdn.kobo.com/book-images/09ca0804-b4be-4a64-8c6d-e51b800686a9/353/569/90/False/killers-of-a-certain-age.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/killers-of-a-certain-age",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Deanna Raybourn",
+        "dealDescription": ""
+    },
+    {
+        "title": "Peter and the Starcatchers",
+        "price": 7.99,
+        "cover": "https://cdn.kobo.com/book-images/4c3436a4-2215-4945-8fb1-18549c7f302e/353/569/90/False/peter-and-the-starcatchers-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/peter-and-the-starcatchers-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Ridley Pearson",
+        "dealDescription": ""
+    },
+    {
         "title": "The Storm Keeper\u2019s Island",
         "price": 7.99,
         "cover": "https://cdn.kobo.com/book-images/df30353b-3a88-484f-9bca-514533af4a60/353/569/90/False/the-storm-keeper-s-island-1.jpg",
@@ -286,6 +308,50 @@
         "dealDescription": ""
     },
     {
+        "title": "Full Clearing Another World under a Goddess with Zero Believers (Manga) Volume 1",
+        "price": 11.22,
+        "cover": "https://cdn.kobo.com/book-images/565e9206-1863-49d5-9155-97137f562440/353/569/90/False/full-clearing-another-world-under-a-goddess-with-zero-believers-manga-volume-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/full-clearing-another-world-under-a-goddess-with-zero-believers-manga-volume-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Isle Osaki",
+        "dealDescription": ""
+    },
+    {
+        "title": "Orc Eroica, Vol. 1 (light novel)",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/b32b493a-cbd2-443e-93c2-f9ec745eab15/353/569/90/False/orc-eroica-vol-1-light-novel.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/orc-eroica-vol-1-light-novel",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Rifujin na Magonote",
+        "dealDescription": ""
+    },
+    {
+        "title": "Secrets of the Silent Witch, Vol. 1",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/8ecef558-5a46-4a3f-afd0-c5ee64704fe1/353/569/90/False/secrets-of-the-silent-witch-vol-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/secrets-of-the-silent-witch-vol-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Matsuri Isora",
+        "dealDescription": ""
+    },
+    {
+        "title": "Dragon and Ceremony, Vol. 1 (light novel)",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/5f7ce9bb-8e5d-4e71-84e3-501e53cf7036/353/569/90/False/dragon-and-ceremony-vol-1-light-novel.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/dragon-and-ceremony-vol-1-light-novel",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Ichimei Tsukushi",
+        "dealDescription": ""
+    },
+    {
         "title": "Masters of Death",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/932ec53f-fb1f-415d-b385-09342cd397f7/353/569/90/False/masters-of-death-3.jpg",
@@ -429,6 +495,28 @@
         "dealDescription": ""
     },
     {
+        "title": "Mushoku Tensei: Jobless Reincarnation (Light Novel) Vol. 5",
+        "price": 12.47,
+        "cover": "https://cdn.kobo.com/book-images/f6bf4e11-8dcb-4aff-9266-2b417e2d3abb/353/569/90/False/mushoku-tensei-jobless-reincarnation-light-novel-vol-5.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/mushoku-tensei-jobless-reincarnation-light-novel-vol-5",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Rifujin na Magonote",
+        "dealDescription": ""
+    },
+    {
+        "title": "Mushoku Tensei: Jobless Reincarnation (Light Novel) Vol. 4",
+        "price": 12.47,
+        "cover": "https://cdn.kobo.com/book-images/1d0cd778-c693-4005-879a-8901bdca6522/353/569/90/False/mushoku-tensei-jobless-reincarnation-light-novel-vol-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/mushoku-tensei-jobless-reincarnation-light-novel-vol-4",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Rifujin na Magonote",
+        "dealDescription": ""
+    },
+    {
         "title": "Irina: The Vampire Cosmonaut (Light Novel) Vol. 1",
         "price": 12.47,
         "cover": "https://cdn.kobo.com/book-images/fbc40484-629b-44b8-8835-74f9b4695251/353/569/90/False/irina-the-vampire-cosmonaut-light-novel-vol-1.jpg",
@@ -539,6 +627,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Dead Dead Girls",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/d1dedd2b-3d96-49e2-b923-50c16313b6f9/353/569/90/False/dead-dead-girls.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/dead-dead-girls",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Nekesa Afia",
+        "dealDescription": ""
+    },
+    {
         "title": "The Remarkable Retirement of Edna Fisher",
         "price": 13.99,
         "cover": "https://cdn.kobo.com/book-images/9470cb58-a06f-4ed5-b30f-114c1ed9072b/353/569/90/False/the-remarkable-retirement-of-edna-fisher.jpg",
@@ -613,6 +712,28 @@
         "isPlus": false,
         "isSale": false,
         "author": "Riley Sager",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Helm of Midnight",
+        "price": 14.99,
+        "cover": "https://cdn.kobo.com/book-images/e98c75fa-798b-4feb-b253-49fb48153db3/353/569/90/False/the-helm-of-midnight.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-helm-of-midnight",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Marina Lostetter",
+        "dealDescription": ""
+    },
+    {
+        "title": "Everyone in My Family Has Killed Someone",
+        "price": 14.99,
+        "cover": "https://cdn.kobo.com/book-images/63b6d404-4a55-499b-9cc7-1bc9a7cb09b1/353/569/90/False/everyone-in-my-family-has-killed-someone-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/everyone-in-my-family-has-killed-someone-4",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Benjamin Stevenson",
         "dealDescription": ""
     },
     {
