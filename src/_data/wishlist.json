@@ -1,16 +1,5 @@
 [
     {
-        "title": "The Horror of Haglin House",
-        "price": 1.99,
-        "cover": "https://cdn.kobo.com/book-images/4c945287-d840-4ff0-8e20-4bbcbcfd6ada/353/569/90/False/the-horror-of-haglin-house.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-horror-of-haglin-house",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": false,
-        "author": "M.R.C. Kasasian",
-        "dealDescription": ""
-    },
-    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -19,17 +8,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Cait Flanders",
-        "dealDescription": ""
-    },
-    {
-        "title": "Dead Silence",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/93c09eb6-d296-411b-8683-b7cd32f84c31/353/569/90/False/dead-silence-27.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/dead-silence-27",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "S.A. Barnes",
         "dealDescription": ""
     },
     {
@@ -624,6 +602,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "KC Jones",
+        "dealDescription": ""
+    },
+    {
+        "title": "Dead Silence",
+        "price": 12.99,
+        "cover": "https://cdn.kobo.com/book-images/93c09eb6-d296-411b-8683-b7cd32f84c31/353/569/90/False/dead-silence-27.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/dead-silence-27",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "S.A. Barnes",
         "dealDescription": ""
     },
     {
