@@ -11,6 +11,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Everyone in My Family Has Killed Someone",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/63b6d404-4a55-499b-9cc7-1bc9a7cb09b1/353/569/90/False/everyone-in-my-family-has-killed-someone-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/everyone-in-my-family-has-killed-someone-4",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Benjamin Stevenson",
+        "dealDescription": ""
+    },
+    {
         "title": "The Adventures of Amina al-Sirafi",
         "price": 3.99,
         "cover": "https://cdn.kobo.com/book-images/1cd113a3-43af-4bdb-b8ee-78fe59ba7abf/353/569/90/False/the-adventures-of-amina-al-sirafi-1.jpg",
@@ -19,17 +30,6 @@
         "isPlus": false,
         "isSale": true,
         "author": "Shannon Chakraborty",
-        "dealDescription": ""
-    },
-    {
-        "title": "Killers of a Certain Age",
-        "price": 4.99,
-        "cover": "https://cdn.kobo.com/book-images/09ca0804-b4be-4a64-8c6d-e51b800686a9/353/569/90/False/killers-of-a-certain-age.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/killers-of-a-certain-age",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Deanna Raybourn",
         "dealDescription": ""
     },
     {
@@ -715,17 +715,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Everyone in My Family Has Killed Someone",
-        "price": 14.99,
-        "cover": "https://cdn.kobo.com/book-images/63b6d404-4a55-499b-9cc7-1bc9a7cb09b1/353/569/90/False/everyone-in-my-family-has-killed-someone-4.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/everyone-in-my-family-has-killed-someone-4",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Benjamin Stevenson",
-        "dealDescription": ""
-    },
-    {
         "title": "Bookshops & Bonedust",
         "price": 14.99,
         "cover": "https://cdn.kobo.com/book-images/f3a708ca-6bf4-4de8-8b92-d3a1ad544a69/353/569/90/False/bookshops-bonedust.jpg",
@@ -833,6 +822,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Erika Engelhaupt",
+        "dealDescription": ""
+    },
+    {
+        "title": "Killers of a Certain Age",
+        "price": 16.99,
+        "cover": "https://cdn.kobo.com/book-images/09ca0804-b4be-4a64-8c6d-e51b800686a9/353/569/90/False/killers-of-a-certain-age.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/killers-of-a-certain-age",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Deanna Raybourn",
         "dealDescription": ""
     },
     {
