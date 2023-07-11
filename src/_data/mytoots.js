@@ -57,7 +57,7 @@ module.exports = async function () {
   const isProduction = process.env.ELEVENTY_ENV !== "development";
   const options = [
     {
-      isProduction: isProduction,
+      shouldFetch: false, // disabled for now
       host: "https://toot.cat",
       userId: "109260262121658226",
       removeSyndicates: ["geekosaur.com"],
@@ -66,7 +66,7 @@ module.exports = async function () {
       postTagFilter: ["journal", "note"], // at least one of those tags
     },
     {
-      isProduction: isProduction,
+      shouldFetch: false, // disabled for now
       host: "https://sakurajima.moe",
       userId: "110152922685719043",
       removeSyndicates: ["geekosaur.com"],
@@ -76,11 +76,21 @@ module.exports = async function () {
       postTagFilter: ["journal", "note"], // at least one of those tags
     },
     {
-      isProduction: isProduction,
+      shouldFetch: false, // disabled, moving back to .social
       host: "https://mindly.social",
       userId: "109320970425371051",
       removeSyndicates: ["geekosaur.com"],
       cacheLocation: "src/_cache/mastomindly.json",
+      removeTags: true,
+      posse: false,
+      postTagFilter: ["journal", "note"], // at least one of those tags
+    },
+    {
+      shouldFetch: isProduction,
+      host: "https://mastodon.social",
+      userId: "200642",
+      removeSyndicates: ["geekosaur.com"],
+      cacheLocation: "src/_cache/mastosocial.json",
       removeTags: true,
       posse: false,
       postTagFilter: ["journal", "note"], // at least one of those tags

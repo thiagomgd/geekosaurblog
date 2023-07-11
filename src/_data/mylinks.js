@@ -5,7 +5,7 @@ module.exports = async function () {
   const isProduction = process.env.ELEVENTY_ENV !== "development";
   const options = [
     {
-      isProduction: isProduction,
+      shouldFetch: isProduction,
       host: "https://universeodon.com",
       userId: "109317385660584217",
       removeSyndicates: ["geekosaur.com"],

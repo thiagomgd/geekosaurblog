@@ -509,7 +509,7 @@ const getMastodonPostsForConfig = async (options) => {
     removeSyndicates: [],
     cacheLocation: ".cache/mastodon.json",
     posse: true,
-    isProduction: true,
+    shouldFetch: true,
     removeTags: false,
     type: "toots",
   };

@@ -216,7 +216,7 @@ module.exports = {
     return redditUrl || "https://www.reddit.com/r/geekosaur/";
   },
   getMastodon: (mastodonUrl) => {
-    return mastodonUrl || "https://mindly.social/@falcon";
+    return mastodonUrl || "https://mastodon.social/@falcon";
   },
   getTootSlug: (toot) => {
     return `${toot.host.replace(".", "")}${toot.id}`;
