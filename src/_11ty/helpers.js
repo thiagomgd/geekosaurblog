@@ -526,7 +526,7 @@ const getMastodonPostsForConfig = async (options) => {
   }
 
   // Only fetch new posts in production
-  if (config.isProduction) {
+  if (config.shouldFetch) {
     console.log(">>> Checking for new mastodon posts...");
     const feed = await fetchMastodonPosts(config, lastPost);
     if (feed) {
