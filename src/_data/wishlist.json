@@ -99,6 +99,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Perry Rhodan NEO: Volume 3 (English Edition)",
+        "price": 9.97,
+        "cover": "https://cdn.kobo.com/book-images/9a7281d7-3a22-4cb5-8708-5448eef67958/353/569/90/False/perry-rhodan-neo-volume-3-english-edition.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/perry-rhodan-neo-volume-3-english-edition",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Michael Marcus Thurner",
+        "dealDescription": ""
+    },
+    {
         "title": "When Supernatural Battles Became Commonplace: Volume 1",
         "price": 9.97,
         "cover": "https://cdn.kobo.com/book-images/7d31c65f-c1ef-41ca-8215-2fa7b53972e3/353/569/90/False/when-supernatural-battles-became-commonplace-volume-1.jpg",
@@ -118,17 +129,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Hajime Kanzaka",
-        "dealDescription": ""
-    },
-    {
-        "title": "Perry Rhodan NEO: Volume 2 (English Edition)",
-        "price": 9.97,
-        "cover": "https://cdn.kobo.com/book-images/14751d4f-f61e-4886-b07f-b43b39a6fd88/353/569/90/False/perry-rhodan-neo-volume-2-english-edition.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/perry-rhodan-neo-volume-2-english-edition",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Leo Lukas",
         "dealDescription": ""
     },
     {
@@ -294,6 +294,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Isle Osaki",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Winter Sea - Dark Water Daughter",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/571a6efb-f05d-475b-bd32-2196c78b9e9b/353/569/90/False/the-winter-sea-dark-water-daughter.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-winter-sea-dark-water-daughter",
+        "preorder": "Available Jul 18, 2023",
+        "isPlus": false,
+        "isSale": true,
+        "author": "H. M. Long",
         "dealDescription": ""
     },
     {
@@ -503,6 +514,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Keisuke Makino",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Sun and the Void",
+        "price": 12.99,
+        "cover": "https://cdn.kobo.com/book-images/923922df-050c-444e-b4ab-3dfa0dfa07bf/353/569/90/False/the-sun-and-the-void-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-sun-and-the-void-1",
+        "preorder": "Available Jul 25, 2023",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Gabriela Romero Lacruz",
         "dealDescription": ""
     },
     {
