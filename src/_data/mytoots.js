@@ -93,7 +93,7 @@ module.exports = async function () {
       cacheLocation: "src/_cache/mastosocial.json",
       removeTags: true,
       posse: false,
-      postTagFilter: ["journal", "note"], // at least one of those tags
+      preTagFilter: ["journal", "note"], // at least one of those tags
     },
   ];
 

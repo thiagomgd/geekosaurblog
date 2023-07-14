@@ -6,13 +6,23 @@ module.exports = async function () {
   const options = [
     {
       shouldFetch: isProduction,
-      host: "https://universeodon.com",
-      userId: "109317385660584217",
+      host: "https://mastodon.social",
+      userId: "200642",
       removeSyndicates: ["geekosaur.com"],
-      cacheLocation: "src/_cache/linksuniverseodon.json",
+      cacheLocation: "src/_cache/linksmastosocial.json",
       removeTags: true,
       type: "links",
+      preTagFilter: ["l", "link"],
     },
+    // {
+    //   shouldFetch: false,
+    //   host: "https://universeodon.com",
+    //   userId: "109317385660584217",
+    //   removeSyndicates: ["geekosaur.com"],
+    //   cacheLocation: "src/_cache/linksuniverseodon.json",
+    //   removeTags: true,
+    //   type: "links",
+    // },
   ];
 
   let posts = [];
