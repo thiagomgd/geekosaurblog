@@ -1,6 +1,29 @@
 {
-  "lastFetched": "2023-07-16T16:57:29.406Z",
+  "lastFetched": "2023-07-17T02:11:52.945Z",
   "posts": [
+    {
+      "date": "2023-07-16T18:18:46.100Z",
+      "id": "110725138094067397",
+      "title": "Navigating StoryGraph is Hard",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/110725138094067397",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "books",
+        "theStoryGraph",
+        "StoryGraph",
+        "bookstodon",
+        "l"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/110725138094067397",
+      "host": "mastodon.social",
+      "linkUrl": "https://www.reddit.com/r/TheStoryGraph/comments/14kh6u1/navigating_storygraph_is_hard/",
+      "seeAlso": [],
+      "linkComments": [
+        "I’m using StoryGraph for a couple weeks now, but yeah, I would like to have a better way of organizing the books, A.K.A being able to create exclusive shelves."
+      ]
+    },
     {
       "date": "2023-07-14T21:52:51.018Z",
       "id": "110714655276777583",
