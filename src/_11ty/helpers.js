@@ -214,7 +214,7 @@ async function fetchToots() {
     return [];
 
   const resp = await fetch(
-    `https://${metadata.author.mastodon_instance}/api/v1/accounts/${metadata.author.mastodon_id}/statuses?limit=40&exclude_replies=true&exclude_reblogs=true`
+    `https://${metadata.author.mastodon_instance}/api/v1/accounts/${metadata.author.mastodon_id}/statuses?limit=40&exclude_replies=true&exclude_reblogs=true`,
   );
 
   if (!resp.ok) {
@@ -393,15 +393,26 @@ const tootIsLinkNotReply = (post) => {
 };
 
 const formatMastodonTimeline = (timeline, config) => {
-  // console.log('$$$', config.host, !config.preTagFilter);
-
+  // console.log("$$$", config.host, !config.preTagFilter, config.type);
+  // // console.log(timeline);
+  // console.log(
+  //   timeline.map(function (post) {
+  //     return {
+  //       tags: post.tags.map((tag) => tag.name),
+  //       willWorkTag:
+  //         !config.preTagFilter ||
+  //         post.tags.some((tag) => config.preTagFilter.includes(tag.name)),
+  //       willWorkLink: !config.type === "links" || tootIsLinkNotReply(post),
+  //     };
+  //   }),
+  // );
   const filtered = timeline.filter(
     (post) =>
       // remove posts that are already on your own site.
       !config.removeSyndicates.some((url) => post.content.includes(url)) &&
       (!config.preTagFilter ||
-        post.tags.some((tag) => config.preTagFilter.includes(tag.name))) &&
-      (!config.type === "links" || tootIsLinkNotReply(post))
+        post.tags.some((tag) => config.preTagFilter.includes(tag.name))),
+    // &&      (!config.type === "links" || tootIsLinkNotReply(post)),
   );
 
   const formatted = filtered.map((post) => {
