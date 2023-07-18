@@ -1,6 +1,28 @@
 {
-  "lastFetched": "2023-07-17T16:59:54.179Z",
+  "lastFetched": "2023-07-18T16:59:31.630Z",
   "posts": [
+    {
+      "date": "2023-07-18T16:02:58.001Z",
+      "id": "110735928721142646",
+      "title": "Firefox has surpassed Chrome on Speedometer",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/110735928721142646",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "firefox",
+        "chrome",
+        "l"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/110735928721142646",
+      "host": "mastodon.social",
+      "linkUrl": "https://news.ycombinator.com/item?id=36770883",
+      "seeAlso": [],
+      "linkComments": [
+        "Nice, maybe someday I'll give it another chance. My main gripe is the UX for some things, and how some features seem half-baked.",
+        "E.g.: to add a keyword for a search engine, it saves a bookmark, but there isn't (or wasn't) any way to filter for those later if you wanted to check what you had already created"
+      ]
+    },
     {
       "date": "2023-07-17T02:11:21.880Z",
       "id": "110726996418512653",
