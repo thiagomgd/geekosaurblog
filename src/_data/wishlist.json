@@ -33,17 +33,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Peter and the Starcatchers",
-        "price": 7.99,
-        "cover": "https://cdn.kobo.com/book-images/4c3436a4-2215-4945-8fb1-18549c7f302e/353/569/90/False/peter-and-the-starcatchers-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/peter-and-the-starcatchers-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Ridley Pearson",
-        "dealDescription": ""
-    },
-    {
         "title": "The Storm Keeper\u2019s Island",
         "price": 7.99,
         "cover": "https://cdn.kobo.com/book-images/df30353b-3a88-484f-9bca-514533af4a60/353/569/90/False/the-storm-keeper-s-island-1.jpg",
@@ -107,28 +96,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Michael Marcus Thurner",
-        "dealDescription": ""
-    },
-    {
-        "title": "When Supernatural Battles Became Commonplace: Volume 1",
-        "price": 9.97,
-        "cover": "https://cdn.kobo.com/book-images/7d31c65f-c1ef-41ca-8215-2fa7b53972e3/353/569/90/False/when-supernatural-battles-became-commonplace-volume-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/when-supernatural-battles-became-commonplace-volume-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Kota Nozomi",
-        "dealDescription": ""
-    },
-    {
-        "title": "Slayers: Volume 1",
-        "price": 9.97,
-        "cover": "https://cdn.kobo.com/book-images/8f8824bc-1c03-4a82-b665-4af570389975/353/569/90/False/slayers-volume-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/slayers-volume-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Hajime Kanzaka",
         "dealDescription": ""
     },
     {
@@ -209,39 +176,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Spice and Wolf, Vol. 3 (light novel)",
-        "price": 10.99,
-        "cover": "https://cdn.kobo.com/book-images/ab130e10-e769-440d-9738-54990410c2ea/353/569/90/False/spice-and-wolf-vol-3-light-novel-2.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/spice-and-wolf-vol-3-light-novel-2",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Isuna Hasekura",
-        "dealDescription": ""
-    },
-    {
-        "title": "Konosuba: God's Blessing on This Wonderful World!, Vol. 1 (light novel)",
-        "price": 10.99,
-        "cover": "https://cdn.kobo.com/book-images/d14a2248-1bb3-4aef-bda6-bd2fba340f74/353/569/90/False/konosuba-god-s-blessing-on-this-wonderful-world-vol-1-light-novel-2.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/konosuba-god-s-blessing-on-this-wonderful-world-vol-1-light-novel-2",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Natsume Akatsuki",
-        "dealDescription": ""
-    },
-    {
-        "title": "Durarara!!, Vol. 2 (light novel)",
-        "price": 10.99,
-        "cover": "https://cdn.kobo.com/book-images/05a50ba0-dada-4ea8-a635-9092688b0aa7/353/569/90/False/durarara-vol-2-light-novel-2.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/durarara-vol-2-light-novel-2",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Ryohgo Narita",
-        "dealDescription": ""
-    },
-    {
         "title": "Bottom-Tier Character Tomozaki, Vol. 4 (light novel)",
         "price": 10.99,
         "cover": "https://cdn.kobo.com/book-images/6db2be94-b157-4bd6-94d7-070854d799bb/353/569/90/False/bottom-tier-character-tomozaki-vol-4-light-novel.jpg",
@@ -308,39 +242,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Orc Eroica, Vol. 1 (light novel)",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/b32b493a-cbd2-443e-93c2-f9ec745eab15/353/569/90/False/orc-eroica-vol-1-light-novel.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/orc-eroica-vol-1-light-novel",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Rifujin na Magonote",
-        "dealDescription": ""
-    },
-    {
-        "title": "Secrets of the Silent Witch, Vol. 1",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/8ecef558-5a46-4a3f-afd0-c5ee64704fe1/353/569/90/False/secrets-of-the-silent-witch-vol-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/secrets-of-the-silent-witch-vol-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Matsuri Isora",
-        "dealDescription": ""
-    },
-    {
-        "title": "Dragon and Ceremony, Vol. 1 (light novel)",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/5f7ce9bb-8e5d-4e71-84e3-501e53cf7036/353/569/90/False/dragon-and-ceremony-vol-1-light-novel.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/dragon-and-ceremony-vol-1-light-novel",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Ichimei Tsukushi",
-        "dealDescription": ""
-    },
-    {
         "title": "Masters of Death",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/932ec53f-fb1f-415d-b385-09342cd397f7/353/569/90/False/masters-of-death-3.jpg",
@@ -371,17 +272,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Lyssa Mia Smith",
-        "dealDescription": ""
-    },
-    {
-        "title": "Reign of the Seven Spellblades, Vol. 1 (light novel)",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/5ff514a9-374a-46b1-9686-e8d6d3644af1/353/569/90/False/reign-of-the-seven-spellblades-vol-1-light-novel.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/reign-of-the-seven-spellblades-vol-1-light-novel",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Bokuto Uno",
         "dealDescription": ""
     },
     {
@@ -481,39 +371,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Darren Aronofsky",
-        "dealDescription": ""
-    },
-    {
-        "title": "Mushoku Tensei: Jobless Reincarnation (Light Novel) Vol. 5",
-        "price": 12.47,
-        "cover": "https://cdn.kobo.com/book-images/f6bf4e11-8dcb-4aff-9266-2b417e2d3abb/353/569/90/False/mushoku-tensei-jobless-reincarnation-light-novel-vol-5.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/mushoku-tensei-jobless-reincarnation-light-novel-vol-5",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Rifujin na Magonote",
-        "dealDescription": ""
-    },
-    {
-        "title": "Mushoku Tensei: Jobless Reincarnation (Light Novel) Vol. 4",
-        "price": 12.47,
-        "cover": "https://cdn.kobo.com/book-images/1d0cd778-c693-4005-879a-8901bdca6522/353/569/90/False/mushoku-tensei-jobless-reincarnation-light-novel-vol-4.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/mushoku-tensei-jobless-reincarnation-light-novel-vol-4",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Rifujin na Magonote",
-        "dealDescription": ""
-    },
-    {
-        "title": "Irina: The Vampire Cosmonaut (Light Novel) Vol. 1",
-        "price": 12.47,
-        "cover": "https://cdn.kobo.com/book-images/fbc40484-629b-44b8-8835-74f9b4695251/353/569/90/False/irina-the-vampire-cosmonaut-light-novel-vol-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/irina-the-vampire-cosmonaut-light-novel-vol-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Keisuke Makino",
         "dealDescription": ""
     },
     {

@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Call of the Night, Vol. 1",
+        "price": 7.99,
+        "cover": "https://cdn.kobo.com/book-images/d78d0ea7-bc77-4ae6-b4c1-fdbf6f0f437f/353/569/90/False/call-of-the-night-vol-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/call-of-the-night-vol-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Kotoyama",
+        "dealDescription": ""
+    },
+    {
+        "title": "Don't Toy With Me, Miss Nagatoro 4",
+        "price": 7.99,
+        "cover": "https://cdn.kobo.com/book-images/9ac0a195-1f1f-4f27-b12d-7666b9a35909/353/569/90/False/don-t-toy-with-me-miss-nagatoro-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/don-t-toy-with-me-miss-nagatoro-4",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Nanashi",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Woods Vol. 6",
+        "price": 9.97,
+        "cover": "https://cdn.kobo.com/book-images/95533bf8-1316-4bd5-892c-d60bd52ea4c6/353/569/90/False/the-woods-vol-6.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-woods-vol-6",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": false,
+        "author": "James Tynion IV",
+        "dealDescription": ""
+    },
+    {
+        "title": "Mieruko-chan, Vol. 7",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/e5ce5247-d148-490c-83b2-0a217a006837/353/569/90/False/mieruko-chan-vol-7.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/mieruko-chan-vol-7",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Tomoki Izumi",
+        "dealDescription": ""
+    },
+    {
+        "title": "Delicious in Dungeon, Vol. 11",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/8eab101b-1e6d-4704-9b67-7df23d019522/353/569/90/False/delicious-in-dungeon-vol-11.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/delicious-in-dungeon-vol-11",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Ryoko Kui",
+        "dealDescription": ""
+    },
+    {
+        "title": "Pretty Guardian Sailor Moon Eternal Edition 1",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/b4f5be8b-1492-4526-9ed9-5021ccf21de3/353/569/90/False/pretty-guardian-sailor-moon-eternal-edition-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/pretty-guardian-sailor-moon-eternal-edition-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Naoko Takeuchi",
+        "dealDescription": ""
+    },
+    {
+        "title": "My Monster Secret Vol. 1",
+        "price": 12.47,
+        "cover": "https://cdn.kobo.com/book-images/f8ac8bde-b14f-4177-9bd0-2d01b3db2cf1/353/569/90/False/my-monster-secret-vol-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/my-monster-secret-vol-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Eiji Masuda",
+        "dealDescription": ""
+    },
+    {
+        "title": "Air Gear Omnibus 3",
+        "price": 15.99,
+        "cover": "https://cdn.kobo.com/book-images/58211c4a-e8f2-4ee9-b6ec-a3db71c550f4/353/569/90/False/air-gear-omnibus-3-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/air-gear-omnibus-3-1",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Oh!great",
+        "dealDescription": ""
+    }
+]

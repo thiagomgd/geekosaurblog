@@ -67,6 +67,13 @@ function toggleOnSale() {
   {% endwishlistCard %}
 {% endfor %}
 
+<h2>Light Novels</h2>
+
+{% for book in lns_wishlist %}
+  {% wishlistCard book.title, book.author, book.url, book.cover, book.price, book.preorder, book.isPlus, book.isSale, book.dealDescription %}
+  {% endwishlistCard %}
+{% endfor %}
+
 <h2>Manga/Comics</h2>
 
 {% for manga in manga_wishlist %}
