@@ -4,8 +4,8 @@ permalink: /wishlist/
 eleventyNavigation:
   key: Kobo Wishlist
   order: 7
-toc: true
 ---
+
 <script>
 function toggleKoboPlus() {
   var divs = document.querySelectorAll(".blog-card:not(.blog-card-koboPlus)");
@@ -53,6 +53,16 @@ function toggleOnSale() {
 <section class="content-780">
   <h1>Wishlist</h1>
 
+<aside>
+<nav class="toc">
+<ul>
+<li><a href="#books">Books</a></li>
+<li><a href="#light-novels">Light Novels</a></li>
+<li><a href="manga">Manga/Comics</a></li>
+</ul>
+</nav>
+</aside>
+
 <p>Kobo doesn't allow sorting wishlist by price, and doesn't show if something is available on Kobo Plus. So this is more for myself to keep track of things</p>
 
 <button onClick="toggleKoboPlus()">Toggle Kobo Plus</button>
@@ -61,21 +71,21 @@ function toggleOnSale() {
 
 <button onClick="toggleOnSale()">Toggle On Sale</button>
 
-<h2>Books</h2>
+<h2 id="books" tabIndex="-1">Books</h2>
 
 {% for book in wishlist %}
   {% wishlistCard book.title, book.author, book.url, book.cover, book.price, book.preorder, book.isPlus, book.isSale, book.dealDescription %}
   {% endwishlistCard %}
 {% endfor %}
 
-<h2>Light Novels</h2>
+<h2 id="light-novels" tabIndex="-1">Light Novels</h2>
 
 {% for book in lns_wishlist %}
   {% wishlistCard book.title, book.author, book.url, book.cover, book.price, book.preorder, book.isPlus, book.isSale, book.dealDescription %}
   {% endwishlistCard %}
 {% endfor %}
 
-<h2>Manga/Comics</h2>
+<h2 id="manga" tabIndex="-1">Manga/Comics</h2>
 
 {% for manga in manga_wishlist %}
   {% wishlistCard manga.title, manga.author, manga.url, manga.cover, manga.price, manga.preorder, manga.isPlus, book.isSale, book.dealDescription %}

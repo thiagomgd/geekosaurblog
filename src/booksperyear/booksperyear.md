@@ -5,8 +5,6 @@ title: "Books Read"
 toc: true
 templateClass: tmpl-post
 permalink: /books-per-year/
-tweetId: "1393699018597797893"
-reddit: https://www.reddit.com/r/geekosaur/comments/ndaaoc/books_per_year/
 eleventyNavigation:
   key: Books Read
   order: 5
