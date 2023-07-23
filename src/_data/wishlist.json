@@ -33,6 +33,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Peter and the Starcatchers",
+        "price": 7.99,
+        "cover": "https://cdn.kobo.com/book-images/4c3436a4-2215-4945-8fb1-18549c7f302e/353/569/90/False/peter-and-the-starcatchers-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/peter-and-the-starcatchers-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Ridley Pearson",
+        "dealDescription": ""
+    },
+    {
         "title": "The Storm Keeper\u2019s Island",
         "price": 7.99,
         "cover": "https://cdn.kobo.com/book-images/df30353b-3a88-484f-9bca-514533af4a60/353/569/90/False/the-storm-keeper-s-island-1.jpg",
@@ -176,17 +187,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Bottom-Tier Character Tomozaki, Vol. 4 (light novel)",
-        "price": 10.99,
-        "cover": "https://cdn.kobo.com/book-images/6db2be94-b157-4bd6-94d7-070854d799bb/353/569/90/False/bottom-tier-character-tomozaki-vol-4-light-novel.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/bottom-tier-character-tomozaki-vol-4-light-novel",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Yuki Yaku",
-        "dealDescription": ""
-    },
-    {
         "title": "Spineless",
         "price": 10.99,
         "cover": "https://cdn.kobo.com/book-images/1f353c4d-44e3-4cf7-a82b-53de606ab011/353/569/90/False/spineless-8.jpg",
@@ -217,17 +217,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Alastair Reynolds",
-        "dealDescription": ""
-    },
-    {
-        "title": "Full Clearing Another World under a Goddess with Zero Believers (Manga) Volume 1",
-        "price": 11.22,
-        "cover": "https://cdn.kobo.com/book-images/565e9206-1863-49d5-9155-97137f562440/353/569/90/False/full-clearing-another-world-under-a-goddess-with-zero-believers-manga-volume-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/full-clearing-another-world-under-a-goddess-with-zero-believers-manga-volume-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Isle Osaki",
         "dealDescription": ""
     },
     {
