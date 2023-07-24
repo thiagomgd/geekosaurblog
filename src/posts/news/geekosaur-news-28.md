@@ -34,4 +34,4 @@ Trying a way simpler format - inspired by [Don't @ Me](https://shallowdivesinani
 
 ![Madoka|https://www.goodsmile.info/en/product/12330/POP+UP+PARADE+Madoka+Kaname.html](https://images.goodsmile.info/cgm/images/product/20220214/12330/95274/large/fb284c6b1a1d3754ecee84edca1c058b.jpg)
 
-![Koyomi Takanashi|https://en.kotobukiya.co.jp/product/product-0000004416/](https://en.kotobukiya.co.jp/wp-content/uploads/2021/12/d7f1270b83bc0e08b331c394151c18dfc8577993.jpg)
+![Koyomi Takanashi](img/Koyomi-Takanashi.png)

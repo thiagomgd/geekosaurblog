@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/news/geekosaur-news-35.md",
+                "file": "posts/news/geekosaur-news-28.md",
                 "mode": "source",
                 "source": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "https://en.kotobukiya.co.jp/wp-content/uploads/2021/12/d7f1270b83bc0e08b331c394151c18dfc8577993.jpg",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/news/geekosaur-news-35.md",
+                "file": "posts/news/geekosaur-news-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/news/geekosaur-news-35.md",
+                "file": "posts/news/geekosaur-news-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/news/geekosaur-news-35.md"
+                "file": "posts/news/geekosaur-news-28.md"
               }
             }
           }
@@ -210,6 +211,8 @@
   },
   "active": "412931a0da4e978e",
   "lastOpenFiles": [
+    "img/Koyomi-Takanashi.png",
+    "posts/news/geekosaur-news-35.md",
     "img/mastodon/3655712-1ce5249fd435a59c.png",
     "img/mastodon/3522381-19ae11804401e9c8.png",
     "img/mastodon/5816892-a55210fa97fec64a.png",
@@ -217,14 +220,12 @@
     "_cache/linksuniverseodon.json",
     "_data/mylinks.js",
     "_data/mytoots copy.js",
-    "posts/news/geekosaur-news-35.md",
     "img/mastodon/3030016-8980be00f0c99c61.png",
     "img/mastodon/3549067-2f15daa6149e63c1.png",
     "img/mastodon/2921197-17b085180c52155d.png",
     "img/mastodon/3213024-328737741940b134.png",
     "img/mastodon/2457016-8a5614170850f469.png",
     "img/mastodon/3094142-3459f0870137b069.png",
-    "img/mastodon/4836665-1945da886b6768e0.png",
     "img/mastodon",
     "img/ext",
     "_cache/images.json",
