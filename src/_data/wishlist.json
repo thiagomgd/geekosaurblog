@@ -11,17 +11,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Everyone in My Family Has Killed Someone",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/63b6d404-4a55-499b-9cc7-1bc9a7cb09b1/353/569/90/False/everyone-in-my-family-has-killed-someone-4.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/everyone-in-my-family-has-killed-someone-4",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Benjamin Stevenson",
-        "dealDescription": ""
-    },
-    {
         "title": "The Adventures of Amina al-Sirafi",
         "price": 3.99,
         "cover": "https://cdn.kobo.com/book-images/1cd113a3-43af-4bdb-b8ee-78fe59ba7abf/353/569/90/False/the-adventures-of-amina-al-sirafi-1.jpg",
@@ -580,6 +569,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Marina Lostetter",
+        "dealDescription": ""
+    },
+    {
+        "title": "Everyone in My Family Has Killed Someone",
+        "price": 14.99,
+        "cover": "https://cdn.kobo.com/book-images/63b6d404-4a55-499b-9cc7-1bc9a7cb09b1/353/569/90/False/everyone-in-my-family-has-killed-someone-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/everyone-in-my-family-has-killed-someone-4",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Benjamin Stevenson",
         "dealDescription": ""
     },
     {
