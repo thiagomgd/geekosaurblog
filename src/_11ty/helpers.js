@@ -320,6 +320,7 @@ function getAndRemoveMastoLinks(content) {
 }
 
 function computeMastodonPosts(config, posts) {
+  if (!posts) return [];
   // console.log('--- compute ---', config.host);
   return posts
     .filter((post) => {

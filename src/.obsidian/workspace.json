@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/news/geekosaur-news-28.md",
+                "file": "posts/links/links-1.md",
                 "mode": "source",
                 "source": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "https://en.kotobukiya.co.jp/wp-content/uploads/2021/12/d7f1270b83bc0e08b331c394151c18dfc8577993.jpg",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/news/geekosaur-news-28.md",
+                "file": "posts/links/links-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/news/geekosaur-news-28.md",
+                "file": "posts/links/links-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/news/geekosaur-news-28.md"
+                "file": "posts/links/links-1.md"
               }
             }
           }
@@ -211,6 +210,9 @@
   },
   "active": "412931a0da4e978e",
   "lastOpenFiles": [
+    "posts/links/links-2.md",
+    "posts/links/links-1.md",
+    "posts/news/geekosaur-news-28.md",
     "img/Koyomi-Takanashi.png",
     "posts/news/geekosaur-news-35.md",
     "img/mastodon/3655712-1ce5249fd435a59c.png",
@@ -225,7 +227,6 @@
     "img/mastodon/2921197-17b085180c52155d.png",
     "img/mastodon/3213024-328737741940b134.png",
     "img/mastodon/2457016-8a5614170850f469.png",
-    "img/mastodon/3094142-3459f0870137b069.png",
     "img/mastodon",
     "img/ext",
     "_cache/images.json",
@@ -243,7 +244,6 @@
     "posts/drafts/____korea 1.md",
     "posts/drafts/__korea 1.md",
     "posts/drafts/Untitled.md",
-    "posts/links/links-1.md",
     "posts/links",
     "posts/2023/missing-a-blogging-community.md",
     "posts/2023/Missing A Blogging Community.md",
@@ -255,7 +255,6 @@
     "_cache/mastotootcat.json",
     "notes/2023-04-06-02-29.md",
     "posts/2021/my-tbr-dec-2021.md",
-    "posts/news/geekosaur-news-32.md",
-    "posts/2020/12/happy_holidays_2020.md"
+    "posts/news/geekosaur-news-32.md"
   ]
 }

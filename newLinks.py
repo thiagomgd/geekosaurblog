@@ -6,17 +6,17 @@ from pprint import pprint
 from datetime import datetime
 
 def load_json():
-    toots = {}
+    jsonInfo = {}
 
     # for now, reading directly from here instead of possibly different sources
-    with open('src/_cache/linksuniverseodon.json', 'r') as json_file:
-        toots = json.load(json_file)
+    with open('src/_cache/linksmastosocial.json', 'r') as json_file:
+        jsonInfo = json.load(json_file)
 
-    return toots['posts']
+    return jsonInfo
 
-def save_json(toot):
-    with open('src/_cache/linksuniverseodon.json', "w") as f:
-        json.dump(toots, f, indent=4)
+def save_json(info):
+    with open('src/_cache/linksmastosocial.json', "w") as f:
+        json.dump(info, f, indent=4)
 
 def get_slug(folder, path):
     fileNumber = len([name for name in os.listdir(path) if name.endswith('.md')])  
@@ -53,7 +53,8 @@ print(fileText)
     #   "linksPost": "links-1",
 
 
-toots = load_json()
+info = load_json()
+toots = info['posts']
 
 for toot in toots:
     if 'linksPost' in toot:
@@ -62,5 +63,7 @@ for toot in toots:
 
 with open('{}/{}.md'.format(path, slug), mode='w') as mdfile:
     mdfile.write(fileText)
-    
-save_json(toots)
+
+info['posts'] = toots
+
+save_json(info)
