@@ -11,17 +11,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The Adventures of Amina al-Sirafi",
-        "price": 3.99,
-        "cover": "https://cdn.kobo.com/book-images/1cd113a3-43af-4bdb-b8ee-78fe59ba7abf/353/569/90/False/the-adventures-of-amina-al-sirafi-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-adventures-of-amina-al-sirafi-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Shannon Chakraborty",
-        "dealDescription": ""
-    },
-    {
         "title": "Peter and the Starcatchers",
         "price": 7.99,
         "cover": "https://cdn.kobo.com/book-images/4c3436a4-2215-4945-8fb1-18549c7f302e/353/569/90/False/peter-and-the-starcatchers-1.jpg",
@@ -356,7 +345,7 @@
         "price": 12.99,
         "cover": "https://cdn.kobo.com/book-images/923922df-050c-444e-b4ab-3dfa0dfa07bf/353/569/90/False/the-sun-and-the-void-1.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/the-sun-and-the-void-1",
-        "preorder": "Available Jul 25, 2023",
+        "preorder": "",
         "isPlus": false,
         "isSale": false,
         "author": "Gabriela Romero Lacruz",
@@ -822,6 +811,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Laline Paull",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Adventures of Amina al-Sirafi",
+        "price": 17.99,
+        "cover": "https://cdn.kobo.com/book-images/1cd113a3-43af-4bdb-b8ee-78fe59ba7abf/353/569/90/False/the-adventures-of-amina-al-sirafi-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-adventures-of-amina-al-sirafi-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Shannon Chakraborty",
         "dealDescription": ""
     },
     {
