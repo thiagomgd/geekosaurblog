@@ -515,5 +515,7 @@
   "/post/geekosaur-news-35/": {
     "mastodon": "https://mindly.social/@falcon/110595801681338206"
   },
-  "/post/links-1/": {}
+  "/post/links-1/": {
+    "mastodon": "https://mastodon.social/@falcon/110777260170117266"
+  }
 }
