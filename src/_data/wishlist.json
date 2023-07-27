@@ -1,16 +1,5 @@
 [
     {
-        "title": "The Magician's Daughter",
-        "price": 1.99,
-        "cover": "https://cdn.kobo.com/book-images/86145ac0-0cef-4d09-b59f-d868a1b17c2f/353/569/90/False/the-magician-s-daughter-8.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-magician-s-daughter-8",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "H. G. Parry",
-        "dealDescription": ""
-    },
-    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -371,6 +360,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Alastair Reynolds",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Magician's Daughter",
+        "price": 12.99,
+        "cover": "https://cdn.kobo.com/book-images/86145ac0-0cef-4d09-b59f-d868a1b17c2f/353/569/90/False/the-magician-s-daughter-8.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-magician-s-daughter-8",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "H. G. Parry",
         "dealDescription": ""
     },
     {
