@@ -1,5 +1,16 @@
 [
     {
+        "title": "Episode Thirteen",
+        "price": 1.99,
+        "cover": "https://cdn.kobo.com/book-images/20c49c89-a4f9-4656-a3f3-21569df3f38b/353/569/90/False/episode-thirteen.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/episode-thirteen",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Craig DiLouie",
+        "dealDescription": ""
+    },
+    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -382,17 +393,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Brandon Sanderson",
-        "dealDescription": ""
-    },
-    {
-        "title": "Episode Thirteen",
-        "price": 12.99,
-        "cover": "https://cdn.kobo.com/book-images/20c49c89-a4f9-4656-a3f3-21569df3f38b/353/569/90/False/episode-thirteen.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/episode-thirteen",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Craig DiLouie",
         "dealDescription": ""
     },
     {
