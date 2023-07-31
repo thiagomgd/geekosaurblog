@@ -1,16 +1,5 @@
 [
     {
-        "title": "Episode Thirteen",
-        "price": 1.99,
-        "cover": "https://cdn.kobo.com/book-images/20c49c89-a4f9-4656-a3f3-21569df3f38b/353/569/90/False/episode-thirteen.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/episode-thirteen",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Craig DiLouie",
-        "dealDescription": ""
-    },
-    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -558,17 +547,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Marina Lostetter",
-        "dealDescription": ""
-    },
-    {
-        "title": "Everyone in My Family Has Killed Someone",
-        "price": 14.99,
-        "cover": "https://cdn.kobo.com/book-images/63b6d404-4a55-499b-9cc7-1bc9a7cb09b1/353/569/90/False/everyone-in-my-family-has-killed-someone-4.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/everyone-in-my-family-has-killed-someone-4",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Benjamin Stevenson",
         "dealDescription": ""
     },
     {
