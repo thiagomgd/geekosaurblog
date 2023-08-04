@@ -759,17 +759,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The Design of Everyday Things",
-        "price": 16.99,
-        "cover": "https://cdn.kobo.com/book-images/c16dc133-3c48-4421-9fff-9b74b4da5438/353/569/90/False/the-design-of-everyday-things-6.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-design-of-everyday-things-6",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Don Norman",
-        "dealDescription": ""
-    },
-    {
         "title": "Convenience Store Woman",
         "price": 16.99,
         "cover": "https://cdn.kobo.com/book-images/b12c8d36-defd-4a2d-bc3b-cbc0346e8276/353/569/90/False/convenience-store-woman-6.jpg",
@@ -811,6 +800,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "Chloe Gong",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Design of Everyday Things",
+        "price": 17.99,
+        "cover": "https://cdn.kobo.com/book-images/c16dc133-3c48-4421-9fff-9b74b4da5438/353/569/90/False/the-design-of-everyday-things-6.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-design-of-everyday-things-6",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Don Norman",
         "dealDescription": ""
     },
     {
