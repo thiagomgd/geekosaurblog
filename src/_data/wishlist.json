@@ -11,6 +11,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The London S\u00e9ance Society",
+        "price": 6.99,
+        "cover": "https://cdn.kobo.com/book-images/74477a61-8cef-4194-a551-e6644dee8206/353/569/90/False/the-london-seance-society.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-london-seance-society",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Sarah Penner",
+        "dealDescription": ""
+    },
+    {
         "title": "Peter and the Starcatchers",
         "price": 7.99,
         "cover": "https://cdn.kobo.com/book-images/4c3436a4-2215-4945-8fb1-18549c7f302e/353/569/90/False/peter-and-the-starcatchers-1.jpg",
@@ -855,17 +866,6 @@
         "isPlus": false,
         "isSale": true,
         "author": "Lindsay Eagar",
-        "dealDescription": ""
-    },
-    {
-        "title": "The London S\u00e9ance Society",
-        "price": 19.99,
-        "cover": "https://cdn.kobo.com/book-images/74477a61-8cef-4194-a551-e6644dee8206/353/569/90/False/the-london-seance-society.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-london-seance-society",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Sarah Penner",
         "dealDescription": ""
     },
     {
