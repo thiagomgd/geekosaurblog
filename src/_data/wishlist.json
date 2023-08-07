@@ -11,14 +11,36 @@
         "dealDescription": ""
     },
     {
-        "title": "The London S\u00e9ance Society",
-        "price": 6.99,
-        "cover": "https://cdn.kobo.com/book-images/74477a61-8cef-4194-a551-e6644dee8206/353/569/90/False/the-london-seance-society.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-london-seance-society",
+        "title": "Antimatter Blues",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/bcdb239e-0f75-4d0d-bc19-49d088b12a93/353/569/90/False/antimatter-blues-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/antimatter-blues-1",
         "preorder": "",
         "isPlus": false,
         "isSale": true,
-        "author": "Sarah Penner",
+        "author": "Edward Ashton",
+        "dealDescription": ""
+    },
+    {
+        "title": "Tell Me Pleasant Things about Immortality",
+        "price": 3.99,
+        "cover": "https://cdn.kobo.com/book-images/1c5d1163-c26e-409e-87b5-63bb69720a91/353/569/90/False/tell-me-pleasant-things-about-immortality.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/tell-me-pleasant-things-about-immortality",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Lindsay Wong",
+        "dealDescription": ""
+    },
+    {
+        "title": "Vera Wong's Unsolicited Advice for Murderers",
+        "price": 4.99,
+        "cover": "https://cdn.kobo.com/book-images/fc8f22f2-01c6-4955-ac05-fc1ae27b723d/353/569/90/False/vera-wong-s-unsolicited-advice-for-murderers-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/vera-wong-s-unsolicited-advice-for-murderers-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Jesse Q. Sutanto",
         "dealDescription": ""
     },
     {
@@ -495,17 +517,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Vera Wong's Unsolicited Advice for Murderers",
-        "price": 13.99,
-        "cover": "https://cdn.kobo.com/book-images/fc8f22f2-01c6-4955-ac05-fc1ae27b723d/353/569/90/False/vera-wong-s-unsolicited-advice-for-murderers-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/vera-wong-s-unsolicited-advice-for-murderers-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Jesse Q. Sutanto",
-        "dealDescription": ""
-    },
-    {
         "title": "Hunt on Dark Waters",
         "price": 13.99,
         "cover": "https://cdn.kobo.com/book-images/4b86940d-fcae-42a8-8972-35d95fbcc84a/353/569/90/False/hunt-on-dark-waters.jpg",
@@ -649,17 +660,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Tell Me Pleasant Things about Immortality",
-        "price": 15.99,
-        "cover": "https://cdn.kobo.com/book-images/1c5d1163-c26e-409e-87b5-63bb69720a91/353/569/90/False/tell-me-pleasant-things-about-immortality.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/tell-me-pleasant-things-about-immortality",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Lindsay Wong",
-        "dealDescription": ""
-    },
-    {
         "title": "Gory Details",
         "price": 15.99,
         "cover": "https://cdn.kobo.com/book-images/267cda6d-758b-434d-9756-93b2122008b4/353/569/90/False/gory-details-2.jpg",
@@ -759,17 +759,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Antimatter Blues",
-        "price": 16.99,
-        "cover": "https://cdn.kobo.com/book-images/bcdb239e-0f75-4d0d-bc19-49d088b12a93/353/569/90/False/antimatter-blues-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/antimatter-blues-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Edward Ashton",
-        "dealDescription": ""
-    },
-    {
         "title": "Convenience Store Woman",
         "price": 16.99,
         "cover": "https://cdn.kobo.com/book-images/b12c8d36-defd-4a2d-bc3b-cbc0346e8276/353/569/90/False/convenience-store-woman-6.jpg",
@@ -866,6 +855,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "Lindsay Eagar",
+        "dealDescription": ""
+    },
+    {
+        "title": "The London S\u00e9ance Society",
+        "price": 19.99,
+        "cover": "https://cdn.kobo.com/book-images/74477a61-8cef-4194-a551-e6644dee8206/353/569/90/False/the-london-seance-society.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-london-seance-society",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Sarah Penner",
         "dealDescription": ""
     },
     {
