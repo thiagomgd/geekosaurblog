@@ -44,6 +44,17 @@
         "dealDescription": ""
     },
     {
+        "title": "One Dark Window",
+        "price": 6.99,
+        "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Rachel Gillig",
+        "dealDescription": ""
+    },
+    {
         "title": "Peter and the Starcatchers",
         "price": 7.99,
         "cover": "https://cdn.kobo.com/book-images/4c3436a4-2215-4945-8fb1-18549c7f302e/353/569/90/False/peter-and-the-starcatchers-1.jpg",
@@ -96,17 +107,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Sofie Kelly",
-        "dealDescription": ""
-    },
-    {
-        "title": "One Dark Window",
-        "price": 8.99,
-        "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Rachel Gillig",
         "dealDescription": ""
     },
     {
