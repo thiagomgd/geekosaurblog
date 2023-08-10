@@ -110,6 +110,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Lake House",
+        "price": 8.99,
+        "cover": "https://cdn.kobo.com/book-images/0f598b04-1a46-4ca0-91b0-063218f202dc/353/569/90/False/the-lake-house-22.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-lake-house-22",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Sarah Beth Durst",
+        "dealDescription": ""
+    },
+    {
         "title": "Perry Rhodan NEO: Volume 3 (English Edition)",
         "price": 9.97,
         "cover": "https://cdn.kobo.com/book-images/9a7281d7-3a22-4cb5-8708-5448eef67958/353/569/90/False/perry-rhodan-neo-volume-3-english-edition.jpg",
@@ -206,17 +217,6 @@
         "isPlus": true,
         "isSale": true,
         "author": "Samantha San Miguel",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Lake House",
-        "price": 10.99,
-        "cover": "https://cdn.kobo.com/book-images/0f598b04-1a46-4ca0-91b0-063218f202dc/353/569/90/False/the-lake-house-22.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-lake-house-22",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Sarah Beth Durst",
         "dealDescription": ""
     },
     {
