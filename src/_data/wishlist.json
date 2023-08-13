@@ -209,6 +209,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Ghostlight",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/791ea275-bff2-460c-aabd-7afd5fee0b1a/353/569/90/False/ghostlight-6.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/ghostlight-6",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Kenneth Oppel",
+        "dealDescription": ""
+    },
+    {
         "title": "Spineless",
         "price": 10.99,
         "cover": "https://cdn.kobo.com/book-images/1f353c4d-44e3-4cf7-a82b-53de606ab011/353/569/90/False/spineless-8.jpg",
@@ -352,17 +363,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Ghostlight",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/791ea275-bff2-460c-aabd-7afd5fee0b1a/353/569/90/False/ghostlight-6.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/ghostlight-6",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Kenneth Oppel",
-        "dealDescription": ""
-    },
-    {
         "title": "Monster Club",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/b659c88e-b8cb-4a15-abae-1e8f83d5c35b/353/569/90/False/monster-club-1-1.jpg",
@@ -481,6 +481,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "S.A. Barnes",
+        "dealDescription": ""
+    },
+    {
+        "title": "Killers of a Certain Age",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/09ca0804-b4be-4a64-8c6d-e51b800686a9/353/569/90/False/killers-of-a-certain-age.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/killers-of-a-certain-age",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Deanna Raybourn",
         "dealDescription": ""
     },
     {
@@ -668,17 +679,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Erika Engelhaupt",
-        "dealDescription": ""
-    },
-    {
-        "title": "Killers of a Certain Age",
-        "price": 16.99,
-        "cover": "https://cdn.kobo.com/book-images/09ca0804-b4be-4a64-8c6d-e51b800686a9/353/569/90/False/killers-of-a-certain-age.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/killers-of-a-certain-age",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Deanna Raybourn",
         "dealDescription": ""
     },
     {
