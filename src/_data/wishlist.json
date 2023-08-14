@@ -11,36 +11,25 @@
         "dealDescription": ""
     },
     {
-        "title": "Antimatter Blues",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/bcdb239e-0f75-4d0d-bc19-49d088b12a93/353/569/90/False/antimatter-blues-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/antimatter-blues-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Edward Ashton",
-        "dealDescription": ""
-    },
-    {
-        "title": "Tell Me Pleasant Things about Immortality",
-        "price": 3.99,
-        "cover": "https://cdn.kobo.com/book-images/1c5d1163-c26e-409e-87b5-63bb69720a91/353/569/90/False/tell-me-pleasant-things-about-immortality.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/tell-me-pleasant-things-about-immortality",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Lindsay Wong",
-        "dealDescription": ""
-    },
-    {
-        "title": "Vera Wong's Unsolicited Advice for Murderers",
+        "title": "The Making of Another Major Motion Picture Masterpiece",
         "price": 4.99,
-        "cover": "https://cdn.kobo.com/book-images/fc8f22f2-01c6-4955-ac05-fc1ae27b723d/353/569/90/False/vera-wong-s-unsolicited-advice-for-murderers-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/vera-wong-s-unsolicited-advice-for-murderers-1",
+        "cover": "https://cdn.kobo.com/book-images/8a25cc51-3f49-4328-83c5-4532dc247ac0/353/569/90/False/the-making-of-another-major-motion-picture-masterpiece-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-making-of-another-major-motion-picture-masterpiece-1",
         "preorder": "",
         "isPlus": false,
         "isSale": true,
-        "author": "Jesse Q. Sutanto",
+        "author": "Tom Hanks",
+        "dealDescription": ""
+    },
+    {
+        "title": "The London S\u00e9ance Society",
+        "price": 6.99,
+        "cover": "https://cdn.kobo.com/book-images/74477a61-8cef-4194-a551-e6644dee8206/353/569/90/False/the-london-seance-society.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-london-seance-society",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Sarah Penner",
         "dealDescription": ""
     },
     {
@@ -759,6 +748,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Antimatter Blues",
+        "price": 16.99,
+        "cover": "https://cdn.kobo.com/book-images/bcdb239e-0f75-4d0d-bc19-49d088b12a93/353/569/90/False/antimatter-blues-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/antimatter-blues-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Edward Ashton",
+        "dealDescription": ""
+    },
+    {
         "title": "Convenience Store Woman",
         "price": 16.99,
         "cover": "https://cdn.kobo.com/book-images/b12c8d36-defd-4a2d-bc3b-cbc0346e8276/353/569/90/False/convenience-store-woman-6.jpg",
@@ -789,6 +789,28 @@
         "isPlus": false,
         "isSale": false,
         "author": "Shannon Chakraborty",
+        "dealDescription": ""
+    },
+    {
+        "title": "Vera Wong's Unsolicited Advice for Murderers",
+        "price": 17.99,
+        "cover": "https://cdn.kobo.com/book-images/fc8f22f2-01c6-4955-ac05-fc1ae27b723d/353/569/90/False/vera-wong-s-unsolicited-advice-for-murderers-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/vera-wong-s-unsolicited-advice-for-murderers-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Jesse Q. Sutanto",
+        "dealDescription": ""
+    },
+    {
+        "title": "Tell Me Pleasant Things about Immortality",
+        "price": 17.99,
+        "cover": "https://cdn.kobo.com/book-images/1c5d1163-c26e-409e-87b5-63bb69720a91/353/569/90/False/tell-me-pleasant-things-about-immortality.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/tell-me-pleasant-things-about-immortality",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Lindsay Wong",
         "dealDescription": ""
     },
     {
@@ -825,17 +847,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The Making of Another Major Motion Picture Masterpiece",
-        "price": 18.99,
-        "cover": "https://cdn.kobo.com/book-images/8a25cc51-3f49-4328-83c5-4532dc247ac0/353/569/90/False/the-making-of-another-major-motion-picture-masterpiece-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-making-of-another-major-motion-picture-masterpiece-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Tom Hanks",
-        "dealDescription": ""
-    },
-    {
         "title": "Dying of Politeness",
         "price": 18.99,
         "cover": "https://cdn.kobo.com/book-images/690c6add-db11-4439-9c54-417601d5e731/353/569/90/False/dying-of-politeness-1.jpg",
@@ -855,17 +866,6 @@
         "isPlus": false,
         "isSale": true,
         "author": "Lindsay Eagar",
-        "dealDescription": ""
-    },
-    {
-        "title": "The London S\u00e9ance Society",
-        "price": 19.99,
-        "cover": "https://cdn.kobo.com/book-images/74477a61-8cef-4194-a551-e6644dee8206/353/569/90/False/the-london-seance-society.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-london-seance-society",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Sarah Penner",
         "dealDescription": ""
     },
     {
