@@ -34,6 +34,16 @@
             }
           },
           {
+            "id": "0e9d27e794b8e437",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
+          },
+          {
             "id": "f8dff150c30df6b2",
             "type": "leaf",
             "pinned": true,
@@ -72,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,7 +218,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "412931a0da4e978e",
+  "active": "0e9d27e794b8e437",
   "lastOpenFiles": [
     "posts/links/links-2.md",
     "posts/links/links-1.md",
