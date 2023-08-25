@@ -1,6 +1,29 @@
 {
-  "lastFetched": "2023-08-24T16:05:25.413Z",
+  "lastFetched": "2023-08-25T16:19:01.879Z",
   "posts": [
+    {
+      "date": "2023-08-24T20:01:43.754Z",
+      "id": "110946373058155476",
+      "title": "Japan’s 72 Microseasons",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/110946373058155476",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "l",
+        "japan"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/110946373058155476",
+      "host": "mastodon.social",
+      "linkUrl": "https://www.nippon.com/en/features/h00124/",
+      "seeAlso": [
+        {
+          "title": "comments",
+          "link": "https://news.ycombinator.com/item?id=37247405"
+        }
+      ],
+      "linkComments": []
+    },
     {
       "date": "2023-08-24T02:26:00.380Z",
       "id": "110942221787314027",
