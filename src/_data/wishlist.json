@@ -1,5 +1,16 @@
 [
     {
+        "title": "Killers of a Certain Age",
+        "price": 1.99,
+        "cover": "https://cdn.kobo.com/book-images/09ca0804-b4be-4a64-8c6d-e51b800686a9/353/569/90/False/killers-of-a-certain-age.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/killers-of-a-certain-age",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Deanna Raybourn",
+        "dealDescription": ""
+    },
+    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -418,6 +429,17 @@
         "dealDescription": ""
     },
     {
+        "title": "NeuroTribes",
+        "price": 12.99,
+        "cover": "https://cdn.kobo.com/book-images/34de7b60-6d4a-449a-9c04-2db2a3370d07/353/569/90/False/neurotribes.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/neurotribes",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Steve Silberman",
+        "dealDescription": ""
+    },
+    {
         "title": "Silverborn: The Mystery of Morrigan Crow",
         "price": 12.99,
         "cover": "https://cdn.kobo.com/book-images/00b4f3fe-7565-4742-85df-d289d3c4bcdd/353/569/90/False/silverborn-the-mystery-of-morrigan-crow.jpg",
@@ -448,17 +470,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "S.A. Barnes",
-        "dealDescription": ""
-    },
-    {
-        "title": "Killers of a Certain Age",
-        "price": 13.99,
-        "cover": "https://cdn.kobo.com/book-images/09ca0804-b4be-4a64-8c6d-e51b800686a9/353/569/90/False/killers-of-a-certain-age.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/killers-of-a-certain-age",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Deanna Raybourn",
         "dealDescription": ""
     },
     {
@@ -701,17 +712,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Silvia Moreno-Garcia",
-        "dealDescription": ""
-    },
-    {
-        "title": "NeuroTribes",
-        "price": 16.99,
-        "cover": "https://cdn.kobo.com/book-images/34de7b60-6d4a-449a-9c04-2db2a3370d07/353/569/90/False/neurotribes.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/neurotribes",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Steve Silberman",
         "dealDescription": ""
     },
     {
