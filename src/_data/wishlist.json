@@ -1,16 +1,5 @@
 [
     {
-        "title": "Killers of a Certain Age",
-        "price": 1.99,
-        "cover": "https://cdn.kobo.com/book-images/09ca0804-b4be-4a64-8c6d-e51b800686a9/353/569/90/False/killers-of-a-certain-age.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/killers-of-a-certain-age",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Deanna Raybourn",
-        "dealDescription": ""
-    },
-    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -19,17 +8,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Cait Flanders",
-        "dealDescription": ""
-    },
-    {
-        "title": "A Natural History of Dragons",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/5c9b8a9f-1230-46ca-92b9-43bd008aeac2/353/569/90/False/a-natural-history-of-dragons.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/a-natural-history-of-dragons",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Marie Brennan",
         "dealDescription": ""
     },
     {
@@ -107,6 +85,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Michael Marcus Thurner",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Merry Dredgers",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/519e3a13-b171-4cbe-a000-44b58a9e8393/353/569/90/False/the-merry-dredgers.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-merry-dredgers",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Jeremy C. Shipp",
         "dealDescription": ""
     },
     {
@@ -198,6 +187,17 @@
         "dealDescription": ""
     },
     {
+        "title": "A Natural History of Dragons",
+        "price": 10.99,
+        "cover": "https://cdn.kobo.com/book-images/5c9b8a9f-1230-46ca-92b9-43bd008aeac2/353/569/90/False/a-natural-history-of-dragons.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-natural-history-of-dragons",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Marie Brennan",
+        "dealDescription": ""
+    },
+    {
         "title": "Spineless",
         "price": 10.99,
         "cover": "https://cdn.kobo.com/book-images/1f353c4d-44e3-4cf7-a82b-53de606ab011/353/569/90/False/spineless-8.jpg",
@@ -217,6 +217,39 @@
         "isPlus": false,
         "isSale": false,
         "author": "Alastair Reynolds",
+        "dealDescription": ""
+    },
+    {
+        "title": "Silver in the Bone",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/d49c13eb-6e31-4af2-a7cc-df429660a484/353/569/90/False/silver-in-the-bone.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/silver-in-the-bone",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Alexandra Bracken",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Isles of the Gods",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/5a75c519-1899-4295-b510-28d081b09520/353/569/90/False/the-isles-of-the-gods-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-isles-of-the-gods-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Amie Kaufman",
+        "dealDescription": ""
+    },
+    {
+        "title": "These Fleeting Shadows",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/7f6b116b-36ad-45ec-a0be-c56ff08f176a/353/569/90/False/these-fleeting-shadows.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/these-fleeting-shadows",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Kate Alice Marshall",
         "dealDescription": ""
     },
     {
@@ -550,6 +583,28 @@
         "dealDescription": ""
     },
     {
+        "title": "Sister, Maiden, Monster",
+        "price": 14.99,
+        "cover": "https://cdn.kobo.com/book-images/0ed015bb-84f6-4546-95f3-4e21f4f16ffd/353/569/90/False/sister-maiden-monster.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/sister-maiden-monster",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Lucy A. Snyder",
+        "dealDescription": ""
+    },
+    {
+        "title": "Itchy, Tasty",
+        "price": 14.99,
+        "cover": "https://cdn.kobo.com/book-images/caf0f4f4-b1f1-429c-a1a5-9383eabcf8f2/353/569/90/False/itchy-tasty.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/itchy-tasty",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Alex Aniel",
+        "dealDescription": ""
+    },
+    {
         "title": "The Helm of Midnight",
         "price": 14.99,
         "cover": "https://cdn.kobo.com/book-images/e98c75fa-798b-4feb-b253-49fb48153db3/353/569/90/False/the-helm-of-midnight.jpg",
@@ -624,6 +679,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "Adrian Tchaikovsky",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Enigma of Room 622",
+        "price": 15.99,
+        "cover": "https://cdn.kobo.com/book-images/f2b04f7b-9169-4a72-b59b-81c6030b715c/353/569/90/False/the-enigma-of-room-622-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-enigma-of-room-622-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Jo\u00ebl Dicker",
         "dealDescription": ""
     },
     {
@@ -745,6 +811,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "Sayaka Murata",
+        "dealDescription": ""
+    },
+    {
+        "title": "Effortless",
+        "price": 17.99,
+        "cover": "https://cdn.kobo.com/book-images/857b2bb3-06df-4223-9233-93c610d0d151/353/569/90/False/effortless-8.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/effortless-8",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Greg McKeown",
         "dealDescription": ""
     },
     {
