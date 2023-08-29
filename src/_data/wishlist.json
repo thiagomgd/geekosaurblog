@@ -187,17 +187,6 @@
         "dealDescription": ""
     },
     {
-        "title": "A Natural History of Dragons",
-        "price": 10.99,
-        "cover": "https://cdn.kobo.com/book-images/5c9b8a9f-1230-46ca-92b9-43bd008aeac2/353/569/90/False/a-natural-history-of-dragons.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/a-natural-history-of-dragons",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Marie Brennan",
-        "dealDescription": ""
-    },
-    {
         "title": "Spineless",
         "price": 10.99,
         "cover": "https://cdn.kobo.com/book-images/1f353c4d-44e3-4cf7-a82b-53de606ab011/353/569/90/False/spineless-8.jpg",
@@ -316,6 +305,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Kimi Cunningham Grant",
+        "dealDescription": ""
+    },
+    {
+        "title": "A Natural History of Dragons",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/5c9b8a9f-1230-46ca-92b9-43bd008aeac2/353/569/90/False/a-natural-history-of-dragons.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-natural-history-of-dragons",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Marie Brennan",
         "dealDescription": ""
     },
     {
@@ -875,7 +875,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/immortal-longings-5",
         "preorder": "",
         "isPlus": false,
-        "isSale": true,
+        "isSale": false,
         "author": "Chloe Gong",
         "dealDescription": ""
     },
