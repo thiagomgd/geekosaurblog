@@ -149,7 +149,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/the-satanic-verses",
         "preorder": "",
         "isPlus": false,
-        "isSale": true,
+        "isSale": false,
         "author": "Salman Rushdie",
         "dealDescription": ""
     },
