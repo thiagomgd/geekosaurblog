@@ -11,6 +11,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Until the End of Time",
+        "price": 3.99,
+        "cover": "https://cdn.kobo.com/book-images/fa067559-ab6e-4765-ae75-f50981575c35/353/569/90/False/until-the-end-of-time-20.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/until-the-end-of-time-20",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Brian Greene",
+        "dealDescription": ""
+    },
+    {
         "title": "One Dark Window",
         "price": 6.99,
         "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
@@ -657,17 +668,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Maurice Broaddus",
-        "dealDescription": ""
-    },
-    {
-        "title": "Until the End of Time",
-        "price": 14.99,
-        "cover": "https://cdn.kobo.com/book-images/fa067559-ab6e-4765-ae75-f50981575c35/353/569/90/False/until-the-end-of-time-20.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/until-the-end-of-time-20",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Brian Greene",
         "dealDescription": ""
     },
     {
