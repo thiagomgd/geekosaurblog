@@ -11,17 +11,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Until the End of Time",
-        "price": 3.99,
-        "cover": "https://cdn.kobo.com/book-images/fa067559-ab6e-4765-ae75-f50981575c35/353/569/90/False/until-the-end-of-time-20.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/until-the-end-of-time-20",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Brian Greene",
-        "dealDescription": ""
-    },
-    {
         "title": "One Dark Window",
         "price": 6.99,
         "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
@@ -88,14 +77,25 @@
         "dealDescription": ""
     },
     {
-        "title": "Perry Rhodan NEO: Volume 3 (English Edition)",
+        "title": "Perry Rhodan NEO: Volume 4 (English Edition)",
         "price": 9.97,
-        "cover": "https://cdn.kobo.com/book-images/9a7281d7-3a22-4cb5-8708-5448eef67958/353/569/90/False/perry-rhodan-neo-volume-3-english-edition.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/perry-rhodan-neo-volume-3-english-edition",
+        "cover": "https://cdn.kobo.com/book-images/93438fe7-426f-4bd5-9d37-3bcb1c709b53/353/569/90/False/perry-rhodan-neo-volume-4-english-edition.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/perry-rhodan-neo-volume-4-english-edition",
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Michael Marcus Thurner",
+        "author": "Arndt Ellmer",
+        "dealDescription": ""
+    },
+    {
+        "title": "Call Me A Cab",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/d6d19286-dea5-4bfa-9f45-ad53138a3de6/353/569/90/False/call-me-a-cab.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/call-me-a-cab",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Donald E. Westlake",
         "dealDescription": ""
     },
     {
@@ -162,7 +162,7 @@
         "isPlus": false,
         "isSale": false,
         "author": "Salman Rushdie",
-        "dealDescription": ""
+        "dealDescription": "\n    \n        This item is eligible for \n            Get 3 incredible bestsellers for $15\n    \n"
     },
     {
         "title": "An Accident of Stars",
@@ -319,17 +319,6 @@
         "dealDescription": ""
     },
     {
-        "title": "A Natural History of Dragons",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/5c9b8a9f-1230-46ca-92b9-43bd008aeac2/353/569/90/False/a-natural-history-of-dragons.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/a-natural-history-of-dragons",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Marie Brennan",
-        "dealDescription": ""
-    },
-    {
         "title": "Flowerheart",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/0854c009-09a7-405e-aea2-c191520c2eef/353/569/90/False/flowerheart-1.jpg",
@@ -349,7 +338,7 @@
         "isPlus": false,
         "isSale": false,
         "author": "Salman Rushdie",
-        "dealDescription": ""
+        "dealDescription": "\n    \n        This item is eligible for \n            Get 3 incredible bestsellers for $15\n    \n"
     },
     {
         "title": "The Sacrifice",
@@ -679,6 +668,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "Adrian Tchaikovsky",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Culture Code",
+        "price": 15.99,
+        "cover": "https://cdn.kobo.com/book-images/e401898e-47cf-4003-a4ab-620bbc29d7f9/353/569/90/False/the-culture-code-2.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-culture-code-2",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Daniel Coyle",
         "dealDescription": ""
     },
     {
