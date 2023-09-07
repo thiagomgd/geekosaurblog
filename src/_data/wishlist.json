@@ -22,6 +22,17 @@
         "dealDescription": ""
     },
     {
+        "title": "A Curious Beginning",
+        "price": 7.99,
+        "cover": "https://cdn.kobo.com/book-images/28fbe512-dd50-4327-b9a0-74830fc06ebe/353/569/90/False/a-curious-beginning.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-curious-beginning",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Deanna Raybourn",
+        "dealDescription": ""
+    },
+    {
         "title": "Peter and the Starcatchers",
         "price": 7.99,
         "cover": "https://cdn.kobo.com/book-images/4c3436a4-2215-4945-8fb1-18549c7f302e/353/569/90/False/peter-and-the-starcatchers-1.jpg",
@@ -85,6 +96,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Arndt Ellmer",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Space Between Us",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/f603b1f6-08f1-4ff8-98b3-6550f46283f9/353/569/90/False/the-space-between-us-30.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-space-between-us-30",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Doug Johnstone",
         "dealDescription": ""
     },
     {
@@ -393,6 +415,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Darren Aronofsky",
+        "dealDescription": ""
+    },
+    {
+        "title": "Contact",
+        "price": 12.99,
+        "cover": "https://cdn.kobo.com/book-images/00ef1762-4edc-430c-988f-3cb68259640d/353/569/90/False/contact-37.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/contact-37",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Carl Sagan",
         "dealDescription": ""
     },
     {
