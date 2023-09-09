@@ -17,7 +17,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
         "preorder": "",
         "isPlus": false,
-        "isSale": true,
+        "isSale": false,
         "author": "Rachel Gillig",
         "dealDescription": ""
     },
@@ -572,6 +572,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Vera Wong's Unsolicited Advice for Murderers",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/fc8f22f2-01c6-4955-ac05-fc1ae27b723d/353/569/90/False/vera-wong-s-unsolicited-advice-for-murderers-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/vera-wong-s-unsolicited-advice-for-murderers-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Jesse Q. Sutanto",
+        "dealDescription": ""
+    },
+    {
         "title": "Hunt on Dark Waters",
         "price": 13.99,
         "cover": "https://cdn.kobo.com/book-images/4b86940d-fcae-42a8-8972-35d95fbcc84a/353/569/90/False/hunt-on-dark-waters.jpg",
@@ -748,6 +759,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Tell Me Pleasant Things about Immortality",
+        "price": 15.99,
+        "cover": "https://cdn.kobo.com/book-images/1c5d1163-c26e-409e-87b5-63bb69720a91/353/569/90/False/tell-me-pleasant-things-about-immortality.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/tell-me-pleasant-things-about-immortality",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Lindsay Wong",
+        "dealDescription": ""
+    },
+    {
         "title": "Gory Details",
         "price": 15.99,
         "cover": "https://cdn.kobo.com/book-images/267cda6d-758b-434d-9756-93b2122008b4/353/569/90/False/gory-details-2.jpg",
@@ -877,28 +899,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Shannon Chakraborty",
-        "dealDescription": ""
-    },
-    {
-        "title": "Vera Wong's Unsolicited Advice for Murderers",
-        "price": 17.99,
-        "cover": "https://cdn.kobo.com/book-images/fc8f22f2-01c6-4955-ac05-fc1ae27b723d/353/569/90/False/vera-wong-s-unsolicited-advice-for-murderers-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/vera-wong-s-unsolicited-advice-for-murderers-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Jesse Q. Sutanto",
-        "dealDescription": ""
-    },
-    {
-        "title": "Tell Me Pleasant Things about Immortality",
-        "price": 17.99,
-        "cover": "https://cdn.kobo.com/book-images/1c5d1163-c26e-409e-87b5-63bb69720a91/353/569/90/False/tell-me-pleasant-things-about-immortality.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/tell-me-pleasant-things-about-immortality",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Lindsay Wong",
         "dealDescription": ""
     },
     {
