@@ -11,6 +11,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Magician's Daughter",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/86145ac0-0cef-4d09-b59f-d868a1b17c2f/353/569/90/False/the-magician-s-daughter-8.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-magician-s-daughter-8",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "H. G. Parry",
+        "dealDescription": ""
+    },
+    {
         "title": "One Dark Window",
         "price": 6.99,
         "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
@@ -448,17 +459,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Alastair Reynolds",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Magician's Daughter",
-        "price": 12.99,
-        "cover": "https://cdn.kobo.com/book-images/86145ac0-0cef-4d09-b59f-d868a1b17c2f/353/569/90/False/the-magician-s-daughter-8.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-magician-s-daughter-8",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "H. G. Parry",
         "dealDescription": ""
     },
     {
