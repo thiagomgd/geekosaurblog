@@ -11,6 +11,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Midnight's Children",
+        "price": 1.99,
+        "cover": "https://cdn.kobo.com/book-images/03240bbe-2ae1-41e3-bb39-c00305e30573/353/569/90/False/midnight-s-children-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/midnight-s-children-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Salman Rushdie",
+        "dealDescription": ""
+    },
+    {
         "title": "One Dark Window",
         "price": 6.99,
         "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
@@ -349,17 +360,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Catherine Bakewell",
-        "dealDescription": ""
-    },
-    {
-        "title": "Midnight's Children",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/03240bbe-2ae1-41e3-bb39-c00305e30573/353/569/90/False/midnight-s-children-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/midnight-s-children-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Salman Rushdie",
         "dealDescription": ""
     },
     {
