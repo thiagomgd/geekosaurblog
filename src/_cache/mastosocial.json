@@ -1,6 +1,34 @@
 {
-  "lastFetched": "2023-09-21T16:51:40.829Z",
+  "lastFetched": "2023-09-22T17:43:36.017Z",
   "posts": [
+    {
+      "date": "2023-09-22T06:28:20.942Z",
+      "id": "111107381716899931",
+      "title": "",
+      "content": "<p>Today I preordered Kep1er’s 5th mini album: Magic. I got the Moodlighted (blue) version.</p><p>Also wrapped up my Obsidian QuickAdd script to create video pages from Plex recently played/finished. </p><p>Now I’m watching Columbo (Columbo Cries Wolf) on my iPad on the couch because Plex is crashing on my TV</p><p><a href=\"https://youtu.be/xx-RLcU5prI?si=n56hsKV9tC-K1yNi\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">youtu.be/xx-RLcU5prI?si=n56hsK</span><span class=\"invisible\">V9tC-K1yNi</span></a> </p>",
+      "source_url": "https://mastodon.social/@falcon/111107381716899931",
+      "site": "Mastodon",
+      "images": [
+        {
+          "url": "https://files.mastodon.social/media_attachments/files/111/107/380/456/842/733/original/85a1aecefec4fbcc.jpeg",
+          "alt": null,
+          "width": 416,
+          "height": 554,
+          "aspect": 0.7509025270758123
+        }
+      ],
+      "embed": "https://www.youtube.com/watch?si=n56hsKV9tC-K1yNi&v=xx-RLcU5prI&feature=youtu.be",
+      "tags": [
+        "daily",
+        "kPop",
+        "obsidian",
+        "plex",
+        "columbo"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mastodon.social/@falcon/111107381716899931",
+      "host": "mastodon.social"
+    },
     {
       "date": "2023-09-14T20:50:20.969Z",
       "id": "111065472758538637",
