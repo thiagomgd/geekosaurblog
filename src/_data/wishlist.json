@@ -11,6 +11,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Immortal Longings",
+        "price": 4.99,
+        "cover": "https://cdn.kobo.com/book-images/7fee9268-f6a6-4eaf-9afe-ebdb61f4593d/353/569/90/False/immortal-longings-5.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/immortal-longings-5",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Chloe Gong",
+        "dealDescription": ""
+    },
+    {
         "title": "One Dark Window",
         "price": 6.99,
         "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
@@ -220,6 +231,17 @@
         "dealDescription": ""
     },
     {
+        "title": "A Study in Drowning",
+        "price": 10.99,
+        "cover": "https://cdn.kobo.com/book-images/31161509-5ffe-4bab-9b1b-f8c019e31234/353/569/90/False/a-study-in-drowning-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-study-in-drowning-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Ava Reid",
+        "dealDescription": ""
+    },
+    {
         "title": "Spineless",
         "price": 10.99,
         "cover": "https://cdn.kobo.com/book-images/1f353c4d-44e3-4cf7-a82b-53de606ab011/353/569/90/False/spineless-8.jpg",
@@ -415,6 +437,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Darren Aronofsky",
+        "dealDescription": ""
+    },
+    {
+        "title": "What the River Knows",
+        "price": 12.99,
+        "cover": "https://cdn.kobo.com/book-images/b9c156f7-9e6f-49d4-8806-fb78fb0b9121/353/569/90/False/what-the-river-knows-2.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/what-the-river-knows-2",
+        "preorder": "Available Oct 31, 2023",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Isabel Iba\u00f1ez",
         "dealDescription": ""
     },
     {
@@ -910,17 +943,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Shannon Chakraborty",
-        "dealDescription": ""
-    },
-    {
-        "title": "Immortal Longings",
-        "price": 17.99,
-        "cover": "https://cdn.kobo.com/book-images/7fee9268-f6a6-4eaf-9afe-ebdb61f4593d/353/569/90/False/immortal-longings-5.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/immortal-longings-5",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Chloe Gong",
         "dealDescription": ""
     },
     {

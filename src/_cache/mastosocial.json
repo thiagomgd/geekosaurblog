@@ -1,6 +1,65 @@
 {
-  "lastFetched": "2023-09-22T17:43:36.017Z",
+  "lastFetched": "2023-09-24T23:34:58.240Z",
   "posts": [
+    {
+      "date": "2023-09-24T18:37:20.489Z",
+      "id": "111121572854833391",
+      "title": "",
+      "content": "<p>Yesterday I was working on migrating data from Trakt to TheMovieDB, and also importing those on my obsidian. Finished a script to update show and movie notes with current TheMovieDB data :)</p><p>Also worked a bit on some other exports and organization. Watched a bit of Columbo (about 30 minutes), and an episode of What We Do In The Shadows.</p>",
+      "source_url": "https://mastodon.social/@falcon/111121572854833391",
+      "site": "Mastodon",
+      "images": [],
+      "embed": null,
+      "tags": [
+        "daily",
+        "obsidian",
+        "organization"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mastodon.social/@falcon/111121572854833391",
+      "host": "mastodon.social"
+    },
+    {
+      "date": "2023-09-24T18:35:11.954Z",
+      "id": "111121564431328130",
+      "title": "",
+      "content": "<p>On Friday I borrowed my wife's Epomaker th80 pro so I can use it while she's sick, and until my Dygma Defy arrives. Love the sound and the feeling on this keyboard.</p><p>Then I went to Kafka's to have some coffee and read Durarara!</p>",
+      "source_url": "https://mastodon.social/@falcon/111121564431328130",
+      "site": "Mastodon",
+      "images": [
+        {
+          "url": "https://files.mastodon.social/media_attachments/files/111/121/556/833/807/834/original/60804fb25e81651d.jpeg",
+          "alt": "photo showing colorful mechanical keyboard, monitor with Rem from Re:ZERO and Starbucks cup",
+          "width": 416,
+          "height": 554,
+          "aspect": 0.7509025270758123
+        },
+        {
+          "url": "https://files.mastodon.social/media_attachments/files/111/121/557/637/715/731/original/c28d29c01decf7c9.jpeg",
+          "alt": "Coffee shop, showing muffing and coffee mug",
+          "width": 416,
+          "height": 554,
+          "aspect": 0.7509025270758123
+        },
+        {
+          "url": "https://files.mastodon.social/media_attachments/files/111/121/558/181/929/542/original/b011ee1944b6e3cc.jpeg",
+          "alt": "Coffee shop, showing Kobo on light novel page and coffee mug",
+          "width": 416,
+          "height": 554,
+          "aspect": 0.7509025270758123
+        }
+      ],
+      "embed": null,
+      "tags": [
+        "daily",
+        "lightNovel",
+        "durarara",
+        "coffee"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mastodon.social/@falcon/111121564431328130",
+      "host": "mastodon.social"
+    },
     {
       "date": "2023-09-22T06:28:20.942Z",
       "id": "111107381716899931",

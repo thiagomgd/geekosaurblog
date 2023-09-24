@@ -34,16 +34,6 @@
             }
           },
           {
-            "id": "0e9d27e794b8e437",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
-          },
-          {
             "id": "f8dff150c30df6b2",
             "type": "leaf",
             "pinned": true,
@@ -82,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,8 +208,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e9d27e794b8e437",
+  "active": "412931a0da4e978e",
   "lastOpenFiles": [
+    "img/mastodon/2332457-b011ee1944b6e3cc.jpeg",
+    "img/mastodon/2865243-c28d29c01decf7c9.jpeg",
+    "img/mastodon/1941649-60804fb25e81651d.jpeg",
     "posts/links/links-2.md",
     "posts/links/links-1.md",
     "posts/news/geekosaur-news-28.md",
@@ -235,8 +228,6 @@
     "img/mastodon/3030016-8980be00f0c99c61.png",
     "img/mastodon/3549067-2f15daa6149e63c1.png",
     "img/mastodon/2921197-17b085180c52155d.png",
-    "img/mastodon/3213024-328737741940b134.png",
-    "img/mastodon/2457016-8a5614170850f469.png",
     "img/mastodon",
     "img/ext",
     "_cache/images.json",
@@ -264,7 +255,6 @@
     "_cache/mastosakurajima.json",
     "_cache/mastotootcat.json",
     "notes/2023-04-06-02-29.md",
-    "posts/2021/my-tbr-dec-2021.md",
-    "posts/news/geekosaur-news-32.md"
+    "posts/2021/my-tbr-dec-2021.md"
   ]
 }
