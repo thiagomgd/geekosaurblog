@@ -8,7 +8,6 @@ description: "Soooo... after Twitter, now it's Reddit's time to go down in flame
 title: 'Geekosaur News 35: Reddit Boycott, Alternatives, Less Social Media?'
 toc: false
 ---
-
 Soooo... after Twitter, now it's Reddit's time to go down in flames. And again, some people try to flock to some alternatives.
 
 1. The alternatives are still small, and yes, a lot of subreddits are still going. I guess what's going to happen is similar to Twitter, where the enshitification is going to lead to a few waves of people migrating as new changes are announced or service deteriorates

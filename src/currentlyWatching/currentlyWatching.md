@@ -12,37 +12,24 @@ Jump to [Anime](#anime)
 ## TV
 
 **Current**:
-- That 70's Show S8
-- Yellowjackets S2
-- Evil S2
+- Archer season 14
+- Columbo season 9
 
 **Next**:
-- Silo S1
-- Schmigadoon! S2
-- Ted Lasso S3 (Final Season)
-- Carnival Row S2 (Final Season)
-- The Last of Us
-
-** Waiting For Release **
-- Shining Vale (S2)
+- Revenant (resuming)
 - Only Murders In The Building (S3)
-- Severance (S2)
 
 **At some point**:
 - The Marvelous Ms. Maisel (S3)
 - The Boys (S3)
 - Fortitude (S3 - final season)
 - The Rain (S3 - final season)
+- To The Lake (S2) (not available anywhere)
+- Victoria (S2)
+- The Queen's Gambit
 
 **Paused/On Hold**
 - Perry Mason (S1)
-- The Queen's Gambit
-- The X-Files
-- Wynonna Earp (S2)
-- Better Than Us (S1)
-- To The Lake (S2)
-- The Flight Attendant (S1)
-- Victoria (S2)
 
 ## Anime
 

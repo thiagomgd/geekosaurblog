@@ -12,7 +12,7 @@ Jump to [Manga](#manga)
 ## Books
 
 **Current**:
-- The Poisoner's Ring (A Rip Through Time #2) by Kelley Armstrong ([link](https://www.kelleyarmstrong.com/book/the-poisoners-ring/))
+- Durarara!
 
 **Next**:
 - Dust by Hugh Howey

@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "412931a0da4e978e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/2023/2023-sept-new-books.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f8dff150c30df6b2",
             "type": "leaf",
             "pinned": true,
@@ -48,31 +36,34 @@
             }
           },
           {
+            "id": "412931a0da4e978e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/news/geekosaur-news-36.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "8da96bdfd75195c8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "posts/2023/friday-finds-1.md",
                 "mode": "source",
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "1273d42b32aba226",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/2023/korean-dramas-interested-2023-06-09.md",
-                "mode": "source",
-                "source": true
-              }
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2023/2023-sept-new-books.md",
+                "file": "currentlyReading/currentlyReading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2023/2023-sept-new-books.md",
+                "file": "currentlyReading/currentlyReading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2023/2023-sept-new-books.md"
+                "file": "currentlyReading/currentlyReading.md"
               }
             }
           }
@@ -208,11 +199,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "412931a0da4e978e",
+  "active": "cdb6bbf0b77d6c49",
   "lastOpenFiles": [
+    "currentlyWatching/currentlyWatching.md",
+    "posts/news/geekosaur-news-36.md",
+    "posts/news/geekosaur-news-35.md",
+    "posts/2023/2023-sept-new-books.md",
     "posts/2023/2023-anticipated-books-ya.md",
     "posts/2023/2023-anticipated-books.md",
-    "posts/2023/2023-sept-new-books.md",
     "img/2023-sept-books-bought-wishlisted-1.png",
     "posts/2023/korean-dramas-interested-2023-06-09.md",
     "posts/2023/lorcana-catan-having-something-to-do.md",
@@ -226,7 +220,6 @@
     "posts/links/links-2.md",
     "posts/news/geekosaur-news-28.md",
     "img/Koyomi-Takanashi.png",
-    "posts/news/geekosaur-news-35.md",
     "img/mastodon/3655712-1ce5249fd435a59c.png",
     "img/mastodon/3522381-19ae11804401e9c8.png",
     "img/mastodon/5816892-a55210fa97fec64a.png",
@@ -238,7 +231,6 @@
     "img/ext",
     "_cache/images.json",
     "posts/2023/friday-finds-1.md",
-    "currentlyWatching/currentlyWatching.md",
     "posts/news/geekosaur-news-34.md",
     "posts/news/geekosaur-news-33.md",
     "templates/note_template.md",

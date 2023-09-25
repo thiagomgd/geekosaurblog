@@ -22,6 +22,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Magic Kingdom for Sale--Sold!",
+        "price": 6.99,
+        "cover": "https://cdn.kobo.com/book-images/bcee7e74-a10c-4dac-aa0e-c52f6d32499f/353/569/90/False/magic-kingdom-for-sale-sold-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/magic-kingdom-for-sale-sold-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Terry Brooks",
+        "dealDescription": ""
+    },
+    {
         "title": "One Dark Window",
         "price": 6.99,
         "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
@@ -30,6 +41,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Rachel Gillig",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Storm Keeper\u2019s Island",
+        "price": 7.99,
+        "cover": "https://cdn.kobo.com/book-images/df30353b-3a88-484f-9bca-514533af4a60/353/569/90/False/the-storm-keeper-s-island-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-storm-keeper-s-island-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Catherine Doyle",
         "dealDescription": ""
     },
     {
@@ -77,6 +99,39 @@
         "dealDescription": ""
     },
     {
+        "title": "The Lark and the Wren",
+        "price": 8.73,
+        "cover": "https://cdn.kobo.com/book-images/eda16fa7-94e2-4bac-a8fe-6d66502dd4b0/353/569/90/False/the-lark-and-the-wren.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-lark-and-the-wren",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Mercedes Lackey",
+        "dealDescription": ""
+    },
+    {
+        "title": "Front Desk (Front Desk #1) (Scholastic Gold)",
+        "price": 8.99,
+        "cover": "https://cdn.kobo.com/book-images/8579b181-5763-4c1b-97c6-a189e1045f2b/353/569/90/False/front-desk-front-desk-1-scholastic-gold.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/front-desk-front-desk-1-scholastic-gold",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Kelly Yang",
+        "dealDescription": ""
+    },
+    {
+        "title": "Crystal Singer",
+        "price": 8.99,
+        "cover": "https://cdn.kobo.com/book-images/98fa7977-cbae-434d-af33-03540085f36e/353/569/90/False/crystal-singer.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/crystal-singer",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Anne McCaffrey",
+        "dealDescription": ""
+    },
+    {
         "title": "Spell Booked",
         "price": 8.99,
         "cover": "https://cdn.kobo.com/book-images/7387e5fc-121e-42d4-acaa-74d39e1f7ef8/353/569/90/False/spell-booked.jpg",
@@ -107,6 +162,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Arndt Ellmer",
+        "dealDescription": ""
+    },
+    {
+        "title": "Charmed Life (The Chrestomanci Series, Book 1)",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/39a3c039-55ac-4b68-9fc5-f23c1235d5b9/353/569/90/False/charmed-life-the-chrestomanci-series-book-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/charmed-life-the-chrestomanci-series-book-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Diana Wynne Jones",
         "dealDescription": ""
     },
     {
@@ -231,6 +297,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Joust",
+        "price": 10.99,
+        "cover": "https://cdn.kobo.com/book-images/6ff3786d-3a1c-4908-b2dc-fef18b6682a5/353/569/90/False/joust-3.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/joust-3",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Mercedes Lackey",
+        "dealDescription": ""
+    },
+    {
         "title": "A Study in Drowning",
         "price": 10.99,
         "cover": "https://cdn.kobo.com/book-images/31161509-5ffe-4bab-9b1b-f8c019e31234/353/569/90/False/a-study-in-drowning-1.jpg",
@@ -261,6 +338,28 @@
         "isPlus": false,
         "isSale": false,
         "author": "Alastair Reynolds",
+        "dealDescription": ""
+    },
+    {
+        "title": "Wild Born (Spirit Animals, Book 1)",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/e20cdc39-1b9b-46cb-811e-5ecab688ee11/353/569/90/False/wild-born-spirit-animals-book-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/wild-born-spirit-animals-book-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Brandon Mull",
+        "dealDescription": ""
+    },
+    {
+        "title": "Spellsinger",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/8c216d95-5292-4397-b9b3-2229314b6c88/353/569/90/False/spellsinger-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/spellsinger-1",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Alan Dean Foster",
         "dealDescription": ""
     },
     {
@@ -572,6 +671,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Drowned Woods",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/12c9f910-b41a-483f-a90e-b6f7c1398a60/353/569/90/False/the-drowned-woods.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-drowned-woods",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Emily Lloyd-Jones",
+        "dealDescription": ""
+    },
+    {
         "title": "Dead Dead Girls",
         "price": 13.99,
         "cover": "https://cdn.kobo.com/book-images/d1dedd2b-3d96-49e2-b923-50c16313b6f9/353/569/90/False/dead-dead-girls.jpg",
@@ -657,6 +767,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Riley Sager",
+        "dealDescription": ""
+    },
+    {
+        "title": "Dead Country",
+        "price": 14.99,
+        "cover": "https://cdn.kobo.com/book-images/ef3dd624-e52f-4166-a159-2f91e69bc6a1/353/569/90/False/dead-country-3.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/dead-country-3",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Max Gladstone",
         "dealDescription": ""
     },
     {
@@ -987,6 +1108,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Geena Davis",
+        "dealDescription": ""
+    },
+    {
+        "title": "Beyond",
+        "price": 19.99,
+        "cover": "https://cdn.kobo.com/book-images/b135b330-c00c-4df0-840a-8c2f1bf83296/353/569/90/False/beyond-104.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/beyond-104",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Mercedes Lackey",
         "dealDescription": ""
     },
     {
