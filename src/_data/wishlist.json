@@ -11,14 +11,14 @@
         "dealDescription": ""
     },
     {
-        "title": "Immortal Longings",
-        "price": 4.99,
-        "cover": "https://cdn.kobo.com/book-images/7fee9268-f6a6-4eaf-9afe-ebdb61f4593d/353/569/90/False/immortal-longings-5.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/immortal-longings-5",
+        "title": "Tell Me I'm Worthless",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/154687ae-fa0f-47ca-98fa-e4e9e3c8458c/353/569/90/False/tell-me-i-m-worthless-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/tell-me-i-m-worthless-1",
         "preorder": "",
         "isPlus": false,
         "isSale": true,
-        "author": "Chloe Gong",
+        "author": "Alison Rumfitt",
         "dealDescription": ""
     },
     {
@@ -217,17 +217,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Juliet Blackwell",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Merry Dredgers",
-        "price": 9.99,
-        "cover": "https://cdn.kobo.com/book-images/519e3a13-b171-4cbe-a000-44b58a9e8393/353/569/90/False/the-merry-dredgers.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-merry-dredgers",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "Jeremy C. Shipp",
         "dealDescription": ""
     },
     {
@@ -836,17 +825,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Tell Me I'm Worthless",
-        "price": 14.99,
-        "cover": "https://cdn.kobo.com/book-images/154687ae-fa0f-47ca-98fa-e4e9e3c8458c/353/569/90/False/tell-me-i-m-worthless-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/tell-me-i-m-worthless-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Alison Rumfitt",
-        "dealDescription": ""
-    },
-    {
         "title": "Sweep of Stars",
         "price": 14.99,
         "cover": "https://cdn.kobo.com/book-images/ede94011-3eee-40a8-994f-b7d8827c7ba5/353/569/90/False/sweep-of-stars.jpg",
@@ -1064,6 +1042,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Shannon Chakraborty",
+        "dealDescription": ""
+    },
+    {
+        "title": "Immortal Longings",
+        "price": 17.99,
+        "cover": "https://cdn.kobo.com/book-images/7fee9268-f6a6-4eaf-9afe-ebdb61f4593d/353/569/90/False/immortal-longings-5.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/immortal-longings-5",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Chloe Gong",
         "dealDescription": ""
     },
     {
