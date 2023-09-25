@@ -9,7 +9,6 @@ lead: ""
 thumbnail: 
 slug: '2023-anticipated-books'
 ---
-
 A couple weeks ago I posted some [anticipated YA book releases for 2023](https://geekosaur.com/post/2023-anticipated-books-ya/). Now I'm back with a few more genres. Yeah, I know it's LATE for this kind of list, but here I'm anyway.
 
 All books come from the following Goodreads lists:

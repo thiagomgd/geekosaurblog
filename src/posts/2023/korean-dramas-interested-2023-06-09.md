@@ -5,15 +5,11 @@ tags:
  - lists
 date: '2023-06-09T20:20:00.000-07:00'
 title: "Korean Dramas I'm Interested In (Jun. 09, 2023)"
-description: "Korean Dramas premiering in June that I'm interested into!
-
-
-Which Asian dramas (not only Korean) are premiering in June an in your radar?"
+description: "Korean Dramas premiering in June that I'm interested into! Which Asian dramas (not only Korean) are premiering in June an in your radar?"
 lead: "So much drama, so little time"
 thumbnail: /img/korean-dramas-interested-2023-06-09.png
 toc: true
 ---
-
 June is here, my interest in Korean dramas is here, so let's make a small list of shows premiering this month that are on my radar!
 
 ![](img/korean-dramas-interested-2023-06-09.png)

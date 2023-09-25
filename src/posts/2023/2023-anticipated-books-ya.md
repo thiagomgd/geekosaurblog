@@ -10,7 +10,6 @@ lead: ""
 thumbnail: /img/2023-anticipated-books-ya.png
 slug: '2023-anticipated-books-ya'
 ---
-
 I should have done this sooner, but here it is: a look at those "Most Anticipated Books" lists. This time checking some 2023 YA releases that I might like. 
 
 Will do other categories (Fantasy, Horror, Sci-Fi) later on. This is comes from [GoodReads](https://www.goodreads.com/blog/show/2510-2023-s-most-anticipated-young-adult-books)
