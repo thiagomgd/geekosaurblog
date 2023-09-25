@@ -1,6 +1,31 @@
 {
-  "lastFetched": "2023-09-24T23:34:58.240Z",
+  "lastFetched": "2023-09-25T02:48:51.213Z",
   "posts": [
+    {
+      "date": "2023-09-25T02:34:15.259Z",
+      "id": "111123448152553164",
+      "title": "",
+      "content": "<p>Today I went to another cafe to read a bit more Durarara!</p><p>I bought an external 1tb usb-c SSD, cine my mac-mini only has 500gb storage. That's going to help a lot. I already have a large external drive, but that's for backup, so I don't wanna leave it always plugged on the mac.</p><p>I finished What We Do In The Shadows season 5, and started Archer season 14. Will continue watching Archer tonight, and leave Columbo for maybe tomorrow.</p>",
+      "source_url": "https://mastodon.social/@falcon/111123448152553164",
+      "site": "Mastodon",
+      "images": [
+        {
+          "url": "https://files.mastodon.social/media_attachments/files/111/123/445/414/040/980/original/52b22e9880792634.jpeg",
+          "alt": "Photo showing a Kobo with the light novel text in it, and a street on the back",
+          "width": 416,
+          "height": 554,
+          "aspect": 0.7509025270758123
+        }
+      ],
+      "embed": null,
+      "tags": [
+        "daily",
+        "tv"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mastodon.social/@falcon/111123448152553164",
+      "host": "mastodon.social"
+    },
     {
       "date": "2023-09-24T18:37:20.489Z",
       "id": "111121572854833391",
