@@ -319,6 +319,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Sacrifice",
+        "price": 10.99,
+        "cover": "https://cdn.kobo.com/book-images/30d82ba3-83c6-4172-ae66-18255fcc3950/353/569/90/False/the-sacrifice-79.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-sacrifice-79",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Rin Chupeco",
+        "dealDescription": ""
+    },
+    {
         "title": "House of Suns",
         "price": 10.99,
         "cover": "https://cdn.kobo.com/book-images/067a6479-ebe1-4425-8f99-fd1fd4f5c5fd/353/569/90/False/house-of-suns-2.jpg",
@@ -470,17 +481,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Salman Rushdie",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Sacrifice",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/30d82ba3-83c6-4172-ae66-18255fcc3950/353/569/90/False/the-sacrifice-79.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-sacrifice-79",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Rin Chupeco",
         "dealDescription": ""
     },
     {
