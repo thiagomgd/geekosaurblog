@@ -12,6 +12,19 @@ const external = /https?:\/\/((?:[\w\d-]+\.)+[\w\d]{2,})/i;
 
 const SOCIAL_PATH = "src/_data/social.json";
 
+const isValidUrl = (urlString) => {
+  var urlPattern = new RegExp(
+    "^(https?:\\/\\/)?" + // validate protocol
+      "((([a-z\\d]([a-z\\d-]*[a-z\\d])*)\\.)+[a-z]{2,}|" + // validate domain name
+      "((\\d{1,3}\\.){3}\\d{1,3}))" + // validate OR ip (v4) address
+      "(\\:\\d+)?(\\/[-a-z\\d%_.~+]*)*" + // validate port and path
+      "(\\?[;&a-z\\d%_.~+=-]*)?" + // validate query string
+      "(\\#[-a-z\\d_]*)?$",
+    "i",
+  ); // validate fragment locator
+  return !!urlPattern.test(urlString);
+};
+
 function readSocialLinks() {
   if (fs.existsSync(SOCIAL_PATH)) {
     const cacheFile = fs.readFileSync(SOCIAL_PATH);
@@ -359,21 +372,28 @@ const getTootTitleContent = (config, toot) => {
   let title = "";
   let content;
 
+  if (["links", "music"].includes(config.type)) {
+    console.log("*********");
+    console.log(toot.content);
+    let [title, ...content] = toot.content.split("</p>");
+    content = content.join("</p>");
+
+    title = title.replace(" - YouTube", "").replace(/(<([^>]+)>)/gi, "");
+    return [title, content];
+  }
   // TODO: maybe also try splitting when it's not a paragraph?
   // I would need to then add <p> at the beginning of content, remove line break from title
-  const [part1, part2] = toot.content.split("<p>---</p>");
+  let [part1, part2] = toot.content.split("<p>---</p>");
+
+  if (!part2 && config.type === "music") {
+    let [title, ...rest] = part1.split("</p>");
+    part1 = title;
+    part2 = rest.join("</p>");
+  }
 
   if (part2) {
     title = part1.replace(/(<([^>]+)>)/gi, "");
     content = part2;
-    return [title, content];
-  }
-
-  if (config.type === "links") {
-    let [title, ...content] = toot.content.split("</p>");
-    content = content.join("</p>");
-
-    title = title.replace(/(<([^>]+)>)/gi, "");
     return [title, content];
   }
 
@@ -382,16 +402,16 @@ const getTootTitleContent = (config, toot) => {
   return [title, content];
 };
 
-const tootIsLinkNotReply = (post) => {
-  const isLink =
-    (Object.hasOwn(post, "embed") && post["embed"]) ||
-    (Object.hasOwn(post, "card") && post["card"]);
+// const tootIsLinkNotReply = (post) => {
+//   const isLink =
+//     (Object.hasOwn(post, "embed") && post["embed"]) ||
+//     (Object.hasOwn(post, "card") && post["card"]);
 
-  const isReply =
-    Object.hasOwn(post, "in_reply_to_id") && post["in_reply_to_id"];
+//   const isReply =
+//     Object.hasOwn(post, "in_reply_to_id") && post["in_reply_to_id"];
 
-  return isLink && !isReply;
-};
+//   return isLink && !isReply;
+// };
 
 const formatMastodonTimeline = (timeline, config) => {
   // console.log("$$$", config.host, !config.preTagFilter, config.type);
@@ -449,7 +469,7 @@ const formatMastodonTimeline = (timeline, config) => {
       host: config.host.split("/")[2],
     };
 
-    if (config.type === "links") {
+    if (["links", "music"].includes(config.type)) {
       const [items, linkUrl, seeAlso] = getAndRemoveMastoLinks(content);
 
       toot["linkUrl"] = linkUrl;
@@ -557,6 +577,193 @@ const getMastodonPostsForConfig = async (options) => {
   return computeMastodonPosts(config, cache.posts);
 };
 
+/* ----------------------------------------- */
+
+const getFirefishTitleContent = (config, toot) => {
+  // console.log("@@@@ firefish id", toot.id);
+  let title = "";
+  let links = [];
+
+  // if (["links", "music"].includes(config.type)) {
+  let tags = [];
+
+  // console.log(toot);
+
+  const [part1, ...part2] = toot.text.split("\n\n");
+  // console.log("------------------");
+  // console.log(part1);
+  // console.log(part2);
+
+  title = part1;
+
+  let content = [];
+
+  for (let i = 0; i < part2.length; i++) {
+    const text = part2[i];
+
+    if (i === part2.length - 1) {
+      if (content.length) {
+        throw new Error("shouldnt have content left on firefish post");
+      }
+      tags = text.split(" ").map((tag) => tag.replace("#", ""));
+      break;
+    }
+
+    if (text.includes("https://") || text.includes("http://")) {
+      if (isValidUrl(text)) {
+        links.push({ content: content, link: text });
+        content = [];
+      } else {
+        // assume format: `some comment: link`;
+        const [linkText, link] = text.split(": ");
+        content.push(linkText);
+        links.push({ content: content, link: link });
+        content = [];
+      }
+      continue;
+    }
+
+    content.push(text);
+  }
+
+  title = title.replace(" - YouTube", "");
+  return [title, links, tags];
+  // }
+  // return ["", "", ""];
+};
+
+const formatFirefishTimeline = (timeline, config) => {
+  const filtered = timeline.filter(
+    (post) =>
+      // remove posts that are already on your own site.
+      !config.removeSyndicates.some((url) => post.text.includes(url)) &&
+      (!config.preTagFilter ||
+        (post.tags &&
+          post.tags.some((tag) => config.preTagFilter.includes(tag)))),
+  );
+
+  const formatted = filtered.map((post) => {
+    // const images = post.media_attachments.map((image) => ({
+    //   url: image?.url,
+    //   alt: image?.description,
+    //   width: image?.meta?.small?.width,
+    //   height: image?.meta?.small?.height,
+    //   aspect: image?.meta?.small?.aspect,
+    // }));
+
+    let [title, content, tags] = getFirefishTitleContent(config, post);
+
+    // const tags = getFirefishTags(content);
+
+    // if (config.removeTags) {
+    //   content = removeFirefishTags(content);
+    // }
+
+    // console.log(post.files);
+    const toot = {
+      date: post.createdAt,
+      id: post.id,
+      title: title,
+      content: content,
+      originalText: post.text,
+      source_url: post.url,
+      site: "Firefish",
+      // images: images,
+      // embed: post.card?.url ? post.card.url : null,
+      tags: tags, //post.tags doesn't respect capitalization post.tags.map(tag => tag.name),
+      // tagss: post.tags,
+      emojis: post.emojis,
+      tootUrl: post.url,
+      host: config.host.split("/")[2],
+    };
+
+    return toot;
+  });
+
+  return formatted;
+};
+
+const fetchFirefishPosts = async (config, cache) => {
+  const data = {
+    limit: 100,
+    includeReplies: true,
+    includeMyRenotes: false,
+    userId: config.userId,
+  };
+
+  if (cache.lastFetchPostID || cache.firstPostId) {
+    data["sinceId"] = cache.lastFetchPostID || cache.firstPostId;
+    console.log(`>>> Requesting posts made after ${data["sinceId"]}...`);
+  }
+
+  const firefishNotesAPI = `${config.host}/api/users/notes`;
+
+  // const url = new URL(`${firefishNotesAPI}?${queryParams}`, { method: "POST" });
+  const response = await fetch(firefishNotesAPI, {
+    method: "POST",
+    body: JSON.stringify(data),
+  });
+  if (!response.ok) {
+    console.warn(">>> unable to fetch firefish posts", response.statusText);
+    console.warn(await response.text());
+
+    return;
+  }
+  const feed = await response.json();
+
+  if (!feed) return false;
+
+  cache.lastFetchPostID = feed[feed.length - 1].id;
+  cache.lastFetched = new Date().toISOString();
+
+  const timeline = formatFirefishTimeline(feed, config);
+  console.log(`>>> ${timeline.length} new firefish posts fetched`);
+
+  const newMergedPosts = mergeMastodonPosts(cache, timeline);
+  cache.posts = newMergedPosts;
+
+  writeToCache(cache, config.cacheLocation, "firefish posts");
+};
+
+const getFirefishPostsForConfig = async (options) => {
+  if (!options.host) {
+    console.error("No URL provided for the Firefish server.");
+    return;
+  }
+  if (!options.userId) {
+    console.error("No userID provided.");
+    return;
+  }
+
+  const defaults = {
+    removeSyndicates: [],
+    cacheLocation: ".cache/firefish.json",
+    posse: true,
+    shouldFetch: true,
+    removeTags: false,
+    type: "toots",
+  };
+
+  const config = { ...defaults, ...options };
+
+  console.log(">>> Reading firefish posts from cache...");
+  const cache = readFromCache(config.cacheLocation);
+
+  if (cache.posts?.length) {
+    console.log(`>>> ${cache.posts.length} firefish posts loaded from cache`);
+  }
+
+  // Only fetch new posts in production
+  if (config.shouldFetch) {
+    console.log(">>> Checking for new firefish posts...");
+    await fetchFirefishPosts(config, cache);
+  }
+
+  // console.log('!!!');
+  // console.log(cache.posts);
+  return computeMastodonPosts(config, cache.posts);
+};
+
 module.exports = {
   readSocialLinks,
   saveSocialLinks,
@@ -572,4 +779,5 @@ module.exports = {
   getMastoTags,
   getLocalImageLink,
   getMastodonPostsForConfig,
+  getFirefishPostsForConfig,
 };

@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2023-09-25T16:38:07.646Z",
+  "lastFetched": "2023-10-01T18:05:08.560Z",
   "children": [
     {
       "type": "entry",
@@ -7831,6 +7831,25 @@
       },
       "in-reply-to": "https://geekosaur.com/post/geekosaur-news-35/",
       "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Weebdeluxe",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/b4fd69239997a1f22cc0205a6b8e19305bbabb121ae1cf659e19fe90ffd87c6b.jpg",
+        "url": "https://urusai.social/@weebdeluxe"
+      },
+      "url": "https://mastodon.social/@falcon/111123500057757934#favorited-by-110370844280708080",
+      "published": null,
+      "wm-received": "2023-09-26T06:23:01Z",
+      "wm-id": 1720757,
+      "wm-source": "https://brid.gy/like/mastodon/@falcon@mastodon.social/111123500057757934/110370844280708080",
+      "wm-target": "https://geekosaur.com/post/2023-sept-books-bought-wishlisted/",
+      "wm-protocol": "webmention",
+      "like-of": "https://geekosaur.com/post/2023-sept-books-bought-wishlisted/",
+      "wm-property": "like-of",
       "wm-private": false
     }
   ]

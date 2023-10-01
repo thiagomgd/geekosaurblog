@@ -1,6 +1,128 @@
 {
-  "lastFetched": "2023-09-25T16:38:07.335Z",
+  "lastFetched": "2023-10-01T18:05:08.418Z",
   "posts": [
+    {
+      "date": "2023-09-29T06:19:14.744Z",
+      "id": "111146982096339166",
+      "title": "",
+      "content": "<p>Today I had some bloodwork done in the morning and had pink chai tea.</p><p>Played Coup online with work folks, then went to Oomomo, Artbox and Muji with my wife, and had a nice black sesame cold cream coffee.</p><p>We got 2 albums at Artbox: Mamamoo+ Two Rabbits, and Red Velvet Ice Cream Cake</p>",
+      "source_url": "https://mastodon.social/@falcon/111146982096339166",
+      "site": "Mastodon",
+      "images": [
+        {
+          "url": "https://files.mastodon.social/media_attachments/files/111/146/980/002/947/596/original/e25a5893f8824818.jpeg",
+          "alt": null,
+          "width": 554,
+          "height": 416,
+          "aspect": 1.3317307692307692
+        }
+      ],
+      "embed": null,
+      "tags": [
+        "daily",
+        "kPop",
+        "mamamoo",
+        "redVelvet"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mastodon.social/@falcon/111146982096339166",
+      "host": "mastodon.social"
+    },
+    {
+      "date": "2023-09-28T04:30:59.109Z",
+      "id": "111140894087688584",
+      "title": "",
+      "content": "<p>This episode was interesting, were Columbo is the target of a woman that wants revenge.</p><p>What is really sweet is how at the end Columbo calls home to check how his wife's doing, and wants to take their pictures so he has something from her in case something happens.</p>",
+      "source_url": "https://mastodon.social/@falcon/111140894087688584",
+      "site": "Mastodon",
+      "images": [
+        {
+          "url": "https://files.mastodon.social/media_attachments/files/111/140/891/140/656/060/original/b386458e217360a9.jpeg",
+          "alt": null,
+          "width": 574,
+          "height": 401,
+          "aspect": 1.43142144638404
+        },
+        {
+          "url": "https://files.mastodon.social/media_attachments/files/111/140/891/684/488/029/original/944c20a8baf2729c.jpeg",
+          "alt": null,
+          "width": 574,
+          "height": 401,
+          "aspect": 1.43142144638404
+        },
+        {
+          "url": "https://files.mastodon.social/media_attachments/files/111/140/892/317/792/550/original/bf307b826d91a2c5.jpeg",
+          "alt": null,
+          "width": 574,
+          "height": 401,
+          "aspect": 1.43142144638404
+        },
+        {
+          "url": "https://files.mastodon.social/media_attachments/files/111/140/892/901/276/107/original/a4a22fbb4db27fb3.jpeg",
+          "alt": null,
+          "width": 574,
+          "height": 401,
+          "aspect": 1.43142144638404
+        }
+      ],
+      "embed": null,
+      "tags": [
+        "columbo",
+        "note"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mastodon.social/@falcon/111140894087688584",
+      "host": "mastodon.social"
+    },
+    {
+      "date": "2023-09-28T04:26:56.189Z",
+      "id": "111140878168262416",
+      "title": "",
+      "content": "<p>Today I finally finished watching that Columbo episode (Rest in Peace, Mrs. Columbo).</p><p>Now I might start another one before I start reading Durarara for the night.</p><p>Today I also organized my The Movie DB account a bit, and started rating stuff that I have on my watched list.</p><p>Also updated my personal and work computers to MacOS 14 :)</p>",
+      "source_url": "https://mastodon.social/@falcon/111140878168262416",
+      "site": "Mastodon",
+      "images": [],
+      "embed": null,
+      "tags": [
+        "daily"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mastodon.social/@falcon/111140878168262416",
+      "host": "mastodon.social"
+    },
+    {
+      "date": "2023-09-27T06:27:17.709Z",
+      "id": "111135689127157440",
+      "title": "",
+      "content": "<p>Today was ok. A bit busy at work, but watched some Archer during lunch break and dinner (pizza from Brooklyn Pizza). </p><p>And before dinner, went out to walk around a bit with my wife, she had some brown sugar bobba and I had Starbucks flat white coffee.</p><p>Watched a few more minutes of a Columbo episode, but didn’t finish it though, it’s getting late. Will read a bit of Durarara before bed</p>",
+      "source_url": "https://mastodon.social/@falcon/111135689127157440",
+      "site": "Mastodon",
+      "images": [],
+      "embed": null,
+      "tags": [
+        "daily"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mastodon.social/@falcon/111135689127157440",
+      "host": "mastodon.social"
+    },
+    {
+      "date": "2023-09-26T06:09:41.434Z",
+      "id": "111129957592846874",
+      "title": "",
+      "content": "<p>Today I picked up the new external ssd. It’s so tiny!!</p><p>I also watched more Archer, and worked a bit on my blog code, to import now playing hashtag from my posts here and on Sakurajima (Firefish). Let’s see if this makes it easier to do bi-weekly music posts.</p>",
+      "source_url": "https://mastodon.social/@falcon/111129957592846874",
+      "site": "Mastodon",
+      "images": [],
+      "embed": null,
+      "tags": [
+        "daily",
+        "tv"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mastodon.social/@falcon/111129957592846874",
+      "host": "mastodon.social"
+    },
     {
       "date": "2023-09-25T02:34:15.259Z",
       "id": "111123448152553164",

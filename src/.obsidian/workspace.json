@@ -22,6 +22,16 @@
             }
           },
           {
+            "id": "341c136374b04c9a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
             "id": "f8dff150c30df6b2",
             "type": "leaf",
             "pinned": true,
@@ -63,7 +73,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,8 +210,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdb6bbf0b77d6c49",
+  "active": "341c136374b04c9a",
   "lastOpenFiles": [
+    "img/mastodon/4261341-e25a5893f8824818.jpeg",
+    "img/mastodon/1344948-a4a22fbb4db27fb3.jpeg",
+    "img/mastodon/3740870-bf307b826d91a2c5.jpeg",
+    "img/mastodon/2842904-944c20a8baf2729c.jpeg",
+    "img/mastodon/3107243-b386458e217360a9.jpeg",
+    "_cache/nowPlayingMasto.json",
+    "_cache/nowPlayingSakurajima copy.json",
+    "_cache/nowPlayingSakurajima.json",
+    "_cache/linksuniverseodon___.json",
+    "_cache/linksuniverseodon copy.json",
+    "_data/myNowPlaying.js",
+    "_data/mylinks copy.js",
     "img/mastodon/2639978-52b22e9880792634.jpeg",
     "currentlyWatching/currentlyWatching.md",
     "posts/news/geekosaur-news-36.md",
@@ -220,17 +243,9 @@
     "img/mastodon/1941649-60804fb25e81651d.jpeg",
     "posts/links/links-2.md",
     "posts/news/geekosaur-news-28.md",
-    "img/Koyomi-Takanashi.png",
-    "img/mastodon/3655712-1ce5249fd435a59c.png",
-    "img/mastodon/3522381-19ae11804401e9c8.png",
-    "img/mastodon/5816892-a55210fa97fec64a.png",
-    "img/mastodon/4001641-52d2a22f3969ed8a.png",
     "_cache/linksuniverseodon.json",
     "_data/mylinks.js",
     "_data/mytoots copy.js",
-    "img/mastodon",
-    "img/ext",
-    "_cache/images.json",
     "posts/2023/friday-finds-1.md",
     "posts/news/geekosaur-news-34.md",
     "posts/news/geekosaur-news-33.md",
@@ -239,13 +254,9 @@
     "posts/drafts/____korea 1.md",
     "posts/drafts/__korea 1.md",
     "posts/drafts/Untitled.md",
-    "posts/links",
     "posts/2023/Missing A Blogging Community.md",
     "notes/2023-04-12-10-39.md",
     "currentlyReading/currentlyReading.md",
-    "posts/news/geekosaur-news-32 1.md",
-    "_cache/mastomindly.json",
-    "_cache/mastosakurajima.json",
-    "_cache/mastotootcat.json"
+    "posts/news/geekosaur-news-32 1.md"
   ]
 }
