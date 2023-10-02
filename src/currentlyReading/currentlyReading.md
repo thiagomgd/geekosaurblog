@@ -15,6 +15,7 @@ Jump to [Manga](#manga)
 - Durarara!
 
 **Next**:
+- Konosuba Vol 1
 - Dust by Hugh Howey
 - Immortality: A Love Story (Anatomy #2) by Dana Schwartz ([link](https://dana-schwartz.com/books/immortality-a-love-story/))
 - Stellarlune (Keeper of the Lost Cities #9) by Shannon Messenger ([link](https://www.simonandschuster.com/series/Keeper-of-the-Lost-Cities))
@@ -37,14 +38,15 @@ Manga I'm reading by volume as they release!
 
 Indicating next volume to read:
 
+- Delicious in Dungeon: [Volume 11](https://yenpress.com/9781975346720/delicious-in-dungeon-vol-11/)
 - One Piece: Vol. 81
 - Mieruko-chan: Vol. 7
 - DanDaDan: Vol. 3
 	- Note: Chapters Available on [Viz](https://www.viz.com/shonenjump/chapters/dandadan?locale=en)
 - Don't Toy With Me, Miss Nagatoro: [Volume 12](https://kodansha.us/series/dont-toy-with-me-miss-nagatoro/)
+- FireForce: ??? (chapter 273 of 305)
 - One-Punch Man: 24
 	- Was reading by chapter, until I discovered about the redraws
-- Delicious in Dungeon: [Volume 11](https://yenpress.com/9781975346720/delicious-in-dungeon-vol-11/)
 - Miss Kobayashi’s Dragon Maid: [Volume 12](https://sevenseasentertainment.com/series/miss-kobayashis-dragon-maid/)
 - Ranma 1/2: [Volume 12 (Vol. 19 and 20)](https://www.viz.com/ranma-1-2) - it's a double-volume series.
 
@@ -53,13 +55,11 @@ Indicating next volume to read:
 
 Manga I'm reading by chapters, mostly on Shonen Jump (except for Fire Force). Indicating last chapter read.
 
-- Tenmaku Cinema: 1
 - Gokurakugai: 2
 - Black Clover: 350
 - Sakamoto Days: 101
 - SPY x FAMILY: 61
 - Kaiju No. 8: 54
-- Fire Force: 273 (of 305)
 - Ruri Dragon: 4 (is on hiatus)
 
 ### Want To Start
