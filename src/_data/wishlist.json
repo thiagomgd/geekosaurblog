@@ -11,17 +11,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Effortless",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/857b2bb3-06df-4223-9233-93c610d0d151/353/569/90/False/effortless-8.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/effortless-8",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Greg McKeown",
-        "dealDescription": ""
-    },
-    {
         "title": "Tell Me I'm Worthless",
         "price": 2.99,
         "cover": "https://cdn.kobo.com/book-images/154687ae-fa0f-47ca-98fa-e4e9e3c8458c/353/569/90/False/tell-me-i-m-worthless-1.jpg",
@@ -1053,6 +1042,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Taylor Lorenz",
+        "dealDescription": ""
+    },
+    {
+        "title": "Effortless",
+        "price": 17.99,
+        "cover": "https://cdn.kobo.com/book-images/857b2bb3-06df-4223-9233-93c610d0d151/353/569/90/False/effortless-8.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/effortless-8",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Greg McKeown",
         "dealDescription": ""
     },
     {

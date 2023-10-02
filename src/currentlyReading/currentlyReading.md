@@ -28,13 +28,9 @@ Jump to [Manga](#manga)
 
 ## Manga
 
+Currently: None!
+
 ### Volume Manga
-
-Manga I'm reading by volume as they release!
-
-#### Waiting For Release
-
-#### Catching Up
 
 Indicating next volume to read:
 
