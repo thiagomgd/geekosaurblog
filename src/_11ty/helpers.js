@@ -493,30 +493,46 @@ const formatMastodonTimeline = (timeline, config) => {
   return formatted;
 };
 
-const fetchMastodonPosts = async (config, lastPost) => {
+const fetchMastodonPosts = async (config, cache) => {
   const queryParams = new URLSearchParams({
     limit: 40,
     exclude_replies: true,
     exclude_reblogs: true,
   });
-  if (lastPost) {
-    queryParams.set("since_id", lastPost.id);
-    console.log(`>>> Requesting posts made after ${lastPost.date}...`);
+  if (cache.lastFetchPostID || cache.firstPostId) {
+    queryParams.set("min_id", cache.lastFetchPostID || cache.firstPostId);
+    // queryParams.set("since_id", cache.lastFetchPostID || cache.firstPostId);
+    console.log(
+      `>>> Requesting posts made after ${
+        cache.lastFetchPostID || cache.firstPostId
+      }...`,
+    );
   }
 
   const mastodonStatusAPI = `${config.host}/api/v1/accounts/${config.userId}/statuses`;
 
   const url = new URL(`${mastodonStatusAPI}?${queryParams}`);
   const response = await fetch(url.href);
-  if (response.ok) {
-    const feed = await response.json();
-    // console.log(feed);
-    const timeline = formatMastodonTimeline(feed, config);
-    console.log(`>>> ${timeline.length} new mastodon posts fetched`);
-    return timeline;
+
+  if (!response.ok) {
+    console.warn(">>> unable to fetch mastodon posts", response.statusText);
+    return;
   }
-  console.warn(">>> unable to fetch mastodon posts", response.statusText);
-  return null;
+
+  const feed = await response.json();
+
+  if (!feed || !feed.length) return;
+
+  cache.lastFetchPostID = feed[0].id;
+  cache.lastFetched = new Date().toISOString();
+
+  const timeline = formatMastodonTimeline(feed, config);
+  console.log(`>>> ${timeline.length} new firefish posts fetched`);
+
+  const newMergedPosts = mergeMastodonPosts(cache, timeline);
+  cache.posts = newMergedPosts;
+
+  writeToCache(cache, config.cacheLocation, "mastodon posts");
 };
 
 // Merge fresh posts with cached entries, unique per id
@@ -548,28 +564,17 @@ const getMastodonPostsForConfig = async (options) => {
 
   const config = { ...defaults, ...options };
 
-  let lastPost;
   console.log(">>> Reading mastodon posts from cache...");
   const cache = readFromCache(config.cacheLocation);
 
   if (cache.posts?.length) {
     console.log(`>>> ${cache.posts.length} mastodon posts loaded from cache`);
-    lastPost = cache.posts[0];
   }
 
   // Only fetch new posts in production
   if (config.shouldFetch) {
     console.log(">>> Checking for new mastodon posts...");
-    const feed = await fetchMastodonPosts(config, lastPost);
-    if (feed) {
-      const mastodonPosts = {
-        lastFetched: new Date().toISOString(),
-        posts: mergeMastodonPosts(cache, feed),
-      };
-
-      writeToCache(mastodonPosts, config.cacheLocation, "mastodon posts");
-      return computeMastodonPosts(config, mastodonPosts.posts);
-    }
+    await fetchMastodonPosts(config, cache);
   }
 
   // console.log('!!!');
@@ -639,7 +644,9 @@ const formatFirefishTimeline = (timeline, config) => {
       !config.removeSyndicates.some((url) => post.text.includes(url)) &&
       (!config.preTagFilter ||
         (post.tags &&
-          post.tags.some((tag) => config.preTagFilter.includes(tag)))),
+          post.tags.some((tag) =>
+            config.preTagFilter.includes(tag.toLowerCase()),
+          ))),
   );
 
   const formatted = filtered.map((post) => {
@@ -711,7 +718,7 @@ const fetchFirefishPosts = async (config, cache) => {
   }
   const feed = await response.json();
 
-  if (!feed) return false;
+  if (!feed || !feed.length) return;
 
   cache.lastFetchPostID = feed[feed.length - 1].id;
   cache.lastFetched = new Date().toISOString();

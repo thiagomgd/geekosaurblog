@@ -7,16 +7,16 @@ const groupBy = require("lodash/groupBy");
 module.exports = async function () {
   const isProduction = process.env.ELEVENTY_ENV !== "development";
   const options = [
-    // {
-    //   shouldFetch: isProduction,
-    //   host: "https://mastodon.social",
-    //   userId: "200642",
-    //   removeSyndicates: ["geekosaur.com"],
-    //   cacheLocation: "src/_cache/nowPlayingMasto.json",
-    //   removeTags: true,
-    //   type: "music",
-    //   preTagFilter: ["np", "nowPlaying"],
-    // },
+    {
+      shouldFetch: isProduction,
+      host: "https://mastodon.social",
+      userId: "200642",
+      removeSyndicates: ["geekosaur.com"],
+      cacheLocation: "src/_cache/nowPlayingMasto.json",
+      removeTags: true,
+      type: "music",
+      preTagFilter: ["np", "nowplaying", "#jukeboxfridaynight"],
+    },
     {
       software: "firefish",
       shouldFetch: isProduction,
@@ -26,7 +26,7 @@ module.exports = async function () {
       cacheLocation: "src/_cache/nowPlayingSakurajima.json",
       removeTags: true,
       type: "music",
-      preTagFilter: ["np", "nowPlaying"],
+      preTagFilter: ["np", "nowplaying", "#jukeboxfridaynight"],
     },
   ];
 
