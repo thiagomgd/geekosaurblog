@@ -19,7 +19,7 @@
         "isPlus": false,
         "isSale": true,
         "author": "Alison Rumfitt",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
+        "dealDescription": ""
     },
     {
         "title": "Life's Edge",
@@ -521,7 +521,7 @@
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/34856133-457f-4d77-b1d4-afd040be041e/353/569/90/False/catfish-rolling-2.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/catfish-rolling-2",
-        "preorder": "Available Oct 3, 2023",
+        "preorder": "",
         "isPlus": false,
         "isSale": false,
         "author": "Clara Kumagai",
@@ -732,7 +732,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/vera-wong-s-unsolicited-advice-for-murderers-1",
         "preorder": "",
         "isPlus": false,
-        "isSale": true,
+        "isSale": false,
         "author": "Jesse Q. Sutanto",
         "dealDescription": ""
     },
@@ -919,7 +919,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/tell-me-pleasant-things-about-immortality",
         "preorder": "",
         "isPlus": false,
-        "isSale": true,
+        "isSale": false,
         "author": "Lindsay Wong",
         "dealDescription": ""
     },
@@ -1038,7 +1038,7 @@
         "price": 17.99,
         "cover": "https://cdn.kobo.com/book-images/5a8c3196-1ccf-450d-959e-5533440e6edd/353/569/90/False/extremely-online.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/extremely-online",
-        "preorder": "Available Oct 3, 2023",
+        "preorder": "",
         "isPlus": false,
         "isSale": false,
         "author": "Taylor Lorenz",
