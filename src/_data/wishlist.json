@@ -11,17 +11,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Tell Me I'm Worthless",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/154687ae-fa0f-47ca-98fa-e4e9e3c8458c/353/569/90/False/tell-me-i-m-worthless-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/tell-me-i-m-worthless-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Alison Rumfitt",
-        "dealDescription": ""
-    },
-    {
         "title": "Life's Edge",
         "price": 5.99,
         "cover": "https://cdn.kobo.com/book-images/c91f07d6-7793-4791-8bb0-40c1bb04b8f3/353/569/90/False/life-s-edge.jpg",
@@ -844,6 +833,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Anastasia Hastings",
+        "dealDescription": ""
+    },
+    {
+        "title": "Tell Me I'm Worthless",
+        "price": 14.99,
+        "cover": "https://cdn.kobo.com/book-images/154687ae-fa0f-47ca-98fa-e4e9e3c8458c/353/569/90/False/tell-me-i-m-worthless-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/tell-me-i-m-worthless-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Alison Rumfitt",
         "dealDescription": ""
     },
     {
