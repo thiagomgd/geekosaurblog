@@ -46,20 +46,6 @@
             }
           },
           {
-            "id": "412931a0da4e978e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/news/geekosaur-news-36.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "8da96bdfd75195c8",
             "type": "leaf",
             "pinned": true,
@@ -79,14 +65,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "currentlyReading/currentlyReading.md",
+                "file": "posts/thoughts/thoughts-1.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "currentlyReading/currentlyReading.md",
+                "file": "posts/thoughts/thoughts-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "currentlyReading/currentlyReading.md",
+                "file": "posts/thoughts/thoughts-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "currentlyReading/currentlyReading.md"
+                "file": "posts/thoughts/thoughts-1.md"
               }
             }
           }
@@ -224,6 +210,13 @@
   },
   "active": "0f789c86729af1ee",
   "lastOpenFiles": [
+    "posts/thoughts/thoughts.json",
+    "posts/thoughts/news.json",
+    "currentlyReading/currentlyReading.md",
+    "posts/thoughts/thoughts-1.md",
+    "posts/thoughts/geekosaur-news-36.md",
+    "posts/thoughts",
+    "posts/Untitled.md",
     "img/mastodon/3681380-0d2af8fb549d6144.png",
     "posts/news/geekosaur-news-36.md",
     "img/mastodon/4261341-e25a5893f8824818.jpeg",
@@ -252,12 +245,9 @@
     "img/2023-sept-books-bought-wishlisted.png",
     "posts/links/links-1.md",
     "img/mastodon/2332457-b011ee1944b6e3cc.jpeg",
-    "img/mastodon/2865243-c28d29c01decf7c9.jpeg",
     "posts/links/links-2.md",
     "posts/news/geekosaur-news-28.md",
     "_cache/linksuniverseodon.json",
-    "_data/mylinks.js",
-    "_data/mytoots copy.js",
     "posts/2023/friday-finds-1.md",
     "posts/news/geekosaur-news-34.md",
     "posts/news/geekosaur-news-33.md",
@@ -265,10 +255,6 @@
     "posts/news/geekosaur-news-33 1.md",
     "posts/drafts/____korea 1.md",
     "posts/drafts/__korea 1.md",
-    "posts/drafts/Untitled.md",
-    "posts/2023/Missing A Blogging Community.md",
-    "notes/2023-04-12-10-39.md",
-    "currentlyReading/currentlyReading.md",
-    "posts/news/geekosaur-news-32 1.md"
+    "posts/drafts/Untitled.md"
   ]
 }

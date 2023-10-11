@@ -11,7 +11,6 @@ title: 'Geekosaur News 34: Back from vacation, K-Pop and K-Dramas'
 toc: true
 thumbnail: /img/geekosaur-news-34.png
 ---
-
 ## Back From Vacation
 
 I'm back from vacation, and back to a more normal routine - before our trip, my wife and I were busy with preparations and other stuff. Now we have a huge amount of pictures to go through and maybe post on our instagrams (I'm posting some street photography on [@geekosaur_photo](https://www.instagram.com/geekosaur_photo/)).
