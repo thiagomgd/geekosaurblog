@@ -22,17 +22,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The Sacrifice",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/30d82ba3-83c6-4172-ae66-18255fcc3950/353/569/90/False/the-sacrifice-79.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-sacrifice-79",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Rin Chupeco",
-        "dealDescription": ""
-    },
-    {
         "title": "Life's Edge",
         "price": 5.99,
         "cover": "https://cdn.kobo.com/book-images/c91f07d6-7793-4791-8bb0-40c1bb04b8f3/353/569/90/False/life-s-edge.jpg",
@@ -1097,6 +1086,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Don Norman",
+        "dealDescription": ""
+    },
+    {
+        "title": "Earthlings",
+        "price": 17.99,
+        "cover": "https://cdn.kobo.com/book-images/039c3e89-b4e2-453f-9a95-abe17ca39fde/353/569/90/False/earthlings-8.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/earthlings-8",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Sayaka Murata",
         "dealDescription": ""
     },
     {
