@@ -12,9 +12,10 @@ Jump to [Manga](#manga)
 ## Books
 
 **Current**:
-- Konosuba Vol 2.
+- Konosuba Vol 3
 
 **Next**:
+- Konosuba Vol 4
 - Durarara!! Vol 2
 - Dust by Hugh Howey
 - Immortality: A Love Story (Anatomy #2) by Dana Schwartz ([link](https://dana-schwartz.com/books/immortality-a-love-story/))
