@@ -11,14 +11,14 @@
         "dealDescription": ""
     },
     {
-        "title": "Black Tide",
+        "title": "The Satanic Verses",
         "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/6674f4ab-76fc-492a-9d72-6eb1c2d61d32/353/569/90/False/black-tide-27.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/black-tide-27",
+        "cover": "https://cdn.kobo.com/book-images/33b0945f-7176-4d45-8e91-d8ad11fff736/353/569/90/False/the-satanic-verses.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-satanic-verses",
         "preorder": "",
         "isPlus": false,
         "isSale": true,
-        "author": "KC Jones",
+        "author": "Salman Rushdie",
         "dealDescription": ""
     },
     {
@@ -250,17 +250,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "E.K. Johnston",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Satanic Verses",
-        "price": 9.99,
-        "cover": "https://cdn.kobo.com/book-images/33b0945f-7176-4d45-8e91-d8ad11fff736/353/569/90/False/the-satanic-verses.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-satanic-verses",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Salman Rushdie",
         "dealDescription": ""
     },
     {
@@ -646,6 +635,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Jessica Townsend",
+        "dealDescription": ""
+    },
+    {
+        "title": "Black Tide",
+        "price": 12.99,
+        "cover": "https://cdn.kobo.com/book-images/6674f4ab-76fc-492a-9d72-6eb1c2d61d32/353/569/90/False/black-tide-27.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/black-tide-27",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "KC Jones",
         "dealDescription": ""
     },
     {
