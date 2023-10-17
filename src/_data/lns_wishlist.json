@@ -88,6 +88,39 @@
         "dealDescription": ""
     },
     {
+        "title": "Alya Sometimes Hides Her Feelings in Russian, Vol. 1",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/450bfcff-13ba-4b4c-8113-72572972bd09/353/569/90/False/alya-sometimes-hides-her-feelings-in-russian-vol-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/alya-sometimes-hides-her-feelings-in-russian-vol-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Sunsunsun",
+        "dealDescription": ""
+    },
+    {
+        "title": "Looks Are All You Need, Vol. 1",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/14b6be47-2889-437b-bcd0-ad80f5db4e69/353/569/90/False/looks-are-all-you-need-vol-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/looks-are-all-you-need-vol-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Ghost Mikawa",
+        "dealDescription": ""
+    },
+    {
+        "title": "Liar, Liar, Vol. 1",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/de1ee58b-aed4-4f62-ac43-9b12d63e181a/353/569/90/False/liar-liar-vol-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/liar-liar-vol-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Haruki Kuou",
+        "dealDescription": ""
+    },
+    {
         "title": "Konosuba: God's Blessing on This Wonderful World! Fantastic Days",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/310fc50f-8efa-45ba-a6f8-8def9a7f7f13/353/569/90/False/konosuba-god-s-blessing-on-this-wonderful-world-fantastic-days.jpg",
@@ -162,6 +195,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Keisuke Makino",
+        "dealDescription": ""
+    },
+    {
+        "title": "Konosuba: God's Blessing on This Wonderful World! TRPG",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/eb155bc7-32b8-447a-8c1f-9083fca9710c/353/569/90/False/konosuba-god-s-blessing-on-this-wonderful-world-trpg.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/konosuba-god-s-blessing-on-this-wonderful-world-trpg",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "F.E.A.R.",
         "dealDescription": ""
     }
 ]

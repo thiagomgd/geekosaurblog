@@ -11,6 +11,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Stars Undying",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/391b96c8-f486-43a9-bb95-d8df24198f33/353/569/90/False/the-stars-undying.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-stars-undying",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Emery Robin",
+        "dealDescription": ""
+    },
+    {
         "title": "The Satanic Verses",
         "price": 2.99,
         "cover": "https://cdn.kobo.com/book-images/33b0945f-7176-4d45-8e91-d8ad11fff736/353/569/90/False/the-satanic-verses.jpg",
@@ -19,6 +30,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "Salman Rushdie",
+        "dealDescription": ""
+    },
+    {
+        "title": "Drinks and Sinkholes",
+        "price": 3.99,
+        "cover": "https://cdn.kobo.com/book-images/ba424c0a-e540-44bd-8bbe-c9809df9d98e/353/569/90/False/drinks-and-sinkholes.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/drinks-and-sinkholes",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": false,
+        "author": "S. Usher Evans",
         "dealDescription": ""
     },
     {
@@ -118,6 +140,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Mercedes Lackey",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Lost Girl King",
+        "price": 8.99,
+        "cover": "https://cdn.kobo.com/book-images/6b7b491a-2dd2-4643-89fd-4970fe100ded/353/569/90/False/the-lost-girl-king.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-lost-girl-king",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Catherine Doyle",
         "dealDescription": ""
     },
     {
@@ -330,6 +363,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Can't Spell Treason Without Tea",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/e0c15975-cd4b-40b0-b346-e43af8d0b518/353/569/90/False/can-t-spell-treason-without-tea.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/can-t-spell-treason-without-tea",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Rebecca Thorne",
+        "dealDescription": ""
+    },
+    {
         "title": "Improbable Magic for Cynical Witches",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/08eb53a7-41c5-409a-a2e9-122523e1d403/353/569/90/False/improbable-magic-for-cynical-witches.jpg",
@@ -528,6 +572,28 @@
         "dealDescription": ""
     },
     {
+        "title": "The Keeper's Six",
+        "price": 12.99,
+        "cover": "https://cdn.kobo.com/book-images/a10ecb82-4cb3-4317-a8c3-f3605833377a/353/569/90/False/the-keeper-s-six.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-keeper-s-six",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Kate Elliott",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Mountain in the Sea",
+        "price": 12.99,
+        "cover": "https://cdn.kobo.com/book-images/5ab3e89f-212a-4def-b137-ac97c1e72d48/353/569/90/False/the-mountain-in-the-sea.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-mountain-in-the-sea",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Ray Nayler",
+        "dealDescription": ""
+    },
+    {
         "title": "What the River Knows",
         "price": 12.99,
         "cover": "https://cdn.kobo.com/book-images/675f38b2-bb4e-42be-b9d9-ef2ef18f3282/353/569/90/False/what-the-river-knows-2.jpg",
@@ -657,6 +723,28 @@
         "isPlus": false,
         "isSale": false,
         "author": "S.A. Barnes",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Rise and Fall of the Dinosaurs",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/a28c7b9c-423c-4f66-81e9-694f991a1a76/353/569/90/False/the-rise-and-fall-of-the-dinosaurs.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-rise-and-fall-of-the-dinosaurs",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Steve Brusatte",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Apollo Murders",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/752b262d-3bb6-48b3-9ad3-d17cab3de737/353/569/90/False/the-apollo-murders-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-apollo-murders-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Chris Hadfield",
         "dealDescription": ""
     },
     {
@@ -858,6 +946,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Mad Women's Ball",
+        "price": 15.99,
+        "cover": "https://cdn.kobo.com/book-images/a657bade-287b-4c03-bcb7-b686018df2b1/353/569/90/False/the-mad-women-s-ball-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-mad-women-s-ball-1",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Victoria Mas",
+        "dealDescription": ""
+    },
+    {
         "title": "The Culture Code",
         "price": 15.99,
         "cover": "https://cdn.kobo.com/book-images/e401898e-47cf-4003-a4ab-620bbc29d7f9/353/569/90/False/the-culture-code-2.jpg",
@@ -921,6 +1020,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Erika Engelhaupt",
+        "dealDescription": ""
+    },
+    {
+        "title": "Emily Wilde's Encyclopaedia of Faeries",
+        "price": 16.99,
+        "cover": "https://cdn.kobo.com/book-images/95b4804b-21af-4a44-91f6-8830145461c7/353/569/90/False/emily-wilde-s-encyclopaedia-of-faeries-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/emily-wilde-s-encyclopaedia-of-faeries-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Heather Fawcett",
         "dealDescription": ""
     },
     {
