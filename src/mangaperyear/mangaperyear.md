@@ -19,11 +19,12 @@ eleventyNavigation:
 {% for series, mangaList in seriesList %}
 <b>{{ series }} ({{mangaList | length}})</b>
 
-<div class="cards">
+<div class="library">
 {% for manga in mangaList | sortAndFilterManga %}
-{% card manga.title, manga.cover, manga.rating, manga.review %}
-
-{% endfor %}
+<div>{{ manga.title }}</div>
+<div></div>
+<div>{{ manga['Star Rating'] }}</div>
+{% endfor -%}
 </div>
 
 {% endfor %}
