@@ -978,6 +978,7 @@ div.mediaEmbed > iframe, div.mediaEmbed > div {
 /* from https://willdarwin.com/reading/ */
 
 .library {
+  font-size: 1rem;
   grid-column-gap: 6px;
   grid-row-gap: 10px;
   display: grid;
