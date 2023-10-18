@@ -14,9 +14,11 @@ eleventyNavigation:
 
 ### {{ year }} ({{ bookList | length }} read)
 
-<div class="cards">
+<div class="library">
 {% for book in bookList -%}
-{% card book.title,book.cover,book.tier,book.review %}
+<div>{{ book.Title }}</div>
+<div>{{ book.Authors }}</div>
+<div></div>
 {% endfor -%}
 </div>
 

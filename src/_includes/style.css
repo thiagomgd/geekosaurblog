@@ -970,3 +970,28 @@ div.mediaEmbed > iframe, div.mediaEmbed > div {
   margin-left: auto !important;
   margin-right: auto !important;
 }
+
+
+
+
+/* LIBRARY */
+/* from https://willdarwin.com/reading/ */
+
+.library {
+  grid-column-gap: 6px;
+  grid-row-gap: 10px;
+  display: grid;
+  grid-template-columns: 0.8fr 0.4fr 0.2fr;
+}
+@media only screen and (max-width: 600px) {
+  .library {
+      grid-row-gap: 0;
+      grid-template-columns: 1fr;
+  }
+  .library div:nth-child(3n) {
+      padding-bottom: 20px;
+  }
+  .library div:nth-child(3n + 1) {
+      padding-bottom: 5px;
+  }
+}

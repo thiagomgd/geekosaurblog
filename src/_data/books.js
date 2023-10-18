@@ -1,10 +1,45 @@
 const groupBy = require("lodash/groupBy");
+const { parse } = require("csv-parse/sync");
 const fs = require("fs");
-const domain = require("./metadata.json").domain;
-const { readFromCache } = require("../_11ty/helpers");
+// const fs = require("fs");
+// const domain = require("./metadata.json").domain;
 
 // // Define Cache Location and API Endpoint
-const CACHE_FILE_PATH = "src/_cache/goodreads.json";
+const CACHE_FILE_PATH = "src/_cache/thestorygraph.csv";
+
+function readCSV() {
+  const input = fs.readFileSync(CACHE_FILE_PATH);
+  // console.log(input);
+  const records = parse(input, {
+    columns: true,
+    skip_empty_lines: true,
+  });
+  // console.log("record 1", records[0]);
+  console.log(`${records.length} books found.`);
+  return records;
+}
+
+function filterBooks(book) {
+  return (
+    book["Read Status"] === "read" &&
+    !book["Tags"].includes("manga") &&
+    !book["Tags"].includes("comics") &&
+    !book["Tags"].includes("graphic-novels")
+  );
+}
+
+function mapBooks(book) {
+  const dateRead = book["Last Date Read"]
+    ? new Date(book["Last Date Read"])
+    : null;
+
+  const yearRead = dateRead ? dateRead.getFullYear() : 0;
+  return {
+    ...book,
+    dateRead,
+    yearRead,
+  };
+}
 
 // const tierOrder = {
 //     'S' : 0,
@@ -21,12 +56,13 @@ function sortBooks(booksParam) {
   // const books = booksParam.filter()
   const groupedBooks = groupBy(booksParam, "yearRead");
 
-  for (year in groupedBooks) {
+  for (const year in groupedBooks) {
     const booksOfYear = groupedBooks[year];
     // console.debug(booksOfYear);
     const yearBooks = booksOfYear
-      .filter((value) => value.type === "book" || value.type === "light novel")
-      .filter((value) => value.status === "finished");
+      // tambem precisa filtrar os comics
+      .filter((value) => !value["Tags"].includes("manga")) //value === "book" || value.type === "light novel")
+      .filter((value) => value["Read Status"] === "read");
 
     yearBooks.sort((a, b) => {
       // books[year].sort((a, b)=>{
@@ -35,15 +71,13 @@ function sortBooks(booksParam) {
       // }
 
       if (a.dateRead && b.dateRead) {
-        return new Date(b.dateRead) - new Date(a.dateRead);
+        return b.dateRead - a.dateRead;
       }
 
       return 0; // todo
     });
 
-    const newYear = year !== "undefined" ? year : 0;
-
-    sorted[newYear] = yearBooks;
+    sorted[year] = yearBooks;
   }
 
   return sorted;
@@ -51,34 +85,12 @@ function sortBooks(booksParam) {
 
 module.exports = async function () {
   // return [];
+  console.log("------------------------------------");
+  console.log("------------------------------------");
+  console.log("------------------------------------");
   console.log(">>> Reading books from cache...");
-  const cache = readFromCache(CACHE_FILE_PATH);
+  const books = readCSV().filter(filterBooks).map(mapBooks);
 
-  if (Object.keys(cache).length) {
-    console.log(`>>> Books loaded from cache`);
-  }
-
-  // Only fetch new mentions in production
-  // if (process.env.ELEVENTY_ENV === "development")
-  return sortBooks(cache);
-
-  // console.log(">>> Checking for new books...");
-  // const newBooks = await fetchBooks(cache.lastFetched);
-
-  // if (!newBooks) {
-  //     return sortBooks(cache.data);
-  // }
-
-  // const newData = {...cache.data, ...newBooks}
-
-  // const newCache = {
-  //     lastFetched: new Date().toISOString(),
-  //     data: newData,
-  // };
-
-  // if (process.env.ELEVENTY_ENV === "devbuild") {
-  //     writeToCache(newCache, CACHE_FILE_PATH, "books");
-  // }
-
-  // return sortBooks(newData);
+  return sortBooks(books);
+  // return {};
 };

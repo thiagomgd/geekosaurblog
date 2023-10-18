@@ -81,8 +81,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/thoughts/thoughts-1.md",
+                "file": "currentlyReading/currentlyReading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/thoughts/thoughts-1.md",
+                "file": "currentlyReading/currentlyReading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/thoughts/thoughts-1.md"
+                "file": "currentlyReading/currentlyReading.md"
               }
             }
           }
@@ -217,8 +216,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8120bc5b05b9617d",
+  "active": "cdb6bbf0b77d6c49",
   "lastOpenFiles": [
+    "_cache/thestorygraph.csv",
     "posts/thoughts/thoughts.json",
     "posts/thoughts/news.json",
     "currentlyReading/currentlyReading.md",
@@ -256,7 +256,6 @@
     "img/mastodon/2332457-b011ee1944b6e3cc.jpeg",
     "posts/links/links-2.md",
     "posts/news/geekosaur-news-28.md",
-    "_cache/linksuniverseodon.json",
     "posts/2023/friday-finds-1.md",
     "posts/news/geekosaur-news-34.md",
     "posts/news/geekosaur-news-33.md",
