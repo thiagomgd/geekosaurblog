@@ -18,7 +18,7 @@ eleventyNavigation:
 {% for book in bookList -%}
 <div>{{ book.Title }}</div>
 <div>{{ book.Authors }}</div>
-<div></div>
+<div>{{ book['Star Rating'] }}</div>
 {% endfor -%}
 </div>
 
