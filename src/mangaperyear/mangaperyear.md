@@ -12,21 +12,16 @@ eleventyNavigation:
   order: 6
 ---
 
-{%- for year, seriesList in manga | dictsort | reverse %}
+{%- for year, bookList in manga | dictsort | reverse -%}
 
-### {{ year }} ({{ seriesList | getTotalForDict }} read)
-
-{% for series, mangaList in seriesList %}
-<b>{{ series }} ({{mangaList | length}})</b>
+### {{ year }} ({{ bookList | length }} read)
 
 <div class="library">
-{% for manga in mangaList | sortAndFilterManga %}
-<div>{{ manga.title }}</div>
-<div></div>
-<div>{{ manga['Star Rating'] }}</div>
+{% for book in bookList -%}
+<div>{{ book.Title }}</div>
+<div>{{ book.Authors }}</div>
+<div>{{ book['Star Rating'] }}</div>
 {% endfor -%}
 </div>
 
-{% endfor %}
-
-{% endfor %}
+{% endfor -%}

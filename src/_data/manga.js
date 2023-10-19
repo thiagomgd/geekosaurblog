@@ -1,63 +1,76 @@
 const groupBy = require("lodash/groupBy");
-const { readFromCache } = require("../_11ty/helpers");
+const { parse } = require("csv-parse/sync");
+const fs = require("fs");
+// const fs = require("fs");
+// const domain = require("./metadata.json").domain;
 
-const metadata = require("./metadata.json");
-const {sortBy} = require("lodash/collection");
+// // Define Cache Location and API Endpoint
+const CACHE_FILE_PATH = "src/_cache/thestorygraph.csv";
 
-const CACHE_FILE_PATH = "src/_cache/goodreads.json";
+function readCSV() {
+  const input = fs.readFileSync(CACHE_FILE_PATH);
+  // console.log(input);
+  const records = parse(input, {
+    columns: true,
+    skip_empty_lines: true,
+  });
+  // console.log("record 1", records[0]);
+  console.log(`${records.length} books found.`);
+  return records;
+}
 
-function sortManga(manga) {
-  const perYear = groupBy(manga, "yearRead");
-  const grouped = {};
+function filterBooks(book) {
+  return (
+    book["Read Status"] === "read" &&
+    (book["Tags"].includes("manga") ||
+      book["Tags"].includes("comics") ||
+      book["Tags"].includes("graphic-novels"))
+  );
+}
 
-  Object.keys(perYear).forEach((year)=>{
-    const yearManga = perYear[year].filter(value => value.type === "manga" || value.type === "comic").filter(value => value.status === 'finished');
+function mapBooks(book) {
+  const dateRead = book["Last Date Read"]
+    ? new Date(book["Last Date Read"])
+    : null;
 
-    if (yearManga.length === 0) {
-      return;
-    }
+  const yearRead = dateRead ? dateRead.getFullYear() : 0;
+  return {
+    ...book,
+    dateRead,
+    yearRead,
+  };
+}
 
-    const newYear = year !== "undefined" ? year : 0;
-     const asd = groupBy(yearManga, 'series');
-     grouped[newYear] = asd;
-  })
+function sortBooks(booksParam) {
+  const sorted = {};
+  // const books = booksParam.filter()
+  const groupedBooks = groupBy(booksParam, "yearRead");
 
-  return grouped;
+  for (const year in groupedBooks) {
+    const yearBooks = groupedBooks[year];
+
+    yearBooks.sort((a, b) => {
+      // books[year].sort((a, b)=>{
+      // if (a.tier !== b.tier) {
+      //     return  tierOrder[a.tier ?? ''] - tierOrder[b.tier ?? ''];
+      // }
+
+      if (a.dateRead && b.dateRead) {
+        return b.dateRead - a.dateRead;
+      }
+
+      return 0; // todo
+    });
+
+    sorted[year] = yearBooks;
+  }
+
+  return sorted;
 }
 
 module.exports = async function () {
-  // return [];
   console.log(">>> Reading manga from cache...");
-  const cache = readFromCache(CACHE_FILE_PATH);
+  const books = readCSV().filter(filterBooks).map(mapBooks);
 
-  if (cache.length) {
-    console.log(`>>> Manga loaded from cache`);
-  }
-
-  // // Only fetch new mentions in production
-  // if (process.env.ELEVENTY_ENV === "development") 
-  return sortManga(cache);
-
-  // console.log(">>> Downloading manga list...");
-  // const newManga = await fetchBooks(cache.lastFetched);
-
-  // // TODO: getting only new items, merge cache and new
-
-  // if (!newManga) {
-  //   return sortManga(cache.data);
-    
-  // }
-
-  // const newData = {...cache.data, ...newManga}
-  
-  // const newCache = {
-  //   lastFetched: new Date().toISOString(),
-  //   data: newData,
-  // };
-
-  // if (process.env.ELEVENTY_ENV === "devbuild") {
-  //   writeToCache(newCache, CACHE_FILE_PATH, "manga");
-  // }
-
-  // return sortManga(newData);
+  return sortBooks(books);
 };

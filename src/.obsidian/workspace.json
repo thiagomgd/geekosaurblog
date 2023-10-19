@@ -218,6 +218,8 @@
   },
   "active": "cdb6bbf0b77d6c49",
   "lastOpenFiles": [
+    "_data/manga.js",
+    "_data/books copy.js",
     "_cache/thestorygraph.csv",
     "posts/thoughts/thoughts.json",
     "posts/thoughts/news.json",
@@ -238,8 +240,6 @@
     "_cache/nowPlayingSakurajima.json",
     "_cache/linksuniverseodon___.json",
     "_cache/linksuniverseodon copy.json",
-    "_data/myNowPlaying.js",
-    "_data/mylinks copy.js",
     "img/mastodon/2639978-52b22e9880792634.jpeg",
     "currentlyWatching/currentlyWatching.md",
     "posts/news/geekosaur-news-35.md",

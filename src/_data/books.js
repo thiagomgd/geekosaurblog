@@ -57,12 +57,7 @@ function sortBooks(booksParam) {
   const groupedBooks = groupBy(booksParam, "yearRead");
 
   for (const year in groupedBooks) {
-    const booksOfYear = groupedBooks[year];
-    // console.debug(booksOfYear);
-    const yearBooks = booksOfYear
-      // tambem precisa filtrar os comics
-      .filter((value) => !value["Tags"].includes("manga")) //value === "book" || value.type === "light novel")
-      .filter((value) => value["Read Status"] === "read");
+    const yearBooks = groupedBooks[year];
 
     yearBooks.sort((a, b) => {
       // books[year].sort((a, b)=>{
@@ -84,13 +79,8 @@ function sortBooks(booksParam) {
 }
 
 module.exports = async function () {
-  // return [];
-  console.log("------------------------------------");
-  console.log("------------------------------------");
-  console.log("------------------------------------");
   console.log(">>> Reading books from cache...");
   const books = readCSV().filter(filterBooks).map(mapBooks);
 
   return sortBooks(books);
-  // return {};
 };
