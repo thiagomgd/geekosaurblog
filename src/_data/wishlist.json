@@ -22,6 +22,17 @@
         "dealDescription": ""
     },
     {
+        "title": "One Dark Window",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Rachel Gillig",
+        "dealDescription": ""
+    },
+    {
         "title": "The Satanic Verses",
         "price": 2.99,
         "cover": "https://cdn.kobo.com/book-images/33b0945f-7176-4d45-8e91-d8ad11fff736/353/569/90/False/the-satanic-verses.jpg",
@@ -63,17 +74,6 @@
         "isPlus": false,
         "isSale": true,
         "author": "Terry Brooks",
-        "dealDescription": ""
-    },
-    {
-        "title": "One Dark Window",
-        "price": 6.99,
-        "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Rachel Gillig",
         "dealDescription": ""
     },
     {
@@ -748,6 +748,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Emily Wilde's Encyclopaedia of Faeries",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/95b4804b-21af-4a44-91f6-8830145461c7/353/569/90/False/emily-wilde-s-encyclopaedia-of-faeries-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/emily-wilde-s-encyclopaedia-of-faeries-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Heather Fawcett",
+        "dealDescription": ""
+    },
+    {
         "title": "The Drowned Woods",
         "price": 13.99,
         "cover": "https://cdn.kobo.com/book-images/12c9f910-b41a-483f-a90e-b6f7c1398a60/353/569/90/False/the-drowned-woods.jpg",
@@ -1020,17 +1031,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Erika Engelhaupt",
-        "dealDescription": ""
-    },
-    {
-        "title": "Emily Wilde's Encyclopaedia of Faeries",
-        "price": 16.99,
-        "cover": "https://cdn.kobo.com/book-images/95b4804b-21af-4a44-91f6-8830145461c7/353/569/90/False/emily-wilde-s-encyclopaedia-of-faeries-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/emily-wilde-s-encyclopaedia-of-faeries-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Heather Fawcett",
         "dealDescription": ""
     },
     {
