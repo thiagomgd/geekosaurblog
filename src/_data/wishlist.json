@@ -22,25 +22,14 @@
         "dealDescription": ""
     },
     {
-        "title": "One Dark Window",
+        "title": "The Sun and the Void",
         "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
+        "cover": "https://cdn.kobo.com/book-images/923922df-050c-444e-b4ab-3dfa0dfa07bf/353/569/90/False/the-sun-and-the-void-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-sun-and-the-void-1",
         "preorder": "",
         "isPlus": false,
         "isSale": true,
-        "author": "Rachel Gillig",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Satanic Verses",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/33b0945f-7176-4d45-8e91-d8ad11fff736/353/569/90/False/the-satanic-verses.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-satanic-verses",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Salman Rushdie",
+        "author": "Gabriela Romero Lacruz",
         "dealDescription": ""
     },
     {
@@ -74,6 +63,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "Terry Brooks",
+        "dealDescription": ""
+    },
+    {
+        "title": "One Dark Window",
+        "price": 6.99,
+        "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Rachel Gillig",
         "dealDescription": ""
     },
     {
@@ -286,6 +286,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Satanic Verses",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/33b0945f-7176-4d45-8e91-d8ad11fff736/353/569/90/False/the-satanic-verses.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-satanic-verses",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Salman Rushdie",
+        "dealDescription": ""
+    },
+    {
         "title": "An Accident of Stars",
         "price": 9.99,
         "cover": "https://cdn.kobo.com/book-images/184fccd8-43a5-48d7-9373-90b6dd1426c4/353/569/90/False/an-accident-of-stars.jpg",
@@ -327,17 +338,6 @@
         "isPlus": false,
         "isSale": true,
         "author": "Mercedes Lackey",
-        "dealDescription": ""
-    },
-    {
-        "title": "A Study in Drowning",
-        "price": 10.99,
-        "cover": "https://cdn.kobo.com/book-images/31161509-5ffe-4bab-9b1b-f8c019e31234/353/569/90/False/a-study-in-drowning-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/a-study-in-drowning-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Ava Reid",
         "dealDescription": ""
     },
     {
@@ -605,6 +605,17 @@
         "dealDescription": ""
     },
     {
+        "title": "A Study in Drowning",
+        "price": 12.99,
+        "cover": "https://cdn.kobo.com/book-images/31161509-5ffe-4bab-9b1b-f8c019e31234/353/569/90/False/a-study-in-drowning-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-study-in-drowning-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Ava Reid",
+        "dealDescription": ""
+    },
+    {
         "title": "Contact",
         "price": 12.99,
         "cover": "https://cdn.kobo.com/book-images/00ef1762-4edc-430c-988f-3cb68259640d/353/569/90/False/contact-37.jpg",
@@ -613,17 +624,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Carl Sagan",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Sun and the Void",
-        "price": 12.99,
-        "cover": "https://cdn.kobo.com/book-images/923922df-050c-444e-b4ab-3dfa0dfa07bf/353/569/90/False/the-sun-and-the-void-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-sun-and-the-void-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Gabriela Romero Lacruz",
         "dealDescription": ""
     },
     {
