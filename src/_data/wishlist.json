@@ -22,14 +22,14 @@
         "dealDescription": ""
     },
     {
-        "title": "The Sun and the Void",
+        "title": "The Adventures of Amina al-Sirafi",
         "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/923922df-050c-444e-b4ab-3dfa0dfa07bf/353/569/90/False/the-sun-and-the-void-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-sun-and-the-void-1",
+        "cover": "https://cdn.kobo.com/book-images/1cd113a3-43af-4bdb-b8ee-78fe59ba7abf/353/569/90/False/the-adventures-of-amina-al-sirafi-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-adventures-of-amina-al-sirafi-1",
         "preorder": "",
         "isPlus": false,
         "isSale": true,
-        "author": "Gabriela Romero Lacruz",
+        "author": "Shannon Chakraborty",
         "dealDescription": ""
     },
     {
@@ -407,6 +407,17 @@
         "dealDescription": ""
     },
     {
+        "title": "A Study in Drowning",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/31161509-5ffe-4bab-9b1b-f8c019e31234/353/569/90/False/a-study-in-drowning-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-study-in-drowning-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Ava Reid",
+        "dealDescription": ""
+    },
+    {
         "title": "Silver in the Bone",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/d49c13eb-6e31-4af2-a7cc-df429660a484/353/569/90/False/silver-in-the-bone.jpg",
@@ -598,21 +609,10 @@
         "price": 12.99,
         "cover": "https://cdn.kobo.com/book-images/675f38b2-bb4e-42be-b9d9-ef2ef18f3282/353/569/90/False/what-the-river-knows-2.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/what-the-river-knows-2",
-        "preorder": "Available Oct 31, 2023",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Isabel Iba\u00f1ez",
-        "dealDescription": ""
-    },
-    {
-        "title": "A Study in Drowning",
-        "price": 12.99,
-        "cover": "https://cdn.kobo.com/book-images/31161509-5ffe-4bab-9b1b-f8c019e31234/353/569/90/False/a-study-in-drowning-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/a-study-in-drowning-1",
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Ava Reid",
+        "author": "Isabel Iba\u00f1ez",
         "dealDescription": ""
     },
     {
@@ -624,6 +624,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Carl Sagan",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Sun and the Void",
+        "price": 12.99,
+        "cover": "https://cdn.kobo.com/book-images/923922df-050c-444e-b4ab-3dfa0dfa07bf/353/569/90/False/the-sun-and-the-void-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-sun-and-the-void-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Gabriela Romero Lacruz",
         "dealDescription": ""
     },
     {
@@ -706,7 +717,7 @@
     {
         "title": "Black Tide",
         "price": 12.99,
-        "cover": "https://cdn.kobo.com/book-images/6674f4ab-76fc-492a-9d72-6eb1c2d61d32/353/569/90/False/black-tide-27.jpg",
+        "cover": "https://cdn.kobo.com/book-images/89db448d-6812-4d25-b456-84a0dffe6f39/353/569/90/False/black-tide-27.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/black-tide-27",
         "preorder": "",
         "isPlus": false,
@@ -750,7 +761,7 @@
     {
         "title": "Emily Wilde's Encyclopaedia of Faeries",
         "price": 13.99,
-        "cover": "https://cdn.kobo.com/book-images/95b4804b-21af-4a44-91f6-8830145461c7/353/569/90/False/emily-wilde-s-encyclopaedia-of-faeries-1.jpg",
+        "cover": "https://cdn.kobo.com/book-images/7d0a60df-6172-4da7-b7cd-5e2f5a9f8658/353/569/90/False/emily-wilde-s-encyclopaedia-of-faeries-1.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/emily-wilde-s-encyclopaedia-of-faeries-1",
         "preorder": "",
         "isPlus": false,
@@ -1060,7 +1071,7 @@
         "price": 16.99,
         "cover": "https://cdn.kobo.com/book-images/819c204c-724f-4cee-979f-1d97ec755469/353/569/90/False/stranger-things-flight-of-icarus.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/stranger-things-flight-of-icarus",
-        "preorder": "Available Oct 31, 2023",
+        "preorder": "",
         "isPlus": false,
         "isSale": false,
         "author": "Caitlin Schneiderhan",
@@ -1163,17 +1174,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Laline Paull",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Adventures of Amina al-Sirafi",
-        "price": 17.99,
-        "cover": "https://cdn.kobo.com/book-images/1cd113a3-43af-4bdb-b8ee-78fe59ba7abf/353/569/90/False/the-adventures-of-amina-al-sirafi-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-adventures-of-amina-al-sirafi-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Shannon Chakraborty",
         "dealDescription": ""
     },
     {
