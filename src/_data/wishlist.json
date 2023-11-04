@@ -660,6 +660,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Dance Tree",
+        "price": 12.99,
+        "cover": "https://cdn.kobo.com/book-images/82c004f1-7f0c-4adf-a39e-57cdd56db8d9/353/569/90/False/the-dance-tree-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-dance-tree-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Kiran Millwood Hargrave",
+        "dealDescription": ""
+    },
+    {
         "title": "The Frugal Wizard\u2019s Handbook for Surviving Medieval England",
         "price": 12.99,
         "cover": "https://cdn.kobo.com/book-images/394996e9-d120-4829-83d9-9aea176e0711/353/569/90/False/the-frugal-wizard-s-handbook-for-surviving-medieval-england.jpg",
@@ -1009,17 +1020,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Steve Brusatte",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Dance Tree",
-        "price": 15.99,
-        "cover": "https://cdn.kobo.com/book-images/82c004f1-7f0c-4adf-a39e-57cdd56db8d9/353/569/90/False/the-dance-tree-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-dance-tree-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Kiran Millwood Hargrave",
         "dealDescription": ""
     },
     {

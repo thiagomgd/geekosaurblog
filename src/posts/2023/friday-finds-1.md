@@ -10,7 +10,6 @@ thumbnail: /img/Pasted image 20230127175338.png
 slug: 'friday-finds-1'
 toc: true
 ---
-
 A long time and a few blogs ago, I used to post Friday Finds, a tag where people posted cool new things they found. Mostly used for new titles that people discovered and added to their TBR list.
 
 So, here are some books that I saw this week and got interested in. Except for the first one, all were seen in my last visit to the bookstore. The first I saw someone mentioning online, and it's still in pre-order.

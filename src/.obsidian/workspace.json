@@ -8,6 +8,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "ddf114b4ba289d8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/2023/book-finds-nov3-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d8ae01f1f259f30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/2023/friday-finds-1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "cdb6bbf0b77d6c49",
             "type": "leaf",
             "pinned": true,
@@ -155,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "currentlyReading/currentlyReading.md",
+                "file": "posts/2023/book-finds-nov3-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "currentlyReading/currentlyReading.md",
+                "file": "posts/2023/book-finds-nov3-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "currentlyReading/currentlyReading.md"
+                "file": "posts/2023/book-finds-nov3-2023.md"
               }
             }
           }
@@ -216,14 +240,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdb6bbf0b77d6c49",
+  "active": "ddf114b4ba289d8c",
   "lastOpenFiles": [
+    "posts/2023/friday-finds-1.md",
+    "posts/2023/book-finds-nov3-2023.md",
+    "currentlyReading/currentlyReading.md",
     "_data/manga.js",
     "_data/books copy.js",
     "_cache/thestorygraph.csv",
     "posts/thoughts/thoughts.json",
     "posts/thoughts/news.json",
-    "currentlyReading/currentlyReading.md",
     "posts/thoughts/thoughts-1.md",
     "posts/thoughts/geekosaur-news-36.md",
     "posts/thoughts",
@@ -239,7 +265,6 @@
     "_cache/nowPlayingSakurajima copy.json",
     "_cache/nowPlayingSakurajima.json",
     "_cache/linksuniverseodon___.json",
-    "_cache/linksuniverseodon copy.json",
     "img/mastodon/2639978-52b22e9880792634.jpeg",
     "currentlyWatching/currentlyWatching.md",
     "posts/news/geekosaur-news-35.md",
@@ -256,7 +281,6 @@
     "img/mastodon/2332457-b011ee1944b6e3cc.jpeg",
     "posts/links/links-2.md",
     "posts/news/geekosaur-news-28.md",
-    "posts/2023/friday-finds-1.md",
     "posts/news/geekosaur-news-34.md",
     "posts/news/geekosaur-news-33.md",
     "templates/note_template.md",
