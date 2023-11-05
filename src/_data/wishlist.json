@@ -11,6 +11,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Nocturne",
+        "price": 1.99,
+        "cover": "https://cdn.kobo.com/book-images/48ccb6f7-92d5-4be1-91bf-f1b8c46bc251/353/569/90/False/nocturne-95.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/nocturne-95",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Alyssa Wees",
+        "dealDescription": ""
+    },
+    {
         "title": "The Stars Undying",
         "price": 2.99,
         "cover": "https://cdn.kobo.com/book-images/391b96c8-f486-43a9-bb95-d8df24198f33/353/569/90/False/the-stars-undying.jpg",
@@ -1086,17 +1097,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Mark Lawrence",
-        "dealDescription": ""
-    },
-    {
-        "title": "Nocturne",
-        "price": 16.99,
-        "cover": "https://cdn.kobo.com/book-images/48ccb6f7-92d5-4be1-91bf-f1b8c46bc251/353/569/90/False/nocturne-95.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/nocturne-95",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Alyssa Wees",
         "dealDescription": ""
     },
     {
