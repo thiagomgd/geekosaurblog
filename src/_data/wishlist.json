@@ -11,17 +11,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Nocturne",
-        "price": 1.99,
-        "cover": "https://cdn.kobo.com/book-images/48ccb6f7-92d5-4be1-91bf-f1b8c46bc251/353/569/90/False/nocturne-95.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/nocturne-95",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Alyssa Wees",
-        "dealDescription": ""
-    },
-    {
         "title": "The Stars Undying",
         "price": 2.99,
         "cover": "https://cdn.kobo.com/book-images/391b96c8-f486-43a9-bb95-d8df24198f33/353/569/90/False/the-stars-undying.jpg",
@@ -30,6 +19,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Emery Robin",
+        "dealDescription": ""
+    },
+    {
+        "title": "Century Rain",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/ec75fa28-34f7-405a-822f-666f168d2697/353/569/90/False/century-rain-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/century-rain-4",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Alastair Reynolds",
         "dealDescription": ""
     },
     {
@@ -649,17 +649,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Century Rain",
-        "price": 12.99,
-        "cover": "https://cdn.kobo.com/book-images/ec75fa28-34f7-405a-822f-666f168d2697/353/569/90/False/century-rain-4.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/century-rain-4",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Alastair Reynolds",
-        "dealDescription": ""
-    },
-    {
         "title": "The Magician's Daughter",
         "price": 12.99,
         "cover": "https://cdn.kobo.com/book-images/86145ac0-0cef-4d09-b59f-d868a1b17c2f/353/569/90/False/the-magician-s-daughter-8.jpg",
@@ -1097,6 +1086,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Mark Lawrence",
+        "dealDescription": ""
+    },
+    {
+        "title": "Nocturne",
+        "price": 16.99,
+        "cover": "https://cdn.kobo.com/book-images/48ccb6f7-92d5-4be1-91bf-f1b8c46bc251/353/569/90/False/nocturne-95.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/nocturne-95",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Alyssa Wees",
         "dealDescription": ""
     },
     {
