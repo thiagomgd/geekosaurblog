@@ -22,17 +22,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Century Rain",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/ec75fa28-34f7-405a-822f-666f168d2697/353/569/90/False/century-rain-4.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/century-rain-4",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Alastair Reynolds",
-        "dealDescription": ""
-    },
-    {
         "title": "The Adventures of Amina al-Sirafi",
         "price": 2.99,
         "cover": "https://cdn.kobo.com/book-images/1cd113a3-43af-4bdb-b8ee-78fe59ba7abf/353/569/90/False/the-adventures-of-amina-al-sirafi-1.jpg",
@@ -649,6 +638,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Century Rain",
+        "price": 12.99,
+        "cover": "https://cdn.kobo.com/book-images/ec75fa28-34f7-405a-822f-666f168d2697/353/569/90/False/century-rain-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/century-rain-4",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Alastair Reynolds",
+        "dealDescription": ""
+    },
+    {
         "title": "The Magician's Daughter",
         "price": 12.99,
         "cover": "https://cdn.kobo.com/book-images/86145ac0-0cef-4d09-b59f-d868a1b17c2f/353/569/90/False/the-magician-s-daughter-8.jpg",
@@ -840,7 +840,7 @@
         "price": 13.99,
         "cover": "https://cdn.kobo.com/book-images/4b86940d-fcae-42a8-8972-35d95fbcc84a/353/569/90/False/hunt-on-dark-waters.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/hunt-on-dark-waters",
-        "preorder": "Available Nov 7, 2023",
+        "preorder": "",
         "isPlus": false,
         "isSale": false,
         "author": "Katee Robert",
@@ -928,7 +928,7 @@
         "price": 14.99,
         "cover": "https://cdn.kobo.com/book-images/9984e53a-58fd-49dc-8653-0f9562810e61/353/569/90/False/bookshops-bonedust.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/bookshops-bonedust",
-        "preorder": "Available Nov 7, 2023",
+        "preorder": "",
         "isPlus": false,
         "isSale": false,
         "author": "Travis Baldree",
@@ -1214,7 +1214,7 @@
         "price": 18.99,
         "cover": "https://cdn.kobo.com/book-images/0cb488fd-a114-41b6-9315-5f266cc7d7a0/353/569/90/False/a-city-on-mars-1.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/a-city-on-mars-1",
-        "preorder": "Available Nov 7, 2023",
+        "preorder": "",
         "isPlus": false,
         "isSale": false,
         "author": "Kelly Weinersmith",
