@@ -1,7 +1,42 @@
 {
-  "lastFetched": "2023-11-07T17:09:53.296Z",
-  "lastFetchPostID": "111367761469599512",
+  "lastFetched": "2023-11-10T02:51:09.170Z",
+  "lastFetchPostID": "111382103913923092",
   "posts": [
+    {
+      "date": "2023-11-09T06:31:41.291Z",
+      "id": "111379185748398595",
+      "title": "",
+      "content": "<p>Got a portable cassette player today! Tomashi f-113. Starting with some Peach Pyramid.</p>",
+      "source_url": "https://mastodon.social/@falcon/111379185748398595",
+      "site": "Mastodon",
+      "images": [],
+      "embed": null,
+      "tags": [
+        "journal",
+        "cassette"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mastodon.social/@falcon/111379185748398595",
+      "host": "mastodon.social"
+    },
+    {
+      "date": "2023-11-08T06:50:10.746Z",
+      "id": "111373596147373116",
+      "title": "",
+      "content": "<p>Decided to finally finish watching Amuck!. It was ok, and got me interested in maybe watching some more Italian mysteries. </p><p><a href=\"https://www.themoviedb.org/movie/64528-alla-ricerca-del-piacere\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">themoviedb.org/movie/64528-all</span><span class=\"invisible\">a-ricerca-del-piacere</span></a></p>",
+      "source_url": "https://mastodon.social/@falcon/111373596147373116",
+      "site": "Mastodon",
+      "images": [],
+      "embed": "https://www.themoviedb.org/movie/64528-alla-ricerca-del-piacere",
+      "tags": [
+        "note",
+        "cinemastodon",
+        "movies"
+      ],
+      "emojis": [],
+      "tootUrl": "https://mastodon.social/@falcon/111373596147373116",
+      "host": "mastodon.social"
+    },
     {
       "date": "2023-10-22T06:20:18.444Z",
       "id": "111277219410210440",

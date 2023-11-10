@@ -1,8 +1,89 @@
 {
-  "lastFetched": "2023-11-07T17:10:03.330Z",
+  "lastFetched": "2023-11-10T02:51:08.307Z",
   "firstPostId": 18227509,
-  "lastFetchPostID": "111276897955293459",
+  "lastFetchPostID": "111382103913923092",
   "posts": [
+    {
+      "date": "2023-11-09T18:53:48.964Z",
+      "id": "111382103913923092",
+      "title": "Ghost - Impera",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/111382103913923092",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "np",
+        "nowPlaying",
+        "music",
+        "ghost"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/111382103913923092",
+      "host": "mastodon.social",
+      "linkUrl": "https://music.youtube.com/playlist?list=OLAK5uy_nTyajCLyMYNcnhKT2RnRWZ81z9P6GoEzk&si=x6ZY2Ze_aGBIW-vK",
+      "seeAlso": [],
+      "linkComments": [
+        "Nice album. Heard about Ghost a while ago but never listened to it, it's quite good!!!"
+      ]
+    },
+    {
+      "date": "2023-11-07T02:09:26.574Z",
+      "id": "111366829936810785",
+      "title": "Olivia Rodrigo - Guts",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/111366829936810785",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "album",
+        "np",
+        "nowPlaying",
+        "pop"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/111366829936810785",
+      "host": "mastodon.social",
+      "linkUrl": "https://music.youtube.com/playlist?list=OLAK5uy_kb-CH5idCHOTq6jKlzaujmLAgUDa77nYQ&si=Xj3tq5Drxv4Abrtp",
+      "seeAlso": [],
+      "linkComments": [
+        "This album is quite good! Kinda want to get it on cassette, but it's a shame I didn't find it online with reasonable shipping."
+      ]
+    },
+    {
+      "date": "2023-11-04T21:30:53.538Z",
+      "id": "111354410010823721",
+      "title": "Yaz - Upstairs At Eric&#39;s",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/111354410010823721",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "np",
+        "nowPlaying"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/111354410010823721",
+      "host": "mastodon.social",
+      "linkUrl": "https://music.youtube.com/playlist?list=OLAK5uy_mrqjrq8W-Ve5w9xaYd-nr5gbVxkaMrrLY&si=zWYFutfHItXbZQ06",
+      "seeAlso": [],
+      "linkComments": []
+    },
+    {
+      "date": "2023-11-04T05:15:51.581Z",
+      "id": "111350576017950251",
+      "title": "BOL4 - Seoul",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/111350576017950251",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "np",
+        "nowPlaying",
+        "music"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/111350576017950251",
+      "host": "mastodon.social",
+      "linkUrl": "https://music.youtube.com/playlist?list=OLAK5uy_m8lYKMRoKlWpXtmJYz-JF3Hasf3af0yVw&si=qWmJOt7nplCiHgp7",
+      "seeAlso": [],
+      "linkComments": []
+    },
     {
       "date": "2023-10-18T04:00:52.023Z",
       "id": "111254021866449150",
