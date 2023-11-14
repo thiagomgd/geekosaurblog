@@ -1,6 +1,32 @@
 {
-  "lastFetched": "2023-11-10T02:51:09.153Z",
+  "lastFetched": "2023-11-14T00:13:18.974Z",
   "posts": [
+    {
+      "date": "2023-11-12T22:05:25.810Z",
+      "id": "111399844297485296",
+      "title": "Lost Doctor Who episodes found, but owner is reluctant to hand them to BBC",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/111399844297485296",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "l",
+        "doctorWho"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/111399844297485296",
+      "host": "mastodon.social",
+      "linkUrl": "https://www.theguardian.com/tv-and-radio/2023/nov/11/lost-doctor-who-episodes-found-owner-reluctant-to-hand-them-to-bbc",
+      "seeAlso": [
+        {
+          "title": "comments",
+          "link": "https://news.ycombinator.com/item?id=38229998"
+        }
+      ],
+      "linkComments": [
+        "Shame so many things are deemed lost, just because not only there's no incentive for collectors to share what they have, but if someone has a copy of something, they might end up being prosecuted for having it, while the company will reap the profits.",
+        "And worse, the longer it takes for amnesty, the more the physical media will deteriorate"
+      ]
+    },
     {
       "date": "2023-10-19T23:59:10.423Z",
       "id": "111264396110651828",
@@ -335,5 +361,5 @@
       "linksPost": "links-1"
     }
   ],
-  "lastFetchPostID": "111382103913923092"
+  "lastFetchPostID": "111401347434286898"
 }
