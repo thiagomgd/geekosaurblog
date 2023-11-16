@@ -22,17 +22,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The Adventures of Amina al-Sirafi",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/1cd113a3-43af-4bdb-b8ee-78fe59ba7abf/353/569/90/False/the-adventures-of-amina-al-sirafi-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-adventures-of-amina-al-sirafi-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Shannon Chakraborty",
-        "dealDescription": ""
-    },
-    {
         "title": "Drinks and Sinkholes",
         "price": 3.99,
         "cover": "https://cdn.kobo.com/book-images/ba424c0a-e540-44bd-8bbe-c9809df9d98e/353/569/90/False/drinks-and-sinkholes.jpg",
@@ -1174,6 +1163,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Laline Paull",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Adventures of Amina al-Sirafi",
+        "price": 17.99,
+        "cover": "https://cdn.kobo.com/book-images/1cd113a3-43af-4bdb-b8ee-78fe59ba7abf/353/569/90/False/the-adventures-of-amina-al-sirafi-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-adventures-of-amina-al-sirafi-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Shannon Chakraborty",
         "dealDescription": ""
     },
     {
