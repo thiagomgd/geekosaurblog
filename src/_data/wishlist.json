@@ -22,6 +22,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Her Majesty's Royal Coven",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/1d6fd6c9-fd64-4b20-a761-bd62b4126a4f/353/569/90/False/her-majesty-s-royal-coven.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/her-majesty-s-royal-coven",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Juno Dawson",
+        "dealDescription": ""
+    },
+    {
         "title": "Drinks and Sinkholes",
         "price": 3.99,
         "cover": "https://cdn.kobo.com/book-images/ba424c0a-e540-44bd-8bbe-c9809df9d98e/353/569/90/False/drinks-and-sinkholes.jpg",
@@ -800,17 +811,6 @@
         "isPlus": true,
         "isSale": false,
         "author": "E.M. Anderson",
-        "dealDescription": ""
-    },
-    {
-        "title": "Her Majesty's Royal Coven",
-        "price": 13.99,
-        "cover": "https://cdn.kobo.com/book-images/1d6fd6c9-fd64-4b20-a761-bd62b4126a4f/353/569/90/False/her-majesty-s-royal-coven.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/her-majesty-s-royal-coven",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Juno Dawson",
         "dealDescription": ""
     },
     {
