@@ -22,6 +22,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Drowned Woods",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/12c9f910-b41a-483f-a90e-b6f7c1398a60/353/569/90/False/the-drowned-woods.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-drowned-woods",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Emily Lloyd-Jones",
+        "dealDescription": ""
+    },
+    {
         "title": "Her Majesty's Royal Coven",
         "price": 2.99,
         "cover": "https://cdn.kobo.com/book-images/1d6fd6c9-fd64-4b20-a761-bd62b4126a4f/353/569/90/False/her-majesty-s-royal-coven.jpg",
@@ -778,17 +789,6 @@
         "isPlus": false,
         "isSale": true,
         "author": "Heather Fawcett",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Drowned Woods",
-        "price": 13.99,
-        "cover": "https://cdn.kobo.com/book-images/12c9f910-b41a-483f-a90e-b6f7c1398a60/353/569/90/False/the-drowned-woods.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-drowned-woods",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Emily Lloyd-Jones",
         "dealDescription": ""
     },
     {
