@@ -22,17 +22,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The Drowned Woods",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/12c9f910-b41a-483f-a90e-b6f7c1398a60/353/569/90/False/the-drowned-woods.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-drowned-woods",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Emily Lloyd-Jones",
-        "dealDescription": ""
-    },
-    {
         "title": "Her Majesty's Royal Coven",
         "price": 2.99,
         "cover": "https://cdn.kobo.com/book-images/1d6fd6c9-fd64-4b20-a761-bd62b4126a4f/353/569/90/False/her-majesty-s-royal-coven.jpg",
@@ -52,6 +41,17 @@
         "isPlus": true,
         "isSale": false,
         "author": "S. Usher Evans",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Making of Another Major Motion Picture Masterpiece",
+        "price": 4.99,
+        "cover": "https://cdn.kobo.com/book-images/8a25cc51-3f49-4328-83c5-4532dc247ac0/353/569/90/False/the-making-of-another-major-motion-picture-masterpiece-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-making-of-another-major-motion-picture-masterpiece-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Tom Hanks",
         "dealDescription": ""
     },
     {
@@ -792,6 +792,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Drowned Woods",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/12c9f910-b41a-483f-a90e-b6f7c1398a60/353/569/90/False/the-drowned-woods.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-drowned-woods",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Emily Lloyd-Jones",
+        "dealDescription": ""
+    },
+    {
         "title": "Dead Dead Girls",
         "price": 13.99,
         "cover": "https://cdn.kobo.com/book-images/d1dedd2b-3d96-49e2-b923-50c16313b6f9/353/569/90/False/dead-dead-girls.jpg",
@@ -926,7 +937,7 @@
     {
         "title": "Of Manners and Murder",
         "price": 14.99,
-        "cover": "https://cdn.kobo.com/book-images/793cb5ba-9d24-4084-ab2e-a7bfa48733f4/353/569/90/False/of-manners-and-murder.jpg",
+        "cover": "https://cdn.kobo.com/book-images/5203fea7-11ee-480b-96b6-372ef90e4d98/353/569/90/False/of-manners-and-murder.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/of-manners-and-murder",
         "preorder": "",
         "isPlus": false,
@@ -1218,17 +1229,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Kelly Weinersmith",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Making of Another Major Motion Picture Masterpiece",
-        "price": 18.99,
-        "cover": "https://cdn.kobo.com/book-images/8a25cc51-3f49-4328-83c5-4532dc247ac0/353/569/90/False/the-making-of-another-major-motion-picture-masterpiece-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-making-of-another-major-motion-picture-masterpiece-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Tom Hanks",
         "dealDescription": ""
     },
     {
