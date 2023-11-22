@@ -1,12 +1,12 @@
 [
     {
         "title": "Call of the Night, Vol. 1",
-        "price": 7.99,
+        "price": 3.99,
         "cover": "https://cdn.kobo.com/book-images/d78d0ea7-bc77-4ae6-b4c1-fdbf6f0f437f/353/569/90/False/call-of-the-night-vol-1.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/call-of-the-night-vol-1",
         "preorder": "",
         "isPlus": false,
-        "isSale": false,
+        "isSale": true,
         "author": "Kotoyama",
         "dealDescription": ""
     },
