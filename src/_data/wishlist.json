@@ -66,6 +66,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Remarkable Retirement of Edna Fisher",
+        "price": 6.99,
+        "cover": "https://cdn.kobo.com/book-images/9470cb58-a06f-4ed5-b30f-114c1ed9072b/353/569/90/False/the-remarkable-retirement-of-edna-fisher.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-remarkable-retirement-of-edna-fisher",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "E.M. Anderson",
+        "dealDescription": ""
+    },
+    {
         "title": "One Dark Window",
         "price": 6.99,
         "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
@@ -800,17 +811,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Nekesa Afia",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Remarkable Retirement of Edna Fisher",
-        "price": 13.99,
-        "cover": "https://cdn.kobo.com/book-images/9470cb58-a06f-4ed5-b30f-114c1ed9072b/353/569/90/False/the-remarkable-retirement-of-edna-fisher.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-remarkable-retirement-of-edna-fisher",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": false,
-        "author": "E.M. Anderson",
         "dealDescription": ""
     },
     {
