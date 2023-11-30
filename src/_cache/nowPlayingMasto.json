@@ -1,8 +1,30 @@
 {
-  "lastFetched": "2023-11-25T18:32:42.945Z",
+  "lastFetched": "2023-11-30T22:52:19.790Z",
   "firstPostId": 18227509,
-  "lastFetchPostID": "111457870695206247",
+  "lastFetchPostID": "111496710839098954",
   "posts": [
+    {
+      "date": "2023-11-30T00:39:51.859Z",
+      "id": "111496710839098954",
+      "title": "Happy soft music to help you get through work",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/111496710839098954",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "music",
+        "nowPlaying",
+        "np",
+        "playlist"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/111496710839098954",
+      "host": "mastodon.social",
+      "linkUrl": "https://www.youtube.com/watch?v=sbDhfNRx350",
+      "seeAlso": [],
+      "linkComments": [
+        "Nice playlist, discovering a bunch of cool music"
+      ]
+    },
     {
       "date": "2023-11-09T18:53:48.964Z",
       "id": "111382103913923092",
