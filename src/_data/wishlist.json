@@ -11,6 +11,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Pod",
+        "price": 1.99,
+        "cover": "https://cdn.kobo.com/book-images/eed65a46-0062-43bf-9f61-062fb6e7b1ae/353/569/90/False/pod-26.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/pod-26",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Laline Paull",
+        "dealDescription": ""
+    },
+    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -1135,7 +1146,7 @@
     {
         "title": "Extremely Online",
         "price": 17.99,
-        "cover": "https://cdn.kobo.com/book-images/ca2567c4-3074-4c0f-a316-9ced94b6ad72/353/569/90/False/extremely-online.jpg",
+        "cover": "https://cdn.kobo.com/book-images/539991bb-a090-40b5-9ad7-ee6b9c49b702/353/569/90/False/extremely-online.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/extremely-online",
         "preorder": "",
         "isPlus": false,
@@ -1152,17 +1163,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Greg McKeown",
-        "dealDescription": ""
-    },
-    {
-        "title": "Pod",
-        "price": 17.99,
-        "cover": "https://cdn.kobo.com/book-images/eed65a46-0062-43bf-9f61-062fb6e7b1ae/353/569/90/False/pod-26.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/pod-26",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Laline Paull",
         "dealDescription": ""
     },
     {
