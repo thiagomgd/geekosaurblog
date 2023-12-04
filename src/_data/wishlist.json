@@ -1,5 +1,16 @@
 [
     {
+        "title": "The Stars Undying",
+        "price": 0.99,
+        "cover": "https://cdn.kobo.com/book-images/391b96c8-f486-43a9-bb95-d8df24198f33/353/569/90/False/the-stars-undying.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-stars-undying",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Emery Robin",
+        "dealDescription": ""
+    },
+    {
         "title": "Drinks and Sinkholes",
         "price": 0.99,
         "cover": "https://cdn.kobo.com/book-images/ba424c0a-e540-44bd-8bbe-c9809df9d98e/353/569/90/False/drinks-and-sinkholes.jpg",
@@ -22,25 +33,25 @@
         "dealDescription": ""
     },
     {
-        "title": "The Stars Undying",
+        "title": "The Sun and the Void",
         "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/391b96c8-f486-43a9-bb95-d8df24198f33/353/569/90/False/the-stars-undying.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-stars-undying",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Emery Robin",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Magician's Daughter",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/86145ac0-0cef-4d09-b59f-d868a1b17c2f/353/569/90/False/the-magician-s-daughter-8.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-magician-s-daughter-8",
+        "cover": "https://cdn.kobo.com/book-images/923922df-050c-444e-b4ab-3dfa0dfa07bf/353/569/90/False/the-sun-and-the-void-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-sun-and-the-void-1",
         "preorder": "",
         "isPlus": false,
         "isSale": true,
-        "author": "H. G. Parry",
+        "author": "Gabriela Romero Lacruz",
+        "dealDescription": ""
+    },
+    {
+        "title": "Of Manners and Murder",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/5203fea7-11ee-480b-96b6-372ef90e4d98/353/569/90/False/of-manners-and-murder.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/of-manners-and-murder",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Anastasia Hastings",
         "dealDescription": ""
     },
     {
@@ -627,17 +638,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The Sun and the Void",
-        "price": 12.99,
-        "cover": "https://cdn.kobo.com/book-images/923922df-050c-444e-b4ab-3dfa0dfa07bf/353/569/90/False/the-sun-and-the-void-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-sun-and-the-void-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Gabriela Romero Lacruz",
-        "dealDescription": ""
-    },
-    {
         "title": "Century Rain",
         "price": 12.99,
         "cover": "https://cdn.kobo.com/book-images/ec75fa28-34f7-405a-822f-666f168d2697/353/569/90/False/century-rain-4.jpg",
@@ -646,6 +646,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Alastair Reynolds",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Magician's Daughter",
+        "price": 12.99,
+        "cover": "https://cdn.kobo.com/book-images/86145ac0-0cef-4d09-b59f-d868a1b17c2f/353/569/90/False/the-magician-s-daughter-8.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-magician-s-daughter-8",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "H. G. Parry",
         "dealDescription": ""
     },
     {
@@ -921,17 +932,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Travis Baldree",
-        "dealDescription": ""
-    },
-    {
-        "title": "Of Manners and Murder",
-        "price": 14.99,
-        "cover": "https://cdn.kobo.com/book-images/5203fea7-11ee-480b-96b6-372ef90e4d98/353/569/90/False/of-manners-and-murder.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/of-manners-and-murder",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Anastasia Hastings",
         "dealDescription": ""
     },
     {
