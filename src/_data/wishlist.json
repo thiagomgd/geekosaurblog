@@ -11,17 +11,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Drinks and Sinkholes",
-        "price": 0.99,
-        "cover": "https://cdn.kobo.com/book-images/ba424c0a-e540-44bd-8bbe-c9809df9d98e/353/569/90/False/drinks-and-sinkholes.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/drinks-and-sinkholes",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "S. Usher Evans",
-        "dealDescription": ""
-    },
-    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -52,6 +41,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "Anastasia Hastings",
+        "dealDescription": ""
+    },
+    {
+        "title": "Drinks and Sinkholes",
+        "price": 3.99,
+        "cover": "https://cdn.kobo.com/book-images/ba424c0a-e540-44bd-8bbe-c9809df9d98e/353/569/90/False/drinks-and-sinkholes.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/drinks-and-sinkholes",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": false,
+        "author": "S. Usher Evans",
         "dealDescription": ""
     },
     {
