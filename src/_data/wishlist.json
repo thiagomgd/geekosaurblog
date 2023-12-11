@@ -1,13 +1,13 @@
 [
     {
-        "title": "The Stars Undying",
-        "price": 0.99,
-        "cover": "https://cdn.kobo.com/book-images/391b96c8-f486-43a9-bb95-d8df24198f33/353/569/90/False/the-stars-undying.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-stars-undying",
+        "title": "The Sun and the Void",
+        "price": 1.99,
+        "cover": "https://cdn.kobo.com/book-images/923922df-050c-444e-b4ab-3dfa0dfa07bf/353/569/90/False/the-sun-and-the-void-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-sun-and-the-void-1",
         "preorder": "",
         "isPlus": false,
-        "isSale": true,
-        "author": "Emery Robin",
+        "isSale": false,
+        "author": "Gabriela Romero Lacruz",
         "dealDescription": ""
     },
     {
@@ -22,14 +22,14 @@
         "dealDescription": ""
     },
     {
-        "title": "The Sun and the Void",
+        "title": "The Stars Undying",
         "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/923922df-050c-444e-b4ab-3dfa0dfa07bf/353/569/90/False/the-sun-and-the-void-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-sun-and-the-void-1",
+        "cover": "https://cdn.kobo.com/book-images/391b96c8-f486-43a9-bb95-d8df24198f33/353/569/90/False/the-stars-undying.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-stars-undying",
         "preorder": "",
         "isPlus": false,
-        "isSale": true,
-        "author": "Gabriela Romero Lacruz",
+        "isSale": false,
+        "author": "Emery Robin",
         "dealDescription": ""
     },
     {
@@ -41,7 +41,7 @@
         "isPlus": false,
         "isSale": true,
         "author": "Anastasia Hastings",
-        "dealDescription": ""
+        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
     },
     {
         "title": "Drinks and Sinkholes",
@@ -72,19 +72,8 @@
         "url": "https://www.kobo.com/ca/en/ebook/magic-kingdom-for-sale-sold-1",
         "preorder": "",
         "isPlus": false,
-        "isSale": true,
-        "author": "Terry Brooks",
-        "dealDescription": ""
-    },
-    {
-        "title": "One Dark Window",
-        "price": 6.99,
-        "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
-        "preorder": "",
-        "isPlus": false,
         "isSale": false,
-        "author": "Rachel Gillig",
+        "author": "Terry Brooks",
         "dealDescription": ""
     },
     {
@@ -206,6 +195,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Sofie Kelly",
+        "dealDescription": ""
+    },
+    {
+        "title": "One Dark Window",
+        "price": 8.99,
+        "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Rachel Gillig",
         "dealDescription": ""
     },
     {
