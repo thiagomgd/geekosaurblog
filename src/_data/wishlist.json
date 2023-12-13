@@ -1,16 +1,5 @@
 [
     {
-        "title": "The Sun and the Void",
-        "price": 1.99,
-        "cover": "https://cdn.kobo.com/book-images/923922df-050c-444e-b4ab-3dfa0dfa07bf/353/569/90/False/the-sun-and-the-void-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-sun-and-the-void-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Gabriela Romero Lacruz",
-        "dealDescription": ""
-    },
-    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -33,6 +22,28 @@
         "dealDescription": ""
     },
     {
+        "title": "The Culture Code",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/e401898e-47cf-4003-a4ab-620bbc29d7f9/353/569/90/False/the-culture-code-2.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-culture-code-2",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Daniel Coyle",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Sun and the Void",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/923922df-050c-444e-b4ab-3dfa0dfa07bf/353/569/90/False/the-sun-and-the-void-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-sun-and-the-void-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Gabriela Romero Lacruz",
+        "dealDescription": ""
+    },
+    {
         "title": "Of Manners and Murder",
         "price": 2.99,
         "cover": "https://cdn.kobo.com/book-images/5203fea7-11ee-480b-96b6-372ef90e4d98/353/569/90/False/of-manners-and-murder.jpg",
@@ -41,7 +52,7 @@
         "isPlus": false,
         "isSale": true,
         "author": "Anastasia Hastings",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
+        "dealDescription": ""
     },
     {
         "title": "Drinks and Sinkholes",
@@ -74,6 +85,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Terry Brooks",
+        "dealDescription": ""
+    },
+    {
+        "title": "One Dark Window",
+        "price": 6.99,
+        "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Rachel Gillig",
         "dealDescription": ""
     },
     {
@@ -195,17 +217,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Sofie Kelly",
-        "dealDescription": ""
-    },
-    {
-        "title": "One Dark Window",
-        "price": 8.99,
-        "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Rachel Gillig",
         "dealDescription": ""
     },
     {
@@ -976,17 +987,6 @@
         "isPlus": true,
         "isSale": true,
         "author": "Victoria Mas",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Culture Code",
-        "price": 15.99,
-        "cover": "https://cdn.kobo.com/book-images/e401898e-47cf-4003-a4ab-620bbc29d7f9/353/569/90/False/the-culture-code-2.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-culture-code-2",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Daniel Coyle",
         "dealDescription": ""
     },
     {
