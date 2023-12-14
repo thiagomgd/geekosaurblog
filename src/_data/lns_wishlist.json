@@ -1,137 +1,5 @@
 [
     {
-        "title": "When Supernatural Battles Became Commonplace: Volume 1",
-        "price": 9.97,
-        "cover": "https://cdn.kobo.com/book-images/7d31c65f-c1ef-41ca-8215-2fa7b53972e3/353/569/90/False/when-supernatural-battles-became-commonplace-volume-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/when-supernatural-battles-became-commonplace-volume-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Kota Nozomi",
-        "dealDescription": ""
-    },
-    {
-        "title": "Slayers: Volume 1",
-        "price": 9.97,
-        "cover": "https://cdn.kobo.com/book-images/8f8824bc-1c03-4a82-b665-4af570389975/353/569/90/False/slayers-volume-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/slayers-volume-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Hajime Kanzaka",
-        "dealDescription": ""
-    },
-    {
-        "title": "High School DxD, Vol. 1",
-        "price": 9.99,
-        "cover": "https://cdn.kobo.com/book-images/a9920825-4ea1-4ab3-a030-0ee62807dd0d/353/569/90/False/high-school-dxd-vol-1-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/high-school-dxd-vol-1-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Hiroji Mishima",
-        "dealDescription": ""
-    },
-    {
-        "title": "Re:ZERO -Starting Life in Another World-, Vol. 1 (light novel)",
-        "price": 10.99,
-        "cover": "https://cdn.kobo.com/book-images/f98d4bdd-9aee-463a-bee3-983205a7d99a/353/569/90/False/re-zero-starting-life-in-another-world-vol-1-light-novel-2.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/re-zero-starting-life-in-another-world-vol-1-light-novel-2",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Tappei Nagatsuki",
-        "dealDescription": ""
-    },
-    {
-        "title": "Spice and Wolf, Vol. 3 (light novel)",
-        "price": 10.99,
-        "cover": "https://cdn.kobo.com/book-images/ab130e10-e769-440d-9738-54990410c2ea/353/569/90/False/spice-and-wolf-vol-3-light-novel-2.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/spice-and-wolf-vol-3-light-novel-2",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Isuna Hasekura",
-        "dealDescription": ""
-    },
-    {
-        "title": "Durarara!!, Vol. 2 (light novel)",
-        "price": 10.99,
-        "cover": "https://cdn.kobo.com/book-images/05a50ba0-dada-4ea8-a635-9092688b0aa7/353/569/90/False/durarara-vol-2-light-novel-2.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/durarara-vol-2-light-novel-2",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Ryohgo Narita",
-        "dealDescription": ""
-    },
-    {
-        "title": "Bottom-Tier Character Tomozaki, Vol. 4 (light novel)",
-        "price": 10.99,
-        "cover": "https://cdn.kobo.com/book-images/6db2be94-b157-4bd6-94d7-070854d799bb/353/569/90/False/bottom-tier-character-tomozaki-vol-4-light-novel.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/bottom-tier-character-tomozaki-vol-4-light-novel",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Yuki Yaku",
-        "dealDescription": ""
-    },
-    {
-        "title": "Full Clearing Another World under a Goddess with Zero Believers (Manga) Volume 1",
-        "price": 11.22,
-        "cover": "https://cdn.kobo.com/book-images/565e9206-1863-49d5-9155-97137f562440/353/569/90/False/full-clearing-another-world-under-a-goddess-with-zero-believers-manga-volume-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/full-clearing-another-world-under-a-goddess-with-zero-believers-manga-volume-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Isle Osaki",
-        "dealDescription": ""
-    },
-    {
-        "title": "Alya Sometimes Hides Her Feelings in Russian, Vol. 1",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/e4937c80-614d-43ed-b2bf-65e2dd0f4ff2/353/569/90/False/alya-sometimes-hides-her-feelings-in-russian-vol-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/alya-sometimes-hides-her-feelings-in-russian-vol-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Sunsunsun",
-        "dealDescription": ""
-    },
-    {
-        "title": "Looks Are All You Need, Vol. 1",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/14b6be47-2889-437b-bcd0-ad80f5db4e69/353/569/90/False/looks-are-all-you-need-vol-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/looks-are-all-you-need-vol-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Ghost Mikawa",
-        "dealDescription": ""
-    },
-    {
-        "title": "Liar, Liar, Vol. 1",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/de1ee58b-aed4-4f62-ac43-9b12d63e181a/353/569/90/False/liar-liar-vol-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/liar-liar-vol-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Haruki Kuou",
-        "dealDescription": ""
-    },
-    {
-        "title": "Konosuba: God's Blessing on This Wonderful World! Fantastic Days",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/310fc50f-8efa-45ba-a6f8-8def9a7f7f13/353/569/90/False/konosuba-god-s-blessing-on-this-wonderful-world-fantastic-days.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/konosuba-god-s-blessing-on-this-wonderful-world-fantastic-days",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Natsume Akatsuki",
-        "dealDescription": ""
-    },
-    {
         "title": "Orc Eroica, Vol. 1 (light novel)",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/b32b493a-cbd2-443e-93c2-f9ec745eab15/353/569/90/False/orc-eroica-vol-1-light-novel.jpg",
@@ -143,36 +11,14 @@
         "dealDescription": ""
     },
     {
-        "title": "Secrets of the Silent Witch, Vol. 1",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/8ecef558-5a46-4a3f-afd0-c5ee64704fe1/353/569/90/False/secrets-of-the-silent-witch-vol-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/secrets-of-the-silent-witch-vol-1",
+        "title": "Mushoku Tensei: Jobless Reincarnation (Light Novel) Vol. 5",
+        "price": 12.47,
+        "cover": "https://cdn.kobo.com/book-images/f6bf4e11-8dcb-4aff-9266-2b417e2d3abb/353/569/90/False/mushoku-tensei-jobless-reincarnation-light-novel-vol-5.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/mushoku-tensei-jobless-reincarnation-light-novel-vol-5",
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Matsuri Isora",
-        "dealDescription": ""
-    },
-    {
-        "title": "Dragon and Ceremony, Vol. 1 (light novel)",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/5f7ce9bb-8e5d-4e71-84e3-501e53cf7036/353/569/90/False/dragon-and-ceremony-vol-1-light-novel.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/dragon-and-ceremony-vol-1-light-novel",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Ichimei Tsukushi",
-        "dealDescription": ""
-    },
-    {
-        "title": "Reign of the Seven Spellblades, Vol. 1 (light novel)",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/5ff514a9-374a-46b1-9686-e8d6d3644af1/353/569/90/False/reign-of-the-seven-spellblades-vol-1-light-novel.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/reign-of-the-seven-spellblades-vol-1-light-novel",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Bokuto Uno",
+        "author": "Rifujin na Magonote",
         "dealDescription": ""
     },
     {
@@ -184,28 +30,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Rifujin na Magonote",
-        "dealDescription": ""
-    },
-    {
-        "title": "Irina: The Vampire Cosmonaut (Light Novel) Vol. 1",
-        "price": 12.47,
-        "cover": "https://cdn.kobo.com/book-images/fbc40484-629b-44b8-8835-74f9b4695251/353/569/90/False/irina-the-vampire-cosmonaut-light-novel-vol-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/irina-the-vampire-cosmonaut-light-novel-vol-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Keisuke Makino",
-        "dealDescription": ""
-    },
-    {
-        "title": "Konosuba: God's Blessing on This Wonderful World! TRPG",
-        "price": 13.99,
-        "cover": "https://cdn.kobo.com/book-images/eb155bc7-32b8-447a-8c1f-9083fca9710c/353/569/90/False/konosuba-god-s-blessing-on-this-wonderful-world-trpg.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/konosuba-god-s-blessing-on-this-wonderful-world-trpg",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "F.E.A.R.",
         "dealDescription": ""
     }
 ]
