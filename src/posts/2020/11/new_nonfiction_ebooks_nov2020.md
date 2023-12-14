@@ -30,8 +30,6 @@ I used to love reading about mythology when I was younger, and for a while I've 
 
 ## How the West Won: The Neglected Story of the Triumph of Modernity by Rodney Stark
 
-{% figure "https://m.media-amazon.com/images/I/511W8orbryL.jpg", "How the West Won: The Neglected Story of the Triumph of Modernity [link](https://amzn.to/2I6j1AP)" %}
-
 > Modernity developed only in the West—in Europe and North America. Nowhere else did science and democracy arise; nowhere else was slavery outlawed. Only Westerners invented chimneys, musical scores, telescopes, eyeglasses, pianos, electric lights, aspirin, and soap.
  
 ## Atlas Obscura, 2nd Edition: An Explorer's Guide to the World's Hidden Wonders by Joshua Foer
