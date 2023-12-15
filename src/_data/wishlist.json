@@ -22,6 +22,17 @@
         "dealDescription": ""
     },
     {
+        "title": "One Dark Window",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Rachel Gillig",
+        "dealDescription": ""
+    },
+    {
         "title": "Sisters of Shadow (Sisters of Shadow, Book 1)",
         "price": 3.99,
         "cover": "https://cdn.kobo.com/book-images/f42a7440-f946-46c9-bb7c-169bb8791078/353/569/90/False/sisters-of-shadow-sisters-of-shadow-book-1.jpg",
@@ -52,17 +63,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Terry Brooks",
-        "dealDescription": ""
-    },
-    {
-        "title": "One Dark Window",
-        "price": 6.99,
-        "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Rachel Gillig",
         "dealDescription": ""
     },
     {
@@ -704,6 +704,17 @@
         "dealDescription": ""
     },
     {
+        "title": "On the Edge of Gone",
+        "price": 10.99,
+        "cover": "https://cdn.kobo.com/book-images/e7066f19-d66c-4e76-ad3b-f1b06f790b45/353/569/90/False/on-the-edge-of-gone.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/on-the-edge-of-gone",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Corinne Duyvis",
+        "dealDescription": ""
+    },
+    {
         "title": "House of Suns",
         "price": 10.99,
         "cover": "https://cdn.kobo.com/book-images/067a6479-ebe1-4425-8f99-fd1fd4f5c5fd/353/569/90/False/house-of-suns-2.jpg",
@@ -1089,14 +1100,14 @@
         "dealDescription": ""
     },
     {
-        "title": "On the Edge of Gone",
+        "title": "Black Tide",
         "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/e7066f19-d66c-4e76-ad3b-f1b06f790b45/353/569/90/False/on-the-edge-of-gone.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/on-the-edge-of-gone",
+        "cover": "https://cdn.kobo.com/book-images/89db448d-6812-4d25-b456-84a0dffe6f39/353/569/90/False/black-tide-27.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/black-tide-27",
         "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "Corinne Duyvis",
+        "isPlus": false,
+        "isSale": false,
+        "author": "KC Jones",
         "dealDescription": ""
     },
     {
@@ -1295,17 +1306,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Jessica Townsend",
-        "dealDescription": ""
-    },
-    {
-        "title": "Black Tide",
-        "price": 12.99,
-        "cover": "https://cdn.kobo.com/book-images/89db448d-6812-4d25-b456-84a0dffe6f39/353/569/90/False/black-tide-27.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/black-tide-27",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "KC Jones",
         "dealDescription": ""
     },
     {
