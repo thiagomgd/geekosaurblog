@@ -22,17 +22,6 @@
         "dealDescription": ""
     },
     {
-        "title": "One Dark Window",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Rachel Gillig",
-        "dealDescription": ""
-    },
-    {
         "title": "Sisters of Shadow (Sisters of Shadow, Book 1)",
         "price": 3.99,
         "cover": "https://cdn.kobo.com/book-images/f42a7440-f946-46c9-bb7c-169bb8791078/353/569/90/False/sisters-of-shadow-sisters-of-shadow-book-1.jpg",
@@ -316,6 +305,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Sofie Kelly",
+        "dealDescription": ""
+    },
+    {
+        "title": "One Dark Window",
+        "price": 8.99,
+        "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Rachel Gillig",
         "dealDescription": ""
     },
     {
