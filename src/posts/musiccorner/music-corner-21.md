@@ -51,7 +51,9 @@ Let's have a look at new music I got, what I've been listening to, and new bands
 So, they are not physical tapes (yet), but I've been trying to create mixtapes online, putting a bit more effort into making selections, having a time limit. I think that's nicer than having just a few playlists that are several hours long.
 For today, I have something I created after seeing some fun videos on TikTok about polyJAMorous (like, listening to different styles of music). It's not as diverse as I would like, but let's see how the next one will play out. The theme for this one is "earworm", songs that will get stuck on your head!
 
-[embed](https://music.youtube.com/playlist?list=PLymCWVtofZyZGkbiWTqPXKSPiToaq_vdK)
+<div class="video-wrapper">
+<iframe src="https://www.youtube.com/embed/videoseries?si=zxc4nX9vZSX5Or7d&amp;list=PLymCWVtofZyZGkbiWTqPXKSPiToaq_vdK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 **Tracklist**
 1. Ikkyu-san (WEDNESDAY CAMPANELLA)
