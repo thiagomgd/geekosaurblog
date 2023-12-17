@@ -9,6 +9,7 @@ description: 'Last Music Corner of the month, this time with a few K-Pop Live vi
 thread: music-corner
 title: 'Music Corner 21: Dec. 1-15th music'
 thumbnail: /img/music-corner-21.jpg
+toc: true
 ---
 
 Lately I've been buying some CDs and cassettes, and also trying to organize my steaming music a bit more, creating some playlists and "mixtapes".
