@@ -159,7 +159,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,8 +241,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddf114b4ba289d8c",
+  "active": "45b779cc93c0038d",
   "lastOpenFiles": [
+    "img/music-corner-21.jpg",
+    "posts/musiccorner/music-corner-21.md",
+    "posts/musiccorner/music-corner-20 copy.md",
     "img/mastodon/5089728-dee3fdf2a83c4246.jpeg",
     "img/mastodon/4176774-b65c2f7b622667c8.jpeg",
     "img/mastodon/6403641-0b66d0c2fc296c9f.jpeg",
@@ -252,7 +256,6 @@
     "img/mastodon/6553351-2c0a71214e90d656.jpeg",
     "img/mastodon/8998457-6eb6b2ca666ec26f.jpeg",
     "img/mastodon/1157651-006a49b5e740f161.jpeg",
-    "img/mastodon/3479631-46ef78ca5c548da8.jpg",
     "posts/2023/friday-finds-1.md",
     "posts/2023/book-finds-nov3-2023.md",
     "currentlyReading/currentlyReading.md",
@@ -285,8 +288,6 @@
     "posts/news/geekosaur-news-34.md",
     "posts/news/geekosaur-news-33.md",
     "templates/note_template.md",
-    "posts/news/geekosaur-news-33 1.md",
-    "posts/drafts/____korea 1.md",
-    "posts/drafts/__korea 1.md"
+    "posts/news/geekosaur-news-33 1.md"
   ]
 }
