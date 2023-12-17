@@ -33,6 +33,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Masters of Death",
+        "price": 4.99,
+        "cover": "https://cdn.kobo.com/book-images/528312b7-bf3d-46db-91b1-ef191f1b3643/353/569/90/False/masters-of-death-3.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/masters-of-death-3",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Olivie Blake",
+        "dealDescription": ""
+    },
+    {
         "title": "Life's Edge",
         "price": 5.99,
         "cover": "https://cdn.kobo.com/book-images/c91f07d6-7793-4791-8bb0-40c1bb04b8f3/353/569/90/False/life-s-edge.jpg",
@@ -998,17 +1009,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Derek Landy",
-        "dealDescription": ""
-    },
-    {
-        "title": "Masters of Death",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/528312b7-bf3d-46db-91b1-ef191f1b3643/353/569/90/False/masters-of-death-3.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/masters-of-death-3",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Olivie Blake",
         "dealDescription": ""
     },
     {
