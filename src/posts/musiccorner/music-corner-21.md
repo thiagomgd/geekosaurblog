@@ -5,7 +5,7 @@ tags:
 - newMusic
 - musicRewind
 date: '2023-12-16T21:50:00.000-08:00'
-description: 'Last Music Corner of the month, this time with a few K-Pop Live videos I saw on my Mastodon timeline.'
+description: 'Recap of new music I got, and what I listened to these past 2 weeks.'
 thread: music-corner
 title: 'Music Corner 21: Dec. 1-15th music'
 thumbnail: /img/music-corner-21.jpg
