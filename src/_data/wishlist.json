@@ -11,14 +11,14 @@
         "dealDescription": ""
     },
     {
-        "title": "The Stars Undying",
+        "title": "The London S\u00e9ance Society",
         "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/391b96c8-f486-43a9-bb95-d8df24198f33/353/569/90/False/the-stars-undying.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-stars-undying",
+        "cover": "https://cdn.kobo.com/book-images/74477a61-8cef-4194-a551-e6644dee8206/353/569/90/False/the-london-seance-society.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-london-seance-society",
         "preorder": "",
         "isPlus": false,
-        "isSale": false,
-        "author": "Emery Robin",
+        "isSale": true,
+        "author": "Sarah Penner",
         "dealDescription": ""
     },
     {
@@ -33,14 +33,14 @@
         "dealDescription": ""
     },
     {
-        "title": "Masters of Death",
-        "price": 4.99,
-        "cover": "https://cdn.kobo.com/book-images/528312b7-bf3d-46db-91b1-ef191f1b3643/353/569/90/False/masters-of-death-3.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/masters-of-death-3",
+        "title": "The Annual Migration of Clouds",
+        "price": 5.99,
+        "cover": "https://cdn.kobo.com/book-images/73b1b7f0-9de4-4049-a974-0d0ec6a2f97e/353/569/90/False/the-annual-migration-of-clouds.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-annual-migration-of-clouds",
         "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Olivie Blake",
+        "isPlus": true,
+        "isSale": false,
+        "author": "Premee Mohamed",
         "dealDescription": ""
     },
     {
@@ -759,17 +759,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The Annual Migration of Clouds",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/73b1b7f0-9de4-4049-a974-0d0ec6a2f97e/353/569/90/False/the-annual-migration-of-clouds.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-annual-migration-of-clouds",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "Premee Mohamed",
-        "dealDescription": ""
-    },
-    {
         "title": "The Witch, the Sword, and the Cursed Knights",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/a4f86b4b-57b8-4c39-aa45-c8a971bf2a22/353/569/90/False/the-witch-the-sword-and-the-cursed-knights.jpg",
@@ -1012,6 +1001,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Masters of Death",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/528312b7-bf3d-46db-91b1-ef191f1b3643/353/569/90/False/masters-of-death-3.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/masters-of-death-3",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Olivie Blake",
+        "dealDescription": ""
+    },
+    {
         "title": "No Place Like Home",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/3f89bd5c-8bdc-4f44-9b67-98ce78a389f3/353/569/90/False/no-place-like-home-108.jpg",
@@ -1163,6 +1163,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Nina Varela",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Stars Undying",
+        "price": 12.99,
+        "cover": "https://cdn.kobo.com/book-images/391b96c8-f486-43a9-bb95-d8df24198f33/353/569/90/False/the-stars-undying.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-stars-undying",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Emery Robin",
         "dealDescription": ""
     },
     {
@@ -1944,17 +1955,6 @@
         "isPlus": false,
         "isSale": true,
         "author": "Lindsay Eagar",
-        "dealDescription": ""
-    },
-    {
-        "title": "The London S\u00e9ance Society",
-        "price": 19.99,
-        "cover": "https://cdn.kobo.com/book-images/74477a61-8cef-4194-a551-e6644dee8206/353/569/90/False/the-london-seance-society.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-london-seance-society",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Sarah Penner",
         "dealDescription": ""
     },
     {
