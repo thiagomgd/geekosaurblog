@@ -33,6 +33,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Mountain in the Sea",
+        "price": 3.99,
+        "cover": "https://cdn.kobo.com/book-images/5ab3e89f-212a-4def-b137-ac97c1e72d48/353/569/90/False/the-mountain-in-the-sea.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-mountain-in-the-sea",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Ray Nayler",
+        "dealDescription": ""
+    },
+    {
         "title": "The Annual Migration of Clouds",
         "price": 5.99,
         "cover": "https://cdn.kobo.com/book-images/73b1b7f0-9de4-4049-a974-0d0ec6a2f97e/353/569/90/False/the-annual-migration-of-clouds.jpg",
@@ -1188,17 +1199,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The Mountain in the Sea",
-        "price": 12.99,
-        "cover": "https://cdn.kobo.com/book-images/5ab3e89f-212a-4def-b137-ac97c1e72d48/353/569/90/False/the-mountain-in-the-sea.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-mountain-in-the-sea",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Ray Nayler",
-        "dealDescription": ""
-    },
-    {
         "title": "What the River Knows",
         "price": 12.99,
         "cover": "https://cdn.kobo.com/book-images/eb42a2e9-3344-4185-be01-37d3d6a9ef9f/353/569/90/False/what-the-river-knows-2.jpg",
@@ -1311,7 +1311,7 @@
     {
         "title": "Silverborn: The Mystery of Morrigan Crow",
         "price": 12.99,
-        "cover": "https://cdn.kobo.com/book-images/00b4f3fe-7565-4742-85df-d289d3c4bcdd/353/569/90/False/silverborn-the-mystery-of-morrigan-crow.jpg",
+        "cover": "https://cdn.kobo.com/book-images/3b2f3daf-9b26-47b3-a4e0-be7eb6eee5b4/353/569/90/False/silverborn-the-mystery-of-morrigan-crow.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/silverborn-the-mystery-of-morrigan-crow",
         "preorder": "Available Sep 10, 2024",
         "isPlus": false,
