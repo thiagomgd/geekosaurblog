@@ -33,17 +33,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The Mountain in the Sea",
-        "price": 3.99,
-        "cover": "https://cdn.kobo.com/book-images/5ab3e89f-212a-4def-b137-ac97c1e72d48/353/569/90/False/the-mountain-in-the-sea.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-mountain-in-the-sea",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Ray Nayler",
-        "dealDescription": ""
-    },
-    {
         "title": "The Annual Migration of Clouds",
         "price": 5.99,
         "cover": "https://cdn.kobo.com/book-images/73b1b7f0-9de4-4049-a974-0d0ec6a2f97e/353/569/90/False/the-annual-migration-of-clouds.jpg",
@@ -1196,6 +1185,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Kate Elliott",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Mountain in the Sea",
+        "price": 12.99,
+        "cover": "https://cdn.kobo.com/book-images/5ab3e89f-212a-4def-b137-ac97c1e72d48/353/569/90/False/the-mountain-in-the-sea.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-mountain-in-the-sea",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Ray Nayler",
         "dealDescription": ""
     },
     {
