@@ -33,6 +33,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Extremely Online",
+        "price": 4.99,
+        "cover": "https://cdn.kobo.com/book-images/539991bb-a090-40b5-9ad7-ee6b9c49b702/353/569/90/False/extremely-online.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/extremely-online",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Taylor Lorenz",
+        "dealDescription": ""
+    },
+    {
         "title": "The Annual Migration of Clouds",
         "price": 5.99,
         "cover": "https://cdn.kobo.com/book-images/73b1b7f0-9de4-4049-a974-0d0ec6a2f97e/353/569/90/False/the-annual-migration-of-clouds.jpg",
@@ -1812,17 +1823,6 @@
         "isPlus": true,
         "isSale": true,
         "author": "Sayaka Murata",
-        "dealDescription": ""
-    },
-    {
-        "title": "Extremely Online",
-        "price": 17.99,
-        "cover": "https://cdn.kobo.com/book-images/539991bb-a090-40b5-9ad7-ee6b9c49b702/353/569/90/False/extremely-online.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/extremely-online",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Taylor Lorenz",
         "dealDescription": ""
     },
     {
