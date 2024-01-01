@@ -1,6 +1,60 @@
 {
-  "lastFetched": "2023-12-27T03:08:03.557Z",
+  "lastFetched": "2024-01-01T03:50:01.217Z",
   "posts": [
+    {
+      "date": "2023-12-31T07:38:02.716Z",
+      "id": "111673886815695764",
+      "title": "Italo Ferreira caught inside a solar eclipse",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/111673886815695764",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "l",
+        "photography"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/111673886815695764",
+      "host": "mastodon.social",
+      "linkUrl": "https://www.surfertoday.com/surfing/italo-ferreira-caught-inside-a-solar-eclipse",
+      "seeAlso": [],
+      "linkComments": [
+        "I just discovered this today! Amazing photo, and from Brazil."
+      ]
+    },
+    {
+      "date": "2023-12-27T20:43:17.509Z",
+      "id": "111654325289226771",
+      "title": "The most interesting book cover designs are often left on the cutting room floor",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/111654325289226771",
+      "site": "Mastodon",
+      "images": [
+        {
+          "url": "https://files.mastodon.social/media_attachments/files/111/654/315/361/474/562/original/d21755e1d9fe2e90.png",
+          "alt": null,
+          "width": 366,
+          "height": 630,
+          "aspect": 0.580952380952381
+        }
+      ],
+      "tags": [
+        "l",
+        "books",
+        "fantasy"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/111654325289226771",
+      "host": "mastodon.social",
+      "linkUrl": "https://news.ycombinator.com/item?id=38617655",
+      "seeAlso": [
+        {
+          "title": "original article",
+          "link": "https://www.fastcompany.com/90993731/the-best-book-covers-of-2023-are-the-ones-youll-never-see"
+        }
+      ],
+      "linkComments": [
+        "Nice discussion on book covers. While some new covers are good, I do prefer older ones, specially fantasy - like the cover for Melanie Rawn's Exiles shared in a comment. I do think those not only look better and gets my attention more, but are not overly generic as to make it 'relatable' to about anyone."
+      ]
+    },
     {
       "date": "2023-11-12T22:05:25.810Z",
       "id": "111399844297485296",
@@ -361,5 +415,5 @@
       "linksPost": "links-1"
     }
   ],
-  "lastFetchPostID": "111619810353049784"
+  "lastFetchPostID": "111673886815695764"
 }
