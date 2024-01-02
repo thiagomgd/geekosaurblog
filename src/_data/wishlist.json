@@ -22,17 +22,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The London S\u00e9ance Society",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/74477a61-8cef-4194-a551-e6644dee8206/353/569/90/False/the-london-seance-society.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-london-seance-society",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Sarah Penner",
-        "dealDescription": ""
-    },
-    {
         "title": "Sisters of Shadow (Sisters of Shadow, Book 1)",
         "price": 3.99,
         "cover": "https://cdn.kobo.com/book-images/f42a7440-f946-46c9-bb7c-169bb8791078/353/569/90/False/sisters-of-shadow-sisters-of-shadow-book-1.jpg",
@@ -1955,6 +1944,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "Lindsay Eagar",
+        "dealDescription": ""
+    },
+    {
+        "title": "The London S\u00e9ance Society",
+        "price": 19.99,
+        "cover": "https://cdn.kobo.com/book-images/74477a61-8cef-4194-a551-e6644dee8206/353/569/90/False/the-london-seance-society.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-london-seance-society",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Sarah Penner",
         "dealDescription": ""
     },
     {
