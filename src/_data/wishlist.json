@@ -1,5 +1,16 @@
 [
     {
+        "title": "The Year of Less",
+        "price": 0.99,
+        "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-year-of-less-2",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Cait Flanders",
+        "dealDescription": ""
+    },
+    {
         "title": "The Vanderbeekers of 141st Street",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/c9730475-f6d1-411e-937c-4dfaaa9b8b35/353/569/90/False/the-vanderbeekers-of-141st-street-3.jpg",
@@ -8,17 +19,6 @@
         "isPlus": false,
         "isSale": true,
         "author": "Karina Yan Glaser",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Year of Less",
-        "price": 1.99,
-        "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-year-of-less-2",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Cait Flanders",
         "dealDescription": ""
     },
     {
