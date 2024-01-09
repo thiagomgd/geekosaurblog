@@ -33,17 +33,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The Annual Migration of Clouds",
-        "price": 5.99,
-        "cover": "https://cdn.kobo.com/book-images/73b1b7f0-9de4-4049-a974-0d0ec6a2f97e/353/569/90/False/the-annual-migration-of-clouds.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-annual-migration-of-clouds",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": false,
-        "author": "Premee Mohamed",
-        "dealDescription": ""
-    },
-    {
         "title": "Life's Edge",
         "price": 5.99,
         "cover": "https://cdn.kobo.com/book-images/c91f07d6-7793-4791-8bb0-40c1bb04b8f3/353/569/90/False/life-s-edge.jpg",
@@ -745,6 +734,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "Michael McCreary",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Annual Migration of Clouds",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/73b1b7f0-9de4-4049-a974-0d0ec6a2f97e/353/569/90/False/the-annual-migration-of-clouds.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-annual-migration-of-clouds",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Premee Mohamed",
         "dealDescription": ""
     },
     {

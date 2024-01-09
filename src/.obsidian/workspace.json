@@ -13,21 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2023/book-finds-nov3-2023.md",
+                "file": "posts/musiccorner/music-corner-23.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "4d8ae01f1f259f30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/2023/friday-finds-1.md",
-                "mode": "source",
-                "source": true
               }
             }
           },
@@ -43,16 +31,6 @@
                 "source": true
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "341c136374b04c9a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
             }
           },
           {
@@ -86,23 +64,15 @@
           {
             "id": "0f789c86729af1ee",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "posts/thoughts/thoughts-1.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "8120bc5b05b9617d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -159,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2023/book-finds-nov3-2023.md",
+                "file": "posts/musiccorner/music-corner-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2023/book-finds-nov3-2023.md",
+                "file": "posts/musiccorner/music-corner-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2023/book-finds-nov3-2023.md"
+                "file": "posts/musiccorner/music-corner-23.md"
               }
             }
           }
@@ -241,8 +210,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45b779cc93c0038d",
+  "active": "ddf114b4ba289d8c",
   "lastOpenFiles": [
+    "currentlyReading/currentlyReading.md",
+    "posts/2023/friday-finds-1.md",
+    "posts/musiccorner/music-corner-23.md",
+    "img/music-corner-23.jpeg",
+    "posts/musiccorner/music-corner-22.md",
+    "posts/musiccorner/music-monday-1.md",
+    "posts/2023/book-finds-nov3-2023.md",
     "img/music-corner-21.jpg",
     "posts/musiccorner/music-corner-21.md",
     "posts/musiccorner/music-corner-20 copy.md",
@@ -254,11 +230,6 @@
     "img/mastodon/1214130-9928a9ccf29e4f51.jpeg",
     "img/mastodon/3846534-4ecfd391d7059ace.jpeg",
     "img/mastodon/6553351-2c0a71214e90d656.jpeg",
-    "img/mastodon/8998457-6eb6b2ca666ec26f.jpeg",
-    "img/mastodon/1157651-006a49b5e740f161.jpeg",
-    "posts/2023/friday-finds-1.md",
-    "posts/2023/book-finds-nov3-2023.md",
-    "currentlyReading/currentlyReading.md",
     "_data/manga.js",
     "_data/books copy.js",
     "_cache/thestorygraph.csv",
@@ -285,9 +256,6 @@
     "posts/links/links-1.md",
     "posts/links/links-2.md",
     "posts/news/geekosaur-news-28.md",
-    "posts/news/geekosaur-news-34.md",
-    "posts/news/geekosaur-news-33.md",
-    "templates/note_template.md",
-    "posts/news/geekosaur-news-33 1.md"
+    "posts/news/geekosaur-news-34.md"
   ]
 }

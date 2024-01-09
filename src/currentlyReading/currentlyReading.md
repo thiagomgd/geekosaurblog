@@ -12,20 +12,20 @@ Jump to [Manga](#manga)
 ## Books
 
 **Current**:
-- Konosuba Vol 3
+- Konosuba Vol 6
+- 
 
 **Next**:
-- Konosuba Vol 4
-- Durarara!! Vol 2
-- Dust by Hugh Howey
-- Immortality: A Love Story (Anatomy #2) by Dana Schwartz ([link](https://dana-schwartz.com/books/immortality-a-love-story/))
-- Stellarlune (Keeper of the Lost Cities #9) by Shannon Messenger ([link](https://www.simonandschuster.com/series/Keeper-of-the-Lost-Cities))
+- 
+- 
 
 **At some point**:
 - The Ghost Woods by C. J. Cooke ([link](https://carolynjesscooke.com/the-ghost-woods/))
 	- Same author as The Lighthouse Witches, which I loved!
 - Spineless by Samantha San Miguel ([link](https://www.samanthasanmiguel.com/))
 - Fairy Tale by Stephen King ([link](https://stephenking.com/works/novel/fairy-tale.html))
+- Stellarlune (Keeper of the Lost Cities #9) by Shannon Messenger ([link](https://www.simonandschuster.com/series/Keeper-of-the-Lost-Cities))
+	- Will likely wait until the next one is released and read both.
 
 ## Manga
 
@@ -33,20 +33,20 @@ Currently: None!
 
 ### Volume Manga
 
-Indicating next volume to read:
-
-- Delicious in Dungeon: [Volume 11](https://yenpress.com/9781975346720/delicious-in-dungeon-vol-11/)
-- One Piece: Vol. 81
+**Indicating next volume to read**:
+- FireForce: ??? (chapter 273 of 305)
 - Mieruko-chan: Vol. 7
 - DanDaDan: Vol. 3
-	- Note: Chapters Available on [Viz](https://www.viz.com/shonenjump/chapters/dandadan?locale=en)
+- Ranma 1/2: [Volume 10 (Vol. 19 and 20)](https://www.viz.com/ranma-1-2)
+
+**Paused or waiting for more**:
+- Delicious in Dungeon: [Volume 11](https://yenpress.com/9781975346720/delicious-in-dungeon-vol-11/)
+	- Waiting for series to finish
+- One Piece: Vol. 81
 - Don't Toy With Me, Miss Nagatoro: [Volume 12](https://kodansha.us/series/dont-toy-with-me-miss-nagatoro/)
-- FireForce: ??? (chapter 273 of 305)
 - One-Punch Man: 24
 	- Was reading by chapter, until I discovered about the redraws
 - Miss Kobayashi’s Dragon Maid: [Volume 12](https://sevenseasentertainment.com/series/miss-kobayashis-dragon-maid/)
-- Ranma 1/2: [Volume 12 (Vol. 19 and 20)](https://www.viz.com/ranma-1-2) - it's a double-volume series.
-
 
 ### Chapter Manga
 
@@ -73,8 +73,6 @@ Manga I'm reading by chapters, mostly on Shonen Jump (except for Fire Force). In
 	- Read first few chapters a loooooong time ago
 - My Hero Academia
 	- Since manga is ending, wanted to maybe read it along as it releases. Watched only a couple episodes of the current season, and stopped watching any anime at the moment
-- Kaguya-sama: Love Is War
-	- The anime didn't catch my attention, I think I don't even finished the first episode. But I wonder if I should give the manga a try
 
 ### Paused / On Hold
 
