@@ -1,5 +1,16 @@
 [
     {
+        "title": "Slayers: Volume 1",
+        "price": 9.97,
+        "cover": "https://cdn.kobo.com/book-images/8f8824bc-1c03-4a82-b665-4af570389975/353/569/90/False/slayers-volume-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/slayers-volume-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Hajime Kanzaka",
+        "dealDescription": ""
+    },
+    {
         "title": "Orc Eroica, Vol. 1 (light novel)",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/b32b493a-cbd2-443e-93c2-f9ec745eab15/353/569/90/False/orc-eroica-vol-1-light-novel.jpg",
@@ -11,25 +22,25 @@
         "dealDescription": ""
     },
     {
-        "title": "Mushoku Tensei: Jobless Reincarnation (Light Novel) Vol. 5",
-        "price": 12.47,
-        "cover": "https://cdn.kobo.com/book-images/f6bf4e11-8dcb-4aff-9266-2b417e2d3abb/353/569/90/False/mushoku-tensei-jobless-reincarnation-light-novel-vol-5.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/mushoku-tensei-jobless-reincarnation-light-novel-vol-5",
+        "title": "Reign of the Seven Spellblades, Vol. 1 (light novel)",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/5ff514a9-374a-46b1-9686-e8d6d3644af1/353/569/90/False/reign-of-the-seven-spellblades-vol-1-light-novel.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/reign-of-the-seven-spellblades-vol-1-light-novel",
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Rifujin na Magonote",
+        "author": "Bokuto Uno",
         "dealDescription": ""
     },
     {
-        "title": "Mushoku Tensei: Jobless Reincarnation (Light Novel) Vol. 4",
+        "title": "Irina: The Vampire Cosmonaut (Light Novel) Vol. 1",
         "price": 12.47,
-        "cover": "https://cdn.kobo.com/book-images/1d0cd778-c693-4005-879a-8901bdca6522/353/569/90/False/mushoku-tensei-jobless-reincarnation-light-novel-vol-4.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/mushoku-tensei-jobless-reincarnation-light-novel-vol-4",
+        "cover": "https://cdn.kobo.com/book-images/fbc40484-629b-44b8-8835-74f9b4695251/353/569/90/False/irina-the-vampire-cosmonaut-light-novel-vol-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/irina-the-vampire-cosmonaut-light-novel-vol-1",
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Rifujin na Magonote",
+        "author": "Keisuke Makino",
         "dealDescription": ""
     }
 ]
