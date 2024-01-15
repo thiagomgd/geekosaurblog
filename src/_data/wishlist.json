@@ -33,17 +33,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Her Radiant Curse",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/e40b0eb2-80d6-424b-9d3f-2a48d616c5c4/353/569/90/False/her-radiant-curse.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/her-radiant-curse",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Elizabeth Lim",
-        "dealDescription": ""
-    },
-    {
         "title": "Sisters of Shadow (Sisters of Shadow, Book 1)",
         "price": 3.99,
         "cover": "https://cdn.kobo.com/book-images/f42a7440-f946-46c9-bb7c-169bb8791078/353/569/90/False/sisters-of-shadow-sisters-of-shadow-book-1.jpg",
@@ -778,6 +767,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Lauren Oliver",
+        "dealDescription": ""
+    },
+    {
+        "title": "Her Radiant Curse",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/e40b0eb2-80d6-424b-9d3f-2a48d616c5c4/353/569/90/False/her-radiant-curse.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/her-radiant-curse",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Elizabeth Lim",
         "dealDescription": ""
     },
     {
