@@ -33,6 +33,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Century Rain",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/ec75fa28-34f7-405a-822f-666f168d2697/353/569/90/False/century-rain-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/century-rain-4",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Alastair Reynolds",
+        "dealDescription": ""
+    },
+    {
         "title": "Sisters of Shadow (Sisters of Shadow, Book 1)",
         "price": 3.99,
         "cover": "https://cdn.kobo.com/book-images/f42a7440-f946-46c9-bb7c-169bb8791078/353/569/90/False/sisters-of-shadow-sisters-of-shadow-book-1.jpg",
@@ -1174,17 +1185,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Carl Sagan",
-        "dealDescription": ""
-    },
-    {
-        "title": "Century Rain",
-        "price": 12.99,
-        "cover": "https://cdn.kobo.com/book-images/ec75fa28-34f7-405a-822f-666f168d2697/353/569/90/False/century-rain-4.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/century-rain-4",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Alastair Reynolds",
         "dealDescription": ""
     },
     {
