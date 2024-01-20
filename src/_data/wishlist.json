@@ -33,17 +33,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Century Rain",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/ec75fa28-34f7-405a-822f-666f168d2697/353/569/90/False/century-rain-4.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/century-rain-4",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Alastair Reynolds",
-        "dealDescription": ""
-    },
-    {
         "title": "Sisters of Shadow (Sisters of Shadow, Book 1)",
         "price": 3.99,
         "cover": "https://cdn.kobo.com/book-images/f42a7440-f946-46c9-bb7c-169bb8791078/353/569/90/False/sisters-of-shadow-sisters-of-shadow-book-1.jpg",
@@ -272,17 +261,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Kieran Larwood",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Lost Girl King",
-        "price": 8.99,
-        "cover": "https://cdn.kobo.com/book-images/6b7b491a-2dd2-4643-89fd-4970fe100ded/353/569/90/False/the-lost-girl-king.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-lost-girl-king",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Catherine Doyle",
         "dealDescription": ""
     },
     {
@@ -646,6 +624,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "Tamzin Merchant",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Lost Girl King",
+        "price": 10.99,
+        "cover": "https://cdn.kobo.com/book-images/6b7b491a-2dd2-4643-89fd-4970fe100ded/353/569/90/False/the-lost-girl-king.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-lost-girl-king",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Catherine Doyle",
         "dealDescription": ""
     },
     {
@@ -1185,6 +1174,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Carl Sagan",
+        "dealDescription": ""
+    },
+    {
+        "title": "Century Rain",
+        "price": 12.99,
+        "cover": "https://cdn.kobo.com/book-images/ec75fa28-34f7-405a-822f-666f168d2697/353/569/90/False/century-rain-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/century-rain-4",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Alastair Reynolds",
         "dealDescription": ""
     },
     {
