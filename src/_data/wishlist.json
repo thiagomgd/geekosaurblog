@@ -77,6 +77,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Satanic Verses",
+        "price": 6.99,
+        "cover": "https://cdn.kobo.com/book-images/33b0945f-7176-4d45-8e91-d8ad11fff736/353/569/90/False/the-satanic-verses.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-satanic-verses",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Salman Rushdie",
+        "dealDescription": ""
+    },
+    {
         "title": "Wild and Wicked Things",
         "price": 6.99,
         "cover": "https://cdn.kobo.com/book-images/f4504d04-43cf-4216-ab78-0c4dbbb88676/353/569/90/False/wild-and-wicked-things-1.jpg",
@@ -514,17 +525,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "E.K. Johnston",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Satanic Verses",
-        "price": 9.99,
-        "cover": "https://cdn.kobo.com/book-images/33b0945f-7176-4d45-8e91-d8ad11fff736/353/569/90/False/the-satanic-verses.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-satanic-verses",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Salman Rushdie",
         "dealDescription": ""
     },
     {
@@ -1463,17 +1463,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Home Before Dark",
-        "price": 13.99,
-        "cover": "https://cdn.kobo.com/book-images/f082817c-9c47-4adf-bb33-1ca150af1e3c/353/569/90/False/home-before-dark-22.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/home-before-dark-22",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Riley Sager",
-        "dealDescription": ""
-    },
-    {
         "title": "Dead Country",
         "price": 14.99,
         "cover": "https://cdn.kobo.com/book-images/ef3dd624-e52f-4166-a159-2f91e69bc6a1/353/569/90/False/dead-country-3.jpg",
@@ -1548,6 +1537,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Maurice Broaddus",
+        "dealDescription": ""
+    },
+    {
+        "title": "Home Before Dark",
+        "price": 14.99,
+        "cover": "https://cdn.kobo.com/book-images/f082817c-9c47-4adf-bb33-1ca150af1e3c/353/569/90/False/home-before-dark-22.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/home-before-dark-22",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Riley Sager",
         "dealDescription": ""
     },
     {
