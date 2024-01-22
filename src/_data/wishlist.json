@@ -11,17 +11,6 @@
         "dealDescription": ""
     },
     {
-        "title": "What the River Knows",
-        "price": 1.99,
-        "cover": "https://cdn.kobo.com/book-images/eb42a2e9-3344-4185-be01-37d3d6a9ef9f/353/569/90/False/what-the-river-knows-2.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/what-the-river-knows-2",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Isabel Iba\u00f1ez",
-        "dealDescription": ""
-    },
-    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -1163,6 +1152,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Ray Nayler",
+        "dealDescription": ""
+    },
+    {
+        "title": "What the River Knows",
+        "price": 12.99,
+        "cover": "https://cdn.kobo.com/book-images/eb42a2e9-3344-4185-be01-37d3d6a9ef9f/353/569/90/False/what-the-river-knows-2.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/what-the-river-knows-2",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Isabel Iba\u00f1ez",
         "dealDescription": ""
     },
     {
