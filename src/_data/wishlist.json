@@ -33,17 +33,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The Annual Migration of Clouds",
-        "price": 5.99,
-        "cover": "https://cdn.kobo.com/book-images/73b1b7f0-9de4-4049-a974-0d0ec6a2f97e/353/569/90/False/the-annual-migration-of-clouds.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-annual-migration-of-clouds",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": false,
-        "author": "Premee Mohamed",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
-    },
-    {
         "title": "Life's Edge",
         "price": 5.99,
         "cover": "https://cdn.kobo.com/book-images/c91f07d6-7793-4791-8bb0-40c1bb04b8f3/353/569/90/False/life-s-edge.jpg",
@@ -118,7 +107,7 @@
         "isPlus": true,
         "isSale": false,
         "author": "T. Kingfisher",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
+        "dealDescription": ""
     },
     {
         "title": "The Bookshop of Dust and Dreams",
@@ -184,7 +173,7 @@
         "isPlus": false,
         "isSale": false,
         "author": "Deanna Raybourn",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
+        "dealDescription": ""
     },
     {
         "title": "Peter and the Starcatchers",
@@ -272,7 +261,7 @@
         "isPlus": false,
         "isSale": true,
         "author": "Kelly Yang",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
+        "dealDescription": ""
     },
     {
         "title": "Crystal Singer",
@@ -327,7 +316,7 @@
         "isPlus": false,
         "isSale": false,
         "author": "Rachel Gillig",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
+        "dealDescription": ""
     },
     {
         "title": "When Supernatural Battles Became Commonplace: Volume 1",
@@ -382,7 +371,7 @@
         "isPlus": false,
         "isSale": false,
         "author": "Lemony Snicket",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
+        "dealDescription": ""
     },
     {
         "title": "Eva Evergreen, Semi-Magical Witch",
@@ -734,6 +723,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "Michael McCreary",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Annual Migration of Clouds",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/73b1b7f0-9de4-4049-a974-0d0ec6a2f97e/353/569/90/False/the-annual-migration-of-clouds.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-annual-migration-of-clouds",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Premee Mohamed",
         "dealDescription": ""
     },
     {
@@ -1416,7 +1416,7 @@
         "isPlus": false,
         "isSale": false,
         "author": "Richard Osman",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
+        "dealDescription": ""
     },
     {
         "title": "Vera Wong's Unsolicited Advice for Murderers",
@@ -1438,7 +1438,7 @@
         "isPlus": false,
         "isSale": false,
         "author": "Katee Robert",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
+        "dealDescription": ""
     },
     {
         "title": "Black Sun",
@@ -1449,7 +1449,7 @@
         "isPlus": false,
         "isSale": false,
         "author": "Rebecca Roanhorse",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
+        "dealDescription": ""
     },
     {
         "title": "THE MASTER AND MARGARITA",
@@ -1504,7 +1504,7 @@
         "isPlus": false,
         "isSale": false,
         "author": "Marina Lostetter",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
+        "dealDescription": ""
     },
     {
         "title": "Bookshops & Bonedust",
@@ -1823,7 +1823,7 @@
         "isPlus": false,
         "isSale": false,
         "author": "Chloe Gong",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
+        "dealDescription": ""
     },
     {
         "title": "Earthlings",
