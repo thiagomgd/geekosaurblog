@@ -527,7 +527,7 @@ const fetchMastodonPosts = async (config, cache) => {
   cache.lastFetched = new Date().toISOString();
 
   const timeline = formatMastodonTimeline(feed, config);
-  console.log(`>>> ${timeline.length} new firefish posts fetched`);
+  console.log(`>>> ${timeline.length} new mastodon posts fetched`);
 
   const newMergedPosts = mergeMastodonPosts(cache, timeline);
   cache.posts = newMergedPosts;
