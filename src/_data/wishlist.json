@@ -1042,7 +1042,7 @@
         "isPlus": false,
         "isSale": false,
         "author": "Salman Rushdie",
-        "dealDescription": ""
+        "dealDescription": "\n    \n        This item is eligible for \n            4 eBooks for just $20\n    \n"
     },
     {
         "title": "The Lake House",
@@ -1339,7 +1339,7 @@
         "isPlus": false,
         "isSale": false,
         "author": "Chris Hadfield",
-        "dealDescription": ""
+        "dealDescription": "\n    \n        This item is eligible for \n            4 eBooks for just $20\n    \n"
     },
     {
         "title": "Emily Wilde's Encyclopaedia of Faeries",
@@ -1416,7 +1416,7 @@
         "isPlus": false,
         "isSale": false,
         "author": "Richard Osman",
-        "dealDescription": ""
+        "dealDescription": "\n    \n        This item is eligible for \n            4 eBooks for just $20\n    \n"
     },
     {
         "title": "Vera Wong's Unsolicited Advice for Murderers",
