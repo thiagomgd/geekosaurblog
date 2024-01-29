@@ -55,6 +55,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Stars Undying",
+        "price": 6.99,
+        "cover": "https://cdn.kobo.com/book-images/391b96c8-f486-43a9-bb95-d8df24198f33/353/569/90/False/the-stars-undying.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-stars-undying",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Emery Robin",
+        "dealDescription": ""
+    },
+    {
         "title": "Magic Kingdom for Sale--Sold!",
         "price": 6.99,
         "cover": "https://cdn.kobo.com/book-images/bcee7e74-a10c-4dac-aa0e-c52f6d32499f/353/569/90/False/magic-kingdom-for-sale-sold-1.jpg",
@@ -316,17 +327,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Sofie Kelly",
-        "dealDescription": ""
-    },
-    {
-        "title": "One Dark Window",
-        "price": 8.99,
-        "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Rachel Gillig",
         "dealDescription": ""
     },
     {
@@ -1023,6 +1023,17 @@
         "dealDescription": ""
     },
     {
+        "title": "One Dark Window",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Rachel Gillig",
+        "dealDescription": ""
+    },
+    {
         "title": "Flowerheart",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/0854c009-09a7-405e-aea2-c191520c2eef/353/569/90/False/flowerheart-1.jpg",
@@ -1119,17 +1130,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Nina Varela",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Stars Undying",
-        "price": 12.99,
-        "cover": "https://cdn.kobo.com/book-images/391b96c8-f486-43a9-bb95-d8df24198f33/353/569/90/False/the-stars-undying.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-stars-undying",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Emery Robin",
         "dealDescription": ""
     },
     {
