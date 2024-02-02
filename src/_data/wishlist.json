@@ -1,16 +1,5 @@
 [
     {
-        "title": "The Vanderbeekers of 141st Street",
-        "price": 1.99,
-        "cover": "https://cdn.kobo.com/book-images/c9730475-f6d1-411e-937c-4dfaaa9b8b35/353/569/90/False/the-vanderbeekers-of-141st-street-3.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-vanderbeekers-of-141st-street-3",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Karina Yan Glaser",
-        "dealDescription": ""
-    },
-    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -371,6 +360,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Kelley Armstrong",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Vanderbeekers of 141st Street",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/c9730475-f6d1-411e-937c-4dfaaa9b8b35/353/569/90/False/the-vanderbeekers-of-141st-street-3.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-vanderbeekers-of-141st-street-3",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Karina Yan Glaser",
         "dealDescription": ""
     },
     {
@@ -1105,7 +1105,7 @@
         "cover": "https://cdn.kobo.com/book-images/957d8c6e-2252-462a-8ccb-ce7dbd9b2d92/353/569/90/False/the-midnight-bargain-5.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/the-midnight-bargain-5",
         "preorder": "",
-        "isPlus": false,
+        "isPlus": true,
         "isSale": true,
         "author": "C.L. Polk",
         "dealDescription": ""
