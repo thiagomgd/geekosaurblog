@@ -30,10 +30,15 @@ https://music.youtube.com/playlist?list=OLAK5uy_mVornEaauvDf9xIUpW7OmceH6_OwO_Oo
 
 [embed](https://www.youtube.com/watch?v=xbf_mF7_KmI)
 
-The Pretty Reckless - 
+**The Pretty Reckless - Other Worlds and Death By Rock'n'Roll**: Other Worlds isa great compilation, with acoustic recordings, covers and reimaginings. Death By Rock'n'Roll is also a pretty fun album, but overall, I think I prefer Other Worlds for the variety + acoustics. (I bought Other Worlds BTW).
 
-existing:
-album: Molly Burch - Daydreamer https://music.youtube.com/playlist?list=OLAK5uy_lV1ARak2g99AUWDcrR8bVEPqbS2BIX0Ig 
+[embed](https://www.youtube.com/watch?v=7Sx0vEKmAVw
+
+## Other Listens
+
+**Molly Burch - Daydreamer**: I have this on cassette, and had some fun time listening to it while reading 
+
+[embed](https://www.youtube.com/watch?v=8AarUCTSVkY)
 
 Rhapsody Of Fire re-records https://music.youtube.com/playlist?list=OLAK5uy_n44oeVOgTEYP0vm8e47ARrCOrzBaCGSQ0
 
