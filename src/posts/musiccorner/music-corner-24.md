@@ -3,11 +3,10 @@ slug: music-corner-24
 tags:
   - newMusic
   - musicRecap
-  - draft
-date: 2024-01-17T10:00:00
+date: 2024-02-04T11:50:00
 description: Recap of new music I got, and what I listened to these past 2 weeks.
 thread: music-corner
-title: "Music Corner 24: What I'm Listening To (Jan 16th-31st)"
+title: "Music Corner 24: What I've Been Listening To (Jan 16th-31st)"
 thumbnail: 
 toc: false
 ---
@@ -32,7 +31,7 @@ https://music.youtube.com/playlist?list=OLAK5uy_mVornEaauvDf9xIUpW7OmceH6_OwO_Oo
 
 **The Pretty Reckless - Other Worlds and Death By Rock'n'Roll**: Other Worlds isa great compilation, with acoustic recordings, covers and reimaginings. Death By Rock'n'Roll is also a pretty fun album, but overall, I think I prefer Other Worlds for the variety + acoustics. (I bought Other Worlds BTW).
 
-[embed](https://www.youtube.com/watch?v=7Sx0vEKmAVw
+[embed](https://www.youtube.com/watch?v=7Sx0vEKmAVw)
 
 ## Other Listens
 
@@ -40,20 +39,25 @@ https://music.youtube.com/playlist?list=OLAK5uy_mVornEaauvDf9xIUpW7OmceH6_OwO_Oo
 
 [embed](https://www.youtube.com/watch?v=8AarUCTSVkY)
 
-Rhapsody Of Fire re-records https://music.youtube.com/playlist?list=OLAK5uy_n44oeVOgTEYP0vm8e47ARrCOrzBaCGSQ0
+**Rhapsody Of Fire - Legendary Years (Re-Recorded)**: This is so nostalgic. I think I haven't listened to them since they were still called Rhapsody. Great album, and I just love their first 4 albums. I guess I need to have a listen to their new stuff soon.
 
-This is so nostalgic. I think I haven't listened to them since they were still called Rhapsody. Great album, and I just love their first 4 albums. I guess I need to have a listen to their new stuff soon.
+[embed](https://www.youtube.com/watch?v=QKl9JL1hXWY)
 
-Mariah Carey MTV Unplugged - https://music.youtube.com/playlist?list=OLAK5uy_m7hLInIKFoX297x5lVqXdcHBYhTW6352A 
+**Mariah Carey - MTV Unplugged**: This live is just so good, and early 1990s Mariah just rocks so much!
 
-This live is just so good, and early 1990s Mariah just rocks so much!
-
+[embed](https://www.youtube.com/watch?v=h4abd6m71hk)
 ## MVs
+
 I also listened quite a bit to (G)I-DLE, and had their MVs running during work. Their new song and MV, Wife, is pretty cool! Loved the aesthetic and dance.
 
-## Lives
+[embed](https://www.youtube.com/watch?v=baaNwRAhHBo)
+
+## Live Shows
 
 Teddy pendergrass: This 1979 live concert is just so good!! Love Teddy's voice, and he's opening with an absolute banger!
+
 [embed](https://www.youtube.com/watch?v=VuWeZkW3rGw)
+
 Paramore - Live At Bonnaroo Music Festival 2023
+
 [embed](https://www.youtube.com/watch?v=oUuur5PwDKw)
