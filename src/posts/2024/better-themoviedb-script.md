@@ -1,8 +1,7 @@
 ---
 tags:
-  - draft
   - script
-date: 2023-02-20T00:20:00.000Z
+date: 2024-02-05T13:30:00
 title: better-themoviedb-script
 description: "A while ago I moved from Trakt.tv to TheMovieDB.org. While I love it, there are a few things it could be better. So I though: why not a script?"
 lead: 
@@ -12,7 +11,6 @@ slug: better-themoviedb-script
 A while ago, I decided to move away from Trakt.tv, and found a new home on themoviedb. While I love TMDB, there are a few things missing that bothered me, and I decided to use ViolentMonkey to create a user script and make a some improvements so my experience is better.
 
 The script is available on [this gist](https://gist.github.com/thiagomgd/ddc36493dc934490fe3f4949e827e4bb) and for now, still being updated from time to time.
-
 ## Actor Page
 
 Starting from the actor's page, I made a few changes to help me have some insights, and add items to my watchlist:
