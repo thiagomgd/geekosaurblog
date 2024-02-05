@@ -11,8 +11,12 @@
             "id": "bf2dd79b8e47790c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "posts/2024/better-themoviedb-script.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/2024/better-themoviedb-script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "posts/2024/better-themoviedb-script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "posts/2024/better-themoviedb-script.md"
+              }
             }
           }
         ],
@@ -146,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "618f791e53a7e726",
+  "active": "bf2dd79b8e47790c",
   "lastOpenFiles": [
     "Pasted image 20240205092933.png",
     "Pasted image 20240205092015.png",

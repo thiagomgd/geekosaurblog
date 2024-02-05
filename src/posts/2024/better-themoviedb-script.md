@@ -1,7 +1,7 @@
 ---
 tags:
   - script
-date: 2024-02-05T13:30:00
+date: 2024-02-05T11:59:00
 title: better-themoviedb-script
 description: "A while ago I moved from Trakt.tv to TheMovieDB.org. While I love it, there are a few things it could be better. So I though: why not a script?"
 lead: 
