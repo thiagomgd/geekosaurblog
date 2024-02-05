@@ -4,75 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5970a7d0baf1b388",
+        "id": "cf05e67dc907fcd7",
         "type": "tabs",
         "children": [
           {
-            "id": "ddf114b4ba289d8c",
+            "id": "bf2dd79b8e47790c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/musiccorner/music-corner-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdb6bbf0b77d6c49",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "currentlyReading/currentlyReading.md",
-                "mode": "source",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f8dff150c30df6b2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "currentlyWatching/currentlyWatching.md",
-                "mode": "source",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "8da96bdfd75195c8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/2023/friday-finds-1.md",
-                "mode": "source",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "0f789c86729af1ee",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/thoughts/thoughts-1.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -149,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/musiccorner/music-corner-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/musiccorner/music-corner-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "posts/musiccorner/music-corner-24.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -210,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddf114b4ba289d8c",
+  "active": "bf2dd79b8e47790c",
   "lastOpenFiles": [
-    "posts/musiccorner/music-corner-23.md",
+    "posts/thoughts/thoughts-1.md",
+    "posts/2023/friday-finds-1.md",
+    "currentlyWatching/currentlyWatching.md",
+    "currentlyReading/currentlyReading.md",
     "posts/musiccorner/music-corner-24.md",
+    "posts/musiccorner/music-corner-23.md",
     "img/Pasted image 20240131164333.png",
     "img/Pasted image 20240131191219.png",
     "img/Pasted image 20240131164823.png",
@@ -225,8 +165,6 @@
     "_cache/thestorygraph.csv",
     "_cache/04d1a1998c3066d668c66b481efbefe6da5178ee538afcaacc4d0fde67e71f6a(1).csv",
     "img/mastodon/2213028-17337c5803496032.png",
-    "currentlyReading/currentlyReading.md",
-    "posts/2023/friday-finds-1.md",
     "img/music-corner-23.jpeg",
     "posts/musiccorner/music-corner-22.md",
     "posts/musiccorner/music-monday-1.md",
@@ -239,14 +177,12 @@
     "_data/books copy.js",
     "posts/thoughts/thoughts.json",
     "posts/thoughts/news.json",
-    "posts/thoughts/thoughts-1.md",
     "posts/thoughts/geekosaur-news-36.md",
     "posts/thoughts",
     "posts/Untitled.md",
     "posts/news/geekosaur-news-36.md",
     "_cache/nowPlayingMasto.json",
     "_cache/nowPlayingSakurajima copy.json",
-    "currentlyWatching/currentlyWatching.md",
     "posts/news/geekosaur-news-35.md",
     "posts/2023/2023-sept-new-books.md",
     "posts/2023/2023-anticipated-books-ya.md",
