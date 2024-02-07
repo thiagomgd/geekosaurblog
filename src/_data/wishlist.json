@@ -11,6 +11,17 @@
         "dealDescription": ""
     },
     {
+        "title": "A Study in Drowning",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/31161509-5ffe-4bab-9b1b-f8c019e31234/353/569/90/False/a-study-in-drowning-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-study-in-drowning-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Ava Reid",
+        "dealDescription": ""
+    },
+    {
         "title": "Sisters of Shadow (Sisters of Shadow, Book 1)",
         "price": 3.99,
         "cover": "https://cdn.kobo.com/book-images/f42a7440-f946-46c9-bb7c-169bb8791078/353/569/90/False/sisters-of-shadow-sisters-of-shadow-book-1.jpg",
@@ -891,17 +902,6 @@
         "dealDescription": ""
     },
     {
-        "title": "A Study in Drowning",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/31161509-5ffe-4bab-9b1b-f8c019e31234/353/569/90/False/a-study-in-drowning-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/a-study-in-drowning-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Ava Reid",
-        "dealDescription": ""
-    },
-    {
         "title": "Silver in the Bone",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/d49c13eb-6e31-4af2-a7cc-df429660a484/353/569/90/False/silver-in-the-bone.jpg",
@@ -1729,7 +1729,7 @@
     {
         "title": "Antimatter Blues",
         "price": 16.99,
-        "cover": "https://cdn.kobo.com/book-images/bcdb239e-0f75-4d0d-bc19-49d088b12a93/353/569/90/False/antimatter-blues-1.jpg",
+        "cover": "https://cdn.kobo.com/book-images/7645bb17-53de-43ce-b8df-c368396b0b3a/353/569/90/False/antimatter-blues-1.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/antimatter-blues-1",
         "preorder": "",
         "isPlus": false,
