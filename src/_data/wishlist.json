@@ -1265,6 +1265,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Antimatter Blues",
+        "price": 12.99,
+        "cover": "https://cdn.kobo.com/book-images/b3d182bd-6fdd-4f12-a933-4b79d81954eb/353/569/90/False/antimatter-blues-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/antimatter-blues-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Edward Ashton",
+        "dealDescription": ""
+    },
+    {
         "title": "Silverborn: The Mystery of Morrigan Crow",
         "price": 12.99,
         "cover": "https://cdn.kobo.com/book-images/3b2f3daf-9b26-47b3-a4e0-be7eb6eee5b4/353/569/90/False/silverborn-the-mystery-of-morrigan-crow.jpg",
@@ -1724,17 +1735,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Bessel van der Kolk M.D.",
-        "dealDescription": ""
-    },
-    {
-        "title": "Antimatter Blues",
-        "price": 16.99,
-        "cover": "https://cdn.kobo.com/book-images/b3d182bd-6fdd-4f12-a933-4b79d81954eb/353/569/90/False/antimatter-blues-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/antimatter-blues-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Edward Ashton",
         "dealDescription": ""
     },
     {
