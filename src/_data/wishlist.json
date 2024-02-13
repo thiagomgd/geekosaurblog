@@ -1,5 +1,16 @@
 [
     {
+        "title": "The Rise and Reign of the Mammals",
+        "price": 1.99,
+        "cover": "https://cdn.kobo.com/book-images/889c7e53-4d2d-4168-94ec-22e43599af20/353/569/90/False/the-rise-and-reign-of-the-mammals-3.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-rise-and-reign-of-the-mammals-3",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Steve Brusatte",
+        "dealDescription": ""
+    },
+    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -415,17 +426,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Abi Elphinstone",
-        "dealDescription": ""
-    },
-    {
-        "title": "Strangeworlds Travel Agency",
-        "price": 9.99,
-        "cover": "https://cdn.kobo.com/book-images/de2a11a5-24dc-4435-9869-afd0d91ec884/353/569/90/False/strangeworlds-travel-agency.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/strangeworlds-travel-agency",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "L. D. Lapinski",
         "dealDescription": ""
     },
     {
@@ -1267,7 +1267,7 @@
     {
         "title": "Antimatter Blues",
         "price": 12.99,
-        "cover": "https://cdn.kobo.com/book-images/b3d182bd-6fdd-4f12-a933-4b79d81954eb/353/569/90/False/antimatter-blues-1.jpg",
+        "cover": "https://cdn.kobo.com/book-images/34806539-8a33-4a71-97e3-60b9f5bdf2ec/353/569/90/False/antimatter-blues-1.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/antimatter-blues-1",
         "preorder": "",
         "isPlus": false,
@@ -1603,17 +1603,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Jo\u00ebl Dicker",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Rise and Reign of the Mammals",
-        "price": 15.99,
-        "cover": "https://cdn.kobo.com/book-images/889c7e53-4d2d-4168-94ec-22e43599af20/353/569/90/False/the-rise-and-reign-of-the-mammals-3.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-rise-and-reign-of-the-mammals-3",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Steve Brusatte",
         "dealDescription": ""
     },
     {
