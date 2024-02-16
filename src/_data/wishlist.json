@@ -1,5 +1,27 @@
 [
     {
+        "title": "Honeymoon in Hell",
+        "price": 1.99,
+        "cover": "https://cdn.kobo.com/book-images/65d9d6d3-99c5-4ae1-aa5b-71a9427eafa4/353/569/90/False/honeymoon-in-hell-3.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/honeymoon-in-hell-3",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Fredric Brown",
+        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
+    },
+    {
+        "title": "The Space Between Us",
+        "price": 1.99,
+        "cover": "https://cdn.kobo.com/book-images/f603b1f6-08f1-4ff8-98b3-6550f46283f9/353/569/90/False/the-space-between-us-30.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-space-between-us-30",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Doug Johnstone",
+        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
+    },
+    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -41,7 +63,7 @@
         "isPlus": true,
         "isSale": false,
         "author": "Premee Mohamed",
-        "dealDescription": ""
+        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
     },
     {
         "title": "Life's Edge",
@@ -242,17 +264,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Honeymoon in Hell",
-        "price": 8.99,
-        "cover": "https://cdn.kobo.com/book-images/65d9d6d3-99c5-4ae1-aa5b-71a9427eafa4/353/569/90/False/honeymoon-in-hell-3.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/honeymoon-in-hell-3",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "Fredric Brown",
-        "dealDescription": ""
-    },
-    {
         "title": "Heart Gear, Vol. 1",
         "price": 8.99,
         "cover": "https://cdn.kobo.com/book-images/e1ec898a-c24e-4766-87f7-be4b543b97b4/353/569/90/False/heart-gear-vol-1.jpg",
@@ -297,9 +308,9 @@
         "dealDescription": ""
     },
     {
-        "title": "Deephaven",
+        "title": "Deephaven Mystery #1: Deephaven",
         "price": 8.99,
-        "cover": "https://cdn.kobo.com/book-images/43dc5490-09a8-468e-a5fa-66a99be98234/353/569/90/False/deephaven-19.jpg",
+        "cover": "https://cdn.kobo.com/book-images/43dc5490-09a8-468e-a5fa-66a99be98234/353/569/90/False/deephaven-mystery-1-deephaven.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/deephaven-19",
         "preorder": "",
         "isPlus": false,
@@ -437,17 +448,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Diana Wynne Jones",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Space Between Us",
-        "price": 9.99,
-        "cover": "https://cdn.kobo.com/book-images/f603b1f6-08f1-4ff8-98b3-6550f46283f9/353/569/90/False/the-space-between-us-30.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-space-between-us-30",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "Doug Johnstone",
         "dealDescription": ""
     },
     {
