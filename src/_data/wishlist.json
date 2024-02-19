@@ -880,6 +880,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Drowned Woods",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/12c9f910-b41a-483f-a90e-b6f7c1398a60/353/569/90/False/the-drowned-woods.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-drowned-woods",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Emily Lloyd-Jones",
+        "dealDescription": ""
+    },
+    {
         "title": "Spellsinger",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/8c216d95-5292-4397-b9b3-2229314b6c88/353/569/90/False/spellsinger-1.jpg",
@@ -1361,17 +1372,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "F.E.A.R.",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Drowned Woods",
-        "price": 13.99,
-        "cover": "https://cdn.kobo.com/book-images/12c9f910-b41a-483f-a90e-b6f7c1398a60/353/569/90/False/the-drowned-woods.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-drowned-woods",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Emily Lloyd-Jones",
         "dealDescription": ""
     },
     {
