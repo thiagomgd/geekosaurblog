@@ -1,5 +1,16 @@
 [
     {
+        "title": "Beyond Redemption",
+        "price": 1.99,
+        "cover": "https://cdn.kobo.com/book-images/f074c93b-9fda-4594-8aa9-6da2d7db7cf0/353/569/90/False/beyond-redemption-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/beyond-redemption-4",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Michael R Fletcher",
+        "dealDescription": ""
+    },
+    {
         "title": "Honeymoon in Hell",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/65d9d6d3-99c5-4ae1-aa5b-71a9427eafa4/353/569/90/False/honeymoon-in-hell-3.jpg",
@@ -30,17 +41,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Cait Flanders",
-        "dealDescription": ""
-    },
-    {
-        "title": "A Study in Drowning",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/31161509-5ffe-4bab-9b1b-f8c019e31234/353/569/90/False/a-study-in-drowning-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/a-study-in-drowning-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Ava Reid",
         "dealDescription": ""
     },
     {
@@ -99,17 +99,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The Satanic Verses",
-        "price": 6.99,
-        "cover": "https://cdn.kobo.com/book-images/33b0945f-7176-4d45-8e91-d8ad11fff736/353/569/90/False/the-satanic-verses.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-satanic-verses",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Salman Rushdie",
-        "dealDescription": ""
-    },
-    {
         "title": "Wild and Wicked Things",
         "price": 6.99,
         "cover": "https://cdn.kobo.com/book-images/f4504d04-43cf-4216-ab78-0c4dbbb88676/353/569/90/False/wild-and-wicked-things-1.jpg",
@@ -129,6 +118,28 @@
         "isPlus": true,
         "isSale": false,
         "author": "David Steffen",
+        "dealDescription": ""
+    },
+    {
+        "title": "Dandadan, Vol. 4",
+        "price": 7.99,
+        "cover": "https://cdn.kobo.com/book-images/46e30265-a992-4db6-8e48-30ca2bebf09a/353/569/90/False/dandadan-vol-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/dandadan-vol-4",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Yukinobu Tatsu",
+        "dealDescription": ""
+    },
+    {
+        "title": "Call of the Night, Vol. 4",
+        "price": 7.99,
+        "cover": "https://cdn.kobo.com/book-images/2ab3f6d9-801a-426b-b176-da934d3e6edc/353/569/90/False/call-of-the-night-vol-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/call-of-the-night-vol-4",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Kotoyama",
         "dealDescription": ""
     },
     {
@@ -253,6 +264,39 @@
         "dealDescription": ""
     },
     {
+        "title": "The Wolf of Oren-Yaro",
+        "price": 8.99,
+        "cover": "https://cdn.kobo.com/book-images/9051ffcd-016f-430c-b7b7-9546d0a15bd5/353/569/90/False/the-wolf-of-oren-yaro-2.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-wolf-of-oren-yaro-2",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "K. S. Villoso",
+        "dealDescription": ""
+    },
+    {
+        "title": "Dealing with Dragons",
+        "price": 8.99,
+        "cover": "https://cdn.kobo.com/book-images/6183dc41-44c3-450f-8a95-db10b2e9fb58/353/569/90/False/dealing-with-dragons-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/dealing-with-dragons-1",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Patricia C. Wrede",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Dragonet Prophecy (Wings of Fire #1)",
+        "price": 8.99,
+        "cover": "https://cdn.kobo.com/book-images/99c0a7f4-f8bb-4b95-89a3-81ea7d1340fd/353/569/90/False/the-dragonet-prophecy-wings-of-fire-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-dragonet-prophecy-wings-of-fire-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Tui T. Sutherland",
+        "dealDescription": ""
+    },
+    {
         "title": "The Tethered Mage",
         "price": 8.99,
         "cover": "https://cdn.kobo.com/book-images/8d0a6d02-b6bc-4fba-a2f6-8fbf84668c89/353/569/90/False/the-tethered-mage.jpg",
@@ -311,7 +355,7 @@
         "title": "Deephaven Mystery #1: Deephaven",
         "price": 8.99,
         "cover": "https://cdn.kobo.com/book-images/43dc5490-09a8-468e-a5fa-66a99be98234/353/569/90/False/deephaven-mystery-1-deephaven.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/deephaven-19",
+        "url": "https://www.kobo.com/ca/en/ebook/deephaven-mystery-1-deephaven",
         "preorder": "",
         "isPlus": false,
         "isSale": true,
@@ -352,6 +396,39 @@
         "dealDescription": ""
     },
     {
+        "title": "Slayers: Volume 1",
+        "price": 9.97,
+        "cover": "https://cdn.kobo.com/book-images/8f8824bc-1c03-4a82-b665-4af570389975/353/569/90/False/slayers-volume-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/slayers-volume-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Hajime Kanzaka",
+        "dealDescription": ""
+    },
+    {
+        "title": "Children of the Fox",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/744b1c85-1658-4f07-abbc-d64a36f02216/353/569/90/False/children-of-the-fox-3.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/children-of-the-fox-3",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Kevin Sands",
+        "dealDescription": ""
+    },
+    {
+        "title": "A Broken Blade",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/c1f8f3a6-328b-44e5-a691-6614834ac868/353/569/90/False/a-broken-blade-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-broken-blade-4",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Melissa Blair",
+        "dealDescription": ""
+    },
+    {
         "title": "The Devouring Gray",
         "price": 9.99,
         "cover": "https://cdn.kobo.com/book-images/a6d340eb-7f57-43ad-b631-c42eeaae6b31/353/569/90/False/the-devouring-gray-3.jpg",
@@ -360,6 +437,28 @@
         "isPlus": false,
         "isSale": false,
         "author": "C. L. Herman",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Maid I Hired Recently Is Mysterious, Vol. 1",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/70b1ab21-2270-4e99-951c-ecfa07941447/353/569/90/False/the-maid-i-hired-recently-is-mysterious-vol-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-maid-i-hired-recently-is-mysterious-vol-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Wakame Konbu",
+        "dealDescription": ""
+    },
+    {
+        "title": "Tokyo Interstellar Immigration",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/572e14c9-2ce2-4df0-944e-6f01bf58379e/353/569/90/False/tokyo-interstellar-immigration.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/tokyo-interstellar-immigration",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Mado Guchimoto",
         "dealDescription": ""
     },
     {
@@ -484,17 +583,6 @@
         "dealDescription": ""
     },
     {
-        "title": "A Magical Match",
-        "price": 9.99,
-        "cover": "https://cdn.kobo.com/book-images/667c7cd8-1d2e-4462-845f-da4753d7954a/353/569/90/False/a-magical-match.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/a-magical-match",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Juliet Blackwell",
-        "dealDescription": ""
-    },
-    {
         "title": "The Bleeding",
         "price": 9.99,
         "cover": "https://cdn.kobo.com/book-images/11d92055-94fa-435e-b2b4-17a8c7f7ca33/353/569/90/False/the-bleeding-4.jpg",
@@ -528,17 +616,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Delicious in Dungeon, Vol. 11",
-        "price": 9.99,
-        "cover": "https://cdn.kobo.com/book-images/8eab101b-1e6d-4704-9b67-7df23d019522/353/569/90/False/delicious-in-dungeon-vol-11.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/delicious-in-dungeon-vol-11",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Ryoko Kui",
-        "dealDescription": ""
-    },
-    {
         "title": "Ghost Girl",
         "price": 9.99,
         "cover": "https://cdn.kobo.com/book-images/11adb5ef-bebd-4f87-af0d-9459666bf769/353/569/90/False/ghost-girl-17.jpg",
@@ -558,6 +635,39 @@
         "isPlus": false,
         "isSale": true,
         "author": "Kenneth Oppel",
+        "dealDescription": ""
+    },
+    {
+        "title": "Novice Dragoneer",
+        "price": 10.99,
+        "cover": "https://cdn.kobo.com/book-images/50dc1214-b85f-4b67-a52a-4da764225595/353/569/90/False/novice-dragoneer.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/novice-dragoneer",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "E.E. Knight",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Colour Of Magic",
+        "price": 10.99,
+        "cover": "https://cdn.kobo.com/book-images/5b9b76d8-250b-44fb-ae8d-ad4cf872201f/353/569/90/False/the-colour-of-magic.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-colour-of-magic",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Terry Pratchett",
+        "dealDescription": ""
+    },
+    {
+        "title": "Going Postal",
+        "price": 10.99,
+        "cover": "https://cdn.kobo.com/book-images/a5a03be5-e7ab-4efa-9cba-aed301a74ddd/353/569/90/False/going-postal-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/going-postal-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Terry Pratchett",
         "dealDescription": ""
     },
     {
@@ -715,6 +825,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Full Clearing Another World under a Goddess with Zero Believers (Manga) Volume 1",
+        "price": 11.22,
+        "cover": "https://cdn.kobo.com/book-images/565e9206-1863-49d5-9155-97137f562440/353/569/90/False/full-clearing-another-world-under-a-goddess-with-zero-believers-manga-volume-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/full-clearing-another-world-under-a-goddess-with-zero-believers-manga-volume-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Isle Osaki",
+        "dealDescription": ""
+    },
+    {
         "title": "A Tangle of Spells",
         "price": 11.86,
         "cover": "https://cdn.kobo.com/book-images/24424d9a-f6c9-4e07-90c8-dbd400696870/353/569/90/False/a-tangle-of-spells.jpg",
@@ -723,6 +844,50 @@
         "isPlus": false,
         "isSale": false,
         "author": "Michelle Harrison",
+        "dealDescription": ""
+    },
+    {
+        "title": "Strangeworlds Travel Agency",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/88b86310-3c90-4fc1-b0ad-15461d995bcc/353/569/90/False/strangeworlds-travel-agency-2.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/strangeworlds-travel-agency-2",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "L. D. Lapinski",
+        "dealDescription": ""
+    },
+    {
+        "title": "Date A Live, Vol. 1 (light novel)",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/1480a1fa-35f0-4f64-bdc6-606a5266dba7/353/569/90/False/date-a-live-vol-1-light-novel.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/date-a-live-vol-1-light-novel",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Koushi Tachibana",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Cat Who Saved Books",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/694e7f01-7ee4-42fa-b637-2b7a158312f4/353/569/90/False/the-cat-who-saved-books.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-cat-who-saved-books",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Sosuke Natsukawa",
+        "dealDescription": ""
+    },
+    {
+        "title": "This Is How You Lose the Time War",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/63cedbbb-107e-4873-a94f-4bff6db1b794/353/569/90/False/this-is-how-you-lose-the-time-war-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/this-is-how-you-lose-the-time-war-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Amal El-Mohtar",
         "dealDescription": ""
     },
     {
@@ -938,11 +1103,22 @@
         "title": "Dark Water Daughter",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/571a6efb-f05d-475b-bd32-2196c78b9e9b/353/569/90/False/dark-water-daughter-2.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-winter-sea-dark-water-daughter",
+        "url": "https://www.kobo.com/ca/en/ebook/dark-water-daughter-2",
         "preorder": "",
         "isPlus": false,
         "isSale": true,
         "author": "H. M. Long",
+        "dealDescription": ""
+    },
+    {
+        "title": "Orc Eroica, Vol. 1 (light novel)",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/b32b493a-cbd2-443e-93c2-f9ec745eab15/353/569/90/False/orc-eroica-vol-1-light-novel.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/orc-eroica-vol-1-light-novel",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Rifujin na Magonote",
         "dealDescription": ""
     },
     {
@@ -1001,6 +1177,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Reign of the Seven Spellblades, Vol. 1 (light novel)",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/5ff514a9-374a-46b1-9686-e8d6d3644af1/353/569/90/False/reign-of-the-seven-spellblades-vol-1-light-novel.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/reign-of-the-seven-spellblades-vol-1-light-novel",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Bokuto Uno",
+        "dealDescription": ""
+    },
+    {
         "title": "Hamra and the Jungle of Memories",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/b4a82d3b-d4f9-4245-b194-b2218f7f4c06/353/569/90/False/hamra-and-the-jungle-of-memories-1.jpg",
@@ -1020,39 +1207,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Kimi Cunningham Grant",
-        "dealDescription": ""
-    },
-    {
-        "title": "One Dark Window",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/bdcace65-e5e8-4c38-a699-17bc63e6a40c/353/569/90/False/one-dark-window.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/one-dark-window",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Rachel Gillig",
-        "dealDescription": ""
-    },
-    {
-        "title": "Flowerheart",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/0854c009-09a7-405e-aea2-c191520c2eef/353/569/90/False/flowerheart-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/flowerheart-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Catherine Bakewell",
-        "dealDescription": ""
-    },
-    {
-        "title": "Midnight's Children",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/03240bbe-2ae1-41e3-bb39-c00305e30573/353/569/90/False/midnight-s-children-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/midnight-s-children-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Salman Rushdie",
         "dealDescription": ""
     },
     {
@@ -1097,6 +1251,39 @@
         "isPlus": false,
         "isSale": false,
         "author": "Darren Aronofsky",
+        "dealDescription": ""
+    },
+    {
+        "title": "My Monster Secret Vol. 1",
+        "price": 12.47,
+        "cover": "https://cdn.kobo.com/book-images/f8ac8bde-b14f-4177-9bd0-2d01b3db2cf1/353/569/90/False/my-monster-secret-vol-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/my-monster-secret-vol-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Eiji Masuda",
+        "dealDescription": ""
+    },
+    {
+        "title": "Irina: The Vampire Cosmonaut (Light Novel) Vol. 1",
+        "price": 12.47,
+        "cover": "https://cdn.kobo.com/book-images/fbc40484-629b-44b8-8835-74f9b4695251/353/569/90/False/irina-the-vampire-cosmonaut-light-novel-vol-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/irina-the-vampire-cosmonaut-light-novel-vol-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Keisuke Makino",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Hexologists",
+        "price": 12.99,
+        "cover": "https://cdn.kobo.com/book-images/b5c26efa-07dc-4e03-a276-be02e9d12b58/353/569/90/False/the-hexologists.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-hexologists",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Josiah Bancroft",
         "dealDescription": ""
     },
     {
@@ -1152,17 +1339,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Ray Nayler",
-        "dealDescription": ""
-    },
-    {
-        "title": "What the River Knows",
-        "price": 12.99,
-        "cover": "https://cdn.kobo.com/book-images/eb42a2e9-3344-4185-be01-37d3d6a9ef9f/353/569/90/False/what-the-river-knows-2.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/what-the-river-knows-2",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Isabel Iba\u00f1ez",
         "dealDescription": ""
     },
     {
@@ -1232,28 +1408,6 @@
         "dealDescription": ""
     },
     {
-        "title": "No Time Like the Future",
-        "price": 12.99,
-        "cover": "https://cdn.kobo.com/book-images/ba52579a-c9a7-4dde-97d2-cb4db02e4256/353/569/90/False/no-time-like-the-future-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/no-time-like-the-future-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Michael J. Fox",
-        "dealDescription": ""
-    },
-    {
-        "title": "A Funny Thing Happened on the Way to the Future",
-        "price": 12.99,
-        "cover": "https://cdn.kobo.com/book-images/8756837e-8dcf-43bb-8689-bd75627ddb19/353/569/90/False/a-funny-thing-happened-on-the-way-to-the-future-2.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/a-funny-thing-happened-on-the-way-to-the-future-2",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Michael J. Fox",
-        "dealDescription": ""
-    },
-    {
         "title": "NeuroTribes",
         "price": 12.99,
         "cover": "https://cdn.kobo.com/book-images/34de7b60-6d4a-449a-9c04-2db2a3370d07/353/569/90/False/neurotribes.jpg",
@@ -1298,14 +1452,47 @@
         "dealDescription": ""
     },
     {
-        "title": "Dead Dead Girls",
+        "title": "Cold",
         "price": 13.99,
-        "cover": "https://cdn.kobo.com/book-images/d1dedd2b-3d96-49e2-b923-50c16313b6f9/353/569/90/False/dead-dead-girls.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/dead-dead-girls",
+        "cover": "https://cdn.kobo.com/book-images/72b23ac0-605b-4e1e-92ed-d171957be535/353/569/90/False/cold-42.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/cold-42",
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Nekesa Afia",
+        "author": "Drew Hayden Taylor",
+        "dealDescription": ""
+    },
+    {
+        "title": "Serwa Boateng's Guide to Vampire Hunting (Volume 1)",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/98d9585f-843f-4a8e-be31-b74f67d70c28/353/569/90/False/serwa-boateng-s-guide-to-vampire-hunting-volume-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/serwa-boateng-s-guide-to-vampire-hunting-volume-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Roseanne A. Brown",
+        "dealDescription": ""
+    },
+    {
+        "title": "Moonflower Murders",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/031ce398-0a77-4ee6-b073-e5da9a6df859/353/569/90/False/moonflower-murders-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/moonflower-murders-4",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Anthony Horowitz",
+        "dealDescription": ""
+    },
+    {
+        "title": "Bonesmith",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/4a9c4244-b88d-489a-bb81-28c521275ec3/353/569/90/False/bonesmith.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/bonesmith",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Nicki Pau Preto",
         "dealDescription": ""
     },
     {
@@ -1328,17 +1515,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "J.C. Cervantes",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Rise and Fall of the Dinosaurs",
-        "price": 13.99,
-        "cover": "https://cdn.kobo.com/book-images/a28c7b9c-423c-4f66-81e9-694f991a1a76/353/569/90/False/the-rise-and-fall-of-the-dinosaurs.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-rise-and-fall-of-the-dinosaurs",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Steve Brusatte",
         "dealDescription": ""
     },
     {
@@ -1372,6 +1548,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "F.E.A.R.",
+        "dealDescription": ""
+    },
+    {
+        "title": "Dead Dead Girls",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/d1dedd2b-3d96-49e2-b923-50c16313b6f9/353/569/90/False/dead-dead-girls.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/dead-dead-girls",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Nekesa Afia",
         "dealDescription": ""
     },
     {
@@ -1463,6 +1650,61 @@
         "dealDescription": ""
     },
     {
+        "title": "Grave Mistakes",
+        "price": 14.99,
+        "cover": "https://cdn.kobo.com/book-images/7dbf4fa4-52a5-4211-9c03-7731d2c4e0c3/353/569/90/False/grave-mistakes-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/grave-mistakes-4",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Kitty Curran",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Helm of Midnight",
+        "price": 14.99,
+        "cover": "https://cdn.kobo.com/book-images/e98c75fa-798b-4feb-b253-49fb48153db3/353/569/90/False/the-helm-of-midnight.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-helm-of-midnight",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Marina Lostetter",
+        "dealDescription": ""
+    },
+    {
+        "title": "Interesting Facts about Space",
+        "price": 14.99,
+        "cover": "https://cdn.kobo.com/book-images/1b168aa7-593f-4e90-a791-af9b7be91ad2/353/569/90/False/interesting-facts-about-space-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/interesting-facts-about-space-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Emily Austin",
+        "dealDescription": ""
+    },
+    {
+        "title": "Retromania",
+        "price": 14.99,
+        "cover": "https://cdn.kobo.com/book-images/7acafc78-f578-4d8b-8e30-9cb1672f1889/353/569/90/False/retromania.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/retromania",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Simon Reynolds",
+        "dealDescription": ""
+    },
+    {
+        "title": "Child of Light",
+        "price": 14.99,
+        "cover": "https://cdn.kobo.com/book-images/966ff760-97d3-472e-8c13-a6df1790fb74/353/569/90/False/child-of-light-10.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/child-of-light-10",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Terry Brooks",
+        "dealDescription": ""
+    },
+    {
         "title": "Dead Country",
         "price": 14.99,
         "cover": "https://cdn.kobo.com/book-images/ef3dd624-e52f-4166-a159-2f91e69bc6a1/353/569/90/False/dead-country-3.jpg",
@@ -1493,17 +1735,6 @@
         "isPlus": false,
         "isSale": true,
         "author": "Alex Aniel",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Helm of Midnight",
-        "price": 14.99,
-        "cover": "https://cdn.kobo.com/book-images/e98c75fa-798b-4feb-b253-49fb48153db3/353/569/90/False/the-helm-of-midnight.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-helm-of-midnight",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Marina Lostetter",
         "dealDescription": ""
     },
     {
@@ -1562,6 +1793,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Sparrow Rising (Skyborn #1)",
+        "price": 15.99,
+        "cover": "https://cdn.kobo.com/book-images/f68af4a0-3304-499b-b87b-6954fca550e7/353/569/90/False/sparrow-rising-skyborn-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/sparrow-rising-skyborn-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Jessica Khoury",
+        "dealDescription": ""
+    },
+    {
         "title": "A Botanist's Guide to Parties and Poisons",
         "price": 15.99,
         "cover": "https://cdn.kobo.com/book-images/72720999-9d52-46a2-b690-d40b91832231/353/569/90/False/a-botanist-s-guide-to-parties-and-poisons.jpg",
@@ -1614,6 +1856,39 @@
         "isPlus": false,
         "isSale": false,
         "author": "Erika Engelhaupt",
+        "dealDescription": ""
+    },
+    {
+        "title": "Filterworld",
+        "price": 16.99,
+        "cover": "https://cdn.kobo.com/book-images/4a395e48-b163-43ee-9f0b-e078e63c291e/353/569/90/False/filterworld-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/filterworld-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Kyle Chayka",
+        "dealDescription": ""
+    },
+    {
+        "title": "Feel-Good Productivity",
+        "price": 16.99,
+        "cover": "https://cdn.kobo.com/book-images/2e6472f6-41f6-4a17-99cd-0c28af860ddd/353/569/90/False/feel-good-productivity-3.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/feel-good-productivity-3",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Ali Abdaal",
+        "dealDescription": ""
+    },
+    {
+        "title": "To Gaze Upon Wicked Gods",
+        "price": 16.99,
+        "cover": "https://cdn.kobo.com/book-images/3cefcbf3-6b55-4ca3-b787-9d37aff7783d/353/569/90/False/to-gaze-upon-wicked-gods.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/to-gaze-upon-wicked-gods",
+        "preorder": "Available Apr 16, 2024",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Molly X. Chang",
         "dealDescription": ""
     },
     {
@@ -1738,6 +2013,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Strange",
+        "price": 17.99,
+        "cover": "https://cdn.kobo.com/book-images/2ed3efa1-13b1-4f9b-8591-2da46e055633/353/569/90/False/the-strange-5.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-strange-5",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Nathan Ballingrud",
+        "dealDescription": ""
+    },
+    {
         "title": "Earthlings",
         "price": 17.99,
         "cover": "https://cdn.kobo.com/book-images/039c3e89-b4e2-453f-9a95-abe17ca39fde/353/569/90/False/earthlings-8.jpg",
@@ -1815,6 +2101,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Night Parade",
+        "price": 18.99,
+        "cover": "https://cdn.kobo.com/book-images/51364743-b2be-475b-8196-ce790f2236f9/353/569/90/False/the-night-parade-9.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-night-parade-9",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Jami Nakamura Lin",
+        "dealDescription": ""
+    },
+    {
         "title": "Outlive",
         "price": 18.99,
         "cover": "https://cdn.kobo.com/book-images/0a5bcc82-c8a4-42d1-83b3-0f7b92d59808/353/569/90/False/outlive-5.jpg",
@@ -1870,17 +2167,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Beyond",
-        "price": 19.99,
-        "cover": "https://cdn.kobo.com/book-images/b135b330-c00c-4df0-840a-8c2f1bf83296/353/569/90/False/beyond-104.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/beyond-104",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Mercedes Lackey",
-        "dealDescription": ""
-    },
-    {
         "title": "The Family Fortuna",
         "price": 19.99,
         "cover": "https://cdn.kobo.com/book-images/9ed5498d-2dbc-48d3-a803-4283b78fc26d/353/569/90/False/the-family-fortuna.jpg",
@@ -1914,6 +2200,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Goth",
+        "price": 20.99,
+        "cover": "https://cdn.kobo.com/book-images/795662d6-df17-4760-82fc-503c5bce126b/353/569/90/False/gothic-11.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/gothic-11",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Lol Tolhurst",
+        "dealDescription": ""
+    },
+    {
         "title": "Letters to a Young Poet: The Norton Centenary Edition",
         "price": 20.99,
         "cover": "https://cdn.kobo.com/book-images/c7368c8a-0c5e-4fa3-9416-db1d1ec41609/353/569/90/False/letters-to-a-young-poet-the-norton-centenary-edition.jpg",
@@ -1944,6 +2241,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "Adrian Wright",
+        "dealDescription": ""
+    },
+    {
+        "title": "The First Five Books (Wings of Fire)",
+        "price": 35.99,
+        "cover": "https://cdn.kobo.com/book-images/d149f54e-fc5c-4b9d-bb4e-088388a99a39/353/569/90/False/the-first-five-books-wings-of-fire.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-first-five-books-wings-of-fire",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Tui T. Sutherland",
         "dealDescription": ""
     }
 ]
