@@ -11,17 +11,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Honeymoon in Hell",
-        "price": 1.99,
-        "cover": "https://cdn.kobo.com/book-images/65d9d6d3-99c5-4ae1-aa5b-71a9427eafa4/353/569/90/False/honeymoon-in-hell-3.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/honeymoon-in-hell-3",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "Fredric Brown",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
-    },
-    {
         "title": "The Space Between Us",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/f603b1f6-08f1-4ff8-98b3-6550f46283f9/353/569/90/False/the-space-between-us-30.jpg",
@@ -306,6 +295,17 @@
         "isSale": false,
         "author": "Melissa Caruso",
         "dealDescription": ""
+    },
+    {
+        "title": "Honeymoon in Hell",
+        "price": 8.99,
+        "cover": "https://cdn.kobo.com/book-images/65d9d6d3-99c5-4ae1-aa5b-71a9427eafa4/353/569/90/False/honeymoon-in-hell-3.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/honeymoon-in-hell-3",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Fredric Brown",
+        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
     },
     {
         "title": "Heart Gear, Vol. 1",
@@ -833,17 +833,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Isle Osaki",
-        "dealDescription": ""
-    },
-    {
-        "title": "A Tangle of Spells",
-        "price": 11.86,
-        "cover": "https://cdn.kobo.com/book-images/24424d9a-f6c9-4e07-90c8-dbd400696870/353/569/90/False/a-tangle-of-spells.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/a-tangle-of-spells",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Michelle Harrison",
         "dealDescription": ""
     },
     {
@@ -1650,6 +1639,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Home Before Dark",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/f082817c-9c47-4adf-bb33-1ca150af1e3c/353/569/90/False/home-before-dark-22.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/home-before-dark-22",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Riley Sager",
+        "dealDescription": ""
+    },
+    {
         "title": "Grave Mistakes",
         "price": 14.99,
         "cover": "https://cdn.kobo.com/book-images/7dbf4fa4-52a5-4211-9c03-7731d2c4e0c3/353/569/90/False/grave-mistakes-4.jpg",
@@ -1768,17 +1768,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Maurice Broaddus",
-        "dealDescription": ""
-    },
-    {
-        "title": "Home Before Dark",
-        "price": 14.99,
-        "cover": "https://cdn.kobo.com/book-images/f082817c-9c47-4adf-bb33-1ca150af1e3c/353/569/90/False/home-before-dark-22.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/home-before-dark-22",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Riley Sager",
         "dealDescription": ""
     },
     {
@@ -2004,7 +1993,7 @@
     {
         "title": "Fractal Noise",
         "price": 16.99,
-        "cover": "https://cdn.kobo.com/book-images/62ee857e-b75f-45ad-86e3-6a27d9ef24dd/353/569/90/False/fractal-noise.jpg",
+        "cover": "https://cdn.kobo.com/book-images/8d298160-bdc1-4ec1-87c6-d76f9f65c28a/353/569/90/False/fractal-noise.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/fractal-noise",
         "preorder": "",
         "isPlus": false,
