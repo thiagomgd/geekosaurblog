@@ -1,427 +1,427 @@
 {
-    "lastFetched": "2024-02-18T20:00:24.246Z",
-    "posts": [
+  "lastFetched": "2024-02-22T04:21:50.080Z",
+  "posts": [
+    {
+      "date": "2023-12-31T07:38:02.716Z",
+      "id": "111673886815695764",
+      "title": "Italo Ferreira caught inside a solar eclipse",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/111673886815695764",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "l",
+        "photography"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/111673886815695764",
+      "host": "mastodon.social",
+      "linkUrl": "https://www.surfertoday.com/surfing/italo-ferreira-caught-inside-a-solar-eclipse",
+      "seeAlso": [],
+      "linkComments": [
+        "I just discovered this today! Amazing photo, and from Brazil."
+      ],
+      "linksPost": "links-2"
+    },
+    {
+      "date": "2023-12-27T20:43:17.509Z",
+      "id": "111654325289226771",
+      "title": "The most interesting book cover designs are often left on the cutting room floor",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/111654325289226771",
+      "site": "Mastodon",
+      "images": [
         {
-            "date": "2023-12-31T07:38:02.716Z",
-            "id": "111673886815695764",
-            "title": "Italo Ferreira caught inside a solar eclipse",
-            "content": "",
-            "source_url": "https://mastodon.social/@falcon/111673886815695764",
-            "site": "Mastodon",
-            "images": [],
-            "tags": [
-                "l",
-                "photography"
-            ],
-            "tootUrl": "https://mastodon.social/@falcon/111673886815695764",
-            "host": "mastodon.social",
-            "linkUrl": "https://www.surfertoday.com/surfing/italo-ferreira-caught-inside-a-solar-eclipse",
-            "seeAlso": [],
-            "linkComments": [
-                "I just discovered this today! Amazing photo, and from Brazil."
-            ],
-            "linksPost": "links-2"
-        },
-        {
-            "date": "2023-12-27T20:43:17.509Z",
-            "id": "111654325289226771",
-            "title": "The most interesting book cover designs are often left on the cutting room floor",
-            "content": "",
-            "source_url": "https://mastodon.social/@falcon/111654325289226771",
-            "site": "Mastodon",
-            "images": [
-                {
-                    "url": "https://files.mastodon.social/media_attachments/files/111/654/315/361/474/562/original/d21755e1d9fe2e90.png",
-                    "alt": null,
-                    "width": 366,
-                    "height": 630,
-                    "aspect": 0.580952380952381
-                }
-            ],
-            "tags": [
-                "l",
-                "books",
-                "fantasy"
-            ],
-            "tootUrl": "https://mastodon.social/@falcon/111654325289226771",
-            "host": "mastodon.social",
-            "linkUrl": "https://news.ycombinator.com/item?id=38617655",
-            "seeAlso": [
-                {
-                    "title": "original article",
-                    "link": "https://www.fastcompany.com/90993731/the-best-book-covers-of-2023-are-the-ones-youll-never-see"
-                }
-            ],
-            "linkComments": [
-                "Nice discussion on book covers. While some new covers are good, I do prefer older ones, specially fantasy - like the cover for Melanie Rawn's Exiles shared in a comment. I do think those not only look better and gets my attention more, but are not overly generic as to make it 'relatable' to about anyone."
-            ],
-            "linksPost": "links-2"
-        },
-        {
-            "date": "2023-11-12T22:05:25.810Z",
-            "id": "111399844297485296",
-            "title": "Lost Doctor Who episodes found, but owner is reluctant to hand them to BBC",
-            "content": "",
-            "source_url": "https://mastodon.social/@falcon/111399844297485296",
-            "site": "Mastodon",
-            "images": [],
-            "tags": [
-                "l",
-                "doctorWho"
-            ],
-            "tootUrl": "https://mastodon.social/@falcon/111399844297485296",
-            "host": "mastodon.social",
-            "linkUrl": "https://www.theguardian.com/tv-and-radio/2023/nov/11/lost-doctor-who-episodes-found-owner-reluctant-to-hand-them-to-bbc",
-            "seeAlso": [
-                {
-                    "title": "comments",
-                    "link": "https://news.ycombinator.com/item?id=38229998"
-                }
-            ],
-            "linkComments": [
-                "Shame so many things are deemed lost, just because not only there's no incentive for collectors to share what they have, but if someone has a copy of something, they might end up being prosecuted for having it, while the company will reap the profits.",
-                "And worse, the longer it takes for amnesty, the more the physical media will deteriorate"
-            ],
-            "linksPost": "links-2"
-        },
-        {
-            "date": "2023-10-19T23:59:10.423Z",
-            "id": "111264396110651828",
-            "title": "Please Pay For a Year of Nothing",
-            "content": "",
-            "source_url": "https://mastodon.social/@falcon/111264396110651828",
-            "site": "Mastodon",
-            "images": [],
-            "tags": [
-                "l",
-                "disneyPlus",
-                "netflix",
-                "streaming"
-            ],
-            "tootUrl": "https://mastodon.social/@falcon/111264396110651828",
-            "host": "mastodon.social",
-            "linkUrl": "https://joe-steel.com/2023-10-19-Please-Pay-For-a-Year-of-Nothing.html",
-            "seeAlso": [
-                {
-                    "title": "comments",
-                    "link": "https://news.ycombinator.com/item?id=37949899"
-                },
-                {
-                    "title": "related",
-                    "link": "https://news.ycombinator.com/item?id=37943596"
-                }
-            ],
-            "linkComments": [
-                "Good post about Netflix, Disney+, the strikes, and a bleak year for 2024"
-            ],
-            "linksPost": "links-2"
-        },
-        {
-            "date": "2023-08-24T20:01:43.754Z",
-            "id": "110946373058155476",
-            "title": "Japan\u2019s 72 Microseasons",
-            "content": "",
-            "source_url": "https://mastodon.social/@falcon/110946373058155476",
-            "site": "Mastodon",
-            "images": [],
-            "tags": [
-                "l",
-                "japan"
-            ],
-            "tootUrl": "https://mastodon.social/@falcon/110946373058155476",
-            "host": "mastodon.social",
-            "linkUrl": "https://www.nippon.com/en/features/h00124/",
-            "seeAlso": [
-                {
-                    "title": "comments",
-                    "link": "https://news.ycombinator.com/item?id=37247405"
-                }
-            ],
-            "linkComments": [],
-            "linksPost": "links-2"
-        },
-        {
-            "date": "2023-08-24T02:26:00.380Z",
-            "id": "110942221787314027",
-            "title": "On keeping sketchbooks | Attainable Felicity | Matt Kirkland",
-            "content": "",
-            "source_url": "https://mastodon.social/@falcon/110942221787314027",
-            "site": "Mastodon",
-            "images": [],
-            "tags": [
-                "l",
-                "sketchbooks",
-                "journaling"
-            ],
-            "tootUrl": "https://mastodon.social/@falcon/110942221787314027",
-            "host": "mastodon.social",
-            "linkUrl": "https://attainablefelicity.mattkirkland.com/20230822/Sketchbooks.html",
-            "seeAlso": [
-                {
-                    "title": "comments",
-                    "link": "https://news.ycombinator.com/item?id=37227606"
-                }
-            ],
-            "linkComments": [],
-            "linksPost": "links-2"
-        },
-        {
-            "date": "2023-07-31T18:38:37.213Z",
-            "id": "110810150809856406",
-            "title": "Researchers reached the bottom of ice sheet at -2670m after 7 years of drilling",
-            "content": "",
-            "source_url": "https://mastodon.social/@falcon/110810150809856406",
-            "site": "Mastodon",
-            "images": [],
-            "tags": [
-                "l",
-                "science"
-            ],
-            "tootUrl": "https://mastodon.social/@falcon/110810150809856406",
-            "host": "mastodon.social",
-            "linkUrl": "https://news.ku.dk/all_news/2023/07/pay-dirt-for-ice-core-scientists-in-east-greenland-as-they-reach-bedrock/",
-            "seeAlso": [
-                {
-                    "title": "HN Comments",
-                    "link": "https://news.ycombinator.com/item?id=36944978"
-                }
-            ],
-            "linkComments": [
-                "That's pretty cool (ha-ha). I'm curious to see what is discovered from there!"
-            ],
-            "linksPost": "links-2"
-        },
-        {
-            "date": "2023-07-27T06:40:34.516Z",
-            "id": "110784678101904436",
-            "title": "Disney Lorcana\u2019s greatest asset may be its most divisive quality",
-            "content": "",
-            "source_url": "https://mastodon.social/@falcon/110784678101904436",
-            "site": "Mastodon",
-            "images": [],
-            "tags": [
-                "lorcana",
-                "disney",
-                "tcg",
-                "l"
-            ],
-            "tootUrl": "https://mastodon.social/@falcon/110784678101904436",
-            "host": "mastodon.social",
-            "linkUrl": "https://www.polygon.com/reviews/23805728/disney-lorcana-review-first-chapter-cards-starter-set",
-            "seeAlso": [],
-            "linkComments": [
-                "Nice article on Lorcana\u2019s strong points for both new and seasoned TCG players"
-            ],
-            "linksPost": "links-2"
-        },
-        {
-            "date": "2023-07-25T16:18:55.896Z",
-            "id": "110775627640027138",
-            "title": "The Dark Forest and the Cozy Web",
-            "content": "",
-            "source_url": "https://mastodon.social/@falcon/110775627640027138",
-            "site": "Mastodon",
-            "images": [],
-            "tags": [
-                "web",
-                "l"
-            ],
-            "tootUrl": "https://mastodon.social/@falcon/110775627640027138",
-            "host": "mastodon.social",
-            "linkUrl": "https://maggieappleton.com/cozy-web",
-            "seeAlso": [],
-            "linkComments": [
-                "Saw this being re-shared today. Interesting visualization on the web, different medias and types of content"
-            ],
-            "linksPost": "links-1"
-        },
-        {
-            "date": "2023-07-25T05:08:17.460Z",
-            "id": "110772990604486717",
-            "title": "How Disney Lorcana Became My First TCG",
-            "content": "",
-            "source_url": "https://mastodon.social/@falcon/110772990604486717",
-            "site": "Mastodon",
-            "images": [],
-            "tags": [
-                "lorcana",
-                "tcg",
-                "l"
-            ],
-            "tootUrl": "https://mastodon.social/@falcon/110772990604486717",
-            "host": "mastodon.social",
-            "linkUrl": "https://www.thegamer.com/disney-lorcana-first-tcg-cards-beginner/",
-            "seeAlso": [],
-            "linkComments": [
-                "Nice to see that Lorcana is going to bring new adult players. Which is expected, of course, but still good to see"
-            ],
-            "linksPost": "links-1"
-        },
-        {
-            "date": "2023-07-19T03:45:12.317Z",
-            "id": "110738690035462155",
-            "title": "5AM morning in seoul | 45min of krnb and soft kpop",
-            "content": "",
-            "source_url": "https://mastodon.social/@falcon/110738690035462155",
-            "site": "Mastodon",
-            "images": [],
-            "tags": [
-                "l",
-                "music",
-                "nowPlaying"
-            ],
-            "tootUrl": "https://mastodon.social/@falcon/110738690035462155",
-            "host": "mastodon.social",
-            "linkUrl": "https://www.youtube.com/watch?v=adgh3h2t8Rs",
-            "seeAlso": [],
-            "linkComments": [
-                "Now that's a nice playlist"
-            ],
-            "linksPost": "links-1"
-        },
-        {
-            "date": "2023-07-18T16:02:58.001Z",
-            "id": "110735928721142646",
-            "title": "Firefox has surpassed Chrome on Speedometer",
-            "content": "",
-            "source_url": "https://mastodon.social/@falcon/110735928721142646",
-            "site": "Mastodon",
-            "images": [],
-            "tags": [
-                "firefox",
-                "chrome",
-                "l"
-            ],
-            "tootUrl": "https://mastodon.social/@falcon/110735928721142646",
-            "host": "mastodon.social",
-            "linkUrl": "https://news.ycombinator.com/item?id=36770883",
-            "seeAlso": [],
-            "linkComments": [
-                "Nice, maybe someday I'll give it another chance. My main gripe is the UX for some things, and how some features seem half-baked.",
-                "E.g.: to add a keyword for a search engine, it saves a bookmark, but there isn't (or wasn't) any way to filter for those later if you wanted to check what you had already created"
-            ],
-            "linksPost": "links-1"
-        },
-        {
-            "date": "2023-07-17T02:11:21.880Z",
-            "id": "110726996418512653",
-            "title": "Spanish &#39;Dracula&#39; finds new blood, more than 90 years after its release",
-            "content": "",
-            "source_url": "https://mastodon.social/@falcon/110726996418512653",
-            "site": "Mastodon",
-            "images": [],
-            "tags": [
-                "movies",
-                "vampire",
-                "horror",
-                "l"
-            ],
-            "tootUrl": "https://mastodon.social/@falcon/110726996418512653",
-            "host": "mastodon.social",
-            "linkUrl": "https://www.npr.org/2022/09/19/1122120454/spanish-dracula-finds-new-blood-more-than-90-years-after-its-release",
-            "seeAlso": [],
-            "linkComments": [
-                "Remembered this while checking out some vampire movies. Will try to check it out soon"
-            ],
-            "linksPost": "links-1"
-        },
-        {
-            "date": "2023-07-16T18:18:46.100Z",
-            "id": "110725138094067397",
-            "title": "Navigating StoryGraph is Hard",
-            "content": "",
-            "source_url": "https://mastodon.social/@falcon/110725138094067397",
-            "site": "Mastodon",
-            "images": [],
-            "tags": [
-                "books",
-                "theStoryGraph",
-                "StoryGraph",
-                "bookstodon",
-                "l"
-            ],
-            "tootUrl": "https://mastodon.social/@falcon/110725138094067397",
-            "host": "mastodon.social",
-            "linkUrl": "https://www.reddit.com/r/TheStoryGraph/comments/14kh6u1/navigating_storygraph_is_hard/",
-            "seeAlso": [],
-            "linkComments": [
-                "I\u2019m using StoryGraph for a couple weeks now, but yeah, I would like to have a better way of organizing the books, A.K.A being able to create exclusive shelves."
-            ],
-            "linksPost": "links-1"
-        },
-        {
-            "date": "2023-07-14T21:52:51.018Z",
-            "id": "110714655276777583",
-            "title": "Perry Rhodan, Part 1: Die Dritte Macht",
-            "content": "",
-            "source_url": "https://mastodon.social/@falcon/110714655276777583",
-            "site": "Mastodon",
-            "images": [],
-            "tags": [
-                "books",
-                "perryRhodan",
-                "sciFi",
-                "l"
-            ],
-            "tootUrl": "https://mastodon.social/@falcon/110714655276777583",
-            "host": "mastodon.social",
-            "linkUrl": "https://halcy.de/blog/2023/06/21/perry-rhodan-part-1-die-dritte-macht/",
-            "seeAlso": [],
-            "linkComments": [
-                "Nice post on Perry Rhodan. Actually made me finally go back to the franchise and start reading Perry Rhodan NEO!"
-            ],
-            "linksPost": "links-1"
-        },
-        {
-            "date": "2023-07-14T21:51:11.090Z",
-            "id": "110714648728933793",
-            "title": "When An Anime Leaves You Speechless",
-            "content": "",
-            "source_url": "https://mastodon.social/@falcon/110714648728933793",
-            "site": "Mastodon",
-            "images": [],
-            "tags": [
-                "anime",
-                "lightNovel",
-                "l"
-            ],
-            "tootUrl": "https://mastodon.social/@falcon/110714648728933793",
-            "host": "mastodon.social",
-            "linkUrl": "https://www.youtube.com/watch?v=vCPTvr6fnQQ",
-            "seeAlso": [
-                {
-                    "title": "Actual scene",
-                    "link": "https://www.youtube.com/watch?v=iNPK6DzQCzY"
-                }
-            ],
-            "linkComments": [
-                "Really glad to see \"When Supernatural Battles Became Commonplace\" mentioned for voice acting. That scene was GREAT, and the VA did an amazing job in ONE take!",
-                "This is an anime that was quickly forgotten, I think, but this scene remains. Still, I would love to see a season 2 - or maybe someday read the light novels"
-            ],
-            "linksPost": "links-1"
-        },
-        {
-            "date": "2023-07-13T23:44:37.152Z",
-            "id": "110709432460033776",
-            "title": "The New Pokemon Horizons Anime Is A Bright New Start For The Series",
-            "content": "",
-            "source_url": "https://mastodon.social/@falcon/110709432460033776",
-            "site": "Mastodon",
-            "images": [],
-            "tags": [
-                "anime",
-                "pokemon",
-                "l"
-            ],
-            "tootUrl": "https://mastodon.social/@falcon/110709432460033776",
-            "host": "mastodon.social",
-            "linkUrl": "https://www.gamerbraves.com/the-new-pokemon-horizons-anime-is-a-bright-new-start-for-the-series/",
-            "seeAlso": [],
-            "linkComments": [
-                "My wife mentioned this to me, I wasn't aware. We might actually watch some episodes together during our lunch breaks"
-            ],
-            "linksPost": "links-1"
+          "url": "https://files.mastodon.social/media_attachments/files/111/654/315/361/474/562/original/d21755e1d9fe2e90.png",
+          "alt": null,
+          "width": 366,
+          "height": 630,
+          "aspect": 0.580952380952381
         }
-    ],
-    "lastFetchPostID": "111944614117812595"
+      ],
+      "tags": [
+        "l",
+        "books",
+        "fantasy"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/111654325289226771",
+      "host": "mastodon.social",
+      "linkUrl": "https://news.ycombinator.com/item?id=38617655",
+      "seeAlso": [
+        {
+          "title": "original article",
+          "link": "https://www.fastcompany.com/90993731/the-best-book-covers-of-2023-are-the-ones-youll-never-see"
+        }
+      ],
+      "linkComments": [
+        "Nice discussion on book covers. While some new covers are good, I do prefer older ones, specially fantasy - like the cover for Melanie Rawn's Exiles shared in a comment. I do think those not only look better and gets my attention more, but are not overly generic as to make it 'relatable' to about anyone."
+      ],
+      "linksPost": "links-2"
+    },
+    {
+      "date": "2023-11-12T22:05:25.810Z",
+      "id": "111399844297485296",
+      "title": "Lost Doctor Who episodes found, but owner is reluctant to hand them to BBC",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/111399844297485296",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "l",
+        "doctorWho"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/111399844297485296",
+      "host": "mastodon.social",
+      "linkUrl": "https://www.theguardian.com/tv-and-radio/2023/nov/11/lost-doctor-who-episodes-found-owner-reluctant-to-hand-them-to-bbc",
+      "seeAlso": [
+        {
+          "title": "comments",
+          "link": "https://news.ycombinator.com/item?id=38229998"
+        }
+      ],
+      "linkComments": [
+        "Shame so many things are deemed lost, just because not only there's no incentive for collectors to share what they have, but if someone has a copy of something, they might end up being prosecuted for having it, while the company will reap the profits.",
+        "And worse, the longer it takes for amnesty, the more the physical media will deteriorate"
+      ],
+      "linksPost": "links-2"
+    },
+    {
+      "date": "2023-10-19T23:59:10.423Z",
+      "id": "111264396110651828",
+      "title": "Please Pay For a Year of Nothing",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/111264396110651828",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "l",
+        "disneyPlus",
+        "netflix",
+        "streaming"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/111264396110651828",
+      "host": "mastodon.social",
+      "linkUrl": "https://joe-steel.com/2023-10-19-Please-Pay-For-a-Year-of-Nothing.html",
+      "seeAlso": [
+        {
+          "title": "comments",
+          "link": "https://news.ycombinator.com/item?id=37949899"
+        },
+        {
+          "title": "related",
+          "link": "https://news.ycombinator.com/item?id=37943596"
+        }
+      ],
+      "linkComments": [
+        "Good post about Netflix, Disney+, the strikes, and a bleak year for 2024"
+      ],
+      "linksPost": "links-2"
+    },
+    {
+      "date": "2023-08-24T20:01:43.754Z",
+      "id": "110946373058155476",
+      "title": "Japan’s 72 Microseasons",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/110946373058155476",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "l",
+        "japan"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/110946373058155476",
+      "host": "mastodon.social",
+      "linkUrl": "https://www.nippon.com/en/features/h00124/",
+      "seeAlso": [
+        {
+          "title": "comments",
+          "link": "https://news.ycombinator.com/item?id=37247405"
+        }
+      ],
+      "linkComments": [],
+      "linksPost": "links-2"
+    },
+    {
+      "date": "2023-08-24T02:26:00.380Z",
+      "id": "110942221787314027",
+      "title": "On keeping sketchbooks | Attainable Felicity | Matt Kirkland",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/110942221787314027",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "l",
+        "sketchbooks",
+        "journaling"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/110942221787314027",
+      "host": "mastodon.social",
+      "linkUrl": "https://attainablefelicity.mattkirkland.com/20230822/Sketchbooks.html",
+      "seeAlso": [
+        {
+          "title": "comments",
+          "link": "https://news.ycombinator.com/item?id=37227606"
+        }
+      ],
+      "linkComments": [],
+      "linksPost": "links-2"
+    },
+    {
+      "date": "2023-07-31T18:38:37.213Z",
+      "id": "110810150809856406",
+      "title": "Researchers reached the bottom of ice sheet at -2670m after 7 years of drilling",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/110810150809856406",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "l",
+        "science"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/110810150809856406",
+      "host": "mastodon.social",
+      "linkUrl": "https://news.ku.dk/all_news/2023/07/pay-dirt-for-ice-core-scientists-in-east-greenland-as-they-reach-bedrock/",
+      "seeAlso": [
+        {
+          "title": "HN Comments",
+          "link": "https://news.ycombinator.com/item?id=36944978"
+        }
+      ],
+      "linkComments": [
+        "That's pretty cool (ha-ha). I'm curious to see what is discovered from there!"
+      ],
+      "linksPost": "links-2"
+    },
+    {
+      "date": "2023-07-27T06:40:34.516Z",
+      "id": "110784678101904436",
+      "title": "Disney Lorcana’s greatest asset may be its most divisive quality",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/110784678101904436",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "lorcana",
+        "disney",
+        "tcg",
+        "l"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/110784678101904436",
+      "host": "mastodon.social",
+      "linkUrl": "https://www.polygon.com/reviews/23805728/disney-lorcana-review-first-chapter-cards-starter-set",
+      "seeAlso": [],
+      "linkComments": [
+        "Nice article on Lorcana’s strong points for both new and seasoned TCG players"
+      ],
+      "linksPost": "links-2"
+    },
+    {
+      "date": "2023-07-25T16:18:55.896Z",
+      "id": "110775627640027138",
+      "title": "The Dark Forest and the Cozy Web",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/110775627640027138",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "web",
+        "l"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/110775627640027138",
+      "host": "mastodon.social",
+      "linkUrl": "https://maggieappleton.com/cozy-web",
+      "seeAlso": [],
+      "linkComments": [
+        "Saw this being re-shared today. Interesting visualization on the web, different medias and types of content"
+      ],
+      "linksPost": "links-1"
+    },
+    {
+      "date": "2023-07-25T05:08:17.460Z",
+      "id": "110772990604486717",
+      "title": "How Disney Lorcana Became My First TCG",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/110772990604486717",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "lorcana",
+        "tcg",
+        "l"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/110772990604486717",
+      "host": "mastodon.social",
+      "linkUrl": "https://www.thegamer.com/disney-lorcana-first-tcg-cards-beginner/",
+      "seeAlso": [],
+      "linkComments": [
+        "Nice to see that Lorcana is going to bring new adult players. Which is expected, of course, but still good to see"
+      ],
+      "linksPost": "links-1"
+    },
+    {
+      "date": "2023-07-19T03:45:12.317Z",
+      "id": "110738690035462155",
+      "title": "5AM morning in seoul | 45min of krnb and soft kpop",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/110738690035462155",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "l",
+        "music",
+        "nowPlaying"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/110738690035462155",
+      "host": "mastodon.social",
+      "linkUrl": "https://www.youtube.com/watch?v=adgh3h2t8Rs",
+      "seeAlso": [],
+      "linkComments": [
+        "Now that's a nice playlist"
+      ],
+      "linksPost": "links-1"
+    },
+    {
+      "date": "2023-07-18T16:02:58.001Z",
+      "id": "110735928721142646",
+      "title": "Firefox has surpassed Chrome on Speedometer",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/110735928721142646",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "firefox",
+        "chrome",
+        "l"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/110735928721142646",
+      "host": "mastodon.social",
+      "linkUrl": "https://news.ycombinator.com/item?id=36770883",
+      "seeAlso": [],
+      "linkComments": [
+        "Nice, maybe someday I'll give it another chance. My main gripe is the UX for some things, and how some features seem half-baked.",
+        "E.g.: to add a keyword for a search engine, it saves a bookmark, but there isn't (or wasn't) any way to filter for those later if you wanted to check what you had already created"
+      ],
+      "linksPost": "links-1"
+    },
+    {
+      "date": "2023-07-17T02:11:21.880Z",
+      "id": "110726996418512653",
+      "title": "Spanish &#39;Dracula&#39; finds new blood, more than 90 years after its release",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/110726996418512653",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "movies",
+        "vampire",
+        "horror",
+        "l"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/110726996418512653",
+      "host": "mastodon.social",
+      "linkUrl": "https://www.npr.org/2022/09/19/1122120454/spanish-dracula-finds-new-blood-more-than-90-years-after-its-release",
+      "seeAlso": [],
+      "linkComments": [
+        "Remembered this while checking out some vampire movies. Will try to check it out soon"
+      ],
+      "linksPost": "links-1"
+    },
+    {
+      "date": "2023-07-16T18:18:46.100Z",
+      "id": "110725138094067397",
+      "title": "Navigating StoryGraph is Hard",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/110725138094067397",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "books",
+        "theStoryGraph",
+        "StoryGraph",
+        "bookstodon",
+        "l"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/110725138094067397",
+      "host": "mastodon.social",
+      "linkUrl": "https://www.reddit.com/r/TheStoryGraph/comments/14kh6u1/navigating_storygraph_is_hard/",
+      "seeAlso": [],
+      "linkComments": [
+        "I’m using StoryGraph for a couple weeks now, but yeah, I would like to have a better way of organizing the books, A.K.A being able to create exclusive shelves."
+      ],
+      "linksPost": "links-1"
+    },
+    {
+      "date": "2023-07-14T21:52:51.018Z",
+      "id": "110714655276777583",
+      "title": "Perry Rhodan, Part 1: Die Dritte Macht",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/110714655276777583",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "books",
+        "perryRhodan",
+        "sciFi",
+        "l"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/110714655276777583",
+      "host": "mastodon.social",
+      "linkUrl": "https://halcy.de/blog/2023/06/21/perry-rhodan-part-1-die-dritte-macht/",
+      "seeAlso": [],
+      "linkComments": [
+        "Nice post on Perry Rhodan. Actually made me finally go back to the franchise and start reading Perry Rhodan NEO!"
+      ],
+      "linksPost": "links-1"
+    },
+    {
+      "date": "2023-07-14T21:51:11.090Z",
+      "id": "110714648728933793",
+      "title": "When An Anime Leaves You Speechless",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/110714648728933793",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "anime",
+        "lightNovel",
+        "l"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/110714648728933793",
+      "host": "mastodon.social",
+      "linkUrl": "https://www.youtube.com/watch?v=vCPTvr6fnQQ",
+      "seeAlso": [
+        {
+          "title": "Actual scene",
+          "link": "https://www.youtube.com/watch?v=iNPK6DzQCzY"
+        }
+      ],
+      "linkComments": [
+        "Really glad to see \"When Supernatural Battles Became Commonplace\" mentioned for voice acting. That scene was GREAT, and the VA did an amazing job in ONE take!",
+        "This is an anime that was quickly forgotten, I think, but this scene remains. Still, I would love to see a season 2 - or maybe someday read the light novels"
+      ],
+      "linksPost": "links-1"
+    },
+    {
+      "date": "2023-07-13T23:44:37.152Z",
+      "id": "110709432460033776",
+      "title": "The New Pokemon Horizons Anime Is A Bright New Start For The Series",
+      "content": "",
+      "source_url": "https://mastodon.social/@falcon/110709432460033776",
+      "site": "Mastodon",
+      "images": [],
+      "tags": [
+        "anime",
+        "pokemon",
+        "l"
+      ],
+      "tootUrl": "https://mastodon.social/@falcon/110709432460033776",
+      "host": "mastodon.social",
+      "linkUrl": "https://www.gamerbraves.com/the-new-pokemon-horizons-anime-is-a-bright-new-start-for-the-series/",
+      "seeAlso": [],
+      "linkComments": [
+        "My wife mentioned this to me, I wasn't aware. We might actually watch some episodes together during our lunch breaks"
+      ],
+      "linksPost": "links-1"
+    }
+  ],
+  "lastFetchPostID": "111968243147463136"
 }

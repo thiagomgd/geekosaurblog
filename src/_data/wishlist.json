@@ -11,17 +11,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The Space Between Us",
-        "price": 1.99,
-        "cover": "https://cdn.kobo.com/book-images/f603b1f6-08f1-4ff8-98b3-6550f46283f9/353/569/90/False/the-space-between-us-30.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-space-between-us-30",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "Doug Johnstone",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
-    },
-    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -42,17 +31,6 @@
         "isSale": false,
         "author": "Katherine Livesey",
         "dealDescription": ""
-    },
-    {
-        "title": "The Annual Migration of Clouds",
-        "price": 5.99,
-        "cover": "https://cdn.kobo.com/book-images/73b1b7f0-9de4-4049-a974-0d0ec6a2f97e/353/569/90/False/the-annual-migration-of-clouds.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-annual-migration-of-clouds",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": false,
-        "author": "Premee Mohamed",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
     },
     {
         "title": "Life's Edge",
@@ -305,7 +283,7 @@
         "isPlus": true,
         "isSale": true,
         "author": "Fredric Brown",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
+        "dealDescription": ""
     },
     {
         "title": "Heart Gear, Vol. 1",
@@ -352,7 +330,7 @@
         "dealDescription": ""
     },
     {
-        "title": "Deephaven Mystery #1: Deephaven",
+        "title": "Deephaven",
         "price": 8.99,
         "cover": "https://cdn.kobo.com/book-images/43dc5490-09a8-468e-a5fa-66a99be98234/353/569/90/False/deephaven-mystery-1-deephaven.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/deephaven-mystery-1-deephaven",
@@ -547,6 +525,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Diana Wynne Jones",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Space Between Us",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/f603b1f6-08f1-4ff8-98b3-6550f46283f9/353/569/90/False/the-space-between-us-30.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-space-between-us-30",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Doug Johnstone",
         "dealDescription": ""
     },
     {
@@ -888,6 +877,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "Michael McCreary",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Annual Migration of Clouds",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/73b1b7f0-9de4-4049-a974-0d0ec6a2f97e/353/569/90/False/the-annual-migration-of-clouds.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-annual-migration-of-clouds",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Premee Mohamed",
         "dealDescription": ""
     },
     {
@@ -1586,7 +1586,7 @@
     {
         "title": "The Thursday Murder Club",
         "price": 13.99,
-        "cover": "https://cdn.kobo.com/book-images/7fe99cd4-77e5-4db8-be44-98d714584f4e/353/569/90/False/the-thursday-murder-club-2.jpg",
+        "cover": "https://cdn.kobo.com/book-images/f6fc320e-9a71-4470-ba5f-d1c206545da0/353/569/90/False/the-thursday-murder-club-2.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/the-thursday-murder-club-2",
         "preorder": "",
         "isPlus": false,
