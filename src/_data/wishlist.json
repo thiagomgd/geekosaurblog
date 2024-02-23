@@ -11,6 +11,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Spellsinger",
+        "price": 1.99,
+        "cover": "https://cdn.kobo.com/book-images/8c216d95-5292-4397-b9b3-2229314b6c88/353/569/90/False/spellsinger-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/spellsinger-1",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Alan Dean Foster",
+        "dealDescription": ""
+    },
+    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -1042,17 +1053,6 @@
         "isPlus": false,
         "isSale": true,
         "author": "Emily Lloyd-Jones",
-        "dealDescription": ""
-    },
-    {
-        "title": "Spellsinger",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/8c216d95-5292-4397-b9b3-2229314b6c88/353/569/90/False/spellsinger-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/spellsinger-1",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "Alan Dean Foster",
         "dealDescription": ""
     },
     {
