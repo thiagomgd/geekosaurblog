@@ -33,6 +33,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Red Rabbit",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/2064ddf9-a084-4a77-b912-d357751ca69a/353/569/90/False/red-rabbit-10.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/red-rabbit-10",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Alex Grecian",
+        "dealDescription": ""
+    },
+    {
         "title": "Sisters of Shadow (Sisters of Shadow, Book 1)",
         "price": 3.99,
         "cover": "https://cdn.kobo.com/book-images/f42a7440-f946-46c9-bb7c-169bb8791078/353/569/90/False/sisters-of-shadow-sisters-of-shadow-book-1.jpg",
@@ -1889,17 +1900,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "James Clear",
-        "dealDescription": ""
-    },
-    {
-        "title": "Red Rabbit",
-        "price": 16.99,
-        "cover": "https://cdn.kobo.com/book-images/2064ddf9-a084-4a77-b912-d357751ca69a/353/569/90/False/red-rabbit-10.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/red-rabbit-10",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Alex Grecian",
         "dealDescription": ""
     },
     {
