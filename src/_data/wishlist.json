@@ -11,17 +11,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Spellsinger",
-        "price": 1.99,
-        "cover": "https://cdn.kobo.com/book-images/8c216d95-5292-4397-b9b3-2229314b6c88/353/569/90/False/spellsinger-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/spellsinger-1",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "Alan Dean Foster",
-        "dealDescription": ""
-    },
-    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -30,6 +19,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Cait Flanders",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Wolf of Oren-Yaro",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/9051ffcd-016f-430c-b7b7-9546d0a15bd5/353/569/90/False/the-wolf-of-oren-yaro-2.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-wolf-of-oren-yaro-2",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "K. S. Villoso",
         "dealDescription": ""
     },
     {
@@ -239,17 +239,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Mercedes Lackey",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Wolf of Oren-Yaro",
-        "price": 8.99,
-        "cover": "https://cdn.kobo.com/book-images/9051ffcd-016f-430c-b7b7-9546d0a15bd5/353/569/90/False/the-wolf-of-oren-yaro-2.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-wolf-of-oren-yaro-2",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "K. S. Villoso",
         "dealDescription": ""
     },
     {
@@ -1056,6 +1045,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Spellsinger",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/8c216d95-5292-4397-b9b3-2229314b6c88/353/569/90/False/spellsinger-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/spellsinger-1",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Alan Dean Foster",
+        "dealDescription": ""
+    },
+    {
         "title": "Silver in the Bone",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/d49c13eb-6e31-4af2-a7cc-df429660a484/353/569/90/False/silver-in-the-bone.jpg",
@@ -1804,17 +1804,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Red Rabbit",
-        "price": 15.99,
-        "cover": "https://cdn.kobo.com/book-images/2064ddf9-a084-4a77-b912-d357751ca69a/353/569/90/False/red-rabbit-10.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/red-rabbit-10",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Alex Grecian",
-        "dealDescription": ""
-    },
-    {
         "title": "The Mad Women's Ball",
         "price": 15.99,
         "cover": "https://cdn.kobo.com/book-images/a657bade-287b-4c03-bcb7-b686018df2b1/353/569/90/False/the-mad-women-s-ball-1.jpg",
@@ -1900,6 +1889,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "James Clear",
+        "dealDescription": ""
+    },
+    {
+        "title": "Red Rabbit",
+        "price": 16.99,
+        "cover": "https://cdn.kobo.com/book-images/2064ddf9-a084-4a77-b912-d357751ca69a/353/569/90/False/red-rabbit-10.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/red-rabbit-10",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Alex Grecian",
         "dealDescription": ""
     },
     {
