@@ -1199,6 +1199,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Black Sun",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/e925001f-c955-465c-883d-e5477abcd32f/353/569/90/False/black-sun-27.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/black-sun-27",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Rebecca Roanhorse",
+        "dealDescription": ""
+    },
+    {
         "title": "The Lake House",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/0f598b04-1a46-4ca0-91b0-063218f202dc/353/569/90/False/the-lake-house-22.jpg",
@@ -1614,17 +1625,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Katee Robert",
-        "dealDescription": ""
-    },
-    {
-        "title": "Black Sun",
-        "price": 13.99,
-        "cover": "https://cdn.kobo.com/book-images/e925001f-c955-465c-883d-e5477abcd32f/353/569/90/False/black-sun-27.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/black-sun-27",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Rebecca Roanhorse",
         "dealDescription": ""
     },
     {
