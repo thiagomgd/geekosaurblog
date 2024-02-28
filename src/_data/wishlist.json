@@ -22,17 +22,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The Wolf of Oren-Yaro",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/9051ffcd-016f-430c-b7b7-9546d0a15bd5/353/569/90/False/the-wolf-of-oren-yaro-2.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-wolf-of-oren-yaro-2",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "K. S. Villoso",
-        "dealDescription": ""
-    },
-    {
         "title": "Sisters of Shadow (Sisters of Shadow, Book 1)",
         "price": 3.99,
         "cover": "https://cdn.kobo.com/book-images/f42a7440-f946-46c9-bb7c-169bb8791078/353/569/90/False/sisters-of-shadow-sisters-of-shadow-book-1.jpg",
@@ -239,6 +228,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Mercedes Lackey",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Wolf of Oren-Yaro",
+        "price": 8.99,
+        "cover": "https://cdn.kobo.com/book-images/9051ffcd-016f-430c-b7b7-9546d0a15bd5/353/569/90/False/the-wolf-of-oren-yaro-2.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-wolf-of-oren-yaro-2",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "K. S. Villoso",
         "dealDescription": ""
     },
     {
