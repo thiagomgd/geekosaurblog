@@ -33,6 +33,28 @@
         "dealDescription": ""
     },
     {
+        "title": "The Apollo Murders",
+        "price": 3.99,
+        "cover": "https://cdn.kobo.com/book-images/752b262d-3bb6-48b3-9ad3-d17cab3de737/353/569/90/False/the-apollo-murders-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-apollo-murders-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Chris Hadfield",
+        "dealDescription": ""
+    },
+    {
+        "title": "Emily Wilde's Encyclopaedia of Faeries",
+        "price": 4.99,
+        "cover": "https://cdn.kobo.com/book-images/c43e8e56-f5e9-4a63-88d5-3951273f147d/353/569/90/False/emily-wilde-s-encyclopaedia-of-faeries-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/emily-wilde-s-encyclopaedia-of-faeries-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Heather Fawcett",
+        "dealDescription": ""
+    },
+    {
         "title": "Life's Edge",
         "price": 5.99,
         "cover": "https://cdn.kobo.com/book-images/c91f07d6-7793-4791-8bb0-40c1bb04b8f3/353/569/90/False/life-s-edge.jpg",
@@ -1515,28 +1537,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "J.C. Cervantes",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Apollo Murders",
-        "price": 13.99,
-        "cover": "https://cdn.kobo.com/book-images/752b262d-3bb6-48b3-9ad3-d17cab3de737/353/569/90/False/the-apollo-murders-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-apollo-murders-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Chris Hadfield",
-        "dealDescription": ""
-    },
-    {
-        "title": "Emily Wilde's Encyclopaedia of Faeries",
-        "price": 13.99,
-        "cover": "https://cdn.kobo.com/book-images/c43e8e56-f5e9-4a63-88d5-3951273f147d/353/569/90/False/emily-wilde-s-encyclopaedia-of-faeries-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/emily-wilde-s-encyclopaedia-of-faeries-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Heather Fawcett",
         "dealDescription": ""
     },
     {
