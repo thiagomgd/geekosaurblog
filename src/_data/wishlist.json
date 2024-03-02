@@ -11,6 +11,28 @@
         "dealDescription": ""
     },
     {
+        "title": "The Last Stand",
+        "price": 1.99,
+        "cover": "https://cdn.kobo.com/book-images/0eb32477-8fd5-4490-982e-d4cf80c79054/353/569/90/False/the-last-stand-17.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-last-stand-17",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Mickey Spillane",
+        "dealDescription": ""
+    },
+    {
+        "title": "Call Me A Cab",
+        "price": 1.99,
+        "cover": "https://cdn.kobo.com/book-images/d6d19286-dea5-4bfa-9f45-ad53138a3de6/353/569/90/False/call-me-a-cab.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/call-me-a-cab",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Donald E. Westlake",
+        "dealDescription": ""
+    },
+    {
         "title": "The Year of Less",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/12dadd34-ee4f-4a38-bee7-abea03b3c71e/353/569/90/False/the-year-of-less-2.jpg",
@@ -19,6 +41,39 @@
         "isPlus": false,
         "isSale": false,
         "author": "Cait Flanders",
+        "dealDescription": ""
+    },
+    {
+        "title": "Front Desk (Front Desk #1) (Scholastic Gold)",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/8579b181-5763-4c1b-97c6-a189e1045f2b/353/569/90/False/front-desk-front-desk-1-scholastic-gold.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/front-desk-front-desk-1-scholastic-gold",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Kelly Yang",
+        "dealDescription": ""
+    },
+    {
+        "title": "Dead Country",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/ef3dd624-e52f-4166-a159-2f91e69bc6a1/353/569/90/False/dead-country-3.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/dead-country-3",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Max Gladstone",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Enigma of Room 622",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/f2b04f7b-9169-4a72-b59b-81c6030b715c/353/569/90/False/the-enigma-of-room-622-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-enigma-of-room-622-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Jo\u00ebl Dicker",
         "dealDescription": ""
     },
     {
@@ -31,28 +86,6 @@
         "isSale": false,
         "author": "Katherine Livesey",
         "dealDescription": ""
-    },
-    {
-        "title": "The Apollo Murders",
-        "price": 3.99,
-        "cover": "https://cdn.kobo.com/book-images/752b262d-3bb6-48b3-9ad3-d17cab3de737/353/569/90/False/the-apollo-murders-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-apollo-murders-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Chris Hadfield",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
-    },
-    {
-        "title": "Emily Wilde's Encyclopaedia of Faeries",
-        "price": 4.99,
-        "cover": "https://cdn.kobo.com/book-images/c43e8e56-f5e9-4a63-88d5-3951273f147d/353/569/90/False/emily-wilde-s-encyclopaedia-of-faeries-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/emily-wilde-s-encyclopaedia-of-faeries-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Heather Fawcett",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
     },
     {
         "title": "Life's Edge",
@@ -308,17 +341,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Heart Gear, Vol. 1",
-        "price": 8.99,
-        "cover": "https://cdn.kobo.com/book-images/e1ec898a-c24e-4766-87f7-be4b543b97b4/353/569/90/False/heart-gear-vol-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/heart-gear-vol-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Tsuyoshi Takaki",
-        "dealDescription": ""
-    },
-    {
         "title": "The Legend of Podkin One-Ear",
         "price": 8.99,
         "cover": "https://cdn.kobo.com/book-images/12708467-d918-4508-945e-f400b2e098dc/353/569/90/False/the-legend-of-podkin-one-ear.jpg",
@@ -327,17 +349,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Kieran Larwood",
-        "dealDescription": ""
-    },
-    {
-        "title": "Front Desk (Front Desk #1) (Scholastic Gold)",
-        "price": 8.99,
-        "cover": "https://cdn.kobo.com/book-images/8579b181-5763-4c1b-97c6-a189e1045f2b/353/569/90/False/front-desk-front-desk-1-scholastic-gold.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/front-desk-front-desk-1-scholastic-gold",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Kelly Yang",
         "dealDescription": ""
     },
     {
@@ -462,17 +473,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The Last Stand",
-        "price": 9.99,
-        "cover": "https://cdn.kobo.com/book-images/0eb32477-8fd5-4490-982e-d4cf80c79054/353/569/90/False/the-last-stand-17.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-last-stand-17",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Mickey Spillane",
-        "dealDescription": ""
-    },
-    {
         "title": "A Royal Guide to Monster Slaying",
         "price": 9.99,
         "cover": "https://cdn.kobo.com/book-images/54f5f5d0-5395-4695-abba-4ca6ceebc196/353/569/90/False/a-royal-guide-to-monster-slaying.jpg",
@@ -569,17 +569,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Hiroji Mishima",
-        "dealDescription": ""
-    },
-    {
-        "title": "Call Me A Cab",
-        "price": 9.99,
-        "cover": "https://cdn.kobo.com/book-images/d6d19286-dea5-4bfa-9f45-ad53138a3de6/353/569/90/False/call-me-a-cab.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/call-me-a-cab",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Donald E. Westlake",
         "dealDescription": ""
     },
     {
@@ -690,6 +679,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "J Fremont",
+        "dealDescription": ""
+    },
+    {
+        "title": "Heart Gear, Vol. 1",
+        "price": 10.99,
+        "cover": "https://cdn.kobo.com/book-images/e1ec898a-c24e-4766-87f7-be4b543b97b4/353/569/90/False/heart-gear-vol-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/heart-gear-vol-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Tsuyoshi Takaki",
         "dealDescription": ""
     },
     {
@@ -1456,7 +1456,7 @@
         "price": 12.99,
         "cover": "https://cdn.kobo.com/book-images/3b2f3daf-9b26-47b3-a4e0-be7eb6eee5b4/353/569/90/False/silverborn-the-mystery-of-morrigan-crow.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/silverborn-the-mystery-of-morrigan-crow",
-        "preorder": "Available Sep 10, 2024",
+        "preorder": "Available Jan 28, 2025",
         "isPlus": false,
         "isSale": false,
         "author": "Jessica Townsend",
@@ -1537,6 +1537,28 @@
         "isPlus": false,
         "isSale": false,
         "author": "J.C. Cervantes",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Apollo Murders",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/752b262d-3bb6-48b3-9ad3-d17cab3de737/353/569/90/False/the-apollo-murders-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-apollo-murders-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Chris Hadfield",
+        "dealDescription": ""
+    },
+    {
+        "title": "Emily Wilde's Encyclopaedia of Faeries",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/c43e8e56-f5e9-4a63-88d5-3951273f147d/353/569/90/False/emily-wilde-s-encyclopaedia-of-faeries-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/emily-wilde-s-encyclopaedia-of-faeries-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Heather Fawcett",
         "dealDescription": ""
     },
     {
@@ -1705,17 +1727,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Dead Country",
-        "price": 14.99,
-        "cover": "https://cdn.kobo.com/book-images/ef3dd624-e52f-4166-a159-2f91e69bc6a1/353/569/90/False/dead-country-3.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/dead-country-3",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Max Gladstone",
-        "dealDescription": ""
-    },
-    {
         "title": "Sister, Maiden, Monster",
         "price": 14.99,
         "cover": "https://cdn.kobo.com/book-images/0ed015bb-84f6-4546-95f3-4e21f4f16ffd/353/569/90/False/sister-maiden-monster.jpg",
@@ -1812,17 +1823,6 @@
         "isPlus": true,
         "isSale": true,
         "author": "Victoria Mas",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Enigma of Room 622",
-        "price": 15.99,
-        "cover": "https://cdn.kobo.com/book-images/f2b04f7b-9169-4a72-b59b-81c6030b715c/353/569/90/False/the-enigma-of-room-622-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-enigma-of-room-622-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Jo\u00ebl Dicker",
         "dealDescription": ""
     },
     {

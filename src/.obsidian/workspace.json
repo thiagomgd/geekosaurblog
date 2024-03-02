@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0cefee23bd93255",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf2dd79b8e47790c",
+  "active": "b0cefee23bd93255",
   "lastOpenFiles": [
     "_cache/thestorygraph.csv",
     "_cache/04d1a1998c3066d668c66b481efbefe6da5178ee538afcaacc4d0fde67e71f6a(2).csv",
