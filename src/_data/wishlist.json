@@ -77,6 +77,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Stranger Things: Flight of Icarus",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/819c204c-724f-4cee-979f-1d97ec755469/353/569/90/False/stranger-things-flight-of-icarus.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/stranger-things-flight-of-icarus",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Caitlin Schneiderhan",
+        "dealDescription": ""
+    },
+    {
         "title": "Sisters of Shadow (Sisters of Shadow, Book 1)",
         "price": 3.99,
         "cover": "https://cdn.kobo.com/book-images/f42a7440-f946-46c9-bb7c-169bb8791078/353/569/90/False/sisters-of-shadow-sisters-of-shadow-book-1.jpg",
@@ -1760,6 +1771,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Book That Wouldn't Burn",
+        "price": 14.99,
+        "cover": "https://cdn.kobo.com/book-images/585f92d2-8a04-4211-8881-c3f032554aa4/353/569/90/False/the-book-that-wouldn-t-burn.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-book-that-wouldn-t-burn",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Mark Lawrence",
+        "dealDescription": ""
+    },
+    {
         "title": "Area X Three-Book Bundle",
         "price": 14.99,
         "cover": "https://cdn.kobo.com/book-images/74b7aa6a-e64b-43c8-9110-6a52912bc797/353/569/90/False/area-x-three-book-bundle.jpg",
@@ -1922,28 +1944,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Tony Medawar",
-        "dealDescription": ""
-    },
-    {
-        "title": "Stranger Things: Flight of Icarus",
-        "price": 16.99,
-        "cover": "https://cdn.kobo.com/book-images/819c204c-724f-4cee-979f-1d97ec755469/353/569/90/False/stranger-things-flight-of-icarus.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/stranger-things-flight-of-icarus",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Caitlin Schneiderhan",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Book That Wouldn't Burn",
-        "price": 16.99,
-        "cover": "https://cdn.kobo.com/book-images/585f92d2-8a04-4211-8881-c3f032554aa4/353/569/90/False/the-book-that-wouldn-t-burn.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-book-that-wouldn-t-burn",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Mark Lawrence",
         "dealDescription": ""
     },
     {
