@@ -1,16 +1,5 @@
 [
     {
-        "title": "Beyond Redemption",
-        "price": 1.99,
-        "cover": "https://cdn.kobo.com/book-images/f074c93b-9fda-4594-8aa9-6da2d7db7cf0/353/569/90/False/beyond-redemption-4.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/beyond-redemption-4",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Michael R Fletcher",
-        "dealDescription": ""
-    },
-    {
         "title": "The Last Stand",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/0eb32477-8fd5-4490-982e-d4cf80c79054/353/569/90/False/the-last-stand-17.jpg",
@@ -41,6 +30,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Cait Flanders",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Tethered Mage",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/8d0a6d02-b6bc-4fba-a2f6-8fbf84668c89/353/569/90/False/the-tethered-mage.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-tethered-mage",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Melissa Caruso",
         "dealDescription": ""
     },
     {
@@ -316,17 +316,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Tui T. Sutherland",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Tethered Mage",
-        "price": 8.99,
-        "cover": "https://cdn.kobo.com/book-images/8d0a6d02-b6bc-4fba-a2f6-8fbf84668c89/353/569/90/False/the-tethered-mage.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-tethered-mage",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Melissa Caruso",
         "dealDescription": ""
     },
     {
@@ -844,6 +833,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Isle Osaki",
+        "dealDescription": ""
+    },
+    {
+        "title": "Beyond Redemption",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/f074c93b-9fda-4594-8aa9-6da2d7db7cf0/353/569/90/False/beyond-redemption-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/beyond-redemption-4",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Michael R Fletcher",
         "dealDescription": ""
     },
     {
