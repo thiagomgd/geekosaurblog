@@ -77,17 +77,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Stranger Things: Flight of Icarus",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/819c204c-724f-4cee-979f-1d97ec755469/353/569/90/False/stranger-things-flight-of-icarus.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/stranger-things-flight-of-icarus",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Caitlin Schneiderhan",
-        "dealDescription": ""
-    },
-    {
         "title": "Sisters of Shadow (Sisters of Shadow, Book 1)",
         "price": 3.99,
         "cover": "https://cdn.kobo.com/book-images/f42a7440-f946-46c9-bb7c-169bb8791078/353/569/90/False/sisters-of-shadow-sisters-of-shadow-book-1.jpg",
@@ -1944,6 +1933,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Tony Medawar",
+        "dealDescription": ""
+    },
+    {
+        "title": "Stranger Things: Flight of Icarus",
+        "price": 16.99,
+        "cover": "https://cdn.kobo.com/book-images/819c204c-724f-4cee-979f-1d97ec755469/353/569/90/False/stranger-things-flight-of-icarus.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/stranger-things-flight-of-icarus",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Caitlin Schneiderhan",
         "dealDescription": ""
     },
     {
