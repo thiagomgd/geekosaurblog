@@ -1166,17 +1166,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Masters of Death",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/ff7b6639-3b3e-4945-bffd-9a9eab170e6b/353/569/90/False/masters-of-death-3.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/masters-of-death-3",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Olivie Blake",
-        "dealDescription": ""
-    },
-    {
         "title": "No Place Like Home",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/3f89bd5c-8bdc-4f44-9b67-98ce78a389f3/353/569/90/False/no-place-like-home-108.jpg",
@@ -1779,6 +1768,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Jeff VanderMeer",
+        "dealDescription": ""
+    },
+    {
+        "title": "Masters of Death",
+        "price": 14.99,
+        "cover": "https://cdn.kobo.com/book-images/ff7b6639-3b3e-4945-bffd-9a9eab170e6b/353/569/90/False/masters-of-death-3.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/masters-of-death-3",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Olivie Blake",
         "dealDescription": ""
     },
     {
