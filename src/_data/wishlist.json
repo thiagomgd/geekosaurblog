@@ -1,5 +1,16 @@
 [
     {
+        "title": "The Dragonriders of Pern",
+        "price": 1.99,
+        "cover": "https://cdn.kobo.com/book-images/6f5b5429-1ac9-4a2b-8236-2c616e275d46/353/569/90/False/the-dragonriders-of-pern.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-dragonriders-of-pern",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Anne McCaffrey",
+        "dealDescription": ""
+    },
+    {
         "title": "The Last Stand",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/0eb32477-8fd5-4490-982e-d4cf80c79054/353/569/90/False/the-last-stand-17.jpg",
@@ -63,6 +74,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "Max Gladstone",
+        "dealDescription": ""
+    },
+    {
+        "title": "Silver in the Bone",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/d49c13eb-6e31-4af2-a7cc-df429660a484/353/569/90/False/silver-in-the-bone.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/silver-in-the-bone",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Alexandra Bracken",
         "dealDescription": ""
     },
     {
@@ -979,17 +1001,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The Dragonriders of Pern",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/6f5b5429-1ac9-4a2b-8236-2c616e275d46/353/569/90/False/the-dragonriders-of-pern.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-dragonriders-of-pern",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Anne McCaffrey",
-        "dealDescription": ""
-    },
-    {
         "title": "The Marvellers",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/3c4decf8-5bf6-4384-aa0c-598d5006ede5/353/569/90/False/the-marvellers.jpg",
@@ -1284,17 +1295,6 @@
         "isPlus": true,
         "isSale": true,
         "author": "Alan Dean Foster",
-        "dealDescription": ""
-    },
-    {
-        "title": "Silver in the Bone",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/d49c13eb-6e31-4af2-a7cc-df429660a484/353/569/90/False/silver-in-the-bone.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/silver-in-the-bone",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Alexandra Bracken",
         "dealDescription": ""
     },
     {
