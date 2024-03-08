@@ -396,17 +396,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Dealing with Dragons",
-        "price": 8.99,
-        "cover": "https://cdn.kobo.com/book-images/6183dc41-44c3-450f-8a95-db10b2e9fb58/353/569/90/False/dealing-with-dragons-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/dealing-with-dragons-1",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "Patricia C. Wrede",
-        "dealDescription": ""
-    },
-    {
         "title": "The Dragonet Prophecy (Wings of Fire #1)",
         "price": 8.99,
         "cover": "https://cdn.kobo.com/book-images/99c0a7f4-f8bb-4b95-89a3-81ea7d1340fd/353/569/90/False/the-dragonet-prophecy-wings-of-fire-1.jpg",
@@ -1097,6 +1086,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Sosuke Natsukawa",
+        "dealDescription": ""
+    },
+    {
+        "title": "Dealing with Dragons",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/6183dc41-44c3-450f-8a95-db10b2e9fb58/353/569/90/False/dealing-with-dragons-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/dealing-with-dragons-1",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Patricia C. Wrede",
         "dealDescription": ""
     },
     {
