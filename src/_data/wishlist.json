@@ -1,5 +1,16 @@
 [
     {
+        "title": "A Botanist's Guide to Parties and Poisons",
+        "price": 1.99,
+        "cover": "https://cdn.kobo.com/book-images/72720999-9d52-46a2-b690-d40b91832231/353/569/90/False/a-botanist-s-guide-to-parties-and-poisons.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-botanist-s-guide-to-parties-and-poisons",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Kate Khavari",
+        "dealDescription": ""
+    },
+    {
         "title": "The Last Stand",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/0eb32477-8fd5-4490-982e-d4cf80c79054/353/569/90/False/the-last-stand-17.jpg",
@@ -171,7 +182,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/the-stars-undying",
         "preorder": "",
         "isPlus": false,
-        "isSale": true,
+        "isSale": false,
         "author": "Emery Robin",
         "dealDescription": ""
     },
@@ -2142,17 +2153,6 @@
         "isPlus": false,
         "isSale": true,
         "author": "Jessica Khoury",
-        "dealDescription": ""
-    },
-    {
-        "title": "A Botanist's Guide to Parties and Poisons",
-        "price": 15.99,
-        "cover": "https://cdn.kobo.com/book-images/72720999-9d52-46a2-b690-d40b91832231/353/569/90/False/a-botanist-s-guide-to-parties-and-poisons.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/a-botanist-s-guide-to-parties-and-poisons",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Kate Khavari",
         "dealDescription": ""
     },
     {
