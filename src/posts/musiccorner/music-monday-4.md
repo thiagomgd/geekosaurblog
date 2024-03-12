@@ -1,23 +1,22 @@
 ---
 draft: false
 slug: music-monday-4
-tumblr:
-reddit:
-tweet:
-threadTwitter:
-replyTo:
-lead: ''
-threadMastodon:
-series: ''
-tags:
-toot:
-date: '2020-09-07T00:00:00.000-07:00'
-description: "This past week I've listened a few times to the new Katy Perry''s album:\n\
-  Smile"
-thread: ''
-title: 'Music Corner 4: Katy Perry'
-createdTime: '2022-04-16T18:49:00.000Z'
-thumbnail: https://i.imgur.com/N7CUNPf.jpg
+tumblr: 
+reddit: 
+tweet: 
+threadTwitter: 
+replyTo: 
+lead: ""
+series: ""
+tags: 
+toot: 
+date: 2020-09-07T00:00:00.000-07:00
+description: |-
+  This past week I've listened a few times to the new Katy Perry''s album:
+  Smile
+thread: ""
+title: "Music Corner 4: Katy Perry"
+createdTime: 2022-04-16T18:49:00.000Z
 ---
 
 This past week I've listened a few times to the new Katy Perry's album: Smile. Below I added a few MVs, and also the spotify album.

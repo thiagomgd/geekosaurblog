@@ -4,7 +4,6 @@ categories:
 date: 2021-04-27T21:11:01-07:00
 description: After showing how to automate downloading images and videos from Reddit comments, I'm adding one extra step and making it also find the correct posts for me.
 draft: false
-thumbnail: https://i.imgur.com/9u3PBtG.png
 slug: automating-downloading-reddit-images-part2
 tags:
   - automating
