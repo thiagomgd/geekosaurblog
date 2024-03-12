@@ -1,25 +1,24 @@
 ---
 draft: false
 slug: urusei-yatsura-episode1-review
-tumblr:
+tumblr: 
 reddit: https://www.reddit.com/r/geekosaur/comments/y50m87/urusei_yatsura_ep_1_review/
 tweet: https://twitter.com/geeko_saur/status/1581421825984454657
-threadTwitter:
-replyTo:
+threadTwitter: 
+replyTo: 
 lead: The GOAT?
-threadMastodon:
+threadMastodon: 
 series: Urusei Yatsura Season 1
 tags:
-- fall2022Anime
-- anime
+  - fall2022Anime
+  - anime
 toot: https://mastodon.social/@falcon/109174815091555774
-date: '2022-10-15T14:00:00.000-07:00'
-description: First episode of Urusei Yatsura was GREAT! Check out my impressions and
-  some images
+date: 2022-10-15T14:00:00.000-07:00
+description: First episode of Urusei Yatsura was GREAT! Check out my impressions and some images
 thread: urusei yatsura season 1
 title: Urusei Yatsura Ep 1 Review
-createdTime: '2022-10-15T19:40:00.000Z'
-thumbnail: https://i.imgur.com/r6Kna40.png
+createdTime: 2022-10-15T19:40:00.000Z
+thumbnail:
 ---
 
 This is an anime/manga that I always wanted to check, but never got to. Now that there’s a remake, I just HAD to watch it. You know, for science.
@@ -58,9 +57,6 @@ A big thirsty album for all you pervs
 
 And a couple stitches
 
-![](https://i.imgur.com/ippITwB.jpg)
-
-![](https://i.imgur.com/pL4Agho.jpg)
 
 ![Seems in the original they actually show her breasts|blur](https://i.imgur.com/FnnbCnV.png)
 
