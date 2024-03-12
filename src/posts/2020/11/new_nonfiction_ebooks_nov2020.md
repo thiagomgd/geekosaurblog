@@ -11,8 +11,6 @@ toc: true
 
 Yesterday I posted about [fiction ebooks that I got recently](/post/new_ebooks_nov2020). This time I'm sharing some non-fiction titles that I added to my Kindle collection!
 
-{% figure "https://i.imgur.com/lQYL7EG.jpg", "Photo by [Sam Farallon](https://unsplash.com/@farallon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)" %}
-
 <!--more-->
 
 ## Mythology: Timeless Tales of Gods and Heroes by Edith Hamilton
