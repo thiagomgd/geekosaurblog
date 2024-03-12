@@ -1,15 +1,9 @@
 ---
-date: "2021-01-30T12:00:49-08:00"
-description: 'For a while, I was thinking about returning with the weekly updates.
-  And this week, after seeing that Twitter acquired a newsletter service (Revue),
-  I decided to do it. '
-images:
-- https://i.imgur.com/Gng2Fkk.png
-reddit: https://www.reddit.com/r/geekosaur/comments/l8v7ew/geekosaur_weekly_1_geekosaur/
+date: 2021-01-30T12:00:49-08:00
+description: "For a while, I was thinking about returning with the weekly updates. And this week, after seeing that Twitter acquired a newsletter service (Revue), I decided to do it. "
 slug: geekosaur_weekly_1
-tags:
-title: 'Geekosaur News #1'
-tweetId: "1355618093209329665"
+tags: 
+title: "Geekosaur News #1"
 ---
 
 For a while, I was thinking about returning with the weekly updates. And this week, after seeing that Twitter acquired a newsletter service (Revue), I decided to do it. 

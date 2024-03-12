@@ -1,27 +1,15 @@
 ---
 aliases:
-- /posts/automating_downloading_reddit_images/
+  - /posts/automating_downloading_reddit_images/
 categories:
-- Coding
-date: "2021-04-10T17:08:24-07:00"
-description: Going back in time, about 6 years ago (I'm getting old....), and maybe
-  3 or 4 different blogs/domains, I was writing anime reviews as a way to practice
-  my English writing skills. And part of doing anime reviews is getting images and
-  gifs, right? At the beginning, I would go to reddit.com/r/anime, open the episode's
-  discussion post, expand all images (with the help of RES - reddit enhancement suite),
-  scroll to see whatever I liked and grab it. But this is not optimal, and being a
-  developer, I started thinking of something more practical.
+  - Coding
+date: 2021-04-10T17:08:24-07:00
+description: Going back in time, about 6 years ago (I'm getting old....), and maybe 3 or 4 different blogs/domains, I was writing anime reviews as a way to practice my English writing skills. And part of doing anime reviews is getting images and gifs, right? At the beginning, I would go to reddit.com/r/anime, open the episode's discussion post, expand all images (with the help of RES - reddit enhancement suite), scroll to see whatever I liked and grab it. But this is not optimal, and being a developer, I started thinking of something more practical.
 draft: false
-thumbnail: https://i.imgur.com/xtFxVuQ.png
-images:
-- https://i.imgur.com/xtFxVuQ.png
-- https://i.imgur.com/tBhj7cK.png
-reddit: https://www.reddit.com/r/geekosaur/comments/mogcv2/automating_things_downloading_reddit_media/
 slug: automating-downloading-reddit-images
 tags:
-- automating
-title: 'Automating Things: Downloading Reddit Media'
-tweetId: "1381038734229991425"
+  - automating
+title: "Automating Things: Downloading Reddit Media"
 ---
 
 This week, Crow published an interesting [post about automating blog tasks](https://www.crowsworldofanime.com/posts/automating-blog-tasks-blog-shop-talk/). That reminded me of a few things I have done but never shared here (or on one of my previous blogs), and I think it's time to post them here.

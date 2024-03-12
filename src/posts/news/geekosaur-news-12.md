@@ -1,18 +1,11 @@
 ---
-date: "2021-05-02T11:15:46-07:00"
-description: Warm and sunny Sunday here for me, and I wish everyone is having a great
-  weekend.
+date: 2021-05-02T11:15:46-07:00
+description: Warm and sunny Sunday here for me, and I wish everyone is having a great weekend.
 draft: false
-images:
-- https://i.imgur.com/HIG69l5.jpg
-- https://i.imgur.com/kO9BYST.jpg?1
-- https://i.imgur.com/TiPDJId.jpg
-reddit: https://www.reddit.com/r/geekosaur/comments/n3cobi/geekosaur_weekly_12_books_manga_and_more/
 slug: geekosaur-weekly-12
-tags:
-title: 'Geekosaur News #12: Books, Manga And More'
+tags: 
+title: "Geekosaur News #12: Books, Manga And More"
 toc: true
-tweetId: "1388924900161642498"
 ---
 
 Warm and sunny Sunday here for me, and I wish everyone is having a great weekend.

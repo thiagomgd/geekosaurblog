@@ -1,17 +1,15 @@
 ---
-date: '2022-01-14T16:00:00Z'
-title: "My Non-Fiction Must Read For 2022"
-description: "As time passes and our TBR grows, it's easy to lose track of books we really want to read. So I decided to list some non-fiction books (or categories) that are a must read to me this year."
+date: 2022-01-14T16:00:00Z
+title: My Non-Fiction Must Read For 2022
+description: As time passes and our TBR grows, it's easy to lose track of books we really want to read. So I decided to list some non-fiction books (or categories) that are a must read to me this year.
 lead: ""
 draft: false
 thumbnail: /img/brandi-redd-3vz3v6judt0-unsplash.jpg
-slug: 'non-fiction-must-read-2022'
+slug: non-fiction-must-read-2022
 tags:
-- books
-- lists
-- nonFiction
-reddit: https://www.reddit.com/r/geekosaur/comments/s41pqv/my_nonfiction_must_read_for_2022/
-tweetId: '1482085612677177344'
+  - books
+  - lists
+  - nonFiction
 ---
 
 As time passes and our TBR grows, it's easy to lose track of books we really want to read. I get easily distracted, lazy, and then the year ends and I didn't do much of what I hoped to.

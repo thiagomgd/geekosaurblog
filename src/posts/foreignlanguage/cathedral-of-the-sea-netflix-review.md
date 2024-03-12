@@ -1,15 +1,11 @@
 ---
-title: "Cathedral of the Sea Netflix Review"
-slug: 'cathedral-of-the-sea-netflix-review'
+title: Cathedral of the Sea Netflix Review
+slug: cathedral-of-the-sea-netflix-review
 description: "Cathedral of The Sea (La Catedral Del Mal) is a 2018 Spanish show that has 8 episodes and is based on a book by Ildefonso Falcones from 2006. It's a rag-to-riches story set in a tumultuous era: plague, inquisition and anarchy."
 date: 2021-04-25T15:18:17-07:00
 toc: true
 draft: false
-tags: []
-images: ["https://i.imgur.com/hbePdeJ.jpg", "https://i.imgur.com/phQIAIT.jpg", "https://i.imgur.com/QdYSaai.jpg"]
-thumbnail: https://i.imgur.com/hbePdeJ.jpg
-reddit: https://www.reddit.com/r/geekosaur/comments/myjlsn/cathedral_of_the_sea_netflix_review/
-tweetId: "1386450910163836928"
+tags:
 ---
 
 Cathedral of The Sea (La Catedral Del Mal) is a 2018 Spanish show that has 8 episodes and is based on a book by Ildefonso Falcones from 2006 (which has a follow up named Los herederos de la tierra/The Heirs of the Earth). It's a rag-to-riches story set in a tumultuous era: plague, inquisition and anarchy. 

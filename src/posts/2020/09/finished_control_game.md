@@ -1,17 +1,14 @@
 ---
 categories:
-- Games
-date: "2020-09-02T16:32:19-07:00"
-description: After so many months without playing it, and then some time trying to
-  beat it, I finally completed Control's main story.
+  - Games
+date: 2020-09-02T16:32:19-07:00
+description: After so many months without playing it, and then some time trying to beat it, I finally completed Control's main story.
 draft: false
 images:
-- https://i.imgur.com/0h0V5QJ.jpg
-reddit: https://www.reddit.com/r/geekosaur/comments/iljn9a/finished_control_game/
+  - https://i.imgur.com/0h0V5QJ.jpg
 tags:
-- games
+  - games
 title: Finished Control Game
-tweetId: "1301317325841465344"
 ---
 
 After so many months without playing it, and then some time trying to beat it, I finally completed Control's main story.

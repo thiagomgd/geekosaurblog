@@ -1,19 +1,15 @@
 ---
 categories:
-- Coding
-date: "2021-04-27T21:11:01-07:00"
-description: After showing how to automate downloading images and videos from Reddit
-  comments, I'm adding one extra step and making it also find the correct posts for
-  me.
+  - Coding
+date: 2021-04-27T21:11:01-07:00
+description: After showing how to automate downloading images and videos from Reddit comments, I'm adding one extra step and making it also find the correct posts for me.
 draft: false
 thumbnail: https://i.imgur.com/9u3PBtG.png
-reddit: https://www.reddit.com/r/geekosaur/comments/n06zhy/automating_things_downloading_reddit_media_part_2/
 slug: automating-downloading-reddit-images-part2
 tags:
-- automating
-title: 'Automating Things: Downloading Reddit Media Part #2'
+  - automating
+title: "Automating Things: Downloading Reddit Media Part #2"
 toc: false
-tweetId: "1387263984001191936"
 ---
 
 Recently I shared a post on how to automate [downloading images and videos from Reddit comments](/posts/automating-downloading-reddit-images/), as well as saving links present in those comments. Today I'm adding one extra step, and making it also find the correct posts for me. That way I can download screenshots and videos for a whole show!

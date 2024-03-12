@@ -1,17 +1,10 @@
 ---
-date: "2020-09-27T12:33:00-07:00"
-description: 'When I started this show, the first 2 season were out already. AND I
-  BINGED BOTH SO QUICKLY. It became of of those series I absolutely love (almost)
-  everything about: the actors, story, setting, music, costumes, comedy. I even bought
-  the first 2 seasons'' OSTs in vinyl.'
+date: 2020-09-27T12:33:00-07:00
+description: "When I started this show, the first 2 season were out already. AND I BINGED BOTH SO QUICKLY. It became of of those series I absolutely love (almost) everything about: the actors, story, setting, music, costumes, comedy. I even bought the first 2 seasons' OSTs in vinyl."
 draft: false
-images:
-- https://i.imgur.com/xMcYofs.jpg
-reddit: https://www.reddit.com/r/geekosaur/comments/j0xze6/watched_the_marvelous_mrs_maisel_season_3/
 tags:
-- tv
-title: 'Watched: The Marvelous Mrs. Maisel Season 3'
-tweetId: "1310316577397657605"
+  - tv
+title: "Watched: The Marvelous Mrs. Maisel Season 3"
 ---
 
 When I started this show, the first 2 season were out already. AND I BINGED BOTH SO QUICKLY. It became of of those series I absolutely love (almost) everything about: the actors, story, setting, music, costumes, comedy. I even bought the first 2 seasons' OSTs in vinyl.

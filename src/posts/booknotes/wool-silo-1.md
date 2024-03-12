@@ -1,16 +1,14 @@
 ---
-date: '2022-01-16T16:00:00Z'
+date: 2022-01-16T16:00:00Z
 title: "Book Notes: Wool (Silo #1) by Hugh Howey"
-description: "A fantastic sci-fi novel that stands on its own"
-lead: "A fantastic sci-fi novel that stands on its own"
+description: A fantastic sci-fi novel that stands on its own
+lead: A fantastic sci-fi novel that stands on its own
 draft: false
 thumbnail: /img/books/wool.jpeg
-slug: 'book-notes-wool-silo-1'
-series: 'silo'
+slug: book-notes-wool-silo-1
+series: silo
 tags:
-- sciFi
-reddit: https://www.reddit.com/r/geekosaur/comments/s5h535/book_notes_wool_silo_1_by_hugh_howey/
-tweetId: '1482771291052539904'
+  - sciFi
 ---
 
 I've seen this book mentioned a few times on Media Death Cult - both the YT and Discord channel - and seeing it was on Kindle Unlimited, decided to give it a try. And WOW, I'm very happy that I did.

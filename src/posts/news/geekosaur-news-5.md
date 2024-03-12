@@ -1,15 +1,11 @@
 ---
-date: "2021-02-28T14:40:09-08:00"
-description: 'Better late than never: Geekosaur Weekly is a day late, but still here
-  with some thoughts, music and quick personal updates.'
+date: 2021-02-28T14:40:09-08:00
+description: "Better late than never: Geekosaur Weekly is a day late, but still here with some thoughts, music and quick personal updates."
 draft: false
-thumbnail: https://i.imgur.com/in1LHZx.jpg
-reddit: https://www.reddit.com/r/geekosaur/comments/lusv3n/geekosaur_weekly_5_ditch_yearly_resolutions_use/
 slug: geekosaur-weekly-5
-tags:
-title: 'Geekosaur News #5: Ditch Yearly Resolutions, Use Monthly And Weekly Instead'
+tags: 
+title: "Geekosaur News #5: Ditch Yearly Resolutions, Use Monthly And Weekly Instead"
 toc: true
-tweetId: "1366158474057445376"
 ---
 
 Better late than never: Geekosaur Weekly is a day late, but still here with some thoughts, music and quick personal updates.

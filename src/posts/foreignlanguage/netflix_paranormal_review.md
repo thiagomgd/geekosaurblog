@@ -1,14 +1,13 @@
 ---
 title: "Paranormal: Supernatural Mystery From Egypt"
-description: "Paranormal is an Egyptian Netflix original and is based on a series of books. It's a supernatural show with some good mystery and horror."
+description: Paranormal is an Egyptian Netflix original and is based on a series of books. It's a supernatural show with some good mystery and horror.
 date: 2020-12-18T21:26:04-08:00
 draft: false
-tags: ["foreignLanguage"]
-categories: ["Movies & TV"]
-series: "Foreign Language"
-thumbnail: "https://i.imgur.com/desgj4S.jpg"
-reddit: https://www.reddit.com/r/geekosaur/comments/kg252x/paranormal_supernatural_mystery_from_egypt/
-tweetId: "1340169407851446274"
+tags:
+  - foreignLanguage
+categories:
+  - Movies & TV
+series: Foreign Language
 ---
 
 As I mentioned in the last post, this year I've watched some great foreign language movies and TV shows. For this series of posts I'm going to start with the most recent that I finished: Paranormal. 

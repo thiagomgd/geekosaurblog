@@ -1,18 +1,12 @@
 ---
-date: "2021-05-12T22:00:32-07:00"
-description: Too many cool TV shows, too little time to watch all of them. Who else
-  has this problem?
+date: 2021-05-12T22:00:32-07:00
+description: Too many cool TV shows, too little time to watch all of them. Who else has this problem?
 draft: false
-images:
-- /images/notion-tv-board-may2021.png
-- https://i.imgur.com/MQTZlfM.gif
-reddit: https://www.reddit.com/r/geekosaur/comments/nb9ezw/starting_less_new_tv_shows_for_now/
 slug: starting-less-new-tv-shows
 tags:
-- moviesTV
+  - moviesTV
 title: Starting Less New TV Shows For Now
 toc: false
-tweetId: "1392714210224656388"
 ---
 
 *Too many cool TV shows, too little time to watch all of them. Who else has this problem?*

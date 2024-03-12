@@ -1,18 +1,13 @@
 ---
 date: 2021-12-22T14:15:48Z
-description: Time for another Geekosaur Weekly, were I share some news, thoughts and
-  random links.
-images:
-- "/img/estee-janssens-aqfhbxailcs-unsplash.jpg"
-lead: ''
+description: Time for another Geekosaur Weekly, were I share some news, thoughts and random links.
+lead: ""
 slug: geekosaur-news-20
-summary: ''
+summary: ""
 tags: 
-thumbnail: "/img/estee-janssens-aqfhbxailcs-unsplash.jpg"
-title: 'Geekosaur News #20: Games, Blog Migration and Nerd Comedy Standup'
+thumbnail: /img/estee-janssens-aqfhbxailcs-unsplash.jpg
+title: "Geekosaur News #20: Games, Blog Migration and Nerd Comedy Standup"
 toc: true
-tweetId: "1473765711902302218"
-
 ---
 Time for another Geekosaur Weekly, were I share some news, thoughts and random links.
 

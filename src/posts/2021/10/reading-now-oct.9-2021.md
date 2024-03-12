@@ -1,20 +1,15 @@
 ---
-date: "2021-10-10T01:00:00Z"
+date: 2021-10-10T01:00:00Z
 description: ""
-images:
-- /img/244464316_1210475762776332_6027649036626848770_n.jpg
-- /img/244627543_1213333155836129_2079068633666561123_n-1.jpg
 lead: ""
-reddit: ""
 series: ""
 slug: reading-now-20211009
 tags:
-- books
-- reading
+  - books
+  - reading
 thumbnail: /img/244464316_1210475762776332_6027649036626848770_n.jpg
 title: Reading Now (Oct 9, 2021)
 toc: false
-tweetId: "1447022678360035329"
 ---
 Recently I've been reading a bit more again. I've got a few books in the past couple months, and had a great time with the ones I've read so far.
 

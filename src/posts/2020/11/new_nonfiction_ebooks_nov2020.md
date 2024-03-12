@@ -1,17 +1,12 @@
 ---
-date: "2020-11-04T12:11:01-08:00"
-description: Yesterday I posted about fiction ebooks that I got recently. This time
-  I'm sharing some non-fiction titles that I added to my Kindle collection!
+date: 2020-11-04T12:11:01-08:00
+description: Yesterday I posted about fiction ebooks that I got recently. This time I'm sharing some non-fiction titles that I added to my Kindle collection!
 draft: false
-images:
-- https://i.imgur.com/lQYL7EG.jpg
-reddit: https://www.reddit.com/r/geekosaur/comments/jo6925/new_nonfiction_ebooks_i_got_recently_nov_2020/
 tags:
-- books
-- nonFiction
+  - books
+  - nonFiction
 title: New Nonfiction eBooks I Got Recently [Nov. 2020]
 toc: true
-tweetId: "1324118309042835456"
 ---
 
 Yesterday I posted about [fiction ebooks that I got recently](/post/new_ebooks_nov2020). This time I'm sharing some non-fiction titles that I added to my Kindle collection!

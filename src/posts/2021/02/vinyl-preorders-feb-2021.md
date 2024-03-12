@@ -1,22 +1,14 @@
 ---
 categories:
-- Music
-date: "2021-02-15T11:50:22-08:00"
-description: This year I decided to invest a bit ore in my record collection and gradually
-  expand it. Still, this is not a big list, as I don't pre-order much.
+  - Music
+date: 2021-02-15T11:50:22-08:00
+description: This year I decided to invest a bit ore in my record collection and gradually expand it. Still, this is not a big list, as I don't pre-order much.
 draft: false
-images:
-- https://i.imgur.com/N0fIh0o.jpg
-- https://i.imgur.com/p7thLyG.jpg
-- https://i.imgur.com/ebb5wrg.jpg
-- https://i.imgur.com/JqrL6RC.jpg
-reddit: https://www.reddit.com/r/geekosaur/comments/lklzs7/vinyl_record_preorders_feb_15_2020/
 slug: vinyl-preorders-feb-2021
 tags:
-- music
-- recordCollection
+  - music
+  - recordCollection
 title: Vinyl Record Pre-Orders [Feb. 15 2020]
-tweetId: "1361407987588337665"
 ---
 
 This year I decided to invest a bit ore in my record collection and gradually expand it. I've been spending less on Uber Eats, and directing some of that saved money on music. Still, this is not a big list, as I don't pre-order much. Maybe I should? Considering the price usually goes up after release, it's actually a good idea.

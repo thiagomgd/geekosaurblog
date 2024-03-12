@@ -1,19 +1,16 @@
 ---
-date: '2022-10-07T16:00:00Z'
-title: "SPY x FAMILY Part 2 - Episode 1 discussion"
-description: "This episode is a great start, and we finally get Bond!"
+date: 2022-10-07T16:00:00Z
+title: SPY x FAMILY Part 2 - Episode 1 discussion
+description: This episode is a great start, and we finally get Bond!
 lead: ""
 draft: false
-# thumbnail: /img/
-slug: 'spy-x-family-part-2-episode-1-discussion'
-tags: 
-- fall2022Anime 
-- anime 
-- spyXFamily 
-# reddit: 
-tweetId: '1578646599781306368'
-thread: 'spy x family season 2'
-series: 'Spy X Family Season 2'
+slug: spy-x-family-part-2-episode-1-discussion
+tags:
+  - fall2022Anime
+  - anime
+  - spyXFamily
+thread: spy x family season 2
+series: Spy X Family Season 2
 ---
 
 Laaaaaate, but I finally had soe time to make a quick Spy x Family post! I was able to wrap up season 1 just before part 2 started, and I'm so happy that it got a really cool adaptation.

@@ -1,22 +1,17 @@
 ---
 categories:
-- Music
-date: "2021-10-16T23:30:00Z"
+  - Music
+date: 2021-10-16T23:30:00Z
 description: Recently I've got a few more records. Let's check them!
-images:
-- /img/morphine.jpeg
-- /img/halsey-wallows.jpeg
 lead: ""
-reddit: ""
 series: ""
 slug: new-vinyl-records-2021-10-16
 tags:
-- recordCollection
-- music
+  - recordCollection
+  - music
 thumbnail: /img/morphine.jpeg
-title: 'New vinyl records: Oct. 16th 2021'
+title: "New vinyl records: Oct. 16th 2021"
 toc: false
-tweetId: "1449519152532627457"
 ---
 Recently I've got a few more records. Let's check them!
 

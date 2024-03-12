@@ -1,20 +1,14 @@
 ---
 categories:
-- Etc
-date: "2020-11-07T14:05:39-08:00"
-description: 'Today it''s time for something a little bit different: let''s talk anime
-  controversies. I have no intention of offending anyone, but just sparking discussion,
-  igniting a flame war and losing all my followers.'
+  - Etc
+date: 2020-11-07T14:05:39-08:00
+description: "Today it's time for something a little bit different: let's talk anime controversies. I have no intention of offending anyone, but just sparking discussion, igniting a flame war and losing all my followers."
 draft: false
-images:
-- https://i.imgur.com/1Vu7FKA.png
-reddit: https://www.reddit.com/r/geekosaur/comments/jq07bv/anime_controversies_controversed/
 slug: anime-controversies-controversed
 tags:
-- opinion
+  - opinion
 title: Anime Controversies [#Controversed]
 toc: true
-tweetId: "1325209252252643328"
 ---
 
 Today it's time for something a little bit different: let's talk anime controversies. This is part of a series of posts that Moya from the Moyatorium is suggesting for November: [Announcing Controversed: A November Workshop](https://moyatorium.wordpress.com/2020/11/02/announcing-controversed-a-november-workshop/).

@@ -1,19 +1,13 @@
 ---
 categories:
-- Music
-date: "2021-02-18T20:07:48-08:00"
-description: 'Today I received a new vinyl record: Babylon Berlin Vol. 2. This is
-  the soundtrack for the 3rd season of the show, which is odd, but the first volume
-  contained the OST for the first two seasons.'
+  - Music
+date: 2021-02-18T20:07:48-08:00
+description: "Today I received a new vinyl record: Babylon Berlin Vol. 2. This is the soundtrack for the 3rd season of the show, which is odd, but the first volume contained the OST for the first two seasons."
 draft: false
-images:
-- https://i.imgur.com/BYvu8p7.jpg
-reddit: https://www.reddit.com/r/geekosaur/comments/ln6nx8/new_record_babylon_berlin_vol_2_season_3_ost/
 slug: new-record-babylon-berlin-vol2
 tags:
-- recordCollection
-title: 'New Record: Babylon Berlin Vol. 2 (Season 3 OST)'
-tweetId: "1362619825898487810"
+  - recordCollection
+title: "New Record: Babylon Berlin Vol. 2 (Season 3 OST)"
 ---
 
 Today I received a new vinyl record: Babylon Berlin Vol. 2. This is the soundtrack for the 3rd season of the show, which is odd, but the first volume contained the OST for the first two seasons.

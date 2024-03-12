@@ -1,14 +1,13 @@
 ---
 title: "Book Review: The Word Is Murder by Anthony Horowitz"
-description: "After that excellent first impression on an exceptional mystery novel, of course I was going to get another Horowitz novel. So I got The Word Is Murder, the first book on the Detective Daniel Hawthorne series, published in 2017."
-slug: "the_word_is_murder_book_review"
+description: After that excellent first impression on an exceptional mystery novel, of course I was going to get another Horowitz novel. So I got The Word Is Murder, the first book on the Detective Daniel Hawthorne series, published in 2017.
+slug: the_word_is_murder_book_review
 date: 2021-01-02T20:10:48-08:00
 draft: false
-tags: ["fiction", "review"]
-images: ["https://i.imgur.com/5vePw9f.jpeg"]
-thumbnail: "https://i.imgur.com/5vePw9f.jpeg"
-reddit: https://www.reddit.com/r/geekosaur/comments/kpdo4c/book_review_the_word_is_murder_by_anthony/
-tweetId: "1345588526922883072"
+tags:
+  - fiction
+  - review
+thumbnail:
 ---
 
 Since I was very young, I've always been a big fan of good mysteries. I still remember when I first got The Hound Of The Baskervilles, by Arthur Conan Doyle. It was a delight!

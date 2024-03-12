@@ -1,25 +1,18 @@
 ---
 categories:
-- books
-date: "2021-05-03T21:51:17-07:00"
-description: 'One of my goals for this year is to read more: books, manga, articles,
-  poetry, anything. This is part of something that gets more and more important to
-  me every year as I get older, which is spending time on things that are worth my
-  time. '
+  - books
+date: 2021-05-03T21:51:17-07:00
+description: "One of my goals for this year is to read more: books, manga, articles, poetry, anything. This is part of something that gets more and more important to me every year as I get older, which is spending time on things that are worth my time. "
 draft: false
 images:
-- https://i.imgur.com/fSWOWrb.jpg
-- https://i.imgur.com/dNDIcVG.png
-reddit: https://www.reddit.com/r/geekosaur/comments/n4gfht/books_of_2021_so_far_april_2021/
+  - https://i.imgur.com/fSWOWrb.jpg
+  - https://i.imgur.com/dNDIcVG.png
 slug: books-read-until-2021-april
 tags:
-- reading
-thumbnail: https://i.imgur.com/fSWOWrb.jpg
+  - reading
 title: Books of 2021 So Far (April 2021)
 toc: false
-tweetId: "1389444886223495171"
 ---
-
 One of my goals for this year is to read more: books, manga, articles, poetry, anything. This is part of something that gets more and more important to me every year as I get older, which is spending time on things that are worth my time. 
 
 I can also play games and watch great shows and movies, of course, but I think reading is a great way for me to focus, and be away from the computer and smartphone.

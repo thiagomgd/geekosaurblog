@@ -1,17 +1,12 @@
 ---
-date: "2021-09-19T14:44:50-07:00"
-description: I've been traking how much I'm reading, and below are my hourly totals
-  for each month. So far it's been a rollercoaster, but I hope those last few months
-  of 2021 are going to be better.
+date: 2021-09-19T14:44:50-07:00
+description: I've been traking how much I'm reading, and below are my hourly totals for each month. So far it's been a rollercoaster, but I hope those last few months of 2021 are going to be better.
 draft: false
-images: []
-reddit: null
 slug: reading-stats-so-far-sept2021
 tags:
-- readingStats
-title: 'Reading Stats So Far: September 2021'
+  - readingStats
+title: "Reading Stats So Far: September 2021"
 toc: false
-tweetId: "1439709855971831809"
 ---
 
 I've been traking how much I'm reading, and below are my hourly totals for each month. So far it's been a rollercoaster, but I hope those last few months of 2021 are going to be better.

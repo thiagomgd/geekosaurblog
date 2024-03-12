@@ -1,23 +1,15 @@
 ---
 categories:
-- Personal
-date: "2021-05-24T10:52:54-07:00"
-description: I realized I also never talked about this title blog's domain, my previous
-  ones, and my complete incompetency at coming up with a decent name and sticking
-  with it.
+  - Personal
+date: 2021-05-24T10:52:54-07:00
+description: I realized I also never talked about this title blog's domain, my previous ones, and my complete incompetency at coming up with a decent name and sticking with it.
 draft: false
-images:
-- /img/tumblr-adventuresingoodtaste.png
-- /img/tumblr-list.png
-- https://i.imgur.com/gLoMtU7.gif
-reddit: https://www.reddit.com/r/geekosaur/comments/nk4h97/my_old_blogs_names_part_1/
 slug: my-old-blogs-names-part-1
 tags:
-- personal
-- nostalgia
+  - personal
+  - nostalgia
 title: My Old Blogs Names Part 1
 toc: false
-tweetId: "1396893218428526594"
 ---
 
 In the [latest Otakusphere](https://searchofno9.wordpress.com/2021/05/23/the-otakusphere-good-romances-bad-detectives-and-realism/), Iniksbane mentions how [Moyatorium](https://moyatorium.wordpress.com/) is their favorite name for a blog, which I kinda have to agree. Compared to all blog names I ever had, it's on a whole other level of coolness.

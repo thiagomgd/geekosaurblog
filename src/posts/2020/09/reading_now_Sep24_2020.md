@@ -1,20 +1,11 @@
 ---
-date: "2020-09-24T10:30:23-07:00"
-description: 'Time to talk about book I''m reading. On thing that I''m trying to do
-  is have a few ''active'' books, so I can have a change. Also, I''m trying to split
-  my reads in 3 categories: fiction, non-fiction, and learning. The list below is
-  a good example of that.'
+date: 2020-09-24T10:30:23-07:00
+description: "Time to talk about book I'm reading. On thing that I'm trying to do is have a few 'active' books, so I can have a change. Also, I'm trying to split my reads in 3 categories: fiction, non-fiction, and learning. The list below is a good example of that."
 draft: false
-images:
-- https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489415716l/12868761._SY475_.jpg
-- https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595880686l/53504751._SY475_.jpg
-- https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542183307l/42776244._SY475_.jpg
-reddit: https://www.reddit.com/r/geekosaur/comments/iz2ion/books_im_reading_now_sept_24_2020/
 tags:
-- books
-- reading
+  - books
+  - reading
 title: Books I'm Reading Now [Sept. 24, 2020]
-tweetId: "1309199184160010240"
 ---
 
 Time to talk about book I'm reading. On thing that I'm trying to do is have a few 'active' books, so I can have a change. Also, I'm trying to split my reads in 3 categories: fiction, non-fiction, and learning. The list below is a good example of that.

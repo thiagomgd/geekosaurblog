@@ -1,14 +1,12 @@
 ---
-thumbnail: "http://i.imgur.com/DIuHP4G.jpg"
 draft: false
 date: 2016-03-24T11:22:00-03:00
-description: "This is a duology that is not that famous, but definitely worth reading."
-images: ["http://i.imgur.com/DIuHP4G.jpg", "http://i.imgur.com/zWLQqq6.gif", "http://i.imgur.com/zezw1Tn.jpg"]
-tags: ["books", "review"]
+description: This is a duology that is not that famous, but definitely worth reading.
+tags:
+  - books
+  - review
 title: "Review: The Assassin's Curse Duology"
-slug: "review-assassins-curse-duology"
-reddit: https://www.reddit.com/r/geekosaur/comments/hiyg24/review_the_assassins_curse_duology/
-tweetId: "1370915986468052992"
+slug: review-assassins-curse-duology
 ---
 
 This is a book series (duology) that is not that famous (I think) but worth reading.

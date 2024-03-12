@@ -1,15 +1,12 @@
 ---
 date: 2021-11-04T04:58:13.000Z
-description: ''
+description: ""
 draft: true
-images: []
-lead: ''
-reddit: ''
-series: ''
+lead: ""
+series: ""
 slug: gods-of-jade-and-shadow-silva-moreno-garcia
-tags: []
-thumbnail: ''
+tags: 
+thumbnail: ""
 title: gods-of-jade-and-shadow-silva-moreno-garcia
 toc: false
-tweetId: ''
 ---

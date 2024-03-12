@@ -1,19 +1,13 @@
 ---
-date: "2021-03-27T21:14:44-07:00"
-description: This week I'm here with some internet outrage agains Seven Seas, some
-  cool articles on the anime blogosphere, and what I've been watching and playing!
+date: 2021-03-27T21:14:44-07:00
+description: This week I'm here with some internet outrage agains Seven Seas, some cool articles on the anime blogosphere, and what I've been watching and playing!
 draft: false
-images:
-- https://i.imgur.com/QCsXa4Y.jpg
-reddit: https://www.reddit.com/r/geekosaur/comments/meue5n/geekosaur_weekly_9_light_novel_censorship_outrage/
 slug: geekosaur-weekly-9-seven-seas-light-novel-censorship
 tags:
-- lightNovels
-- anime
-title: 'Geekosaur News #9: Light Novel Censorship, Outrage Marketing and a Great Anime
-  Fight'
+  - lightNovels
+  - anime
+title: "Geekosaur News #9: Light Novel Censorship, Outrage Marketing and a Great Anime Fight"
 toc: true
-tweetId: "1376027726369329153"
 ---
 
 This week I'm here with some internet outrage agains Seven Seas, some cool articles on the anime blogosphere, and what I've been watching and playing!

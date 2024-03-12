@@ -1,16 +1,12 @@
 ---
 date: 2021-11-04T05:02:40.000Z
-description: ''
+description: ""
 draft: true
-images: []
-lead: ''
-reddit: ''
-series: ''
+lead: ""
+series: ""
 slug: magpie-murders-anthony-horowitz
-tags: []
-thumbnail: ''
+tags: 
+thumbnail: ""
 title: magpie-murders-anthony-horowitz
 toc: false
-tweetId: ''
-
 ---

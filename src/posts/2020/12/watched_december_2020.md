@@ -3,11 +3,9 @@ date: 2020-12-29T23:13:52-08:00
 description: The month (and the year) is almost over, so I though I would share what I watched during December.
 draft: false
 thumbnail: 
-reddit: https://www.reddit.com/r/geekosaur/comments/knkr93/watched_december_2020_geekosaur/
 tags:
   - watching
 title: "Watched: December 2020"
-tweetId: "1344532396364894208"
 ---
 
 The month (and the year) is almost over, so I though I would share what I watched during December. Hopefully I'll remember to do that every month :)

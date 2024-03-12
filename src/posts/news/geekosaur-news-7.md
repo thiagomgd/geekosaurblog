@@ -1,17 +1,11 @@
 ---
-date: "2021-03-13T15:20:48-08:00"
-description: Sometimes I like to joke doing literal translations of band names and
-  specially, song lyrics, in my head. That has a weird effect as, even though I understand
-  the lyrics in English, thinking about then in Portuguese makes everything sound
-  weird, dumb, or just odd.
+date: 2021-03-13T15:20:48-08:00
+description: Sometimes I like to joke doing literal translations of band names and specially, song lyrics, in my head. That has a weird effect as, even though I understand the lyrics in English, thinking about then in Portuguese makes everything sound weird, dumb, or just odd.
 draft: false
-thumbnail: https://i.imgur.com/7W4NOvX.jpg
-reddit: https://www.reddit.com/r/geekosaur/comments/m4ikep/geekosaur_weekly_7_band_names_and_song_lyrics_in/
 slug: geekosaur-weekly-7
-tags:
-title: 'Geekosaur News #7: Band Names And Song Lyrics in My Native Language'
+tags: 
+title: "Geekosaur News #7: Band Names And Song Lyrics in My Native Language"
 toc: true
-tweetId: "1370882386188111877"
 ---
 
 This week I've been listening to Daft Punk a bit. They have recently disbanded, so I think it makes sense to feature them on an issue here!

@@ -1,16 +1,12 @@
 ---
-date: "2020-06-05T09:20:53-03:00"
+date: 2020-06-05T09:20:53-03:00
 description: What movies and series I've watched this week
 draft: false
-images:
-- https://i.imgur.com/DLS51Q9.jpg
-reddit: https://www.reddit.com/r/geekosaur/comments/gxeb36/watched_this_week_jun_5_2020/
 tags:
-- watching
-- movies
-- tv
+  - watching
+  - movies
+  - tv
 title: Watched This Week [Jun 5, 2020]
-tweetId: "1269034531123847168"
 ---
 
 As I mentioned in the last post, my parents and I decided to watch more movies before starting a new series. Here are the movies I've watched with them, along with a couple series we watched.

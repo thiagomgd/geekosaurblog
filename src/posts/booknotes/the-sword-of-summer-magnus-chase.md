@@ -1,32 +1,27 @@
 ---
-banner: 'http://i.imgur.com/CK7DA3F.jpg'
+banner: http://i.imgur.com/CK7DA3F.jpg
 draft: true
-date: '2016-08-25T09:37:33-03:00'
-description: >-
-  The Sword of Summer is a great start of one of Rick Riordan's new book series,
-  Magnus Chase and the Gods of Asgard.
-thumbnail: http://i.imgur.com/CK7DA3F.jpg
+date: 2016-08-25T09:37:33-03:00
+description: The Sword of Summer is a great start of one of Rick Riordan's new book series, Magnus Chase and the Gods of Asgard.
+thumbnail: 
 images:
-  - 'http://i.imgur.com/CK7DA3F.jpg'
   - /post_images/SwordOfSummerQuote.jpg
-menu: ''
+menu: ""
 posttype: Review
 reviewauthor: Rick Riordan
-reviewauthorurl: 'http://rickriordan.com/'
-reviewbody: >-
-  The Sword of Summer is a great start of one of Rick Riordan's new book series,
-  Magnus Chase and the Gods of Asgard.
-reviewisbn: '9781423160915'
-reviewitemname: 'The Sword of Summer (Magnus Chase and the Gods of Asgard #1)'
+reviewauthorurl: http://rickriordan.com/
+reviewbody: The Sword of Summer is a great start of one of Rick Riordan's new book series, Magnus Chase and the Gods of Asgard.
+reviewisbn: "9781423160915"
+reviewitemname: "The Sword of Summer (Magnus Chase and the Gods of Asgard #1)"
 reviewitemtype: Book
-reviewrating: '4.75'
+reviewrating: "4.75"
 reviewsameas:
-  - 'https://www.goodreads.com/book/show/15724396-the-sword-of-summer'
+  - https://www.goodreads.com/book/show/15724396-the-sword-of-summer
 tags:
   - books
   - review
   - middleGrade
-title: 'Review: The Sword of Summer (Magnus Chase #1)'
+title: "Review: The Sword of Summer (Magnus Chase #1)"
 slug: review-the-sword-of-summer-magnus-chase
 url: posts/review-the-sword-of-summer-magnus-chase
 ---

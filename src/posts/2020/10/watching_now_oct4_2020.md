@@ -1,18 +1,14 @@
 ---
 aliases:
-- /post/fall_2020_anime/
-- /post/20/11/fall_2020_anime/
-date: "2020-10-05T13:10:24-07:00"
+  - /post/fall_2020_anime/
+  - /post/20/11/fall_2020_anime/
+date: 2020-10-05T13:10:24-07:00
 description: What I've been watching lately, including korean dramas and cartoons.
 draft: false
-images:
-- https://i.imgur.com/U9lZXw5.jpg
-reddit: https://www.reddit.com/r/geekosaur/comments/j5s1ae/what_im_watching_oct_4_2020/
 tags:
-- tv
-- watching
+  - tv
+  - watching
 title: What I'm Watching [Oct. 4, 2020]
-tweetId: "1313215829757091840"
 ---
 
 So, after a post on what I'm reading, let's talk a bit about TV!

@@ -1,15 +1,14 @@
 ---
-title: "Which Foreign Language Shows And Movies Do You Like?"
-slug: "nonenglish-shows-movies"
-description: "Starting a series of posts dedicated to foreign language films and TV shows."
+title: Which Foreign Language Shows And Movies Do You Like?
+slug: nonenglish-shows-movies
+description: Starting a series of posts dedicated to foreign language films and TV shows.
 date: 2020-12-13T21:04:57-08:00
 draft: false
-tags: ["foreign"]
-categories: ["Movies & TV"]
-series: "Foreign Language"
-images: ["https://i.imgur.com/MzfQL2Y.jpg"]
-reddit: https://www.reddit.com/r/geekosaur/comments/kcrjpo/which_foreign_language_shows_and_movies_do_you/
-tweetId: "1338355311472623620"
+tags:
+  - foreign
+categories:
+  - Movies & TV
+series: Foreign Language
 ---
 
 I've always liked to consume different types of content. Not only different medias and genres, but also different origins. Recently I have been watching some great non-English (and non-Asian) TV shows and movies. Because of that, I decided to start a series of posts sharing some great recommendations, most of those from Europe.

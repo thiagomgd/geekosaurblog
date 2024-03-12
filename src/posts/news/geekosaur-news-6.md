@@ -1,15 +1,11 @@
 ---
-date: "2021-03-06T16:59:15-08:00"
-description: February is now ended, and March is here. Definitely looking forward
-  to a better weather, warmer and with more sunlight!
+date: 2021-03-06T16:59:15-08:00
+description: February is now ended, and March is here. Definitely looking forward to a better weather, warmer and with more sunlight!
 draft: false
-thumbnail: https://i.imgur.com/0QZnA5N.jpg
-reddit: https://www.reddit.com/r/geekosaur/comments/lzfwl9/geekosaur_weekly_6_dont_overthink_just_do_it/
 slug: geekosaur-weekly-6
-tags:
-title: 'Geekosaur News #6: Don''t Overthink, Just Do It!'
+tags: 
+title: "Geekosaur News #6: Don't Overthink, Just Do It!"
 toc: true
-tweetId: "1368368851855896577"
 ---
 
 February is now ended, and March is here. Definitely looking forward to a better weather, warmer and with more sunlight!

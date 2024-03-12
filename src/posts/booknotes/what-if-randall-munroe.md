@@ -1,15 +1,12 @@
 ---
 date: 2021-11-04T05:00:36.000Z
-description: ''
+description: ""
 draft: true
-images: []
-lead: ''
-reddit: ''
-series: ''
+lead: ""
+series: ""
 slug: what-if-randall-munroe
-tags: []
-thumbnail: ''
+tags: 
+thumbnail: ""
 title: what-if-randall-munroe
 toc: false
-tweetId: ''
 ---
