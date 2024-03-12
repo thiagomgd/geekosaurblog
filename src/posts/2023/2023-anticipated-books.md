@@ -66,5 +66,5 @@ The only sad thing is that the best cover is for the UK release, and not US-Cana
 
 _The Archive Undying_: The premise reads: "_War machines and AI gods run amok in **The Archive Undying**_".  I guess I _had to_ add it to my potential TBR?
 
-[embed](https://us.macmillan.com/books/9781250821546/the-archive-undying)
+https://us.macmillan.com/books/9781250821546/the-archive-undying
 
