@@ -1,30 +1,20 @@
 ---
 aliases:
-- /post/new_ebooks_nov2020/
-- /post/20/11/new_ebooks_nov2020/
-date: "2020-11-03T19:18:19-08:00"
-description: On the past few months I've got some sweet new eBooks on my Kindle, further
-  increasing the size of my ever-growing TBR list. But, who can resist a sweet deal,
-  right?
+  - /post/new_ebooks_nov2020/
+  - /post/20/11/new_ebooks_nov2020/
+date: 2020-11-03T19:18:19-08:00
+description: On the past few months I've got some sweet new eBooks on my Kindle, further increasing the size of my ever-growing TBR list. But, who can resist a sweet deal, right?
 draft: false
-images:
-- https://i.imgur.com/CQoSeqX.jpg
-- https://m.media-amazon.com/images/I/51FIj4YAurL.jpg
-reddit: https://www.reddit.com/r/geekosaur/comments/jnqmel/new_fiction_books_i_got_recently_nov_2020/
 slug: new_ebooks_nov2020
 tags:
-- books
-- fiction
+  - books
+  - fiction
 title: New Fiction Books I Got Recently [Nov. 2020]
 toc: true
-tweetId: "1323853421502435328"
 ---
-
 On the past few months I've got some sweet new eBooks on my Kindle, further increasing the size of my ever-growing TBR list. But, who can resist a sweet deal, right?
 
 Below I'm sharing some of the books I've acquired recently. It's not everything, as some are free classic books, and some just not that interesting. Also, the list is still a bit big, so I left the non-fiction reads for a separate post. I guess I need to stop buying books for a while. Anyway, let's check it out!
-
-{% figure "https://i.imgur.com/CQoSeqX.jpg", "Photo by [Aliis Sinisalu](https://unsplash.com/@aliissinisalu?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)" %}
 
 <!--more-->
 
