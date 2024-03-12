@@ -1,24 +1,22 @@
 ---
 categories:
-- Anime & Manga
-date: "2020-05-29T18:41:53-03:00"
-description: Two weeks ago I started reading Blck Clover, after catching up with Fire
-  Force. I was curious as many people on my Twitter feed are pasionate about it. And
-  they were not wrong!
+  - Anime & Manga
+date: 2020-05-29T18:41:53-03:00
+description: Two weeks ago I started reading Blck Clover, after catching up with Fire Force. I was curious as many people on my Twitter feed are pasionate about it. And they were not wrong!
 draft: false
 images:
-- https://i.imgur.com/eiSHNOw.png
-- https://i.imgur.com/gHCx9E8.png
-- https://i.imgur.com/G2NBcTy.jpg
-thumbnail: https://i.imgur.com/eiSHNOw.png
+  - https://i.imgur.com/eiSHNOw.png
+  - https://i.imgur.com/gHCx9E8.png
+  - https://i.imgur.com/G2NBcTy.jpg
+thumbnail: 
 reddit: https://www.reddit.com/r/geekosaur/comments/gzahqi/black_clover_friday_reads_may_29_2020/
 tags:
-- manga
-- reading
-title: 'Black Clover [Friday Reads: May 29, 2020]'
+  - manga
+  - reading
+title: "Black Clover [Friday Reads: May 29, 2020]"
 ---
 
-As I mentioned in another post, two weeks ago I started reading Blck Clover, after catching up with Fire Force. I was curious as many people on my Twitter feed are pasionate about it. And they were not wrong!
+As I mentioned in another post, two weeks ago I started reading Black Clover, after catching up with Fire Force. I was curious as many people on my Twitter feed are passionate about it. And they were not wrong!
 
 ![](https://i.imgur.com/eiSHNOw.png)
 
