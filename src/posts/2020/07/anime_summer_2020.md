@@ -1,20 +1,19 @@
 ---
 categories:
-- Anime & Manga
-date: "2020-07-31T13:58:51-03:00"
-description: We are a few weeks into summer 2020 season, and it's time to talk about
-  which anime I'm watching this time. Let's see!
+  - Anime & Manga
+date: 2020-07-31T13:58:51-03:00
+description: We are a few weeks into summer 2020 season, and it's time to talk about which anime I'm watching this time. Let's see!
 draft: false
 images:
-- https://i.imgur.com/ZsMJ8Tk.jpg
-- https://i.imgur.com/7NY5v3d.png
-- https://i.imgur.com/YISrc8a.png
-thumbnail: https://i.imgur.com/ZsMJ8Tk.jpg
+  - https://i.imgur.com/ZsMJ8Tk.jpg
+  - https://i.imgur.com/7NY5v3d.png
+  - https://i.imgur.com/YISrc8a.png
+thumbnail: 
 reddit: https://www.reddit.com/r/geekosaur/comments/i1bd82/anime_im_watching_this_season/
 slug: anime_summer_2020
 tags:
-- anime
-- watching
+  - anime
+  - watching
 title: Anime I'm Watching This Season
 tweetId: "1289252748832182273"
 ---
