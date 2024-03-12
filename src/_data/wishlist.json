@@ -880,17 +880,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Joust",
-        "price": 10.99,
-        "cover": "https://cdn.kobo.com/book-images/6ff3786d-3a1c-4908-b2dc-fef18b6682a5/353/569/90/False/joust-3.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/joust-3",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Mercedes Lackey",
-        "dealDescription": ""
-    },
-    {
         "title": "Re:ZERO -Starting Life in Another World-, Vol. 1 (light novel)",
         "price": 10.99,
         "cover": "https://cdn.kobo.com/book-images/f98d4bdd-9aee-463a-bee3-983205a7d99a/353/569/90/False/re-zero-starting-life-in-another-world-vol-1-light-novel-2.jpg",
@@ -1284,6 +1273,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "Emily Lloyd-Jones",
+        "dealDescription": ""
+    },
+    {
+        "title": "Joust",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/6ff3786d-3a1c-4908-b2dc-fef18b6682a5/353/569/90/False/joust-3.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/joust-3",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Mercedes Lackey",
         "dealDescription": ""
     },
     {
