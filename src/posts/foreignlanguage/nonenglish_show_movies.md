@@ -19,4 +19,4 @@ Consuming content from different cultures is great. Even when the story is simil
 
 I know that many readers here like anime, and some will also watch Korean or Chinese dramas. But that doesn't count as variety if you only watch TV from 3 different countries, right?
 
-So, during the next few weeks I'll be posting some recommendations on TV shows and movies that I enjoyed. If you have anything to recommend, please feel free to send it on [Twitter](https://twitter.com/falconsensei) or [Reddit](https://www.reddit.com/r/geekosaur/).
+So, during the next few weeks I'll be posting some recommendations on TV shows and movies that I enjoyed. If you have anything to recommend, please feel free to send it!

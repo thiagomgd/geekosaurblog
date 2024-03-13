@@ -15,7 +15,7 @@ thumbnail: /img/movie-journal-2024-09-comedy-of-terrors.png
 
 **Comedy of Terrors (1964)**: this plot!!! It was something I would imagine seeing in a manga/anime too. It was funny and refreshing. Nice to watch Vincent Price and Peter Lorre together (with them, I also recommend The Raven).
 
-![And there's a cat!](movie-journal-2024-09-cat.png)
+![And there's a cat!](img/movie-journal-2024-09-cat.png)
 
 *I discovered the [Cats On Film](https://catsonfilm.net/2013/01/20/cat-of-the-day-092/) and [Cinemacats](https://cinemacats.com/the-comedy-of-terrors-1963/) blogs.*
 
