@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2022/eleventy-notion-notes-section.md",
+                "file": "posts/2022/spy-x-family-part-2-episode-13-discussion.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "m9DZZoh",
+                "query": "1025838048174420218",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2022/eleventy-notion-notes-section.md",
+                "file": "posts/2022/spy-x-family-part-2-episode-13-discussion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2022/eleventy-notion-notes-section.md",
+                "file": "posts/2022/spy-x-family-part-2-episode-13-discussion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2022/eleventy-notion-notes-section.md"
+                "file": "posts/2022/spy-x-family-part-2-episode-13-discussion.md"
               }
             }
           }
@@ -155,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45b779cc93c0038d",
+  "active": "bf2dd79b8e47790c",
   "lastOpenFiles": [
+    "posts/2022/eleventy-notion-notes-section.md",
     "posts/news/geekosaur-news-20.md",
     "posts/news/geekosaur-news-23.md",
     "posts/2020/10/im_playing_animal_crossing.md",
@@ -201,7 +202,6 @@
     "_data/books copy.js",
     "posts/thoughts/thoughts.json",
     "posts/thoughts/news.json",
-    "posts/thoughts/geekosaur-news-36.md",
     "posts/thoughts"
   ]
 }
