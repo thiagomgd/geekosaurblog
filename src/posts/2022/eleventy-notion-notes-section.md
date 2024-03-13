@@ -207,8 +207,6 @@ I created a `notes` folder with 2 files: `notes.md` and `note.md`. One for the w
 
 For the `notes.md`[^notes] file, this is how I show everything:
 
-![](https://i.imgur.com/m9DZZoh.png)
-
 _update: currently there's a bug with `eleventyComputed.date`. You need to use `created_date`, and use `{{ page.data.created_date or page.date }}` on the template_
 
 `anyEmbed` [^shortcodes] is my shortcode to embed "anything". Basically, it checks the url, and then call the correct shortcode. For now it's only Youtube and Reddit, but I'll add Twitter, and also a basic *unfurl* that render a card/preview if it's a link I don't have an embed to. _Edit: I added unfurl and moved anyEmbed to asyncShortcodes_.
