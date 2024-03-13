@@ -18,8 +18,6 @@ So, I decided to make a way for me to write my thoughts directly on Notion (noti
 
 This part is basically creating a new database on Notion so I can use it to write the posts on.
 
-![Notion database and fields](https://i.imgur.com/mM5djrF.png)
-
 As columns you have Title (renamed from Name), Tags, Images, Embed, Format and Created. Tags are not yet used to filter on the blog, but at least what I have is already organized. Format is not yet used, but I guess in the future I might want to do something like some Tumblr templates and have different layouts for gallery and music for example. Created is a calculated field that is just when the note was created. This is because I couldn't find how to filter by *created_time*, which is the internal value. Then I just need to write the notes normally in each page, since I load then as markdown later.
 
 ## Part 2 - Get Notes On Eleventy
