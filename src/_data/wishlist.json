@@ -55,6 +55,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Earthlings",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/039c3e89-b4e2-453f-9a95-abe17ca39fde/353/569/90/False/earthlings-8.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/earthlings-8",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Sayaka Murata",
+        "dealDescription": ""
+    },
+    {
         "title": "Front Desk (Front Desk #1) (Scholastic Gold)",
         "price": 2.99,
         "cover": "https://cdn.kobo.com/book-images/8579b181-5763-4c1b-97c6-a189e1045f2b/353/569/90/False/front-desk-front-desk-1-scholastic-gold.jpg",
@@ -85,6 +96,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "Jo\u00ebl Dicker",
+        "dealDescription": ""
+    },
+    {
+        "title": "Earthlings",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/039c3e89-b4e2-453f-9a95-abe17ca39fde/353/569/90/False/earthlings-8.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/earthlings-3",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Sayaka Murata",
         "dealDescription": ""
     },
     {
@@ -2387,17 +2409,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Earthlings",
-        "price": 17.99,
-        "cover": "https://cdn.kobo.com/book-images/039c3e89-b4e2-453f-9a95-abe17ca39fde/353/569/90/False/earthlings-8.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/earthlings-8",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "Sayaka Murata",
-        "dealDescription": ""
-    },
-    {
         "title": "Extremely Online",
         "price": 17.99,
         "cover": "https://cdn.kobo.com/book-images/539991bb-a090-40b5-9ad7-ee6b9c49b702/353/569/90/False/extremely-online.jpg",
@@ -2450,17 +2461,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Chloe Gong",
-        "dealDescription": ""
-    },
-    {
-        "title": "Earthlings",
-        "price": 17.99,
-        "cover": "https://cdn.kobo.com/book-images/039c3e89-b4e2-453f-9a95-abe17ca39fde/353/569/90/False/earthlings-8.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/earthlings-3",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "Sayaka Murata",
         "dealDescription": ""
     },
     {

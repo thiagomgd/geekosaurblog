@@ -1,19 +1,14 @@
 ---
 categories:
-- Personal
-date: "2017-06-06T13:49:15-03:00"
-description: I'm not a big fan of taking lots of pictures, and I don't like to ask
-  people to take their photos.
+  - Personal
+date: 2017-06-06T13:49:15-03:00
+description: I'm not a big fan of taking lots of pictures, and I don't like to ask people to take their photos.
 draft: false
-images:
-- http://i.imgur.com/TVZMzd1.jpg
-- http://i.imgur.com/s2gyYuq.png
-reddit: https://www.reddit.com/r/geekosaur/comments/hi537z/what_cosplays_do_you_like_to_see_at_conventions/
 slug: cosplays-at-conventions-taking-pictures
 tags:
-- personal
-- anime
-- cosplay
+  - personal
+  - anime
+  - cosplay
 title: What Cosplays Do You Like To See At Conventions?
 ---
 

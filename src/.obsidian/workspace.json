@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2022/spy-x-family-part-2-episode-13-discussion.md",
+                "file": "posts/2017/06/cosplays-at-cons.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "1025838048174420218",
+                "query": "TVZMzd1",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2022/spy-x-family-part-2-episode-13-discussion.md",
+                "file": "posts/2017/06/cosplays-at-cons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2022/spy-x-family-part-2-episode-13-discussion.md",
+                "file": "posts/2017/06/cosplays-at-cons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2022/spy-x-family-part-2-episode-13-discussion.md"
+                "file": "posts/2017/06/cosplays-at-cons.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "bf2dd79b8e47790c",
   "lastOpenFiles": [
+    "posts/2022/spy-x-family-part-2-episode-13-discussion.md",
     "posts/2022/eleventy-notion-notes-section.md",
     "posts/news/geekosaur-news-20.md",
     "posts/news/geekosaur-news-23.md",
@@ -197,7 +198,6 @@
     "posts/musiccorner/music-monday-1.md",
     "posts/2023/book-finds-nov3-2023.md",
     "posts/musiccorner/music-corner-21.md",
-    "posts/musiccorner/music-corner-20 copy.md",
     "_data/manga.js",
     "_data/books copy.js",
     "posts/thoughts/thoughts.json",

@@ -33,21 +33,26 @@ async function imageShortcode(src, alt, options = {}) {
     throw new Error(`Missing \`alt\` on myImage from: ${src}`);
   }
 
-  const data = await optimizeImage(src);
+  try {
+    const data = await optimizeImage(src);
 
-  // console.debug(src, data);
+    // console.debug(src, data);
 
-  const bridgyClass = options.shareBridgy ? "u-photo" : "";
-  const isVerticalClassname =
-    !options["novertical"] && isVertical(data.width, data.height)
-      ? "vertical"
-      : "";
-  let className = "";
-  if (bridgyClass || isVerticalClassname) {
-    className = `class="${bridgyClass} ${isVerticalClassname}"`;
+    const bridgyClass = options.shareBridgy ? "u-photo" : "";
+    const isVerticalClassname =
+      !options["novertical"] && isVertical(data.width, data.height)
+        ? "vertical"
+        : "";
+    let className = "";
+    if (bridgyClass || isVerticalClassname) {
+      className = `class="${bridgyClass} ${isVerticalClassname}"`;
+    }
+
+    return `<img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" ${className} loading="lazy" decoding="async">`;
+  } catch (error) {
+    console.log("ERROR ON IMAGESHORTCODE:", error);
+    return "";
   }
-
-  return `<img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" ${className} loading="lazy" decoding="async">`;
 }
 
 function uuidv4() {
@@ -80,6 +85,9 @@ async function figure(image, caption = "", className = "", alt = "") {
   const imgOptions =
     className && className === "u-photo" ? { shareBridgy: true } : {};
   const imgTag = await imageShortcode(image, alt, imgOptions);
+  if (!imgTag) {
+    return "";
+  }
   return `<figure${classMarkup}>${imgTag}${captionMarkup}</figure>`;
 }
 
@@ -182,7 +190,7 @@ const unfurl = async (url) => {
       {
         duration: "8w",
         type: "json",
-      }
+      },
     );
 
     return template(metadata.data);
