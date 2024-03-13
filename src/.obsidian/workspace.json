@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2023/2023-anticipated-books.md",
+                "file": "posts/news/geekosaur-news-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "the-arc",
+                "query": "FalconSensei/status",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2023/2023-anticipated-books.md",
+                "file": "posts/news/geekosaur-news-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2023/2023-anticipated-books.md",
+                "file": "posts/news/geekosaur-news-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2023/2023-anticipated-books.md"
+                "file": "posts/news/geekosaur-news-20.md"
               }
             }
           }
@@ -157,6 +157,10 @@
   },
   "active": "bf2dd79b8e47790c",
   "lastOpenFiles": [
+    "posts/news/geekosaur-news-23.md",
+    "posts/2020/10/im_playing_animal_crossing.md",
+    "posts/2021/02/new-fiction-books-feb-2021.md",
+    "posts/2023/2023-anticipated-books.md",
     "posts/2020/11/new_ebooks_nov2020.md",
     "posts/2020/12/watched_december_2020.md",
     "posts/2020/12/spotify_wrapped_2020.md",
@@ -198,10 +202,6 @@
     "posts/thoughts/news.json",
     "posts/thoughts/geekosaur-news-36.md",
     "posts/thoughts",
-    "posts/Untitled.md",
-    "posts/news/geekosaur-news-36.md",
-    "posts/news/geekosaur-news-35.md",
-    "posts/2023/2023-sept-new-books.md",
-    "posts/2023/2023-anticipated-books-ya.md"
+    "posts/Untitled.md"
   ]
 }

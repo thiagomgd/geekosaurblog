@@ -49,9 +49,6 @@ This is this month's free audible book
 ## Physical
 
 I want to go back to reading more physical books, and those two were a step in that direction: I bought them online at Indigo. My intention was to also buy in other stores (not Amazon) but unfortunately, while we are staying at home, that's not so easy. Amazon is just easier to browse, and my copy of _Gods of Jade and Shadow_ arrived with some marks like someone was writing on top of it. That never happened with Amazon, and all my physical books always arrived in good condition.
-
-[embed](https://twitter.com/FalconSensei/status/1361448953565175808)
-
 ### The Institute (Stephen King) ([Amazon](https://amzn.to/2NzfXQb))
 
 I've never read a Stephen King book, so I decided to give it a try. AND THAT WAS SO GOOD! Binged it in a week.

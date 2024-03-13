@@ -20,7 +20,7 @@ Time for another Geekosaur Weekly, were I share some news, thoughts and random l
 3. For those that don' get the hate on NFTs, there are some short explanations [here](https://twitter.com/emilyhiggs24/status/1471662482758455301). Yeah, it's pretty bad.
 4. There's a nice post on Animated Observations on seasonal anime: [No, You Don’t Have To Watch Everything](https://animatedobservations.com/2021/12/17/no-you-dont-have-to-watch-everything/).
 5. Since I'm on the 3 month Kindle Unlimited trial, I decided to create a bookmarklet to help me see which books on my Amazon wishlist are eligible. [Check it here](https://gist.github.com/thiagomgd/b1c7331cdc04e02ec1b17e9a2c6eb14f).
-6. I'm thinking about possibly migrating this blog from Hugo to Eleventy. Maybe that'll be what I will be doing after I'm back home mid-January ([tweet](https://twitter.com/FalconSensei/status/1471926864746795017))
+6. I'm thinking about possibly migrating this blog from Hugo to Eleventy. Maybe that'll be what I will be doing after I'm back home mid-January
 
 ## Best Links And Articles
 
