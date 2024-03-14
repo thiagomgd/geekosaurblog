@@ -1771,6 +1771,28 @@
         "dealDescription": ""
     },
     {
+        "title": "The Strange",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/64248317-6d30-491e-8fed-c6d99b91836d/353/569/90/False/the-strange-5.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-strange-5",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Nathan Ballingrud",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Strange",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/64248317-6d30-491e-8fed-c6d99b91836d/353/569/90/False/the-strange-5.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-strange-5",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Nathan Ballingrud",
+        "dealDescription": ""
+    },
+    {
         "title": "Cold",
         "price": 13.99,
         "cover": "https://cdn.kobo.com/book-images/72b23ac0-605b-4e1e-92ed-d171957be535/353/569/90/False/cold-42.jpg",
@@ -2384,28 +2406,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Brandy Schillace",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Strange",
-        "price": 17.99,
-        "cover": "https://cdn.kobo.com/book-images/2ed3efa1-13b1-4f9b-8591-2da46e055633/353/569/90/False/the-strange-5.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-strange-5",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Nathan Ballingrud",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Strange",
-        "price": 17.99,
-        "cover": "https://cdn.kobo.com/book-images/2ed3efa1-13b1-4f9b-8591-2da46e055633/353/569/90/False/the-strange-5.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-strange-5",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Nathan Ballingrud",
         "dealDescription": ""
     },
     {
