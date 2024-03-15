@@ -55,17 +55,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Earthlings",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/039c3e89-b4e2-453f-9a95-abe17ca39fde/353/569/90/False/earthlings-8.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/earthlings-8",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "Sayaka Murata",
-        "dealDescription": ""
-    },
-    {
         "title": "Front Desk (Front Desk #1) (Scholastic Gold)",
         "price": 2.99,
         "cover": "https://cdn.kobo.com/book-images/8579b181-5763-4c1b-97c6-a189e1045f2b/353/569/90/False/front-desk-front-desk-1-scholastic-gold.jpg",
@@ -85,28 +74,6 @@
         "isPlus": false,
         "isSale": true,
         "author": "Max Gladstone",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Enigma of Room 622",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/f2b04f7b-9169-4a72-b59b-81c6030b715c/353/569/90/False/the-enigma-of-room-622-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-enigma-of-room-622-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Jo\u00ebl Dicker",
-        "dealDescription": ""
-    },
-    {
-        "title": "Earthlings",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/039c3e89-b4e2-453f-9a95-abe17ca39fde/353/569/90/False/earthlings-8.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/earthlings-3",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "Sayaka Murata",
         "dealDescription": ""
     },
     {
@@ -2211,6 +2178,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Enigma of Room 622",
+        "price": 15.99,
+        "cover": "https://cdn.kobo.com/book-images/f2b04f7b-9169-4a72-b59b-81c6030b715c/353/569/90/False/the-enigma-of-room-622-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-enigma-of-room-622-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Jo\u00ebl Dicker",
+        "dealDescription": ""
+    },
+    {
         "title": "Tell Me Pleasant Things about Immortality",
         "price": 15.99,
         "cover": "https://cdn.kobo.com/book-images/1c5d1163-c26e-409e-87b5-63bb69720a91/353/569/90/False/tell-me-pleasant-things-about-immortality.jpg",
@@ -2409,6 +2387,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Earthlings",
+        "price": 17.99,
+        "cover": "https://cdn.kobo.com/book-images/039c3e89-b4e2-453f-9a95-abe17ca39fde/353/569/90/False/earthlings-8.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/earthlings-8",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Sayaka Murata",
+        "dealDescription": ""
+    },
+    {
         "title": "Extremely Online",
         "price": 17.99,
         "cover": "https://cdn.kobo.com/book-images/539991bb-a090-40b5-9ad7-ee6b9c49b702/353/569/90/False/extremely-online.jpg",
@@ -2461,6 +2450,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Chloe Gong",
+        "dealDescription": ""
+    },
+    {
+        "title": "Earthlings",
+        "price": 17.99,
+        "cover": "https://cdn.kobo.com/book-images/039c3e89-b4e2-453f-9a95-abe17ca39fde/353/569/90/False/earthlings-8.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/earthlings-3",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Sayaka Murata",
         "dealDescription": ""
     },
     {
