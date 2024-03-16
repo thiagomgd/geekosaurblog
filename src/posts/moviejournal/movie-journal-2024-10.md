@@ -21,4 +21,4 @@ thumbnail: /img/movie-journal-2024-10-phenomena.png
 
 [embed](https://www.themoviedb.org/movie/29702)
 
-[embed](https://www.themoviedb.org/movie/29702)
+[embed](https://www.themoviedb.org/movie/29161-phenomena)
