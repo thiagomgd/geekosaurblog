@@ -1936,6 +1936,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Nocturne",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/48ccb6f7-92d5-4be1-91bf-f1b8c46bc251/353/569/90/False/nocturne-95.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/nocturne-95",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Alyssa Wees",
+        "dealDescription": ""
+    },
+    {
         "title": "THE MASTER AND MARGARITA",
         "price": 13.99,
         "cover": "https://cdn.kobo.com/book-images/a4a3c078-7afd-4565-b7f2-d1a1e6d44cef/353/569/90/False/the-master-and-margarita-9.jpg",
@@ -2318,17 +2329,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Caitlin Schneiderhan",
-        "dealDescription": ""
-    },
-    {
-        "title": "Nocturne",
-        "price": 16.99,
-        "cover": "https://cdn.kobo.com/book-images/48ccb6f7-92d5-4be1-91bf-f1b8c46bc251/353/569/90/False/nocturne-95.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/nocturne-95",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Alyssa Wees",
         "dealDescription": ""
     },
     {
