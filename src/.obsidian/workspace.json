@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/moviejournal/movie-journal-2024-10.md",
+                "file": "posts/moviejournal/movie-journal-2024-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/moviejournal/movie-journal-2024-10.md",
+                "file": "posts/moviejournal/movie-journal-2024-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/moviejournal/movie-journal-2024-10.md",
+                "file": "posts/moviejournal/movie-journal-2024-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/moviejournal/movie-journal-2024-10.md"
+                "file": "posts/moviejournal/movie-journal-2024-11.md"
               }
             }
           }
@@ -157,6 +157,9 @@
   },
   "active": "bf2dd79b8e47790c",
   "lastOpenFiles": [
+    "img/movie-journal-2024-11-all-the-colors.png",
+    "posts/moviejournal/movie-journal-2024-10.md",
+    "posts/moviejournal/movie-journal-2024-11.md",
     "img/Pasted image 20240131191219.png",
     "img/Pasted image 20240314205703.png",
     "img/movie-journal-2024-10-phenomena.png",
@@ -164,7 +167,6 @@
     "img/Pasted image 20230116173545.png",
     "Pasted image 20240205092933.png",
     "Pasted image 20240205092015.png",
-    "posts/moviejournal/movie-journal-2024-10.md",
     "img/phenomena.gif",
     "img/movie-journal-2024-10.png",
     "posts/2017/06/cosplays-at-cons.md",
@@ -193,11 +195,9 @@
     "currentlyReading/currentlyReading.md",
     "posts/musiccorner/music-corner-24.md",
     "posts/musiccorner/music-corner-23.md",
-    "img/Pasted image 20240131164333.png",
     "posts/2024",
     "_cache/04d1a1998c3066d668c66b481efbefe6da5178ee538afcaacc4d0fde67e71f6a(1).csv",
     "posts/musiccorner/music-corner-22.md",
-    "posts/musiccorner/music-monday-1.md",
     "_data/manga.js",
     "_data/books copy.js",
     "posts/thoughts/thoughts.json",

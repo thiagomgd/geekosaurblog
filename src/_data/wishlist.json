@@ -396,17 +396,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Honeymoon in Hell",
-        "price": 8.99,
-        "cover": "https://cdn.kobo.com/book-images/65d9d6d3-99c5-4ae1-aa5b-71a9427eafa4/353/569/90/False/honeymoon-in-hell-3.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/honeymoon-in-hell-3",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "Fredric Brown",
-        "dealDescription": ""
-    },
-    {
         "title": "The Legend of Podkin One-Ear",
         "price": 8.99,
         "cover": "https://cdn.kobo.com/book-images/12708467-d918-4508-945e-f400b2e098dc/353/569/90/False/the-legend-of-podkin-one-ear.jpg",
@@ -558,6 +547,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Wakame Konbu",
+        "dealDescription": ""
+    },
+    {
+        "title": "Honeymoon in Hell",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/65d9d6d3-99c5-4ae1-aa5b-71a9427eafa4/353/569/90/False/honeymoon-in-hell-3.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/honeymoon-in-hell-3",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Fredric Brown",
         "dealDescription": ""
     },
     {
@@ -2057,6 +2057,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Earthlings",
+        "price": 14.99,
+        "cover": "https://cdn.kobo.com/book-images/039c3e89-b4e2-453f-9a95-abe17ca39fde/353/569/90/False/earthlings-8.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/earthlings-8",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Sayaka Murata",
+        "dealDescription": ""
+    },
+    {
         "title": "Sister, Maiden, Monster",
         "price": 14.99,
         "cover": "https://cdn.kobo.com/book-images/0ed015bb-84f6-4546-95f3-4e21f4f16ffd/353/569/90/False/sister-maiden-monster.jpg",
@@ -2131,6 +2142,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Maurice Broaddus",
+        "dealDescription": ""
+    },
+    {
+        "title": "Earthlings",
+        "price": 14.99,
+        "cover": "https://cdn.kobo.com/book-images/039c3e89-b4e2-453f-9a95-abe17ca39fde/353/569/90/False/earthlings-8.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/earthlings-3",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Sayaka Murata",
         "dealDescription": ""
     },
     {
@@ -2387,17 +2409,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Earthlings",
-        "price": 17.99,
-        "cover": "https://cdn.kobo.com/book-images/039c3e89-b4e2-453f-9a95-abe17ca39fde/353/569/90/False/earthlings-8.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/earthlings-8",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "Sayaka Murata",
-        "dealDescription": ""
-    },
-    {
         "title": "Extremely Online",
         "price": 17.99,
         "cover": "https://cdn.kobo.com/book-images/539991bb-a090-40b5-9ad7-ee6b9c49b702/353/569/90/False/extremely-online.jpg",
@@ -2450,17 +2461,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Chloe Gong",
-        "dealDescription": ""
-    },
-    {
-        "title": "Earthlings",
-        "price": 17.99,
-        "cover": "https://cdn.kobo.com/book-images/039c3e89-b4e2-453f-9a95-abe17ca39fde/353/569/90/False/earthlings-8.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/earthlings-3",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "Sayaka Murata",
         "dealDescription": ""
     },
     {
