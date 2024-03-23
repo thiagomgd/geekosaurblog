@@ -418,17 +418,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The Space Between Us",
-        "price": 8.99,
-        "cover": "https://cdn.kobo.com/book-images/f603b1f6-08f1-4ff8-98b3-6550f46283f9/353/569/90/False/the-space-between-us-30.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-space-between-us-30",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "Doug Johnstone",
-        "dealDescription": ""
-    },
-    {
         "title": "Deephaven",
         "price": 8.99,
         "cover": "https://cdn.kobo.com/book-images/43dc5490-09a8-468e-a5fa-66a99be98234/353/569/90/False/deephaven-mystery-1-deephaven.jpg",
@@ -657,6 +646,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Diana Wynne Jones",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Space Between Us",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/f603b1f6-08f1-4ff8-98b3-6550f46283f9/353/569/90/False/the-space-between-us-30.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-space-between-us-30",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Doug Johnstone",
         "dealDescription": ""
     },
     {
