@@ -1276,17 +1276,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Spellsinger",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/8c216d95-5292-4397-b9b3-2229314b6c88/353/569/90/False/spellsinger-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/spellsinger-1",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "Alan Dean Foster",
-        "dealDescription": ""
-    },
-    {
         "title": "Silver in the Bone",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/d49c13eb-6e31-4af2-a7cc-df429660a484/353/569/90/False/silver-in-the-bone.jpg",
@@ -1603,6 +1592,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Ray Nayler",
+        "dealDescription": ""
+    },
+    {
+        "title": "Spellsinger",
+        "price": 12.99,
+        "cover": "https://cdn.kobo.com/book-images/8c216d95-5292-4397-b9b3-2229314b6c88/353/569/90/False/spellsinger-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/spellsinger-1",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Alan Dean Foster",
         "dealDescription": ""
     },
     {
