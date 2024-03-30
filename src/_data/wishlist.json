@@ -440,17 +440,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The Bleeding",
-        "price": 8.99,
-        "cover": "https://cdn.kobo.com/book-images/11d92055-94fa-435e-b2b4-17a8c7f7ca33/353/569/90/False/the-bleeding-4.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-bleeding-4",
-        "preorder": "",
-        "isPlus": true,
-        "isSale": true,
-        "author": "Johana Gustawsson",
-        "dealDescription": ""
-    },
-    {
         "title": "Deephaven",
         "price": 8.99,
         "cover": "https://cdn.kobo.com/book-images/43dc5490-09a8-468e-a5fa-66a99be98234/353/569/90/False/deephaven-mystery-1-deephaven.jpg",
@@ -712,6 +701,17 @@
         "isPlus": true,
         "isSale": true,
         "author": "Jeremy C. Shipp",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Bleeding",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/11d92055-94fa-435e-b2b4-17a8c7f7ca33/353/569/90/False/the-bleeding-4.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-bleeding-4",
+        "preorder": "",
+        "isPlus": true,
+        "isSale": true,
+        "author": "Johana Gustawsson",
         "dealDescription": ""
     },
     {
