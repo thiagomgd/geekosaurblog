@@ -6,7 +6,7 @@ tags:
   - movies/giallo
   - movies/musical
 description: 
-title: "Movie Journal 2024 Week 11: 3 movies!"
+title: "Movie Journal 2024 Week 13: Some better movies this time"
 toc: false
 thumbnail: /img/movie-journal-2024-13-mrs-wardh.png
 ---
