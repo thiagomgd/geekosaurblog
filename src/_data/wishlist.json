@@ -1,5 +1,27 @@
 [
     {
+        "title": "The Strange",
+        "price": 1.99,
+        "cover": "https://cdn.kobo.com/book-images/d6c1fc95-f2a0-4095-9485-c30285a61142/353/569/90/False/the-strange-5.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-strange-5",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Nathan Ballingrud",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Strange",
+        "price": 1.99,
+        "cover": "https://cdn.kobo.com/book-images/d6c1fc95-f2a0-4095-9485-c30285a61142/353/569/90/False/the-strange-5.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-strange-5",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Nathan Ballingrud",
+        "dealDescription": ""
+    },
+    {
         "title": "A Botanist's Guide to Parties and Poisons",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/72720999-9d52-46a2-b690-d40b91832231/353/569/90/False/a-botanist-s-guide-to-parties-and-poisons.jpg",
@@ -1746,28 +1768,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "C.L. Miller",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Strange",
-        "price": 13.99,
-        "cover": "https://cdn.kobo.com/book-images/d6c1fc95-f2a0-4095-9485-c30285a61142/353/569/90/False/the-strange-5.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-strange-5",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Nathan Ballingrud",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Strange",
-        "price": 13.99,
-        "cover": "https://cdn.kobo.com/book-images/d6c1fc95-f2a0-4095-9485-c30285a61142/353/569/90/False/the-strange-5.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-strange-5",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Nathan Ballingrud",
         "dealDescription": ""
     },
     {
