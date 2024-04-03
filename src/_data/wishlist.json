@@ -66,17 +66,6 @@
         "dealDescription": ""
     },
     {
-        "title": "The Adventures of Amina al-Sirafi",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/1cd113a3-43af-4bdb-b8ee-78fe59ba7abf/353/569/90/False/the-adventures-of-amina-al-sirafi-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-adventures-of-amina-al-sirafi-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Shannon Chakraborty",
-        "dealDescription": ""
-    },
-    {
         "title": "The Ranger of Marzanna",
         "price": 3.99,
         "cover": "https://cdn.kobo.com/book-images/4c05b854-22fe-44d6-adc8-976151e59515/353/569/90/False/the-ranger-of-marzanna.jpg",
@@ -635,7 +624,7 @@
         "isPlus": false,
         "isSale": false,
         "author": "Lemony Snicket",
-        "dealDescription": ""
+        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
     },
     {
         "title": "Eva Evergreen, Semi-Magical Witch",
@@ -2450,6 +2439,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Laline Paull",
+        "dealDescription": ""
+    },
+    {
+        "title": "The Adventures of Amina al-Sirafi",
+        "price": 17.99,
+        "cover": "https://cdn.kobo.com/book-images/1cd113a3-43af-4bdb-b8ee-78fe59ba7abf/353/569/90/False/the-adventures-of-amina-al-sirafi-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-adventures-of-amina-al-sirafi-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Shannon Chakraborty",
         "dealDescription": ""
     },
     {
