@@ -66,6 +66,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Night Parade",
+        "price": 2.99,
+        "cover": "https://cdn.kobo.com/book-images/51364743-b2be-475b-8196-ce790f2236f9/353/569/90/False/the-night-parade-9.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-night-parade-9",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Jami Nakamura Lin",
+        "dealDescription": ""
+    },
+    {
         "title": "The Ranger of Marzanna",
         "price": 3.99,
         "cover": "https://cdn.kobo.com/book-images/4c05b854-22fe-44d6-adc8-976151e59515/353/569/90/False/the-ranger-of-marzanna.jpg",
@@ -2461,17 +2472,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Chloe Gong",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Night Parade",
-        "price": 18.99,
-        "cover": "https://cdn.kobo.com/book-images/51364743-b2be-475b-8196-ce790f2236f9/353/569/90/False/the-night-parade-9.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-night-parade-9",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Jami Nakamura Lin",
         "dealDescription": ""
     },
     {
