@@ -22,6 +22,17 @@
         "dealDescription": ""
     },
     {
+        "title": "A Botanist's Guide to Parties and Poisons",
+        "price": 1.99,
+        "cover": "https://cdn.kobo.com/book-images/72720999-9d52-46a2-b690-d40b91832231/353/569/90/False/a-botanist-s-guide-to-parties-and-poisons.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-botanist-s-guide-to-parties-and-poisons",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Kate Khavari",
+        "dealDescription": ""
+    },
+    {
         "title": "The Enigma of Room 622",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/f2b04f7b-9169-4a72-b59b-81c6030b715c/353/569/90/False/the-enigma-of-room-622-1.jpg",
@@ -2208,17 +2219,6 @@
         "isPlus": false,
         "isSale": true,
         "author": "Jessica Khoury",
-        "dealDescription": ""
-    },
-    {
-        "title": "A Botanist's Guide to Parties and Poisons",
-        "price": 15.99,
-        "cover": "https://cdn.kobo.com/book-images/72720999-9d52-46a2-b690-d40b91832231/353/569/90/False/a-botanist-s-guide-to-parties-and-poisons.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/a-botanist-s-guide-to-parties-and-poisons",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Kate Khavari",
         "dealDescription": ""
     },
     {
