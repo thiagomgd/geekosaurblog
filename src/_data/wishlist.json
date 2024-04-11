@@ -33,6 +33,17 @@
         "dealDescription": ""
     },
     {
+        "title": "A Series of Unfortunate Events #1: The Bad Beginning",
+        "price": 1.99,
+        "cover": "https://cdn.kobo.com/book-images/5462fa6b-9530-41eb-a21a-47015d42307b/353/569/90/False/a-series-of-unfortunate-events-1-the-bad-beginning.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-series-of-unfortunate-events-1-the-bad-beginning",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Lemony Snicket",
+        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
+    },
+    {
         "title": "The Enigma of Room 622",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/f2b04f7b-9169-4a72-b59b-81c6030b715c/353/569/90/False/the-enigma-of-room-622-1.jpg",
@@ -614,17 +625,6 @@
         "isSale": false,
         "author": "Karina Yan Glaser",
         "dealDescription": ""
-    },
-    {
-        "title": "A Series of Unfortunate Events #1: The Bad Beginning",
-        "price": 9.99,
-        "cover": "https://cdn.kobo.com/book-images/5462fa6b-9530-41eb-a21a-47015d42307b/353/569/90/False/a-series-of-unfortunate-events-1-the-bad-beginning.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/a-series-of-unfortunate-events-1-the-bad-beginning",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Lemony Snicket",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
     },
     {
         "title": "Eva Evergreen, Semi-Magical Witch",
