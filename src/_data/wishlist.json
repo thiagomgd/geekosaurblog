@@ -22,17 +22,6 @@
         "dealDescription": ""
     },
     {
-        "title": "A Botanist's Guide to Parties and Poisons",
-        "price": 1.99,
-        "cover": "https://cdn.kobo.com/book-images/72720999-9d52-46a2-b690-d40b91832231/353/569/90/False/a-botanist-s-guide-to-parties-and-poisons.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/a-botanist-s-guide-to-parties-and-poisons",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Kate Khavari",
-        "dealDescription": ""
-    },
-    {
         "title": "A Series of Unfortunate Events #1: The Bad Beginning",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/5462fa6b-9530-41eb-a21a-47015d42307b/353/569/90/False/a-series-of-unfortunate-events-1-the-bad-beginning.jpg",
@@ -41,7 +30,7 @@
         "isPlus": false,
         "isSale": true,
         "author": "Lemony Snicket",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
+        "dealDescription": ""
     },
     {
         "title": "The Enigma of Room 622",
@@ -50,9 +39,9 @@
         "url": "https://www.kobo.com/ca/en/ebook/the-enigma-of-room-622-1",
         "preorder": "",
         "isPlus": false,
-        "isSale": true,
+        "isSale": false,
         "author": "Jo\u00ebl Dicker",
-        "dealDescription": "\n    \n        This item is eligible for \n            3X Kobo Super Points\n    \n"
+        "dealDescription": ""
     },
     {
         "title": "The Year of Less",
@@ -1034,17 +1023,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Beyond Redemption",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/f074c93b-9fda-4594-8aa9-6da2d7db7cf0/353/569/90/False/beyond-redemption-4.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/beyond-redemption-4",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Michael R Fletcher",
-        "dealDescription": ""
-    },
-    {
         "title": "Strangeworlds Travel Agency",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/90ee19e1-94fa-43cb-b55e-db3c16106e61/353/569/90/False/strangeworlds-travel-agency-2.jpg",
@@ -1053,17 +1031,6 @@
         "isPlus": false,
         "isSale": true,
         "author": "L. D. Lapinski",
-        "dealDescription": ""
-    },
-    {
-        "title": "Beyond Redemption",
-        "price": 11.99,
-        "cover": "https://cdn.kobo.com/book-images/f074c93b-9fda-4594-8aa9-6da2d7db7cf0/353/569/90/False/beyond-redemption-4.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/beyond-redemption-4",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Michael R Fletcher",
         "dealDescription": ""
     },
     {
@@ -2222,6 +2189,17 @@
         "dealDescription": ""
     },
     {
+        "title": "A Botanist's Guide to Parties and Poisons",
+        "price": 15.99,
+        "cover": "https://cdn.kobo.com/book-images/72720999-9d52-46a2-b690-d40b91832231/353/569/90/False/a-botanist-s-guide-to-parties-and-poisons.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-botanist-s-guide-to-parties-and-poisons",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Kate Khavari",
+        "dealDescription": ""
+    },
+    {
         "title": "The Mad Women's Ball",
         "price": 15.99,
         "cover": "https://cdn.kobo.com/book-images/a657bade-287b-4c03-bcb7-b686018df2b1/353/569/90/False/the-mad-women-s-ball-1.jpg",
@@ -2303,7 +2281,7 @@
         "price": 16.99,
         "cover": "https://cdn.kobo.com/book-images/3cefcbf3-6b55-4ca3-b787-9d37aff7783d/353/569/90/False/to-gaze-upon-wicked-gods.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/to-gaze-upon-wicked-gods",
-        "preorder": "Available Apr 16, 2024",
+        "preorder": "",
         "isPlus": false,
         "isSale": false,
         "author": "Molly X. Chang",
