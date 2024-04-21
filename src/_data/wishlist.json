@@ -1859,6 +1859,17 @@
         "dealDescription": ""
     },
     {
+        "title": "The Making of Another Major Motion Picture Masterpiece",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/8a25cc51-3f49-4328-83c5-4532dc247ac0/353/569/90/False/the-making-of-another-major-motion-picture-masterpiece-1.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/the-making-of-another-major-motion-picture-masterpiece-1",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Tom Hanks",
+        "dealDescription": ""
+    },
+    {
         "title": "Vera Wong's Unsolicited Advice for Murderers",
         "price": 13.99,
         "cover": "https://cdn.kobo.com/book-images/fc8f22f2-01c6-4955-ac05-fc1ae27b723d/353/569/90/False/vera-wong-s-unsolicited-advice-for-murderers-1.jpg",
@@ -2483,17 +2494,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Kelly Weinersmith",
-        "dealDescription": ""
-    },
-    {
-        "title": "The Making of Another Major Motion Picture Masterpiece",
-        "price": 18.99,
-        "cover": "https://cdn.kobo.com/book-images/8a25cc51-3f49-4328-83c5-4532dc247ac0/353/569/90/False/the-making-of-another-major-motion-picture-masterpiece-1.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/the-making-of-another-major-motion-picture-masterpiece-1",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Tom Hanks",
         "dealDescription": ""
     },
     {
