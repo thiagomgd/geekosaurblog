@@ -6,7 +6,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/the-strange-5",
         "preorder": "",
         "isPlus": false,
-        "isSale": true,
+        "isSale": false,
         "author": "Nathan Ballingrud",
         "dealDescription": ""
     },
@@ -17,7 +17,7 @@
         "url": "https://www.kobo.com/ca/en/ebook/the-strange-5",
         "preorder": "",
         "isPlus": false,
-        "isSale": true,
+        "isSale": false,
         "author": "Nathan Ballingrud",
         "dealDescription": ""
     },
@@ -308,17 +308,6 @@
         "dealDescription": ""
     },
     {
-        "title": "A Curious Beginning",
-        "price": 7.99,
-        "cover": "https://cdn.kobo.com/book-images/28fbe512-dd50-4327-b9a0-74830fc06ebe/353/569/90/False/a-curious-beginning.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/a-curious-beginning",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Deanna Raybourn",
-        "dealDescription": ""
-    },
-    {
         "title": "Peter and the Starcatchers",
         "price": 7.99,
         "cover": "https://cdn.kobo.com/book-images/4c3436a4-2215-4945-8fb1-18549c7f302e/353/569/90/False/peter-and-the-starcatchers-1.jpg",
@@ -327,17 +316,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Ridley Pearson",
-        "dealDescription": ""
-    },
-    {
-        "title": "How We Learn",
-        "price": 7.99,
-        "cover": "https://cdn.kobo.com/book-images/fbff58c4-d41c-4f64-8830-c9840b449253/353/569/90/False/how-we-learn-3.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/how-we-learn-3",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Benedict Carey",
         "dealDescription": ""
     },
     {
@@ -418,14 +396,14 @@
         "dealDescription": ""
     },
     {
-        "title": "Crystal Singer",
+        "title": "A Curious Beginning",
         "price": 8.99,
-        "cover": "https://cdn.kobo.com/book-images/98fa7977-cbae-434d-af33-03540085f36e/353/569/90/False/crystal-singer.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/crystal-singer",
+        "cover": "https://cdn.kobo.com/book-images/28fbe512-dd50-4327-b9a0-74830fc06ebe/353/569/90/False/a-curious-beginning.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-curious-beginning",
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Anne McCaffrey",
+        "author": "Deanna Raybourn",
         "dealDescription": ""
     },
     {
@@ -448,17 +426,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Joyce and Jim Lavene",
-        "dealDescription": ""
-    },
-    {
-        "title": "A Midwinter's Tail",
-        "price": 8.99,
-        "cover": "https://cdn.kobo.com/book-images/bac2210e-1519-4969-b9ec-c0ec35493678/353/569/90/False/a-midwinter-s-tail.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/a-midwinter-s-tail",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Sofie Kelly",
         "dealDescription": ""
     },
     {
@@ -660,6 +627,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Crystal Singer",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/98fa7977-cbae-434d-af33-03540085f36e/353/569/90/False/crystal-singer.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/crystal-singer",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Anne McCaffrey",
+        "dealDescription": ""
+    },
+    {
         "title": "The Space Between Us",
         "price": 9.99,
         "cover": "https://cdn.kobo.com/book-images/f603b1f6-08f1-4ff8-98b3-6550f46283f9/353/569/90/False/the-space-between-us-30.jpg",
@@ -704,6 +682,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Dead Dead Girls",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/d1dedd2b-3d96-49e2-b923-50c16313b6f9/353/569/90/False/dead-dead-girls.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/dead-dead-girls",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Nekesa Afia",
+        "dealDescription": ""
+    },
+    {
         "title": "The Bleeding",
         "price": 9.99,
         "cover": "https://cdn.kobo.com/book-images/11d92055-94fa-435e-b2b4-17a8c7f7ca33/353/569/90/False/the-bleeding-4.jpg",
@@ -723,6 +712,28 @@
         "isPlus": false,
         "isSale": false,
         "author": "E.K. Johnston",
+        "dealDescription": ""
+    },
+    {
+        "title": "A Midwinter's Tail",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/bac2210e-1519-4969-b9ec-c0ec35493678/353/569/90/False/a-midwinter-s-tail.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-midwinter-s-tail",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Sofie Kelly",
+        "dealDescription": ""
+    },
+    {
+        "title": "How We Learn",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/fbff58c4-d41c-4f64-8830-c9840b449253/353/569/90/False/how-we-learn-3.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/how-we-learn-3",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Benedict Carey",
         "dealDescription": ""
     },
     {
@@ -767,28 +778,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Kate O'Hearn",
-        "dealDescription": ""
-    },
-    {
-        "title": "Novice Dragoneer",
-        "price": 10.99,
-        "cover": "https://cdn.kobo.com/book-images/50dc1214-b85f-4b67-a52a-4da764225595/353/569/90/False/novice-dragoneer.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/novice-dragoneer",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "E.E. Knight",
-        "dealDescription": ""
-    },
-    {
-        "title": "Novice Dragoneer",
-        "price": 10.99,
-        "cover": "https://cdn.kobo.com/book-images/50dc1214-b85f-4b67-a52a-4da764225595/353/569/90/False/novice-dragoneer.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/novice-dragoneer",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "E.E. Knight",
         "dealDescription": ""
     },
     {
@@ -1023,6 +1012,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Novice Dragoneer",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/50dc1214-b85f-4b67-a52a-4da764225595/353/569/90/False/novice-dragoneer.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/novice-dragoneer",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "E.E. Knight",
+        "dealDescription": ""
+    },
+    {
         "title": "Strangeworlds Travel Agency",
         "price": 11.99,
         "cover": "https://cdn.kobo.com/book-images/90ee19e1-94fa-43cb-b55e-db3c16106e61/353/569/90/False/strangeworlds-travel-agency-2.jpg",
@@ -1031,6 +1031,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "L. D. Lapinski",
+        "dealDescription": ""
+    },
+    {
+        "title": "Novice Dragoneer",
+        "price": 11.99,
+        "cover": "https://cdn.kobo.com/book-images/50dc1214-b85f-4b67-a52a-4da764225595/353/569/90/False/novice-dragoneer.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/novice-dragoneer",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "E.E. Knight",
         "dealDescription": ""
     },
     {
@@ -1672,17 +1683,6 @@
         "dealDescription": ""
     },
     {
-        "title": "NeuroTribes",
-        "price": 12.99,
-        "cover": "https://cdn.kobo.com/book-images/34de7b60-6d4a-449a-9c04-2db2a3370d07/353/569/90/False/neurotribes.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/neurotribes",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Steve Silberman",
-        "dealDescription": ""
-    },
-    {
         "title": "Antimatter Blues",
         "price": 12.99,
         "cover": "https://cdn.kobo.com/book-images/34806539-8a33-4a71-97e3-60b9f5bdf2ec/353/569/90/False/antimatter-blues-1.jpg",
@@ -1713,17 +1713,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "S.A. Barnes",
-        "dealDescription": ""
-    },
-    {
-        "title": "Shape",
-        "price": 13.99,
-        "cover": "https://cdn.kobo.com/book-images/26cfa078-e1c5-4e7e-a1d4-a23198352f9b/353/569/90/False/shape-37.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/shape-37",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Jordan Ellenberg",
         "dealDescription": ""
     },
     {
@@ -1837,28 +1826,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Dead Dead Girls",
-        "price": 13.99,
-        "cover": "https://cdn.kobo.com/book-images/d1dedd2b-3d96-49e2-b923-50c16313b6f9/353/569/90/False/dead-dead-girls.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/dead-dead-girls",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Nekesa Afia",
-        "dealDescription": ""
-    },
-    {
-        "title": "House of Hunger",
-        "price": 13.99,
-        "cover": "https://cdn.kobo.com/book-images/5b17444a-6296-4e9b-b813-1f9cdfb536eb/353/569/90/False/house-of-hunger.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/house-of-hunger",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Alexis Henderson",
-        "dealDescription": ""
-    },
-    {
         "title": "The Remarkable Retirement of Edna Fisher",
         "price": 13.99,
         "cover": "https://cdn.kobo.com/book-images/9470cb58-a06f-4ed5-b30f-114c1ed9072b/353/569/90/False/the-remarkable-retirement-of-edna-fisher.jpg",
@@ -1925,6 +1892,17 @@
         "dealDescription": ""
     },
     {
+        "title": "NeuroTribes",
+        "price": 13.99,
+        "cover": "https://cdn.kobo.com/book-images/34de7b60-6d4a-449a-9c04-2db2a3370d07/353/569/90/False/neurotribes.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/neurotribes",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Steve Silberman",
+        "dealDescription": ""
+    },
+    {
         "title": "THE MASTER AND MARGARITA",
         "price": 13.99,
         "cover": "https://cdn.kobo.com/book-images/a4a3c078-7afd-4565-b7f2-d1a1e6d44cef/353/569/90/False/the-master-and-margarita-9.jpg",
@@ -1933,17 +1911,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Mikhail Bulgakov",
-        "dealDescription": ""
-    },
-    {
-        "title": "Home Before Dark",
-        "price": 13.99,
-        "cover": "https://cdn.kobo.com/book-images/f082817c-9c47-4adf-bb33-1ca150af1e3c/353/569/90/False/home-before-dark-22.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/home-before-dark-22",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Riley Sager",
         "dealDescription": ""
     },
     {
@@ -2145,6 +2112,17 @@
         "dealDescription": ""
     },
     {
+        "title": "Home Before Dark",
+        "price": 14.99,
+        "cover": "https://cdn.kobo.com/book-images/f082817c-9c47-4adf-bb33-1ca150af1e3c/353/569/90/False/home-before-dark-22.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/home-before-dark-22",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Riley Sager",
+        "dealDescription": ""
+    },
+    {
         "title": "Children of Time",
         "price": 14.99,
         "cover": "https://cdn.kobo.com/book-images/c97871e4-49b3-40ac-955f-bec125ae9c8a/353/569/90/False/children-of-time-3.jpg",
@@ -2153,6 +2131,17 @@
         "isPlus": false,
         "isSale": true,
         "author": "Adrian Tchaikovsky",
+        "dealDescription": ""
+    },
+    {
+        "title": "Shape",
+        "price": 15.99,
+        "cover": "https://cdn.kobo.com/book-images/26cfa078-e1c5-4e7e-a1d4-a23198352f9b/353/569/90/False/shape-37.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/shape-37",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Jordan Ellenberg",
         "dealDescription": ""
     },
     {
@@ -2208,6 +2197,28 @@
         "isPlus": true,
         "isSale": true,
         "author": "Victoria Mas",
+        "dealDescription": ""
+    },
+    {
+        "title": "Effortless",
+        "price": 15.99,
+        "cover": "https://cdn.kobo.com/book-images/857b2bb3-06df-4223-9233-93c610d0d151/353/569/90/False/effortless-8.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/effortless-8",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": true,
+        "author": "Greg McKeown",
+        "dealDescription": ""
+    },
+    {
+        "title": "House of Hunger",
+        "price": 15.99,
+        "cover": "https://cdn.kobo.com/book-images/5b17444a-6296-4e9b-b813-1f9cdfb536eb/353/569/90/False/house-of-hunger.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/house-of-hunger",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Alexis Henderson",
         "dealDescription": ""
     },
     {
@@ -2406,17 +2417,6 @@
         "isPlus": false,
         "isSale": false,
         "author": "Taylor Lorenz",
-        "dealDescription": ""
-    },
-    {
-        "title": "Effortless",
-        "price": 17.99,
-        "cover": "https://cdn.kobo.com/book-images/857b2bb3-06df-4223-9233-93c610d0d151/353/569/90/False/effortless-8.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/effortless-8",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": false,
-        "author": "Greg McKeown",
         "dealDescription": ""
     },
     {
