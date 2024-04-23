@@ -11,8 +11,12 @@
             "id": "bf2dd79b8e47790c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "posts/2017/11/updates-7.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/2017/11/updates-7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "posts/2017/11/updates-7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "posts/2017/11/updates-7.md"
+              }
             }
           }
         ],
@@ -149,6 +157,10 @@
   },
   "active": "bf2dd79b8e47790c",
   "lastOpenFiles": [
+    "posts/2017/10/mastodon-like-twitter-but-better.md",
+    "posts/2017/09/why-im-leaving-twitter.md",
+    "posts/2017/01/top-3-light-novels-i-want-in-english.md",
+    "posts/2017/06/cosplays-at-cons.md",
     "posts/moviejournal/movie-journal-2024-13.md",
     "posts/moviejournal/movie-journal-2024-03-march.md",
     "posts/moviejournal/movie-journal-2024-13 1.md",
@@ -164,7 +176,6 @@
     "Pasted image 20240205092933.png",
     "Pasted image 20240205092015.png",
     "img/phenomena.gif",
-    "posts/2017/06/cosplays-at-cons.md",
     "posts/2022/spy-x-family-part-2-episode-13-discussion.md",
     "posts/2022/eleventy-notion-notes-section.md",
     "posts/news/geekosaur-news-20.md",
@@ -185,9 +196,6 @@
     "posts/links/links-2.md",
     "posts/thoughts/thoughts-1.md",
     "posts/2023/friday-finds-1.md",
-    "currentlyWatching/currentlyWatching.md",
-    "currentlyReading/currentlyReading.md",
-    "posts/musiccorner/music-corner-24.md",
     "posts/2024",
     "_cache/04d1a1998c3066d668c66b481efbefe6da5178ee538afcaacc4d0fde67e71f6a(1).csv",
     "_data/manga.js",
