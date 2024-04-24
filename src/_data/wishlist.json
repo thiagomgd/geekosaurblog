@@ -55,17 +55,6 @@
         "dealDescription": ""
     },
     {
-        "title": "Spellslinger",
-        "price": 2.99,
-        "cover": "https://cdn.kobo.com/book-images/bfba6b5c-7668-4da0-834a-a7848c8445a7/353/569/90/False/spellslinger-3.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/spellslinger-3",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Sebastien de Castell",
-        "dealDescription": ""
-    },
-    {
         "title": "Cry Wolf",
         "price": 2.99,
         "cover": "https://cdn.kobo.com/book-images/20416034-8984-4a7f-b5b9-3a8ee3e9b86c/353/569/90/False/cry-wolf-14.jpg",
@@ -140,6 +129,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Katharine Kerr",
+        "dealDescription": ""
+    },
+    {
+        "title": "Spellslinger",
+        "price": 6.99,
+        "cover": "https://cdn.kobo.com/book-images/bfba6b5c-7668-4da0-834a-a7848c8445a7/353/569/90/False/spellslinger-3.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/spellslinger-3",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Sebastien de Castell",
         "dealDescription": ""
     },
     {
@@ -1239,7 +1239,7 @@
         "preorder": "",
         "isPlus": false,
         "isSale": false,
-        "author": "Ghost Mikawa",
+        "author": "necomi",
         "dealDescription": ""
     },
     {
