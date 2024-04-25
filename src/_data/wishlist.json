@@ -22,17 +22,6 @@
         "dealDescription": ""
     },
     {
-        "title": "A Series of Unfortunate Events #1: The Bad Beginning",
-        "price": 1.99,
-        "cover": "https://cdn.kobo.com/book-images/5462fa6b-9530-41eb-a21a-47015d42307b/353/569/90/False/a-series-of-unfortunate-events-1-the-bad-beginning.jpg",
-        "url": "https://www.kobo.com/ca/en/ebook/a-series-of-unfortunate-events-1-the-bad-beginning",
-        "preorder": "",
-        "isPlus": false,
-        "isSale": true,
-        "author": "Lemony Snicket",
-        "dealDescription": ""
-    },
-    {
         "title": "The Enigma of Room 622",
         "price": 1.99,
         "cover": "https://cdn.kobo.com/book-images/f2b04f7b-9169-4a72-b59b-81c6030b715c/353/569/90/False/the-enigma-of-room-622-1.jpg",
@@ -464,7 +453,7 @@
     {
         "title": "The Accidental Apprentice",
         "price": 9.99,
-        "cover": "https://cdn.kobo.com/book-images/d36826a9-24ac-46ce-9f69-79547f22f8fd/353/569/90/False/the-accidental-apprentice-6.jpg",
+        "cover": "https://cdn.kobo.com/book-images/7e0055b9-68e8-41cb-9ad9-01333b90f313/353/569/90/False/the-accidental-apprentice-6.jpg",
         "url": "https://www.kobo.com/ca/en/ebook/the-accidental-apprentice-6",
         "preorder": "",
         "isPlus": false,
@@ -580,6 +569,17 @@
         "isPlus": false,
         "isSale": false,
         "author": "Karina Yan Glaser",
+        "dealDescription": ""
+    },
+    {
+        "title": "A Series of Unfortunate Events #1: The Bad Beginning",
+        "price": 9.99,
+        "cover": "https://cdn.kobo.com/book-images/5462fa6b-9530-41eb-a21a-47015d42307b/353/569/90/False/a-series-of-unfortunate-events-1-the-bad-beginning.jpg",
+        "url": "https://www.kobo.com/ca/en/ebook/a-series-of-unfortunate-events-1-the-bad-beginning",
+        "preorder": "",
+        "isPlus": false,
+        "isSale": false,
+        "author": "Lemony Snicket",
         "dealDescription": ""
     },
     {
